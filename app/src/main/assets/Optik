@@ -1,0 +1,137 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+    </style>
+</head>
+<h1>Aydınlanma Şiddeti, Işık Şiddeti, Işık Akısı</h1>
+<p><strong>Aydınlanma Şiddeti Nedir?</strong></p>
+<p>Bir ışık kaynağı tarafından yayılan ışığın akısının birim yüzeye oranına aydınlanma şiddeti
+    denir. Aydınlanma şiddeti E simgesiyle gösterilir, türetilmiş bir büyüklüktür ve birimi lüks
+    (<strong>lx</strong>)‘tür. 1 lüks 1 lümen / m2‘ye eşittir. Aydınlanma şiddeti bir ışık
+    kaynağının insan gözü tarafından bir yüzeyi ne kadar aydınlattığının bir ölçüsüdür. Aydınlanma
+    şiddeti ile ışık akısı arasındaki ilişki şöyledir:</p>
+<p><strong>E = Φ/A</strong></p>
+<p><strong>Işık Şiddeti Nedir?</strong></p>
+<p>Bir ışık kaynağının 1 saniyede yaydığı ışık enerjisinin bir ölçüsüdür. Birimi Candela (Kandela)
+    dır ve cd ile gösterilir. Bir ışık kaynağının ışık şiddeti yanında ışık akısından da
+    bahsedilir.</p>
+<p><strong>Işık Akısı Nedir?</strong></p>
+<p>Işık kaynağından çıkan ışın miktarıdır. Birimi lümendir ve lm ile gösterilir. 1 lümen (Im), ışık
+    şiddeti 1 cd olan noktasal bir kaynaktan 1 m uzakta ve 1m<sup>2</sup> lik dik yüzeye gelen ışık
+    akısıdır. Bir yüzeyin, noktasal kaynaktan her doğrultuda yayılan ışınlara dik olabilmesi için
+    ışık kaynağının bir kürenin merkezinde olması gerekir.</p>
+<h1>Gölge, Yarı Gölge, Yansıma</h1>
+<p><strong>Gölge Nedir?</strong></p>
+<p>Işığın opak cisimler üzerine düşerek, cisimlerin arka taraflarında oluşturduğu karanlık alana
+    <strong>gölge</strong> denir.</p>
+<p>Bir ışık kaynağından çıkan ışınların saydam olmayan bir cisimle karşılaşmaları durumunda ışık
+    cismin arkasına geçemez, böylece cismin arkasında gölgesi oluşur.</p>
+<p>Işık kaynağından gelen ışınların tamamının cisim tarafından durdurulduğu, hiçbirinin cismin
+    arkasına düşmediği durumda <strong>tam gölge</strong> oluşur. Bu durumda cismin arkası tamamen
+    karanlık olur. Yalnızca tam gölge noktasal bir ışık kaynağının kullanılmasıyla oluşur.</p>
+<p><strong>Yarı Gölge Nedir?</strong></p>
+<p>Işık kaynaklarından bazılarından ışık alan bazılarından ışık alamayan bölgelere <strong>yarı
+    gölge</strong> denir. Yarı gölgeler, kendi içinde ışık alma miktarına göre, aydınlığa ya da tam
+    gölgeye yakın tonlarda olabilir.</p>
+<p>Işık doğrusal yolla yayıldığı için önüne opak (ışığı geçirmeyen) madde konulunca gölgesi oluşur.
+    Bir düzenekte var olan ışık kaynaklarının tamamından ışık olmayan bölgede tam gölge elde
+    edilirken, ışık kaynaklarının bazısından ışık alıp bazısından ışık almayan bölgede yarı gölge
+    oluşur.</p>
+<p><strong>Yansıma Nedir?</strong></p>
+<p>Bir ışık kaynağından çıkan ışınların saydam olmayan bir cisim tarafından engellendiğinde cismin
+    gölgesi oluşur.</p>
+<p>Işığın madde ile etkileşmesinin bir yolu da <strong>yansıma</strong> olayıdır. Saydam bir cismin
+    üzerine gelen ışık ışınları cismin diğer yanına geçer. Saydam olmayan bir yüzeye gelen ışığın
+    ise bir kısmı soğrulur (emilir), bir kısmı da seker ve yön değiştirir. İşte, bir ışık
+    kaynağından çıkan ışınların bir yüzeye çarparak doğrultu değiştirmesine <strong>yansıma</strong>
+    denir.</p>
+<h1>Küresel Aynaların Özellikleri</h1>
+<p>Aynaların genellikle cam yüzeylerin bir tarafının alüminyum gibi ışığı iyi yansıtan bir metalle
+    kaplanmasıyla elde edilir. Ama cam yüzeylerin her zaman düz olması gerekmez, bir kürenin içi ya
+    da dışı gibi eğimli (bükülmüş) yüzeyleri de aynaya dönüştürebiliriz. Böyle aynalara <strong>küresel
+        aynalar</strong> denir.<strong>Küresel Aynalar</strong>, düz aynadan farklı olarak eğriliğe
+    sahiptirler. Ve bu eğrilik görüntüde değişikliğe sebep olur.</p>
+<p><img loading="lazy" class="aligncenter"
+        src="https://fizikdersi.gen.tr/wp-content/uploads/2018/04/kuresel-aynalar-kure.png"
+        alt="Küresel aynalar bir kürenin kesitinden yapılır" width="374" height="365"/></p>
+<p>Çizimde M noktasına <strong>merkez noktası</strong> denir. Bu nokta ayna yüzeyini oluşturan
+    kürenin merkezidir. Merkez noktasından (ayna yüzeyini oluşturan kürenin merkezinden) geçen
+    doğruya <strong>asal eksen</strong> denir. Asal eksenin küresel aynanın merkezini kestiği
+    noktaya <strong>tepe noktası</strong> denir, T ile gösterilir. Çukur aynada asal eksene paralel
+    gelip aynadan yansıyan ışınların asal eksenle kesiştiği noktaya <strong>odak noktası</strong>
+    denir, <strong>F</strong> ile gösterilir. Çukur aynada odak noktası aynanın önünde yer alır.
+    Küresel aynalarda odak noktası (<strong>F</strong>) ile tepe noktası (<strong>T</strong>)
+    arasındaki uzaklığa<strong> odak uzaklığı</strong> denir,<strong> f</strong> ile gösterilir.</p>
+<p>Küresel aynalarda, yani hem çukur hem de tümsek aynada, merkez noktası ile tepe noktası
+    arasındaki uzaklık, odak uzaklığının iki katıdır.</p>
+<p><strong>|MT| = 2|FT| yani m = 2f</strong></p>
+<p>&nbsp;</p>
+<h1>Kırılma, Kırıcılık İndisi</h1>
+<p>Işık iki faklı ortamın sınırına dik olarak düşmezse tam ortamların sınırında doğrultusunu
+    değiştirir. Bu olaya ışıkta <strong>kırılma</strong> denir. Kırılma olayının temel nedeni ışığın
+    farklı ortamlarda farklı hızlarla yayılmasıdır. Işık çok kırıcı ortamlarda daha yavaş yayılır.
+</p>
+<p>Işığın ilk doğrultusuyla son doğrultusu arasındaki açıya <strong>sapma açısı</strong> denir.
+    Işığın boşluktaki hızının ortamdaki hızına oranı ortamın kırıcılık indisini verir.</p>
+<p><strong>(n=C/V)</strong></p>
+<p><strong>c:</strong> ışığın boşluktaki hızı<br/>
+    <strong>n:</strong> kırılma indisi<br/>
+    ortamın kırıcılık indisi arttıkça ortamda ışık hızı azalır.<br/>
+    <strong>V:</strong> Işığın ortamdaki hızı<br/>
+    <strong>Boşluk için n</strong> = 1<br/>
+    <strong>Hava için n</strong>= 1 (yaklaşık olarak kabul edilir.)<br/>
+    <strong>Su için n</strong>= 4/3<br/>
+    <strong>Cam için n</strong>=3/2<br/>
+    Işığı kırma indisi sınırlı bir sayıdır.</p>
+<h1>Snell Yasası</h1>
+<p><b>Snell yasası</b> ışığın geldiği ortamın kırıcılık indisiyle geliş doğrultusunun normalle
+    yaptığı açının sinüsünün, ışığın gittiği ortamın kırıcılık indisiyle gidiş doğrultusunun
+    normalle yaptığı açının sinüsüyle çarpımına eşitlenmesiyle oluşan formüle dayalı fiziğin optik
+    dalında yer alan bir yasadır.</p>
+<p><span class="mwe-math-element"><img class="mwe-math-fallback-image-inline alignleft"
+                                       src="https://wikimedia.org/api/rest_v1/media/math/render/svg/429d498749f292c242e1b7bd9e1cf219fd403736"/>
+</span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Bu denkleme göre ortamların kırıcılık indisleri ışığın o ortamdaki hızıyla ters orantılıdır.
+    Kırıcılık indisi ne kadar çoksa ışık o kadar yavaş hareket eder.</p>
+<p><img class="mwe-math-fallback-image-inline alignleft"
+        src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a02ad752ea6ccadf7a192f943d0529371f6dd0f2"/>
+</p>
+<p>&nbsp;</p>
+<p><b>n</b><sub>1</sub> = Işığın geldiği ortamın kırıcılık indisi (katsayısı)<br/>
+    <b>n</b><sub>2</sub> = Işığın gittiği ortamın kırıcılık indisi (katsayısı)<br/>
+    <b>θ</b><sub>1</sub> = Işığın geliş doğrultusunun normalle yaptığı açı<br/>
+    <b>θ</b><sub>2</sub> = Işığın kırıldıktan sonraki gidiş doğrultusunun normalle yaptığı açı</p>
+<p><b>Normal:</b> Bir optik sisteminde ışığın kırıldığı noktadan asal eksene çizilen dikme.</p>
+<h1>Tam Yansıma, Sınır Açısı</h1>
+<p>Işık çok kırıcı ortamdan az kırıcı ortama geldiğinde iki ortamın sınırından geri yansıyorsa bu
+    olaya ışıkta <strong>tam yansıma</strong> denir. (Tam yansıma sadece çok kırıcıdan az kırıcı
+    ortama ışık geldiğinde oluşur).</p>
+<p>Kırılma açısı 90 derece olduğu zaman geliş açısına sınır açısı denir. Sınır açısından küçük açı
+    ile az kırıcı ortama gelen ışık tam yansımaya uğramaz. Çok kırıcıdan az kırıcıya sınır açısından
+    büyük açı ile gelen ışınlar tam yansımaya uğrarlar. Sınır açısı ile gelen ışın sınırdan
+    gider.</p>
+<h1>Görünür Uzaklık</h1>
+<p>Kırılma indisi küçük olan bir ortamdan, kırılma indisi büyük olan bir ortama bakan gözlemci,
+    kırılma indisi büyük olan ortamdaki bir cismi olduğundan daha yakın olarak görür. Bununla
+    birlikte; kırılma indisi büyük olan bir ortamdan, kırılma indisi küçük olan bir ortama bakan
+    gözlemci, kırılma indisi küçük olan ortamdaki cismi olduğundan daha uzak görür. Genellikle
+    gözlemcinin normale yakın durumdan baktığı ele alınır.</p>
+<p>Bunu, suyun altındaki bir demir parayı kendinize olduğundan daha yakın görmeniz ile
+    açıklayabilir.</p>
+<p><strong>Görünür Derinlik Formulü: </strong></p>
+<p><strong>h&#8217;= h. (n<sub>gözlemci</sub> / n<sub>cisim</sub>)</strong></p>
+<p><strong>h&#8217;=</strong> Yakınlaşma ya da uzaklaşma miktarı)<br/>
+    <strong>h= </strong>Gerçek uzaklık<br/>
+    <strong>n<sub>gözlemci</sub> =</strong> Gözlemcinin bulunduğu ortamın kırılma indisi<br/>
+    <strong>n<sub>cisim</sub> =</strong> Cismin bulunduğu ortamın kırılma indisi</p>
+</html>

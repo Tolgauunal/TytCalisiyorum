@@ -1,0 +1,158 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+    </style>
+</head>
+<h2>Fizik Bilimine Giriş</h2>
+<h3><a name="1"></a>Fizik Biliminin Evrendeki Rolü</h3>
+<p>Madde enerji etkileşimini inceleyen, doğa olaylarını araştıran bilim dalına <strong>fizik</strong> denir. Doğadaki olayları incelerken deney
+    sonuçları ile güçlendirip mantıklı bir şekilde açıklar.</p>
+<p>İnsanlar, yaşantıları sırasında çevrelerinde olup biten olayları anlamaya, bilmediklerini
+    öğrenmeye çalışmışlardır. Bu istek, bilimin doğmasına neden olmuştur. Bilim, bir olayı ya da
+    evrenin bir kısmını konu alarak araştırma yapan, deney ve gözlemlerle sonuç çıkarmaya çalışan
+    düzenli bilgiler topluluğudur.</p>
+<p>Fizik ise maddeyi, enerjiyi ve madde ile enerji arasındaki ilişkiyi inceleyen bilim dalıdır. Eski
+    Yunancada “doğa” anlamına gelen “physic” aynı zamanda en temel doğa bilimi olarak
+    adlandırılır.</p>
+<p>Evrenin yapısını ve gelişimini inceleyen bilim dalıdır. Evrenbiliminde, fizik ve gökbilimi
+    (astronominin) bilgilerinden yararlanılmaktadır.</p>
+<p>Fizikteki gelişmeler evreni anlamamızda büyük rol oynamaktadır. Teknolojik imkanlar arttıkça
+    evren hakkındaki bilgilerimizde artmaktadır. Doğayı, evreni anlamak ve insanlığın yararına
+    çalışmalar yapabilmek için fizik öğrenmeliyiz.</p>
+<h3><a name="2"></a>Fiziğın Uygulama Alanları</h3>
+<p>Fizik biliminin uygulama alanları oldukça geniştir. Elektrikli aletler, telefonlar, internet,
+    röntgen, tomografi, radar vb. birçok imkan veya alet fiziğin uygulama alanlarının bir ürünüdür.
+    Fizik biliminde elde edilen bilgiler ve buluşlar arttıkça bu bilgiler alt dallara ayrılmıştır.
+    Bunlar;</p>
+<p><strong>Mekanik:</strong> Kuvvet, hareket ve enerji
+    ilişkisini inceler. Işık hızından çok daha küçük hızlardaki cisimlerin hareketini inceler.</p>
+<p><strong>Elektrik:</strong> Elektrik yükünü, elektrik akımını,
+    yükün hareketsiz durumunu, potansiyelini, elektrik alan ve elektrik kuvveti inceler.</p>
+<p><strong>Manyetizma:</strong> Mıknatıs, manyetik alan,
+    manyetik kuvvet ve bunların etkileşimini araştırır ve bunların elektrik sistemlerindeki
+    etkilerini araştırır.</p>
+<p><strong>NOT:</strong> Elektrik ve manyetizma alt dalları, elektromanyetizma olarak da bilinir.
+</p>
+<p><strong>Elektromanyetizma:</strong> Sabit veya hareket
+    halindeki elektrik yüklerinin manyetik ve elektrik alanlarla etkileşimi.</p>
+<p><strong>Optik:</strong> Işığın yapısını ve Işık olaylarını
+    inceler. Işığın yapısı, ışıkta kırılma, yansıma, kırınım ve girişim olayları, mercek, dürbün,
+    mikroskop ve teleskop gibi araçların yapımı.</p>
+<p><strong>Termodinamik:</strong> Isı enerjisini, madde içinde
+    yayılmasını inceler. Isı ve sıcaklık olaylarını ve ısının maddeyle etkileşimini inceler. Enerji,
+    enerji değişimleri, enerji aktarımları, enerji dönüşümleri, ısı, sıcaklık, genleşme ve bunlar
+    arasındaki ilişkiler.</p>
+<p><strong>Atom fiziği:</strong> Atomun molekül yapısını ve
+    etkileşimini, atom altı parçacıkları inceler. Atomların etkileşimleri, atomun, moleküllerin
+    yapısı, enerji düzeyleri, dalga fonksiyonlar ve elektromanyetik geçişler.</p>
+<p><strong>Nükleer fizik:</strong> Atom çekirdeğinin yapısını,
+    kararsız çekirdeklerin nasıl ışıma yaptığını, Atom çekirdeği ve radyoaktif elementleri inceler.
+    Çekirdekte bulunan proton ve nötronların etkileşimleri, nötron ve protonları bir arada tutan
+    nükleer kuvvetler, çekirdeğin saldığı ışımalar ve bunların etkileri.</p>
+<p><strong>Katıhal fiziği:</strong> Yoğun haldeki maddelerin,
+    elektriksel, manyetik, esneklik özelliklerini ve özellikle kristal yapılarını inceler.</p>
+<p><strong>Yüksek enerji ve plazma fiziği:</strong> Yüksek
+    enerjili parçacıkların etkileşimini ve maddenin plazma durumunu inceleyen modern fizik dalıdır.
+    Maddenin temel yapısı ve temel yapı taşlarının birbirleriyle etkileşimini inceler.</p>
+<h3><a name="3"></a>Fiziksel Niceliklerin Sınıflandırılması</h3>
+<p>Ülkeler arası ilişkiler ve ticaret arttıkça ölçü birimlerinde birlik ve bir standart sağlamak
+    zorunlu hâle gelmiş ve Uluslararası Birim Sistemi (SI) oluşturulmuştur. Bilimsel çalışmalarda
+    ölçümler çok hassas yapılır. Bu nedenle de ölçmenin bilimdeki yeri çok önemlidir.</p>
+<h3>Temel ve Türetilmiş Büyüklükler</h3>
+<p><strong>Temel büyüklükler:</strong> Kendisinden başka hiçbir niceliğin ölçülmesine gerek olmadan
+    ifade edilen büyüklüklere <strong>temel büyüklük </strong>denir.
+</p>
+<p><strong>Türetilmiş büyüklükler:</strong> Nicel gözlem sonucu, birden fazla temel büyüklük
+    kullanılarak ifade edilen büyüklüğe <strong>türetilmiş büyüklük</strong> denir.</p>
+<p>Aşağıdaki tabloda daha ayrıntılı olarak ayrılmış adları ve birimleri ile belirtilmiştir.</p>
+<p><img src="images/fizik/giris/fizik1.jpg"/>
+</p>
+<h3>Skaler ve Vektörel Büyüklükler</h3>
+<p>Fizik bilimi, herhangi bir büyüklüğü <strong>skaler</strong> ve <strong>vektörel</strong> olmak
+    üzere iki şekilde sınıflandırır.</p>
+<p>Skaler Büyüklük: Belirtirken yön
+    gerektirmeyen, yalnızca bir sayı ve birimle belirtilebilen büyüklüklere <strong>skaler
+        büyüklük </strong>denir.</p>
+<p><strong>Vektörel Büyüklük:</strong> sayı ve birimin yanında bir de yöne sahip olan büyüklüklere
+ <strong>vektörel büyüklükler</strong> denir.</p>
+<p>
+    <img src="images/fizik/giris/fizik2.jpg"
+         alt="skaler-ve-vektorel-buyuklukler-ornek"/></p>
+<h3><a name="4"></a>Bilim Araştırma Merkezleri</h3>
+<p>Ülkemizde’ki Bilim Araştırma Merkezleri; TÜBİTAK, TAEK ve ASELSAN, Dünyada’ki Bilim Araştırma
+    Merkezleri ise NASA, ESA ve CERN’dir</p>
+<p><strong>TÜBİTAK</strong></p>
+<p>Tübitak, Türkiye Bilimsel ve Teknolojik Araştırma Kurumu adıyla 1963 tarihinde kurulmuştur.
+    Kurumun genel yapısı ve işlevleri şu şekildedir;</p>
+<p><strong> </strong>Ülkenin ve toplumun sürekli
+    gelişimini sağlamak, ülkede bulunan insanların yaşam kalitesinin arttırılmasına yardımcı
+    olmak,<br/>
+    <strong> </strong>Arge çalışmalarına destek vermek ve
+    Arge alanında çalışmalar yaparak ürün kalitesini artırmak,<br/>
+    <strong> </strong>Akademik faaliyetlerle birlikte
+    bilim insanlarına destek vermek,<br/>
+    <strong></strong>Bilim, Arge ve teknoloji alanında
+    çalışmalar yaparak, ülkedeki gelişim politikalarına katkıda bulunmak,<br/>
+    <strong> </strong>Proje sahibi kurumlara,
+    üniversitelere ve sanayi üretim merkezlerine projeleri ile ilgili destek vermek, fon
+    sağlamaktır.</p>
+<p><strong>TAEK</strong></p>
+<p>Taek, 1956 yılında Türkiye Atom Enerjisi Kurumu adıyla kurulmuştur. İnsan sağlığı ve enerji
+    alanında pek çok çalışmaya ve projeye katkıda bulunmaktadır. Türkiye Atom Enerjisi Kurumunun
+    görevleri;</p>
+<p><strong></strong>Radyoaktif madde ve nükleer
+    maddelerle ilgili çalışmalar yapmak ve bu maddelerin herhangi bir anda kullanımında ortaya
+    çıkabilmesi muhtemel durumları önlemek,<br/>
+    <strong> </strong>Radyoaktif maddeler nedeniyle insan
+    ve doğa sağlığına olumsuz etki edebilecek durumları önlemek, zararlı maddeleri insan sağlığından
+    uzaklaştırmak,<br/>
+    <strong></strong>Farklı ülkelerle işbirliği yaparak
+    nükleer projelerin ve çalışmaların yalnızca barışçıl ve insancıl amaçlara yönelik kullanılmasını
+    sağlama, çevreye dost ürünler ve maddeler hakkında diğer ülkelerle uluslararası çalışmalar
+    yapmaktır.</p>
+<p><strong> ASELSAN</strong></p>
+<p>1975 yılında Askeri Elektronik Sanayi adıyla kurulan Aselsan, Türk Silahlı Kuvvetlerini
+    Güçlendirme Vakfına ait bir kuruluş olarak ortaya çıkmıştır. Genel olarak Aselsan, TSK’nın
+    haberleşme ve haberleşmede kullanılan cihaz teknolojisiyle ilgili çalışmalar yapmak amacıyla
+    kurulmuştur. Aselsan genel olarak elektronik cihazlar üreten, üretimde yüksek teknoloji kullanan
+    ve üretilen cihazların satışını sağlayan bir kurum olarak karşımıza çıkmaktadır. Milli
+    kaynakları verimli şekilde kullanarak üretim yapan Aselsan, TSK başta olmak üzere kurum ve
+    müşterilerine elektronik teknoloji alanında projeler sunmak, üretim yapmak ve kendisine verilen
+    kaynakları etkin şekilde kullanmakla görevlidir.</p>
+<p><strong> NASA</strong></p>
+<p>1958 yılında ABD Ulusal Havacılık ve Uzay Dairesi olarak kurulan Nasa, uzay ve uzay projeleri
+    alanında çeşitli çalışmalar yapmaktadır. ABD merkezli olarak kurulan Nasa, genel olarak ABD
+    merkezli oluşturulan projeler ve çalışmalar hakkında araştırma yapar.</p>
+<p>Uzay alanında yaptığı çalışmaların yanı sıra uzay programları için de çeşitli çalışmalar
+    yapmaktadır. Ayrıca, Ay’a yapılan uçuşlardan da sorumlu olan Nasa, insansız hava araçlarının
+    uzay boşluğuna yapacağı uçuşlardan da sorumludur. Yalnızca bilimsel çalışmalar alanında değil
+    ayrıca sivil ve askeri çalışmalarda da Nasa projeleriyle yer almaktadır. Özellikle askeri alanda
+    yapılan roket çalışmalarında Nasa öncü kurum olarak yer almaktadır. Uzayda ve gezegenlerde yer
+    bilimleriyle ilgili ve ozon tabakasıyla alakalı konularda bilimsel araştırmalara katkıda
+    bulunur.</p>
+<p><strong>ESA</strong></p>
+<p>1975 yılında Fransa’nın başkenti olan Paris merkezli kurulan Avrupa Uzay Ajansı,17 üyesi ile
+    beraber uzay keşfi ile ilgili çalışmalar yürütmektedir. Farklı ülkelerle birlikte yaptığı
+    çalışmaları Avrupa merkezli olarak yürüten Esa, uzay çalışmalarının her noktasında farklı
+    projelere sahiptir. Uzay boşluğu, roket, gezegenler, uzay keşfi ve ozon tabakası hakkında
+    yaptığı çalışmalarla ön plana çıkan Esa, daha çok uluslararası çalışmalarla kendisini
+    göstermektedir.</p>
+<p><strong>CERN</strong></p>
+<p>1954 tarihinde 12 ülkenin liderliğinde kurulan CERN, Avrupa Nükleer Araştırma Merkezi olarak
+    karşımıza çıkmaktadır. Türkiye’nin de ortak üye olarak yer aldığı Avrupa Nükleer Araştırma
+    Merkezi, İsveç ile Fransa’nın sınırında kurumuştur. Oldukça büyük, parçacık araştırma merkezi ve
+    fizik kurumu olarak bilinen CERN, parçacıklar hakkında yapılan farklı deneylerle adını duyurmayı
+    başarmıştır. Özellikle, büyük bir patlama deneylerinin sıklıkla yapıldığı laboratuvarda evrenin
+    oluşum şekli de sürekli araştırılmaktadır. Hızlı bir mekanizma sayesinde parçacıklar
+    çarpıştırılarak, farklı parçacıklar keşfedilmekte ve çarpışma ile ilgili deneyler
+    yapılmaktadır.</p>
+</html>

@@ -1,0 +1,128 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2><strong>SÖZCÜK TÜRLERİ</strong></h2>
+<p>Sözcüğün yapısını üç grupta inceleyebiliriz: Basit sözcük, türemiş sözcük, bileşik sözcük.Şimdi
+    bunları ayrıntılarıyla görelim.<span id="more-4208"></span></p>
+<p><strong>1. Basit Sözcük</strong></p>
+<p>Yapım eki almayan sözcüklerdir. Bu tür sözcükler çekim eki almış olabilir. Yapım eki
+    almadıklarından bunlar daima kök halinde bulunur.</p>
+<p>“Her tarafı bembeyaz karlar örtmüştü.” cümlesindeki bütün sözcükler basittir.</p>
+<p><strong>2. Türemiş Sözcük</strong></p>
+<p>Yapım eki alan sözcüklerdir. Türemiş sözcükler cümledeki görevlerine göre belli türleri karşılar.
+    Böylece sözcük hem yapı hem görevce adlandırılır; yani türemiş isim, türemiş sıfat, türemiş
+    fiil…. gibi.</p>
+<p>“Bu köşeye bir<strong> kitaplık </strong>kurmak lazım.”</p>
+<p>“Bana bir <strong>silgi </strong>verebilir misin?”</p>
+<p>“Sınıfımızın başkanı çok <strong>dalgın </strong>biriydi.”</p>
+<p>“O her zaman <strong>büyük </strong>düşünürdü.”</p>
+<p>“Yolda çok <strong>hızlı</strong> yürürdü.”</p>
+<p>“O her zaman yanında çalışanları <strong>gözetirdi</strong>.”</p>
+<p>“Çocuklar asla <strong>sevgisiz</strong> yaşayamaz.”</p>
+<p>“Çok <strong>acıktım, </strong>haydi yemeğe gidelim.”</p>
+<p>cümlelerindeki altı çizili sözcükler türemiştir.</p>
+<p>cümlesinde altı çizili sözcük, <strong>“aç”</strong> ismine”<strong>-ık”</strong> isimden fiil
+    yapma eki getirilerek türetilmiştir. Buna türemiş fiil diyoruz.</p>
+<p>“Yaprakların <strong>hışırtısı,</strong> kuşların <strong>cıvıltısına</strong> karışmış, tatlı
+    bir musıki oluşturmuştu.”</p>
+<p>cümlesinde altı çizili sözcükler “hışır”, “cıvıl” yansıma sözcüklerine “-tı” eki getirilerek
+    yapılmıştır ve yansımadan türeyen isim oluşturulmuştur.</p>
+<p>* * *</p>
+<p>Bazı pekiştirmeli sözcüklerde sözcüğün başına bir hece eklendiği görülür.</p>
+<p>“Etraf <strong>bembeyaz</strong> olmuş, göz kamaştırıyordu.”</p>
+<p>cümlesinde altı çizili sözcük incelendiğinde “beyaz” sözcüğünün ilk hecesinden oluşturulmuş “bem”
+    hecesinin sözcüğün başına geldiğini görüyoruz. Bu bir ek olmadığından sözcük yapım eki
+    almamıştır; yani basittir.</p>
+<p>Diğer taraftan, Türkçe sondan çekimli bir dildir, ekler daima sözcüğün sonuna eklenir.</p>
+<p>Bir sözcük sadece kökten türetilmez; gövdelerden de türetilebilir.</p>
+<p>“Şuralarda bir <strong>gözlükçü</strong> vardı eskiden.”</p>
+<p>cümlesinde altı çizili sözcük “göz” isminden “gözlük”, “gözlük” isminden “gözlükçü” olmuştur.
+    Görüldüğü gibi “-lük” eki sözcüğün köküne, “-çü” eki gövdesine eklenmiştir. Elbette sözcük yine
+    türemiş bir isimdir.</p>
+<p><strong>3. Bileşik Sözcük</strong></p>
+<p>İki farklı sözcüğün bir araya gelerek kendi anlamlarından az çok farklı bir anlam oluşturacak
+    biçimde kaynaşmasıyla oluşan sözcüklerdir.</p>
+<p>Bileşik sözcükler değişik şekillerde oluşur. Kimileri isim tamlamalarının, kimileri sıfat
+    tamlamalarının, kimileri cümle özelliği gösteren söz öbeklerinin kaynaşmaları sonucunda
+    oluşmuştur.</p>
+<p><strong>Bu kaynaşma sırasında sözcüklerin her ikisi anlamını kaybedebilir.</strong></p>
+<p>“Bahçeden çok güzel <strong>hanımeli</strong> kokusu geliyordu.”</p>
+<p>Sözcüklerden sadece biri anlamını kaybetmiş olabilir.</p>
+<p>“<strong>Yeryüzü</strong> yemyeşil olmuştu yine.”</p>
+<p><strong>Sözcüklerden hiçbiri anlamını tam olarak kaybetmemiş olabilir.</strong></p>
+<p>“Bu kış yeni bir <strong>ayakkabı </strong>almam gerek.”</p>
+<p>* * *</p>
+<p>Bileşik sözcükler yapılışlarına göre değişik özellikler gösterir. Bunları şu şekilde
+    gruplandırabiliriz.</p>
+<p><strong>a. İsim Tamlaması Yoluyla</strong></p>
+<p>“Komşunun çocuğu <strong>kuşpalazına</strong> yakalanmış.”</p>
+<p>“Onlar düğünden sonra <strong>balayına</strong> gidecekler.”</p>
+<p>“Üzerinde <strong>camgöbeği</strong> renginde bir kazak vardı.”</p>
+<p>“Bahçenin bir köşesine <strong>aslanağzı </strong>ekmişlerdi.”</p>
+<p>cümlelerinde altı çizili bileşik sözcükler isim tamlaması yoluyla oluşmuştur. Sözcükleri ayrı
+    düşündüğümüzde bu, açık olarak anlaşılır.</p>
+<p>Bazen bu yolla oluşan isimlerin – özellikle yer isimleri – sonunda iyelik ekinin düştüğü
+    görülür.</p>
+<p>“Edirnekapı<strong>sı</strong> ® Edirnekapı”</p>
+<p>“Kadıköy<strong>ü</strong> ® Kadıköy”</p>
+<p>sözcüklerinde altı çizili eklerin düştüğünü görüyoruz.</p>
+<p><strong>b. Sıfat Tamlaması Yoluyla</strong></p>
+<p>“O ne <strong>açıkgöz</strong> adamdır bilsen.”</p>
+<p>“Buradan <strong>Acıgöl</strong>’e gidebilir miyiz?”</p>
+<p>“Buralarda eskiden çok <strong>sivrisinek</strong> olurdu.”</p>
+<p>“Bu mevsim tam <strong>karatavuk</strong> avlama mevsimidir.”</p>
+<p>cümlelerinde altı çizili bileşik sözcükler sıfat tamlamalarının kalıplaşmasıyla oluşmuştur.</p>
+<p><strong>c. İyelik Ekinin Kaynaştırması Yoluyla</strong></p>
+<p>“Burası <strong>bağrıyanık</strong> insanların diyarıdır.”</p>
+<p>“Çocukları fazla <strong>başıboş</strong> bırakmamalıyız.”</p>
+<p>“O <strong>sütübozuk</strong> adama güvenir miyim hiç?”</p>
+<p>cümlelerindeki altı çizili sözcüklerde, birinci sözcük isim, ikinci sözcük sıfat özelliği
+    gösteriyor ve isim olan sözcük iyelik eki almıştır.</p>
+<p><strong>d. İki Çekimli Fiilin Kaynaşması Yoluyla</strong></p>
+<p>“Odaya yeni bir <strong>çekyat</strong> alalım.”</p>
+<p>“Bu denizlerde <strong>gelgit</strong> olayı pek görülmez.”</p>
+<p>“Ekinler <strong>biçerdöverlerle</strong> biçilip ambarlara doldurulurdu.”</p>
+<p>“Onunla <strong>uyurgezer</strong> diye dalga geçerlerdi.”</p>
+<p>cümlelerinde her iki sözcük de çekimlidir. Birleşerek kendi anlamlarından farklı bir anlam ifade
+    etmişler, ya da tür değişikliğine uğrayıp ad ve sıfat görevinde sözcükler oluşturmuşlardır.</p>
+<p><strong>e. Bir İsimle Bir Çekimli Fiilin Kaynaşması Yoluyla</strong></p>
+<p>“Onun gibi <strong>mirasyedi</strong> birinden, başka ne beklenir.”</p>
+<p>“Yeni bir <strong>ateşkes</strong> imzalanacakmış.”</p>
+<p>“Bu lokantada <strong>imambayıldı</strong> güzel yapılır.”</p>
+<p>cümlelerinde altı çizili sözcüklerin birincisi isim, ikincisi çekimli bir fiildir. Sözcükleri
+    gerçek anlamlarında düşündüğümüzde bunların bir cümle özelliği gösterdiğini söyleyebiliriz.</p>
+<p><strong>f. İsim ve Fiilimsinin Kaynaşması Yoluyla</strong></p>
+<p>“Bu bölgede<strong> günebakan</strong> yetişmiyormuş.”</p>
+<p>“Ahmet <strong>karakaçanın</strong> sırtına binmiş gidiyordu.”</p>
+<p>“Böyle <strong>oyunbozanlık</strong> edersen seninle geçinemeyiz.”</p>
+<p>“Bu limana bir <strong>dalgakıran </strong>yapmak lazım.”</p>
+<p>“Onun gibi <strong>çöpçatan</strong> birini görmedim, doğrusu.”</p>
+<p>cümlelerinde birincisi isim soylu sözcük, ikincisi sıfat-fiil olan bu sözcüklerden bir bileşik
+    sözcük meydana gelmiştir.</p>
+<p>Bunlardan başka yollarla da bileşik sözcük oluşturulabilir. Önemli olan iki ayrı sözcüğün
+    kaynaştığını anlayabilmektir.</p>
+<p>Bileşik sözcüklerin kimileri oluşurken ses kaybı olabilir.</p>
+<p><strong>“Pazartesi</strong> günü size geleceğim.”</p>
+<p>cümlesindeki sözcüğün oluşmasına bakalım.</p>
+<p><strong>Pazar – ertesi </strong>® <strong>Pazartesi</strong></p>
+<p>Görüldüğü gibi “er” hecesi düşmüştür.</p>
+<p>Bazı bileşik sözcüklerin oluşumunda ise iki ayrı sözcüğün varlığı bile hissedilemez.</p>
+<table id="table9" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="121">sütlü aşne asılbu öyle</td>
+        <td width="72">®®®</td>
+        <td width="457">sütlaçnasılböyle</td>
+    </tr>
+    </tbody>
+</table>
+<p>Bu sözcüklerin artık iki ayrı sözcükten oluştuğunu düşünemiyoruz bile.</p>
+</html>

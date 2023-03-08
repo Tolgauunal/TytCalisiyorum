@@ -1,0 +1,123 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2>PERMÜTASYON - KOMBİNASYON</h2>
+<p>Kpss ders notlarına matematik dersinde Permütasyon konusu ile devam ediyoruz. Permütasyon n
+    elemandan r tane farklı seçimi konu almaktadır. Bu konuyu daha iyi anlamanız için bir iki örnek
+    yapalım. <strong>Permütasyon Formülü;</strong></p>
+<p><img class="aligncenter size-full wp-image-456" title="Permütasyon Formülü"
+        src="images/matematik/permutasyon/per1.jpg"
+        alt="Permütasyon Formülü" width="185" height="90"/></p>
+<p><em><strong>Örnek</strong></em>: 5 farklı kitap yan yana kaç farklı şekilde sıralanabilir?</p>
+<p>5!=120</p>
+<p>Çözüm: 5 &#8216;in <a>faktöriyel</a>alarak çözümü bulabilirsiniz.</p>
+<p><em><strong>Örnek</strong></em>: 7 Edebiyat 6 Matematik kitabı vardır. Matematikler yan yana
+    olmak şartı ile kaç farklı şekilde seçim yapılır</p>
+<p>8!*6! =</p>
+<p>Çözüm : 6 Matematik kitabını yanyana gelmek şartı ile dediği için tek bir kitap olarak görmemiz
+    gerekiyor. Toplamda 8 kitap vardır. Matematik kitablarıda kendi aralarında değişebilir. Böylece
+    permütasyon sorusunu çözebilirsiniz.</p>
+
+<p>Kpss ders notları sitemizin bu günkü matematik dersinde Permistasyondan sonra gelen Kombinasyon konusu ile devam ediyoruz. kombinasyonn
+    elemandanr tane farklı seçimi konu almaktadır. Bu konuyu daha iyi anlamanız için bir iki örnek
+    yapalım. Öncelikle Kombinasyon Formülü;</p>
+<p><img class="aligncenter size-full wp-image-460" title="Kombinasyon Formülü"
+        src="images/matematik/permutasyon/kom1.jpg"
+        alt="Kombinasyon Formülü" width="160" height="76"/></p>
+<p><span style="color: #000000;"><a
+        href="http://www.kpssdersnotlari.org/kombinasyon-konu-anlatimi.html"><span
+        style="color: #000000;">Kombinasyon</span></a></span> Hakkında bilinmesi gereken bir kaç
+    detay ;</p>
+<p><img class="aligncenter size-full wp-image-461" title="kombinasyon bilinmesi gerekenler"
+        src="images/matematik/permutasyon/kom2.jpg"
+        alt="kombinasyon bilinmesi gerekenler" width="344" height="65"/></p>
+<p><em><strong>Örnek;</strong></em></p>
+<table width="505">
+    <tbody>
+    <tr>
+        <td><img class="alignnone size-full wp-image-462" title="kombinasyon"
+                 src="images/matematik/permutasyon/kom3.jpg"
+                 alt="kombinasyon" width="192" height="84"/></td>
+        <td><em><strong>Soru</strong></em>: 10 elemandan herhangi 2 tanesini kaç farklı şekilde
+            seçebilirsiniz?<br/>
+            <strong></strong><strong></strong><strong></strong><strong>Çözüm: </strong> Sayıları
+            Kominasyon formülündeki yerlerine yazalım. 8! <span style="color: #000000;"><a
+                    href="http://www.kpssdersnotlari.org/faktoriyel-konu-anlatimi.html"
+                    target="_blank"><span style="color: #000000;">faktöryeller</span></a></span>
+            birbirini götürecektir. Sonuç 45 &#8216;tir.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p><span id="more-459"></span></p>
+<p><em><strong>Örnek;</strong></em></p>
+<table width="505">
+    <tbody>
+    <tr>
+        <td><img class="alignnone size-full wp-image-463" title="kombinasyon"
+                 src="images/matematik/permutasyon/kom4.jpg"
+                 alt="kombinasyon" width="215" height="85"/></td>
+        <td><em><strong>Soru</strong></em>: 10 kız, 5 erkek olan 1 sınıftan 2 kız 1 Erkek kaç farklı
+            şekilde seçilebilir?<br/>
+            <strong></strong><strong></strong><strong></strong><strong>Çözüm: </strong> Sayıları
+            Kominasyon formülündeki yerlerine yazalım. Yukarıdaki işlemi incelerseniz aynı sayılar
+            hemen işlemi yapalım. 5&#8217;in 1 &#8216;liside Kombinasyon Hakkında bilinmesi gereken
+            bir kaç detay altında verdiğimiz formülle aynısı.
+        </td>
+    </tr>
+    </tbody>
+    <h1><span style="color: #ff0000">Binom</span></h1>
+    <p>Bilinen özdeşlikler vardır bunlar;</p>
+    <p>(x + y)<sup>1</sup> = x + y</p>
+    <p>(x + y)<sup>2</sup> = (x + y).(x + y) = x<sup>2</sup> + 2xy + y<sup>2</sup></p>
+    <p>(x + y)<sup>3</sup> = (x + y).(x + y).(x + y) = x<sup>3</sup> + 3x<sup>2</sup>y + 3xy<sup>2</sup> + y<sup>3  </sup></p>
+    <p>Kuvvet büyüdükçe özdeşliği çarpma işlemi yaparak bulmak zorlaşır. Bu durumda kombinasyon yardımıyla binom açılımını kullanarak özdeşlikleri bulabiliriz.</p>
+    <p>x ve y sıfırdan farklı ve n bir doğal sayı olmak <strong>(x + y)<sup>n</sup></strong> ifadesinin x ve y’nin kuvvetleri cinsinden açılımına <strong>binom açılımı</strong> denir.</p>
+    <p><img loading="lazy" class="alignnone wp-image-123026" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/10/110-300x39.jpg" alt="" width="338" height="44" srcset="https://www.basarisiralamalari.com/wp-content/uploads/2020/10/110-300x39.jpg 300w, https://www.basarisiralamalari.com/wp-content/uploads/2020/10/110.jpg 591w" sizes="(max-width: 338px) 100vw, 338px" /></p>
+    <p>Binom açılımında terimleri oluştururken katsayıları kombinasyon yardımıyla hesaplarız. x’in azalan kuvvetlerine göre açılım yaparken x’in üssünü n’den başlayıp her terimde bir azaltırız, y’nin üssünü 0’dan başlayıp her terimde bir arttırırız. Böylece son terimde x’in üssü 0, y’nin üssü n olmuş olur.</p>
+    <p><span style="color: #ff0000"><strong>Örnek</strong></span></p>
+    <p>(x + y)<sup>4</sup> ifadesinin özdeşini Pascal üçgeninden faydalanarak x’in artan kuvvetlerine göre yazalım.</p>
+    <p>Terimlerin katsayılarının 1 4 6 4 1 olduğunu Pascal üçgeninin 5. satırından görebiliriz. x’in kuvvetlerini 0’dan 4’e doğru, y’nin kuvvetlerini 4’ten 0’a doğru sırayla terimlere yazarız.</p>
+    <p>(x + y)<sup>4</sup> = 1 x<sup>0</sup> y<sup>4</sup> + 4 x<sup>1</sup> y<sup>3</sup> + 6 x<sup>2</sup> y<sup>2</sup> + 4 x<sup>3</sup> y<sup>1</sup> + 1 x<sup>4</sup> y<sup>0</sup></p>
+    <p>Katsayılardaki 1’leri, x<sup>0</sup> ve y<sup>0</sup> ifadelerini 1’e eşit oldukları için yazmamıza gerek yoktur.</p>
+    <p>(x + y)<sup>4</sup> = y<sup>4</sup> + 4 x y<sup>3</sup> + 6 x<sup>2</sup> y<sup>2</sup> + 4 x<sup>3</sup> y + x<sup>4</sup></p>
+    <h3><span style="color: #000080"><a name="1"></a>Binom Açılımı Özellikleri</span></h3>
+    <p><strong><u>Terim sayısı</u></strong></p>
+    <p>(x+y)<sup>n</sup> ifadesinin açılımındaki terim sayısı n+1‘dir.</p>
+    <p>Örnek: (2x + 3y)<sup>10</sup> ifadesinin açılımında 10+1 = 11 terim vardır.</p>
+    <p><strong><u>Terimlerdeki üsler toplamı</u></strong></p>
+    <p>(x+y)<sup>n</sup> ifadesinin açılımındaki her bir terimdeki x ve y değişkenlerinin üsleri toplamı n‘dir.</p>
+    <p>Örnek: (3x − y)<sup>8</sup> ifadesinin x’in azalan kuvvetlerine göre açılımındaki baştan 7. terimi inceleyelim.<br />
+    Bu ifadenin açılımdaki 7. terimi 252x<sup>2</sup>y<sup>6</sup> dir. Burdaki x’in ve y’nin üslerini toplarsak 2 + 6 = 8 olduğunu görürüz.</p>
+    <p><strong><u>Baştan r+1 inci terim</u></strong></p>
+    <p>(x+y)<sup>n</sup> ifadesinin x’in azalan kuvvetlerine göre açılımındaki baştan r + 1‘inci terim <img loading="lazy" class="alignnone wp-image-123150" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/10/111-1.jpg" alt="" width="105" height="33" /></p>
+    <p><strong><span style="font-size: 12pt"><u>Sondan r+1 inci terim</u></span></strong></p>
+    <p><span style="font-size: 12pt">(x+y)<sup>n</sup> ifadesinin x’in azalan kuvvetlerine göre açılımındaki sondan r + 1‘inci terim <img loading="lazy" class="alignnone wp-image-123164" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/10/112.jpg" alt="" width="113" height="34" /></span></p>
+    <p><span style="text-decoration: underline"><strong><span id="ortanca-terim">Ortanca terim</span></strong></span></p>
+    <p class="binot binot-bilgi binot-simge">n doğal sayı olmak üzere <strong>(x+y)<sup>2n</sup></strong> ifadesinin açılımındaki <strong>ortadaki terim <img loading="lazy" class="alignnone wp-image-123165" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/10/113.jpg" alt="" width="147" height="46" /></strong></p>
+    <p><span style="text-decoration: underline"><strong>Katsayılar toplamı</strong></span></p>
+    <p>(x+y)n ifadesinin açılımındaki katsayılar toplamını bulmak için değişkenler yerine 1 sayısı yazılır.</p>
+    <p><span style="text-decoration: underline"><strong>Sabit terim</strong></span></p>
+    <p>(x+y)n ifadesinin açılımındaki sabit terimi bulmak için değişkenler yerine 0 sayısı yazılır.</p>
+    <h3><span style="color: #000080"><a name="2"></a>Binom Özdeşliği</span></h3>
+    <p>Pascal üçgenine dikkat edersek, her bir sayı üstündeki iki sayının toplamı ile oluşmuştur. Mesela 3+1=4  ü oluşturmuştur.</p>
+    <p>Bunu kombinasyon ile ifade edersek <img loading="lazy" class="alignnone size-full wp-image-130452" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/781.png" alt="" width="170" height="47" /> ü oluşturmuştur. Bu durumu <img loading="lazy" class="alignnone size-full wp-image-130453" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/782.png" alt="" width="230" height="48" /> şeklinde genelleştirebiliriz. Bu özdeşliğin adı da Binom Özdeşiliği dir.</p>
+    <p><span style="color: #ff0000"><strong>Örnek:</strong></span></p>
+    <p><img loading="lazy" class="alignnone size-full wp-image-130456" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/783.png" alt="" width="148" height="49" /> işleminin sonucu kaçtır?</p>
+    <p><img loading="lazy" class="alignnone size-full wp-image-130457" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/785.png" alt="" width="275" height="67" /></p>
+    <h3><span style="color: #000080"><a name="7"></a>Binom Katsayıları ile Alt küme Sayısı Arasındaki Benzerlik</span></h3>
+    <p><img loading="lazy" class="alignnone wp-image-130460" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/784.png" alt="" width="68" height="25" />in açılımındaki katsayılar, n elemanlı bir kümenin 0, 1, 2, … , n elemanlı alt küme sayıları ile aynıdır. Örneğin,</p>
+    <p><img loading="lazy" class="alignnone wp-image-130465" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/786.png" alt="" width="68" height="25" /> açılımındaki kat sayılar 1, 3, 3 ,1 şeklindedir. 3 elemanlı bir kümenin 0 elemanlı alt küme sayıları  <img loading="lazy" class="alignnone wp-image-130469" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/787.png" alt="" width="55" height="35" />,<img loading="lazy" class="alignnone wp-image-130468" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/788.png" alt="" width="63" height="38" />, <img loading="lazy" class="alignnone wp-image-130471" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/789.png" alt="" width="60" height="39" /> ve <img loading="lazy" class="alignnone wp-image-130470" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/790.png" alt="" width="59" height="37" />  şeklinde olur.</p>
+    <p>Bir kümenin tüm alt kümelerinin <img loading="lazy" class="alignnone size-full wp-image-130475" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/792.png" alt="" width="20" height="21" /> tane olduğunu biliyoruz. Dolayısıyla;</p>
+    <p><img loading="lazy" class="alignnone size-medium wp-image-130476" src="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/793-300x40.png" alt="" width="300" height="40" srcset="https://www.basarisiralamalari.com/wp-content/uploads/2020/12/793-300x40.png 300w, https://www.basarisiralamalari.com/wp-content/uploads/2020/12/793.png 386w" sizes="(max-width: 300px) 100vw, 300px" /></p>
+    <p>&nbsp;</p>
+</table>
+</html>

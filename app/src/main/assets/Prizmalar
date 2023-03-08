@@ -1,0 +1,83 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+    </style>
+</head>
+<h1><span style="color: #ff0000">Prizmalar</span></h1>
+<ul>
+    <li><a href="#1">Dik Prizmalar</a></li>
+    <li><a href="#2">Küp</a></li>
+    <li><a href="#3">Dikdörtgenler Prizması</a></li>
+</ul>
+<p><img class="alignnone size-medium wp-image-124017"
+        src="images/geometri/prizma/prizma1.png" alt=""
+        width="223" height="300"
+        sizes="(max-width: 223px) 100vw, 223px"/></p>
+<p>Birbirine paralel P ve Q düzlemleri içerisinde alınan iki eş çokgensel bölgenin tüm noktalarının
+    karşılıklı olarak birleştirilmesiyle elde edilen içi dolu cisme <strong>prizma</strong> denir.
+</p>
+<p>[K’L’], [K’M’], [L’M’] taban ayrıtlarıdır.<br/>
+    [KK’], [LL’], [MM’] ise prizmanın yanal ayrıtlarıdır.</p>
+<p>K’L’M’ üçgeni prizmanın <strong>alt tabanı</strong>, KLM üçgeni prizmanın <strong>üst
+    tabanı</strong>, KLL’K’, KMM’K’, LMM’L’ dörtgensel bölgeleri de prizmanın <strong>yanal
+    alanı</strong>dır. Eğer bir prizmada yanal ayrıtlar taban düzlemine dik iniyorsa bu prizmaya
+    <strong>dik prizma</strong> denir. Dik olmayan prizmalara ise <strong>eğik prizma</strong>
+    denir. Alt ve üst taban düzlemleri arasındaki uzaklığa <strong>prizmanın yüksekliği</strong>
+    denir.</p>
+<p>Prizmalar, tabanına göre isim alır. Tabanı kare ise <strong>kare prizma</strong>, tabanı üçgen
+    ise <strong>üçgen prizma</strong>, tabanı daire ise <strong>silindir</strong> denir.</p>
+<h3><span style="color: #000080"><a name="1"></a>Dik Prizmalar</span></h3>
+<p><img loading="lazy" class="alignnone size-medium wp-image-124018"
+        src="images/geometri/prizma/prizma2.png" alt=""
+        width="203" height="300"
+        sizes="(max-width: 203px) 100vw, 203px"/></p>
+<p>Yukarıdaki şekilde [AA’], [BB’] ve [CC’] yanal ayrıtları alt ve üst tabanlara diktir. Bu yüzden
+    bu prizma bir üçgen dik prizmadır. Alt ve üst tabanlar özdeş olduğu için alanları eşittir. Yanal
+    yüzler dikdörtgendir.</p>
+<p><strong>Y.A. = Taban çevresi x Cisim Yüksekliği</strong><br/>
+    Y.A = Ç(A’B’C’) x h<br/>
+    Prizmanın alanı ise tüm yüzeylerinin alanları toplamıdır.</p>
+<p>Prizmanın alanı= taban alanı+yanal alanı<br/>
+    <span style="color: #ffffff">Prizmanın alanı<span style="color: #333333">=</span></span>
+    2A(ABC)+Ç(A&#8217;B&#8217;C&#8217;). h</p>
+<p>Dik Prizmanın hacmi ise Taban Alanı x Yükseklik bağıntısı ile bulunur.<br/>
+    <strong>V = Taban Alanı x Yükseklik</strong></p>
+<p><strong>V=S.h</strong></p>
+<h3><span style="color: #000080"><a name="2"></a>Küp</span></h3>
+<p>Tüm ayrıtları eşit uzunlukta olan dikdörtgen prizmalara <strong>küp</strong> denir.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-124019"
+        src="images/geometri/prizma/prizma3.png" alt=""
+        width="273" height="300"
+        sizes="(max-width: 273px) 100vw, 273px"/></p>
+<p><strong>*</strong>6 tane yüzey vardır ve yüzeylerin tamamı karedir.<br/>
+    <strong>*</strong>Her biri eşit uzunlukta 12 tane ayrıtı vardır.<br/>
+    <strong>*</strong>Küp içerisinde birbirine en uzak iki köşe arasındaki doğru parçasına cisim
+    köşegeni denir.<br/>
+    <strong>*</strong>Yukarıda çizilen küpün cisim köşegenleri [AC’], [BD’], [CA’] ve [DB’] dür.
+    Cisim köşegenleri eşit uzunluktadır.</p>
+<p>Bir ayrıtı a cm olan yukarıdaki küpte,<br/>
+    <strong>**</strong> Cisim köşegeni uzunluğu |AC’| = a√3 cm<br/>
+    <strong>**</strong> Küpün alanı A = 6a2<br/>
+    <strong>**</strong> Küpün hacmi v = a3‘tür.</p>
+<h3><span style="color: #000080"><a name="3"></a>Dikdörtgenler Prizması</span></h3>
+<p>Ayrıt uzunlukları a,b ve c cm olan şekildeki dikdörtgenler prizmasının tüm yüzeyleri
+    dikdörtgendir.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-124022"
+        src="images/geometri/prizma/prizma4.png" alt=""
+        width="300" height="205"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-124021"
+        src="images/geometri/prizma/prizma5.png" alt=""
+        width="300" height="52"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+</div>
+</html>

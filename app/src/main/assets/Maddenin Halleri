@@ -1,0 +1,196 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2>Maddenin Halleri</h2>
+<p>Maddenin hallerine geçmeden önce madde nedir sorusunun cevabını verelim</p>
+<p><strong>Madde:</strong> Madde ya da özdek, uzayda yer
+    kaplayan, hacmi ve kütlesi olan tanecikli yapılara denir. 5 duyu organımızla algılayabildiğimiz
+    (hissedebildiğimiz) canlı ve cansız varlıklara denir. Maddenin en küçük yapı birimi atomdur.</p>
+<h2><a name="1"></a>Madenin Halleri</h2>
+<p>Maddenin halleri sıvı, katı, gaz ve plazma olmak üzere dörde ayrılır. Bunları kısaca
+    tanımlayalım.</p>
+<p><strong>Sıvı:</strong> Basınç ile hacmi değişmeyen, bulunduğu
+    kabın doldurduğu kısmının şeklini alan akışkan maddelerdir. Belirli hacimleri vardır. Sıvı
+    tanecikleri titreşim ve yerdeğiştirme hareketi yaparlar. Katı halden sonraki en düzenli hal
+    olarak nitelendirilir.</p>
+<p><strong>Gaz:</strong> Bulunduğu kabın hacmini alabilen,
+    basınç ile hacminde önemli değişiklikler olan akışkan maddelerdir. Belirli hacimleri yoktur. Gaz
+    tanecikleri titreşim, öteleme ve dönme hareketi yaparlar. En düzensiz hal olarak nitelendirilir.
+</p>
+<p><strong>Katı:</strong> Akışkan olmayan, basınç ile hacmi
+    değişmeyen genellikle sert ve kırılabilen maddelerdir. Belirli hacim ve şekilleri vardır. Katı
+    tanecikleri titreşim hareketi yaparlar. En düzenli hal olarak nitelendirilir.</p>
+<p><strong>Plazma:</strong> Gaz halinin ısıtılarak maddenin
+    molekül, atom, iyon ve elektronlarının bir arada bulunduğu karışımdır. N2, N, N+ ve e– nin bir
+    arada bulunduğu durum plazma haline örnektir. Bunun yanında ateş, güneş, yıldız ve floresan
+    lambaları plazma haline örnektir.</p>
+<p>Şimdi ayrı ayrı maddenin hallerini özelliklerini inceleyelim .</p>
+<h2><a name="2"></a>Sıvılar ve Özellikleri</h2>
+<p>Tanecikleri birbiri ile temas ve etkileşim halinde olan fakat tanecikleri birbiri üzerinde
+    kayarak öteleme hareketleri yapabilen fiziksel hal sıvı halidir. Sıvılar, içerisinde
+    bulundukları kabın şeklini alırlar. Sahip oldukları bu hacim içerisinde titreşim ve öteleme
+    hareketi yaparak sürekli yer değiştirirler.</p>
+<p><strong>Sıvıların Özellikleri</strong></p>
+<p><strong>&#8211; </strong>Sıvılar içinde bulundukları kabın
+    şeklini alırlar.<br/>
+    <strong>&#8211; </strong>Basınç yükseltildiğinde sıvıların
+    hacimleri ölçülebilir büyüklükte değişmez.<br/>
+    <strong>&#8211; </strong>Sıcaklık yükseltildiğinde hacimleri
+    az da olsa arttığından yoğunlukları düşer.<br/>
+    <strong>&#8211; </strong>Birbirleri içinde çözünebilen iki
+    sıvı temasa geldiklerinde, az da olsa birbirlerinin içinde yayılırlar.<br/>
+    <strong>&#8211; </strong>Sıvılar akmaya karşı direnç
+    gösterirler.<br/>
+    <strong>&#8211; </strong>Sıvıların yüzey gerilimleri vardır.<br/>
+    <strong>&#8211; </strong>Açık kaptaki sıvılar buharlaşırlar.<br/>
+    <strong>&#8211; </strong>Bu özellikler her sıvıda olmasına
+    rağmen sıvıdan sıvıya farklılık göstermektedir.</p>
+<h3><strong>Vizkozite Nedir?</strong></h3>
+<p>Sıvıların akmaya karşı gösterdiği direnç viskozite olarak adlandırılır. Viskozitesi büyük olan
+    sıvılar küçük olanlara göre daha yavaş akar. Örneğin balın akıcılığı, suyun akıcılığından daha
+    küçüktür. Çünkü balın viskozitesi suyunkinden büyüktür.</p>
+<p>Sıcaklık arttıkça sıvıların viskozitesi azalır, akıcılığı artar. Örneğin viskozitesi yüksek olan
+    asfalt yola dökülmeden ısıtılır viskozitesi azaltılarak akışkan hale getirilir. Sıvıların
+    molekülleri arasındaki çekim kuvvetinin büyüklüğü ile viskozite doğru orantılıdır.</p>
+<h3>Buharlaşma ve Kaynama Olayları</h3>
+<p>Buharlaşma bir maddenin kaynamadan sıvı halden gaz hale geçmesi sürecidir. Kaynama buharlaşmanın
+    özel bir durumudur; bir maddenin, sadece belirli bir sıcaklığa eriştiğinde, sıvı halden gaz hale
+    geçme sürecidir. En önemli fark, buharlaşmanın sıvının yüzeyinde; kaynamanın sıvının tamamında
+    gerçekleşmesidir.</p>
+<p><strong>&#8211; </strong>Buharlaşma sıvının yüzeyinde
+    gerçekleşir. Çünkü yüzeydeki bir moleküle içteki moleküller tarafından etki eden çekim kuvveti
+    azdır.<br/>
+    <strong>&#8211; </strong>Buharlaşma her sıcaklıkta görülür.
+    Sıvının gaz fazına geçmesi endotermik bir olaydır.<br/>
+    <strong>&#8211; </strong>Sıcaklık ve sıvının yüzey alanı
+    arttıkça buharlaşma artar, dış basınç arttıkça buharlaşma azalır.<br/>
+    <strong>&#8211; </strong>Buharlaşan sıvı gerekli olan
+    enerjiyi komşu taneciklerden aldığı için sıvının sıcaklığı düşer.<br/>
+    <strong>&#8211; </strong>Kaynama bir sıvının çok hızlı
+    buharlaşmasıdır. Bir sıvının buhar basıncının dış basınca eşit olduğu anda sıvının her yerinden
+    kabarcıklar çıkmasına kaynama denir.<br/>
+    <strong>&#8211; </strong>Kaynama sıvının her yerinde
+    olur.<br/>
+    <strong>&#8211; </strong>Saf maddelerin belirli kaynama
+    noktaları vardır.<br/>
+    <strong>&#8211; </strong>Deniz seviyesinden yukarılara
+    çıkıldığında dış basınç düşeceğinden sıvının gaz fazına geçişi kolaylaşır, kaynama noktası
+    azalır ve buharlaşma kolaylaşır.</p>
+<h2><a name="3"></a>Katılar ve Özellikleri</h2>
+<p>Katı, maddenin, atomları arasındaki boşluğun en az olduğu halidir. &#8220;Katı&#8221; olarak
+    adlandırılan bu haldeki maddelerin kütlesi, hacmi ve şekli belirlidir.</p>
+<p><strong>Katıların Özellikleri</strong></p>
+<p><strong>&#8211; </strong>Bütün maddeler atom ve moleküllerin
+    çeşitli şekillerde bir araya gelmesiyle ortaya çıkar.<br/>
+    <strong>&#8211; </strong>Katıdaki atomlar, özellikle
+    elektriksel karakterli kuvvetlerle, belirli konumlarda bir arada tutulurlar.<br/>
+    <strong>&#8211; </strong>Katı atomları bu denge konumları
+    etrafında ısısal etkiler nedeniyle titreşim hareketi yaparlar.<br/>
+    <strong>&#8211; </strong>Fakat düşük sıcaklıklarda bu
+    titreşim hareketi azdır ve atomlar hemen hemen sabit gibi düşünülebilir.<br/>
+    <strong>&#8211; </strong>Maddeye ısı enerjisi verilirse bu
+    titreşim genliği artar.</p>
+<p>Katı maddeler amorf katılar ve kristal katılar olmak üzere ikiye ayrılır.</p>
+<h3>Amorf Katılar</h3>
+<p>Atom, iyon ya da moleküllerin rastgele yığıldığı, sert, sıkıştırılamayan ve belirli geometrik
+    kristalleri olmayan katılara <strong>amorf katılar</strong>
+    denir. Plastikler, cam, tereyağı, lastik gibi katılar amorf katılara örnek olarak
+    gösterilebilir.</p>
+<p>Amorf katılar ısıtıldıklarında belirli bir sıcaklık aralığında yumuşarlar, yumuşamanın başladığı
+    sıcaklığa camsı geçiş sıcaklığı denir.</p>
+<h3>Kristal katılar</h3>
+<p>Gördüğünüz tüm katıların en ez %90&#8217;ı kristal katılar grubuna girer. Atomların, iyonların
+    veya moleküllerin belli bir geometrik kalıba göre istiflenmesiyle oluşan katılara kristal katı
+    denir. Kristal katıların yapı, erime noktası, yoğunluk, sertlik gibi fiziksel özellikleri bu
+    katıları meydana getiren atom, iyon ve molekülleri bir arada tutan çekim kuvvetlerine
+    bağlıdır.</p>
+<p>Kristal katılar, tanecikler arası çekim kuvvetlerine göre <strong>iyonik, moleküler, kovalent,
+    metalik</strong>
+    olarak sınıflandırılır.</p>
+<p><strong>İyonik Kristal Katılar:</strong> İyonlardan oluşan kristallerdir. İyonlar İyonik bağlarla
+    bir arada bulunurlar. İyonların bir kısmı pozitif, bir kısmı negatif olduğundan, bu zıt yüklü
+    iyonlar birbirini elektrostatik çekim kuvveti ile çekerler. Kristali oluşturan İyonların
+    büyüklükleri (çapları) genellikle farklıdır. Bu farklılık iyonlar arası boşlukların oluşmasına
+    neden olur. Bunun sonucunda iyonlar bu boşlukları doldurarak kristal yapıyı oluşturur.</p>
+<p><strong>Moleküler Kristal Katılar:</strong> Örgü yapısını atom veya moleküllerin oluşturduğu
+    kristallerdir. Moleküler kristallerdeki atom veya moleküller Van der Waals ve hidrojen bağları
+    ile birbirine bağlanırlar. CO2, H2O, SO2, C12H12O11 ve I2 gibi katılar moleküler kristallere
+    örnektir.</p>
+<p><strong> Kovalent Kristaller:</strong> Örgü noktalarında atomlar bulunur. Kovalent kristaller,
+    katının bütünü içindeki atomlar arasında oluşan kovalent bağ örgüsü ile meydana gelirler. Bu
+    kovalent bağlar, kristal içinde üç boyutlu bir ağ yapısı oluş¬tururlar. Kovalent kristallere
+    örnek olarak elmas, SİC, SİO2 &#8230; vb. verilebilir. Kovalent katılar çok sert olup, yüksek
+    erime noktasına sahiptirler. Elektrik akımını iletmezler.</p>
+<p><strong>Metalik Kristaller:</strong> Her örgü noktasında aynı metalin katyonları bulunur, bu
+    katyonlar belirli bir düzene göre yerleşmiş olup tüm katı boyunca elektron bulutlarıyla
+    çevrilmişlerdir. Örgüdeki bağlar ise + yüklü iyonlar ile serbest elektronlar arasındaki
+    elektrostatik çekme kuvvetlerinden ileri gelir. Metalik katılara örnek olarak Na, Mg, Ag, Au . .
+    . vb. verilebilir.</p>
+<h2><a name="4"></a>Gazlar ve Özellikleri</h2>
+<p>Madde taneciklerinin birbirinden bağımsız olduğu ve maddenin akışkan olduğu hal gaz halidir.</p>
+<p><strong>Gazların Özellikleri</strong></p>
+<p><strong>&#8211; </strong>Maddenin en düzensiz halidir.<br/>
+    <strong>&#8211; </strong>Birbirleriyle her oranda karışarak
+    homojen karışımlar oluştururlar.<br/>
+    <strong>&#8211; </strong>Bulundukları kabın şeklini ve
+    hacmini alırlar. Gaz tanecikleri arasında büyük boşluklar vardır. Bu boşluklardan dolayı gazlar
+    bir kuvvetin etkisiyle sıvılaşana kadar sıkıştırılabilir.<br/>
+    <strong>&#8211; </strong>Tanecikleri arasında çekim
+    kuvvetleri katı ve sıvılarınkine oranla çok azdır.<br/>
+    <strong>&#8211; </strong>Bulundukları kabı tümüyle
+    doldururlar, çünkü sınırsız yayılma özellikleri vardır.<br/>
+    <strong>&#8211; </strong>Maddenin en yüksek enerjili
+    halidir.<br/>
+    <strong>&#8211; </strong>Titreşim, yer değiştirme ve öteleme
+    hareketi yaparlar.<br/>
+    <strong>&#8211; </strong>Tanecikler arası uzaklığın en fazla
+    olduğu haldir.<br/>
+    <strong>&#8211; </strong>Akışkandırlar ve
+    sıkıştırılabilirler.<br/>
+    <strong>&#8211; </strong>Yoğunlukları katı ve sıvılara göre
+    daha düşüktür.<br/>
+    <strong>&#8211; </strong>Gaz tanecikleri birbirlerinden
+    bağımsız devamlı hareket halindedir.à Esnek olan doğrusal çarpışmalar yaparlar. Çarpışma sonunda
+    birbirlerine yapışmazlar, hareket doğrultuları değişir, enerji kayıpları olmaz.<br/>
+    <strong>&#8211; </strong>Isıtıldıklarında bütün gazlar
+    sıcaklık değişimi karşısında aynı orandaà genleşirler. Bu nedenle genleşme katsayısı gazlar için
+    ayırt edici değildir.<br/>
+    <strong>&#8211; </strong>Gerçekte ideal gaz yoktur. Gazlar
+    ancak bu ideal hale yaklaşabilirler. Gazlar düşük basınç ve yüksek sıcaklıkta en idealdirler.
+    Mol kütlesinin küçük olması idealliği artırır.</p>
+<h2><a name="5"></a>Plazma ve Özellikleri</h2>
+<p>Maddenin 4. hali plazmadır. Madde gaz hale geçtikten sonra ısıtılmaya devam edilirse belli bir
+    sıcaklıktan itibaren iyonlaşma başlar. İlk önce bir elektron atomu terk eder ve böylece pozitif
+    yüklü bir iyon oluşur. Daha sonra iyonlaşmalar devam eder ve iyonlar, elektronlar ve nötr
+    atomlar bir arada bir karışım oluşturur. Bu karışıma <strong>plazma hali</strong>
+    denir. Plazma haline<strong> iyonize gaz</strong> da denir.
+</p>
+<p><strong>&#8211; </strong>Kütlesinin çoğunluğu serbest yüklü
+    parçacıklar oluşturmasına karşın plazmalar dışarıya karsı yüksüzmüş gibi davranır. Çünkü plazma
+    içindeki eksi işaretli yüklerin miktar, artı yüklerin miktarına eşittir. Bu özellikler nedeniyle
+    plazmalar opaktır yani ışığı geçirmez, dağıtır.<br/>
+    <strong>&#8211; </strong>Plazmalar, yüklü parçacıklardan
+    oluştukları için elektrik ve manyetik alanlardan etkilenir.<br/>
+    <strong>&#8211; </strong>Yapılarındaki yoğun serbest yüklü
+    parçacıklar nedeniyle plazmalar iyi bir ısı ve elektrik iletkenidir. Plazmalar, metaller içinde
+    en iyi iletken olarak bilenen gümüşün iletkenliğinin 102 katından bile daha büyük bir
+    iletkenliğe sahiptir.<br/>
+    <strong>&#8211; </strong>Plazmalar bulundukları kabı
+    doldurmadan bulut şeklinde kümelenirler oysaki gazlar kabı tümüyle doldurur.<br/>
+    <strong>&#8211; </strong>Plazma ortamında gerçekleşen
+    kimyasal tepkimeler olağan gaz ortamında gerçekleşen kimyasal tepkimelerden çok daha
+    hızlıdır.<br/>
+    <strong>&#8211; </strong>Bir plazmanın herhangi bir yerinde
+    bir değişiklik oluşturulursa bu değişiklik plazma içinde her yöne ışık hızıyla yayılır. Oysa bir
+    gaz kütlesinin içinde oluşturulan değişiklik her yöne ancak ses hızıyla yayılır. Bir başka
+    değişle enerji plazma tanecikleri arasında ışık hızıyla taşınırken gazlarda bu taşınma ses
+    hızıyla gerçekleşir.</p>
+</html>

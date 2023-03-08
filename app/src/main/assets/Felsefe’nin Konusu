@@ -1,0 +1,32 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+
+    </style>
+</head>
+<h2>Felsefe'nin Konusu</h2>
+<p><strong>Felsefe</strong></span> Yunanca Philia ve Sophia
+    kelimelerinden meydana gelen bilgelik sevgisi anlamında bir kelimedir.</p>
+<p>İlk defa Yunanlı filozof Pythagoras, insanın bilgeliğe ulaşamayacağını ancak onu sevebileceğini
+    söyleyerek kendisine “Ben filozofum” dermiş. Philiasophia önce Latince’ye oradan diğer Avrupa
+    dillerine, daha sonra Arapça’ya ve Türkçe’ye Felsefe olarak geçmiştir.</p>
+<p>Felsefe terimi, gerçek anlamını Platon ve Aristoteles felsefesinde bulur. Aristo, felsefeyi
+    “Varolanların ilk temellerini ve<br/>
+    ilkelerini araştıran bir bilgidir.” şeklinde tanımlar.</p>
+<p>Ayrıca felsefe;<br/>
+    <b>– </b>İnsanın içinde yaşadığı evreni anlama
+    uğraşıdır.<br/>
+    <b>– </b>Hem sağlam bilgi üretme hem de ahlaklı ve
+    mutlu yaşama çabasıdır, şeklinde tanımlanmıştır.</p>
+<p>Felsefenin de diğer disiplinler gibi incelediği konuları, soruları sınıflandırdığı alanları
+    vardır.</p>
+</html>

@@ -1,0 +1,111 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<p><strong>TÜRKİYE’DE İKLİM ELEMANLARI</strong></p>
+<p><strong>A. SICAKLIK</strong></p>
+<p><strong>1. Yıllık Ortalama Sıcaklık Dağılışı</strong></p>
+<p><img src="images/cografya/iklim/i24.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<ul>
+    <li>En düşük ortalama sıcaklıklar, Kuzeydoğu Anadolu’da görülür.</li>
+    <li>En yüksek ortalama sıcaklıklar, Güneydoğu Anadolu Bölgesi’nin güneyi ile Akdeniz kıyılarında
+        görülür.
+    </li>
+    <li>En düşük sıcaklık ile en yüksek sıcaklık arasındaki fark 8°C den fazladır.</li>
+    <li>Sıcaklık genelde güneyden kuzeye gidildikçe azalmaktadır.</li>
+</ul>
+<p><strong>2. Temmuz Ayı Ortalama Sıcaklık Dağılışı</strong></p>
+<p><img src="images/cografya/iklim/i25.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<ul>
+    <li>Temmuz ayında, bölgeler arasındaki sıcaklık farkı Ocak ayına oranla daha azdır.</li>
+    <li>Temmuz ayında en düşük sıcaklık, Kuzeydoğu Anadolu, Karadeniz kıyıları ve Marmara’nın
+        kuzeyinde görülür.
+    </li>
+    <li>Bu ayda en yüksek sıcaklıklar , Güneydoğu Anadolu Bölgesi’nde görülür</li>
+</ul>
+<p><strong>3.Ocak Ayı Ortalama Sıcaklık Dağılışı</strong></p>
+<p><img src="images/cografya/iklim/i26.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<ul>
+    <li>Ocak ayında, bölgeler arasındaki sıcaklık farkı, Temmuz ayına oranla daha fazladır.</li>
+    <li>En düşük sıcaklıklar, Kuzeydoğu Anadolu’da görülür.</li>
+    <li>En yüksek sıcaklıklar Akdeniz kıyı kesiminde görülür.</li>
+</ul>
+<p><strong>B. BASINÇ ve RÜZGÂRLAR</strong></p>
+<p><strong>BASINÇ</strong></p>
+<p>Türkiye’yi en çok etkileyen gezici basınç merkezleri şunlardır:</p>
+<p><strong>a. Sibirya YB Merkezi:</strong> Sibirya üzerinde oluşur. Türkiye’yi kışın etkiler. Soğuk
+    ve kar getirir. 60° enlemleri çevresinde oluşmasına rağmen, soğumadan dolayı termik kökenlidir.
+</p>
+<p><strong>b. Asor YB Merkezi</strong>: Atlas Okyanusu üzerindeki Asor Adaları çevresinde, 30° DYB
+    alanına bağlı olarak oluşur.</p>
+<p>Kış mevsiminde Sibirya antisiklonu ile birleşerek Türkiye üzerinde etkili olduğunda İzlanda
+    siklonu Türkiye’ye sokulamaz. Bunun sonucunda da ülkemizde kışlar soğuk, sert ve kar yağışlı
+    geçer.</p>
+<p><strong>c. Basra AB Merkezi:</strong> Basra Körfezi çevresinin aşırı ısınmasıyla oluşur. Samyeli
+    rüzgârları vasıtasıyla Akdeniz ve Güneydoğu Anadolu bölgelerinde etkili olur. Havadaki nemi
+    kurutarak sıcaklık ve buharlaşmayı artırır. 30° Kuzey enlemi çevresinde oluşmasına rağmen,
+    ısınmadan dolayı termik kökenlidir. Türkiye’de yaz mevsiminde etkilidir.</p>
+<p><strong>d. İzlanda AB Merkezi:</strong> İzlanda üzerinde oluşur. Türkiye’de kışın ve ilkbaharda
+    etkili olur. Etkili olduğunda Türkiye’de kışlar ılık, kısa ve yağmurlu geçer. 60° enlemleri
+    çevresinde oluştuğu için dinamik kökenlidir.</p>
+<p><strong>RÜZGÂRLAR</strong></p>
+<p><strong>a. Soğuk Yerel Rüzgârlar</strong></p>
+<p><strong>Karayel:</strong> Balkanlar’daki yüksek basınç ve Basra Körfezi’ndeki alçak basınç sonucu
+    oluşur. Kuzeybatıdan soğuk ve kuru olarak eser. Kış mevsiminde Marmara Bölgesi ile Batı
+    Karadeniz’de sıcaklıkları azaltarak kar yağışına neden olur.</p>
+<p><strong>Yıldız:</strong> Kuzeyden eser. Karadeniz üzerinden geldiği için soğuk ve nemlidir.
+    Karadeniz Dağları’nda yağış bırakır.</p>
+<p><strong>Poyraz: </strong>Marmara, Karadeniz ve İç bölgelerimize kuzeydoğudan esen soğuk, kuru bir
+    rüzgardır. Doğu Avrupa’daki yüksek basıncın etkisi sonucunda oluşur. Kışın sıcaklıkları
+    azaltarak kar yağışına neden olur. Yaz poyrazı ise serin ve kuru olarak eser.</p>
+<table id="table19" border="9">
+    <tbody>
+    <tr>
+        <td width="100%">Ege Denizi’nde, yazın poyraz benzeri rüzgârlar tam kuzeyden eserler. Eski
+            Yunanlılar bu rüzgarlara, ticaret rüzgârı anlamında Etesia demişlerdir. Bugün de, Dünya
+            literatüründe Ege Denizi’nde yazın kuzeyden esen rüzgârlara <strong>etezyen</strong>
+            (etesien) denilmektedir.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>b. Sıcak Yerel Rüzgârlar</strong></p>
+<p><strong>Lodos:</strong> Kuzey Afrika’daki yüksek basınç ve Hazar Denizi’ndeki alçak basınç sonucu
+    oluşur. Marmara, Ege ve Akdeniz bölgelerinde etkilidir. Akdeniz’den geldiği için nemli ve
+    sıcaktır. İç kesimlere sokulurken yükseltinin etkisiyle soğuyarak yağışa neden olur. Kış
+    mevsiminde etkili olduğu bölgelerde, sıcaklığı artırarak kar erimelerine neden olur.</p>
+<p><strong>Kıble:</strong> Güneyden eser. İç kesimlerimizde etkili olur. Akdeniz Bölgesi’nde nemli
+    ve sıcak, iç kesimlerde ise, kuru ve sıcak olarak eser.</p>
+<p><strong>Keşişleme </strong>(Samyeli)<strong>:</strong> 30° enlemi çevresindeki dinamik yüksek
+    basıncın etkisi sonucu oluşur. Suriye Çölü’nden Güneydoğu Anadolu’ya doğru eser. Sıcak ve
+    kurudur. Bitkiler üzerinde kurutucu etkisi vardır.</p>
+<p><strong>C. NEM ve YAĞIŞLAR</strong></p>
+<ul>
+    <li>Türkiye’de yağış dağılışı haritası ile yerşekilleri haritası karşılaştırıldığında,
+        aralarında yakın ilgi bulunduğu tespit edilmektedir.
+    </li>
+    <li>Türkiye’de fazla yağış alan yerler (1000 mm. den fazla), Doğu ve Batı Karadeniz bölümleri
+        ile bazı Batı ve Doğu Anadolu dağlarıdır. En fazla yağış alan yer Rize çevresidir. (2400 mm.
+        den fazla)
+    </li>
+    <li>Türkiye’de orta derecede yağış alan yerler (500 mm – 1000 mm arası), Akdeniz, Ege, Marmara,
+        Orta Karadeniz, Doğu Anadolu ve İç Anadolu’nun kuzey kesimleridir.
+    </li>
+    <li>Türkiye’de az yağış alan yerler (500 mm nin altında), İç Anadolu, Güneydoğu Anadolu ve yer
+        yer Doğu Anadolu’nun çukur yerleridir. En az yağış alan yer, Tuz Gölü çevresi ile Iğdır
+        Ovası civarıdır. (250 mm nin altında)
+    </li>
+</ul>
+</html>

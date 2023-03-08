@@ -1,0 +1,117 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<p><strong>NEM ve YAĞIŞLAR</strong></p>
+<p>Atmosfer içerisindeki subuharına <strong>nem </strong>denir. Nem <strong>higrometre </strong>adı
+    verilen aletle ölçülür. Havanın nemi gram (gr) olarak ifade edilmektedir.</p>
+<p><strong>1. Mutlak Nem: </strong>1m<sup>3</sup> hava içerisinde bulunan subuharının gr olarak
+    ağırlığına <strong>mutlak nem </strong>denir. Mutlak nem, sıcaklık ve buharlaşmanın fazla olduğu
+    Ekvatoral bölgelerde çok, soğuk kutup bölgeleri ile yüksek dağlarda azdır.</p>
+<p><strong>2. Maksimum Nem:</strong> 1m<sup>3</sup> havanın belli sıcaklıkta taşıyabileceği en fazla
+    nem miktarına <strong>maksimum nem </strong>denir. Maksimum nem sıcaklığa bağlı olarak değişir.
+    Sıcaklık arttıkça hava genişleyeceğinden taşıyabileceği nem miktarı artar. Sıcaklık azaldıkça
+    hava daralır ve böylece taşıyabileceği nem miktarı azalır. Sıcaklıkla maksimum nem doğru
+    orantılıdır.</p>
+<p><strong>3. Bağıl Nem (Nisbi nem):</strong> Mutlak nemin maksimum neme oranı havanın neme doyma
+    oranını verir. Bu orana bağıl nem denir.<br/>
+    Yüzde (%) olarak ifade edilir.</p>
+<p><img src="images/cografya/iklim/i21.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><strong>Bağıl nem </strong>ile sıcaklık ters orantılıdır. Sıcaklık düştükçe maksimum nem
+    azalacağından, bağıl nem yükselir. Sıcaklık değerleri yükseldikçe, maksimum nem artacağından
+    <strong>bağıl nem </strong>düşer.</p>
+<p>Bağıl nem çöl bölgelerinde ve kara içlerinde az, Ekvatoral bölge gibi yağışlı bölgelerde ve deniz
+    kıyılarında çoktur.</p>
+<p><strong>YOĞUNLAŞMA</strong></p>
+<p>Havadaki su buharının, tekrar sıvı ya da katı haldeki suya dönüşmesine
+    <strong>yoğunlaşma </strong>denir.</p>
+<p>Yoğunlaşmanın meydana gelmesi havanın nem bakımından doyma noktasını aşmasına bağlıdır. Havadaki
+    bağıl nemin yüzde 100′e ulaştığı noktaya <strong>doyma noktası </strong>denir. Doyma noktası
+    aşıldığı takdirde hava su buharının fazlasını taşıyamaz. Fazla olan su buharı sıvı ya da katı
+    hale dönüşür.</p>
+<p>Yoğunlaşma sonucunda çok küçük su taneciklerinin biraraya gelmesiyle <strong>bulutlar</strong>
+    oluşur. Bulutlar oluştukları yükseklikler dikkate alınarak üç gruba ayrılır.</p>
+<p><strong>Yüksek bulutlar</strong> (Sirüs’ler)<strong>: </strong>Saçak, tüy, ya da ince iplikler
+    biçimindeki bulutlardır. Yüksek bulutlar genelde yağış getirmezler. Bunlar, bir siklonun
+    yaklaştığının ve havanın bozacağının habercisidirler.</p>
+<p><strong>Orta yükseklikteki bulutlar </strong>(Kümülüs’ler)<strong>:</strong> Kümeler biçimindeki
+    bulutlardır. Genelde alt kısımları düz ve siyah olur. Alt kısımlarının düz olmasının nedeni
+    yoğunlaşmanın aynı seviyeden başlamasıdır. Siyah olmasının nedeni ise iri su taneciklerinden
+    oluşmasıdır. Bu gruptaki bazı bulutlar yükseklere doğru büyür ve sağanak şeklinde şiddetli
+    yağmurlar getirir.</p>
+<p><strong>Alçak bulutlar </strong>(Stratüs’ler)<strong>:</strong> Yer’in üstünde, asılı gri bir
+    tabaka gibi duran koyu renkli bulutlardır. Genelde yağışlara yol açarlar.</p>
+<p>Belirli bir anda gökyüzünün bulutlarla kaplı kısmının tüm gökyüzüne olan oranına <strong>bulutluluk </strong>denir.
+    Bulutluluk oranı çeşitli aynalardan oluşan ve <strong>nefometre </strong>adı verilen bir aletle
+    ölçülür. Buna göre, gökyüzünün oranı 10 kabul edilerek;</p>
+<p>• 0 – 2 oranı <strong>Açık hava</strong>yı</p>
+<p>• 2 – 8 oranı <strong>Bulutlu hava</strong>yı</p>
+<p>• 8 – 10 oranı <strong>Kapalı hava</strong>yı ifade eder.</p>
+<p><strong>Sis</strong>, ise yeryüzüne çok yakın oluşmuş ya da yeryüzüne çökmüş bulutlardır. Sıcak
+    ve nemli bir havanın daha soğuk bir yerle teması sonucu sis oluşur. Sıcak ve soğuk hava
+    kütlelerinin karşılaşması da sislere yol açar.</p>
+<p><strong>YAĞIŞ TÜRLERİ ve ETKİLERİ </strong></p>
+<p>Atmosferdeki subuharının yoğunlaşarak sıvı ya da katı biçimde yeryüzüne düşmesine
+    <strong>yağış</strong> denir. Başlıca yağış türleri şunlardır:</p>
+<p><strong>1. Çiy:</strong> Havadaki subuharının soğuk zeminler üzerinde, su tanecikleri şeklinde
+    yoğunlaşmasıyla oluşur. Özellikle bahar aylarında görülür.</p>
+<p><strong>2. Kırağı: </strong>Havadaki subuharının soğuk cisimler üzerinde, 0°C den düşük
+    sıcaklıklarda kristaller şeklinde yoğunlaşmasıyla oluşur. Sonbahar aylarında ya da kış
+    başlarında görülür.</p>
+<p><strong>3. Kırç: </strong>Havadaki subuharının çok soğumuş ağaç dalları, tel, saçak, vb. cisimler
+    üzerinde yoğunlaşarak buz tabakası haline gelmesidir. Kırağıdan ayrılan yönü, kristallerin üst
+    üste yığılarak buz tabakası haline gelmesidir.</p>
+<p><strong>4. Yağmur</strong>: Bulutu oluşturan su taneciklerinin büyümesiyle oluşan su
+    damlalarıdır. Yoğunlaşmanın devam etmesi ile ağırlığı artan su damlaları yağış şeklinde yere
+    düşer.</p>
+<p><strong>5. Kar:</strong> Su buharının, yükseklerde 0°C nin altında yavaş yavaş yoğunlaşmasıyla
+    oluşan buz kristalleri yere düşer. Bu tür yağışlara <strong>kar</strong> denir.</p>
+<p><strong>6. Dolu:</strong> Hava sıcaklığının birden bire ve büyük ölçüde azalması sonucu yağmur
+    damlaları donarak buz parçacıkları halinde yere düşer. Bu yağışlara da<strong> dolu </strong>denir.
+</p>
+<p><strong>YAĞIŞLARIN OLUŞMA BİÇİMLERİ<br/>
+</strong>(OLUŞUM NEDENLERİNE GÖRE YAĞIŞLAR)</p>
+<p><strong>1. Yamaç Yağışları </strong>(Orografik Yağışlar)</p>
+<p>Nemli hava kütlelerinin, yatay yönde hareket ederken dağ yamaçlarına çarparak yükselmesi ve
+    soğuması sonucu oluşan yağışlardır.</p>
+<p>Dünya’da en çok, Güneydoğu Asya’da, Orta kuşaktaki karaların batı kıyılarında ve sıcak kuşaktaki
+    karaların doğu kıyılarında görülür.</p>
+<p><img src="images/cografya/iklim/i22.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p>Türkiye’de ise, Toroslar’ın güneybatıya, Karadeniz Dağları ile Yıldız Dağları’nın kuzeye bakan
+    yamaçlarında fazlaca görülür.</p>
+<p><strong>2. Konveksiyonel Yağışlar </strong>(Yükselim Yağışları)</p>
+<p>Güneşli ve rüzgârsız günlerde ısınan hava yükselerek soğur. Belli bir yükseltiden sonra nemin
+    yoğunlaşması ile yağış meydana gelir.</p>
+<p>Dünya’da en çok, Ekvatoral bölgede rastlanır. Türkiye’de ise, İç Anadolu Bölgesi’nde İlkbahar’da
+    görülen yağışlar konveksiyonel yağışlardır. Bu yağışlar halk arasında <strong>kırkikindi
+        yağışları </strong>olarak bilinir.</p>
+<p><strong>3. Cephe Yağışları </strong>(Frontal Yağışlar)</p>
+<p>Sıcak ve soğuk hava kütlelerinin karşılaşma alanlarında meydana gelen yağışlardır.</p>
+<p><img src="images/cografya/iklim/i23.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p>Dünya’da en çok, Orta kuşakta ve 60° enlemleri civarında görülür. Türkiye’de, özellikle kış
+    mevsiminde görülen yağışların çoğu cephesel kökenlidir.</p>
+<p><strong>YAĞIŞLARIN YERYÜZÜNE DAĞILIŞI</strong></p>
+<p>Genel hava dolaşımı, kara ve deniz dağılışı, yerşekilleri yükselti gibi nedenlerden dolayı
+    yeryüzünün her tarafı aynı oranda yağış almaz.</p>
+<p>Dünya üzerinde;</p>
+<ul>
+    <li><strong>En yağışlı bölgeler; </strong>Ekvatoral bölge, Muson bölgeleri ve Orta kuşak
+        karalarının batı kıyılarıdır.
+    </li>
+    <li><strong>En kurak bölgeler ise;</strong> Orta kuşak karalarının dağlarla çevrili iç
+        kısımları, dönenceler civarı, çevresine göre, alçakta kalmış yerler ve kutup çevreleridir.
+    </li>
+</ul>
+
+</html>

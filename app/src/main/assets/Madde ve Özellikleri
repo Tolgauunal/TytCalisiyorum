@@ -1,0 +1,155 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    
+    </style>
+</head>
+<h1>Madde ve Özellikleri</h1>
+<h2><a name="1"></a>Özkütle &#8211; Kütle &#8211; Hacim</span></h2>
+<p><strong>Kütle (m):</strong></span> Bir maddenin sahip olduğu madde
+    miktarına kütle denir. Kütle “m” harfi ile gösterilir.</p>
+<p>Kütle, bir cisimdeki madde miktarının ölçüsüdür. Aynı zamanda cismin hareket etmeye karşı
+    gösterdiği direnç olarak da adlandırılabilir. Kütle her yerde aynı değere sahiptir.</p>
+<p>Kütlenin SI birim sistemindeki birimi kilogram’dır. Bu kg. olarak kısaltılır. Kullanılan diğer
+    birimler gram, ton ve pound’dur. Görelilik teorisine göre duran kütle m ile enerji E arasında E
+    = mc2 bağlantısı olduğundan enerji birimi olan elektronVolt (eV) da kütle için kullanılabilir.
+    Özellikle kütle ve enerjinin birbirine dönüşebildiği parçacık fiziğinde eV sık kullanılmaktadır.
+    (yaklaşık 1 eV=1.783 × 10-36 kg).</p>
+<p><strong>Hacim:</strong></span> Bir cismin evrende kapladığı yere
+    hacim denir. Hacim “V” harfiyle gösterilir ve Uluslararası Birim Sistemi (SI)’de birimi m³’tür.
+    En yaygın hacim birimleri metreküp, desimetreküp, santimetreküp, milimetreküp’tür.</p>
+<table class="prettytable" style="width: 100%;height: 361px">
+    <tbody>
+    <tr style="height: 46px">
+        <th style="text-align: center;background-color: #ef9b18;width: 35.5111%;height: 46px"
+            width="179"><span style="color: #ffffff">Cisim</span></th>
+        <th style="text-align: center;background-color: #ef9b18;width: 24.5522%;height: 46px"
+            width="179"><span style="color: #ffffff">Denklem</span></th>
+        <th style="text-align: center;background-color: #ef9b18;width: 38.883%;height: 46px"
+            width="179"><span style="color: #ffffff">Değişkenler</span></th>
+    </tr>
+    <tr style="height: 27px">
+        <td style="width: 35.5111%;height: 27px"><strong>Küp:</strong></td>
+        <td style="width: 24.5522%;text-align: center;height: 27px">a<sup>3</sup>=a.a.a</td>
+        <td style="width: 38.883%;height: 27px"><i>a</i> = kübün bir kenarının uzunluğu</td>
+    </tr>
+    <tr style="height: 24px">
+        <td style="width: 35.5111%;height: 24px"><strong>Dikdörtgen prizma:</strong></td>
+        <td style="width: 24.5522%;text-align: center;height: 24px">e.b.d</td>
+        <td style="width: 38.883%;height: 24px">e = <i>e</i>n, b = <i>b</i>oy, d = <i>d</i>erinlik
+        </td>
+    </tr>
+    <tr style="height: 48px">
+        <td style="width: 35.5111%;height: 48px"><strong>Silindir (dairesel prizma):</strong></td>
+        <td style="width: 24.5522%;text-align: center;height: 48px">π.r<sup>2</sup>.h</td>
+        <td style="width: 38.883%;height: 48px"><i>r</i> = dairesel yüzün yarıçapı, <i>h</i> =
+            dairesel plakalar arası mesafe (yükseklik)
+        </td>
+    </tr>
+    <tr style="height: 48px">
+        <td style="width: 35.5111%;height: 48px"><strong>Yüksekliğe bağlı olmayan, sabit bir alana
+            sahip herhangi bir prizma:</strong></td>
+        <td style="width: 24.5522%;text-align: center;height: 48px">A.h</td>
+        <td style="width: 38.883%;height: 48px"><i>A</i> = taban alanı, <i>h</i> = yükseklik</td>
+    </tr>
+    <tr style="height: 48px">
+        <td style="width: 35.5111%;height: 48px"><strong>Küre:</strong></td>
+        <td style="width: 24.5522%;text-align: center;height: 48px">4/3 . π.r<sup>3</sup></td>
+        <td style="width: 38.883%;height: 48px"><i>r</i> = kürenin yarıçapı (bu formulün türetilmesi
+            Küre maddesi altında ayrıntılı olarak görülebilir)
+        </td>
+    </tr>
+    <tr style="height: 24px">
+        <td style="width: 35.5111%;height: 24px"><strong>Elipsoid:</strong></td>
+        <td style="width: 24.5522%;text-align: center;height: 24px">4/3 . π.a.b.c</td>
+        <td style="width: 38.883%;height: 24px"><i>a</i>, <i>b</i>, <i>c</i> = elipsoidin yarı
+            eksenleri
+        </td>
+    </tr>
+    <tr style="height: 48px">
+        <td style="width: 35.5111%;height: 48px"><strong>Piramit:</strong></td>
+        <td style="width: 24.5522%;text-align: center;height: 48px">1/3 A.h</td>
+        <td style="width: 38.883%;height: 48px"><i>A</i> = taban alanı, <i>h</i> = yükseklik
+            (tabandan en üst köşeye kadar)
+        </td>
+    </tr>
+    <tr style="height: 48px">
+        <td style="width: 35.5111%;height: 48px"><strong>Koni (dairesel tabanlı piramit):</strong>
+        </td>
+        <td style="width: 24.5522%;text-align: center;height: 48px">(1/3)π.r<sup>2</sup>.h</td>
+        <td style="width: 38.883%;height: 48px"><i>r</i> = tabandaki dairenin yarıçapı, <i>h</i> =
+            tabandan en uca kadar olan mesafe (yükseklik)
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p><strong>Özkütle (d):</strong> </span>Bir maddenin birim hacminin
+    kütlesine özkütle denir. Özkütle “d” harfi ile gösterilir. Maddelerin 1 cm3’ünün gram cinsinden
+    kütlesine öz kütle denir. Öz kütle (d) ile gösterilir.</p>
+<p>Kütle (m) ve hacim (V) arasında d=m/v bağıntısı vardır. Öz kütlenin birimi g/cm3 dür.</p>
+<p><strong>&#8211; </strong></span>Saf maddelerin (element ve bileşik)
+    öz kütleleri sabittir. Karışımların öz kütleleri ise sabit değildir.<br/>
+    <strong>&#8211; </strong></span>Bir maddenin öz kütlesinden söz
+    ederken sabit bir sıcaklıktaki öz kütlesinden söz edilmelidir.<br/>
+    <strong>&#8211; </strong></span>Sıcaklık değiştiğinde maddenin
+    hacmi değişeceğinden öz kütlesi de değişir. Özellikle gazlardaki değişiklik daha
+    belirgindir.<br/>
+    <strong>&#8211; </strong></span>Öz kütle, maddenin karakteristik
+    özelliği olmasına rağmen yalnız öz kütlesi bilinen bir maddenin hangi madde olduğu
+    anlaşılamayabilir.<br/>
+    <strong>&#8211; </strong></span>Bir maddenin hangi madde olduğunun
+    anlaşılabilmesi için birden fazla ayırt edici özelliğinin incelenmesi gerekir.<br/>
+    <strong>&#8211; </strong></span>Kütlesi artan bir maddenin hacmide
+    artar dolayısıyla, hacimle kütle doğru orantılı değiştiği için öz kütle değişmez.</p>
+<h2><a name="2"></a>Dayanıklılık</span></h2>
+<p>Canlı ve cansız varlıkların dışarıdan kendilerine uygulanan kuvvete göstermiş oldukları dirence
+    <strong>dayanıklılık</strong></span> denir. Cisimlere dayanma
+    sınırından fazla kuvvet uygulandığında şekli bozulur, bükülme, çökme gibi etkiler görülür.
+    Dayanıklılık cismin şekline, boyutlarına ve yapıldığı maddenin cinsine bağlıdır. Dayanıklılık
+    cismin kesit alanının hacmine bölünmesiyle bulunur.</p>
+<p><strong>Kesit Alanı Nedir?</strong></span></p>
+<p>Cisimlerin enlemesine veya boylamasına kesilmesi ile oluşan yüzey alanıdır. Dayanıklılık
+    hesaplamalarında kullanacağımız kesit alanı ise cisme etki eden kuvvete, dik olan en büyük yüzey
+    alandır. Örneğin Silindirin kesit alanı dairenin alanına eşittir, Küpün kesit alanı Karenin
+    alanına eşittir.</p>
+<h2><a name="3"></a><strong>Adezyon ve Kohezyon</strong></span></h2>
+<p>Molekülleri bir arada tutan en önemli faktör moleküller arası çekim kuvvetidir. Moleküller arası
+    çekim kuvveti zayıf olan moleküller birbiri üzerinde kayar. Sıvı molekülleri ile başka madde
+    molekülleri arasında da bir çekim kuvveti oluşur. Aynı moleküller arası çekim kuvvetine <strong>birbirini tutma(kohezyon)</strong></span> kuvveti denir.
+    Farklı tür moleküller arasındaki çekme kuvvetine ise <strong>yapışma (adezyon)</strong> <strong>kuvveti</strong></span>
+    denir.</p>
+<p>Örneğin su damlasının yaprağa veya cama yapışmasını sağlayan kuvvet yapışma kuvvetidir. Su dolu
+    bir bardakta ise su moleküllerini bir arada tutan kuvvet tutma kuvveti, bardak ile su
+    molekülleri arasındaki kuvvet yapışma kuvvetidir.</p>
+<h3>Kılcallık</span></h3>
+<p>Yapışma ve tutma olayı sonucunda sıvının kılcal bir boruda yükselmesi olayına kılcallık denir.
+    Metrelerce yükseklikteki ağaçların ve diğer bitkilerin topraktan aldığı suyu yapraklara iletmesi
+    bitkilerde bulunan kılcal borular sayesinde olur. Kılcallık sıvının yalnızca yukarı yükselmesini
+    değil, her yöne yayılmasını da sağlayabilir. Kâğıt havlunun suyu emerken veya kesme şekerin
+    ıslanırken sıvının her yöne yayıldığı görülür. Su ve kağıt havlu arasında yapışma, su
+    molekülleri arasında da tutma kuvveti kâğıt havluda suyun ilerlemesini sağlar. Kılcallık
+    olayında sıvının yükselme miktarı, sıvının yükseldiği maddenin yapısında bulunan<br/>
+    boruların kesitine bağlıdır. Boruların kesiti azaldıkça yani boru inceldikçe kılcallık artar.
+</p>
+<h3>Yüzey Gerilimi</span></h3>
+<p>Sıvı moleküllerinin birbirlerine tutma yani kohezyon kuvveti uyguladıklarını biliyoruz.
+    Moleküller bu tutma kuvveti ile her yöne doğru çekilmektedir ancak yüzeydeki moleküllerin
+    üstünde başka molekül bulunmadığından onları yukarı doğru çeken kuvvet yoktur, yalnızca aşağı ve
+    yanlara doğru çekilirler. Bu kuvvetlerin farkı yüzeydeki moleküller arasında bir gerilmeye neden
+    olur ve bu gerilmeye yüzey gerilimi adı verilir. Su damlacıkları yüzey geriliminin etkisiyle
+    yüzey alanını en aza indirerek küre şeklini alır. Yüzey gerilimi sayesinde su üzerinde bazı
+    böcekler yürüyebilmektedir.</p>
+<h3>Hidrofobik ve Hidrofilik Yüzeyler</span></h3>
+<p>Hidrofob, sudan çekinen yüzeylere; hidrofil ise suyu seven ve suyu çeken yüzeylere denilmektedir.
+    Üzerinde su damlası düşen yüzeyde su damlası,</p>
+<p><strong> </strong>Yüzeyde yayılma eğilimi
+    gösteriyorsa, bu yüzeye hidrofilik yüzey denilmektedir.<br/>
+    <strong> </strong>Yüzeyde küresel bir biçimde
+    duruyorsa (yuvarlak damlacık gibi), bu yüzeye hidrofobik yüzey denilmektedir.</p>
+</html>

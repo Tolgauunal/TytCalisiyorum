@@ -1,0 +1,210 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2><strong>ORAN – ORANTI</strong></h2>
+<h3><strong> </strong><strong>A. ORAN</strong></h3>
+<p>a ve b reel sayılarının en az biri sıfırdan farklı olmak üzere, <img
+        src="images/matematik/oranoranti/oran1.gif"
+        alt="derscalisiyorum.com.tr"/> ye a nın b ye oranı denir.</p>
+<table id="table77" border="5">
+    <tbody>
+    <tr>
+        <td width="73%">• Oranlanan çokluklardan ikisi aynı anda sıfır olamaz.• Oranın payı ya da
+            paydası sıfır olabilir.</p>
+            <p>• Oranlanan çoklukların birimleri aynı tür olmalıdır.</p>
+            <p>• Oranın sonucu birimsizdir.</td>
+    </tr>
+    </tbody>
+</table>
+<h3><strong>B. ORANTI</strong></h3>
+<p>En az iki oranın eşitliğine orantı denir. Yani <img
+        src="images/matematik/oranoranti/oran1.gif"
+        alt="derscalisiyorum.com.tr"/> oranı ile <img
+        src="images/matematik/oranoranti/oran2.gif"
+        alt="derscalisiyorum.com.tr"/> nin eşitliği olan</p>
+<p><img src="images/matematik/oranoranti/oran3.gif"
+        alt="derscalisiyorum.com.tr"/><br/>
+    ye orantı denir.</p>
+<table id="table78" border="5">
+    <tbody>
+    <tr>
+        <td width="73%"><img
+                src="images/matematik/oranoranti/oran3.gif"
+                alt="derscalisiyorum.com.tr"/>ise, a : c = b : d dir. Buradaa ile d ye dışlar, b ile
+            c ye içler denir.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<h5><strong>C. ORANTININ ÖZELİKLERİ</strong></h5>
+<p><strong> </strong></p>
+<p><strong><img
+        src="images/matematik/oranoranti/oran4.gif"
+        alt="derscalisiyorum.com.tr"/></strong> m ile n den en az biri sıfırdan farklı olmak üzere,
+</p>
+<p>3)</p>
+<p><img src="images/matematik/oranoranti/oran5.gif"
+        alt="derscalisiyorum.com.tr"/>ise, (k ya orantı sabiti denir.)</p>
+<blockquote><p>• <img
+        src="images/matematik/oranoranti/oran6.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+    <p>• <img src="images/matematik/oranoranti/oran7.gif"
+              alt="derscalisiyorum.com.tr"/></p>
+    <p>• <img src="images/matematik/oranoranti/oran8.gif"
+              alt="derscalisiyorum.com.tr"/></p>
+    <p>• <img src="images/matematik/oranoranti/oran9.gif"
+              alt="derscalisiyorum.com.tr"/></p>
+    <p>• <img src="images/matematik/oranoranti/oran10.gif"
+              alt="derscalisiyorum.com.tr"/></p>
+    <p>• <img src="images/matematik/oranoranti/oran11.gif"
+              alt="derscalisiyorum.com.tr"/></p></blockquote>
+<table id="table79" border="5">
+    <tbody>
+    <tr>
+        <td width="73%">a : b : c = x : y : z ise, <img
+                src="images/matematik/oranoranti/oran12.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table id="table80" border="5">
+    <tbody>
+    <tr>
+        <td width="73%"><img
+                src="images/matematik/oranoranti/oran13.gif"
+                alt="derscalisiyorum.com.tr"/> a = x <strong>×</strong> k, b = y <strong>×</strong>
+            k, c = z <strong>×</strong>k,<img
+                    src="images/matematik/oranoranti/oran14.gif"
+                    alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<h3><strong>D. ORANTI ÇEŞİTLERİ</strong></h3>
+<p><strong>1. Doğru Orantılı Çokluklar</strong></p>
+<p>Orantılı iki çokluktan biri artarken diğeri de aynı oranda artıyorsa ya da biri azalırken diğeri
+    de aynı oranda azalıyorsa bu iki çokluk doğru orantılıdır denir.</p>
+<p>x ile y çoklukları doğru orantılı ve k pozitif bir doğru orantı sabiti olmak üzere, y = k × x
+    ifadesine <strong>doğru orantının denklemi</strong> denir. Bu denklemin grafiği diğer sayfada
+    verilmiştir.</p>
+<p><strong>x ile y çokluklarının doğru orantılı olduğu grafik aşağıdaki gibidir.<br/>
+    (x &gt; 0 ve y &gt; 0)</strong></p>
+<blockquote><p><strong> </strong></p></blockquote>
+<p><img src="images/matematik/oranoranti/oran15.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<table id="table81" border="5">
+    <tbody>
+    <tr>
+        <td width="73%">• İşçi sayısı ile üretilen ürün miktarı doğru orantılıdır.
+            <!-- /adman_adcode (middle) -->• Bir aracın hızı ile aldığı yol doğru orantılıdır.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p><strong>2. Ters Orantılı Çokluklar</strong></p>
+<p>Orantılı iki çokluktan biri artarken diğeri aynı oranda azalıyorsa ya da biri azalırken diğeri
+    aynı oranda artıyorsa bu iki çokluk ters <strong>orantılıdır</strong> denir.</p>
+<p>x ile y çoklukları ters orantılı ve k pozitif bir ters orantı sabiti olmak üzere, <img
+        src="images/matematik/oranoranti/oran16.gif"
+        alt="derscalisiyorum.com.tr"/> ifadesine ters orantının denklemi denir.</p>
+<p><strong>x ile y çokluklarının ters orantılı olduğu grafik aşağıdaki gibidir.<br/>
+    (x &gt; 0, y &gt; 0 ve k &gt; 0)</strong></p>
+<blockquote><p><img
+        src="images/matematik/oranoranti/oran17.gif"
+        alt="derscalisiyorum.com.tr"/></p></blockquote>
+<table id="table82" border="5">
+    <tbody>
+    <tr>
+        <td width="73%">• İşçi sayısı ile işin bitirilme süresi ters orantılıdır.• Bir aracın belli
+            bir yolu aldığı zaman ile aracın hızı ters orantılıdır.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<table id="table83" border="5">
+    <tbody>
+    <tr>
+        <td valign="top" width="73%">a, b ile doğru c ile ters orantılı ve k pozitif bir orantı
+            sabiti olmak üzere, <strong>a/b x c=k dır</strong></td>
+    </tr>
+    </tbody>
+</table>
+<h3><strong>E. ARİTMETİK ORTALAMA</strong></h3>
+<p>n tane sayının aritmetik ortalaması bu n sayının toplamının n ye bölümüdür.</p>
+<p>Buna göre, x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, … , x<sub>n</sub> sayılarının aritmetik
+    ortalaması, <img
+            src="images/matematik/oranoranti/oran19.gif"
+            alt="derscalisiyorum.com.tr"/> dir.</p>
+<p>• a ile b nin aritmetik ortalaması</p>
+<p>• a, b, c biçimindeki üç sayının aritmetik ortalaması,</p>
+<p>• n tane sayının aritmetik ortalaması x olsun.<br/>
+    Bu n tane sayının herbiri; A ile çarpılır, B ilave edilirse oluşan yeni sayıların aritmetik
+    ortalaması Ax + B olur.</p>
+<h3><strong>F. GEOMETRİK ORTALAMA</strong></h3>
+<p>n tane sayının geometrik ortalaması bu sayıların çarpımının n. dereceden köküdür.r.</p>
+<p>Buna göre,</p>
+<p>x<sub>1</sub>, x<sub>2</sub>, x, … , x<sub>n</sub> sayılarının geometrik ortalaması <img
+        src="images/matematik/oranoranti/oran20.gif"
+        alt="derscalisiyorum.com.tr"/>dir.</p>
+<p>• a ile b nin geometrik ortalaması <strong>(orta orantılısı) <img
+        src="images/matematik/oranoranti/oran21.gif"
+        alt="derscalisiyorum.com.tr"/></strong> dir.</p>
+<p>• a, b, c biçimindeki üç sayının geometrik ortalaması, <img
+        src="images/matematik/oranoranti/oran22.gif"
+        alt="derscalisiyorum.com.tr"/> dir.</p>
+<p>• a ile b nin aritmetik ortalaması geometrik ortalamasına eşit ise<br/>
+    a = b dir.</p>
+<h3><strong>G. HARMONİK </strong>(AHENKLİ)<strong> ORTA</strong></h3>
+<p>x<sub>1</sub>, x<sub>2</sub>, x<sub>3</sub>, … , x<sub>n</sub> sayılarının harmonik ortalaması
+</p>
+<blockquote><p><img
+        src="images/matematik/oranoranti/oran23.gif"
+        alt="derscalisiyorum.com.tr"/></p></blockquote>
+<ul>
+    <li>a ile b nin harmonik ortalaması</li>
+</ul>
+<blockquote><p><img
+        src="images/matematik/oranoranti/oran24.gif"
+        alt="derscalisiyorum.com.tr"/></p></blockquote>
+<ul>
+    <li>a, b, c gibi üç sayının harmonik ortalaması</li>
+</ul>
+<blockquote><p><img
+        src="images/matematik/oranoranti/oran25.gif"
+        alt="derscalisiyorum.com.tr"/></p></blockquote>
+<ul>
+    <li>İki pozitif sayının aritmetik ortalaması A, geometrik ortalaması G ve harmonik ortalaması H
+        ise,
+    </li>
+</ul>
+<blockquote>
+    <blockquote><p><strong>i)</strong> G<sup>2</sup> = A <span style="font-family: Symbol;"><strong>×</strong></span>
+        H dır.</p>
+        <p><strong>ii)</strong> H <span style="font-family: Symbol;">£</span> G <span
+                style="font-family: Symbol;">£</span> A dır.</p></blockquote>
+</blockquote>
+<h5><strong>H. DÖRDÜNCÜ ORANTILI</strong></h5>
+<p><strong> <img
+        src="images/matematik/oranoranti/oran26.gif"
+        alt="derscalisiyorum.com.tr"/></strong>orantısını sağlayan x sayısına a, b, c sayıları ile
+    dördüncü orantılı olan sayı denir.</p>
+<p><img src="images/matematik/oranoranti/oran27.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<table id="table5" border="5" width="89%">
+    <tbody>
+    <tr>
+        <td width="73%">• İşçi sayısı ile üretilen ürün miktarı doğru orantılıdır.• Bir aracın hızı
+            ile aldığı yol doğru orantılıdır.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0"></table>
+</html>

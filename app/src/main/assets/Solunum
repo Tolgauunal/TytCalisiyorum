@@ -1,0 +1,142 @@
+<html>
+<style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+</style>
+<h1><span style="color: #ff0000">Solunum</span></h1>
+<ul>
+    <li><a href="#1"><strong>Fermantasyon</strong></a></li>
+    <li><a href="#2"><strong>Oksijenli solunum</strong></a></li>
+    <li><a href="#3"><strong>Oksijensiz solunum</strong></a></li>
+</ul>
+<p>Canlılar yaşamsal faaliyetlerini gerçekleştirebilmek için enerjiye ihtiyaç duyarlar. Hücre
+    zarından geçiş olaylarından bazıları, hareket, sinirsel iletim gibi pek çok yaşamsal faaliyet
+    ATP harcanarak gerçekleştirilir. Bu ATP’nin eldesi ise besinlerin parçalanması ile sağlanır.
+    Besin moleküllerinin kimyasal bağlarında bulunan enerji, çeşitli enzimler yardımıyla ve bazı
+    reaksiyon zincirleri sonucunda ATP’ye ve ısıya dönüştürülür.</p>
+<p>Her üç olay da canlı hücreler içerisinde meydana gelir ve canlının ihtiyaç duyduğu enerjinin
+    üretimini sağlar.</p>
+<h2 style="text-align: center"><a name="1"></a><span style="color: #000080">Fermantasyon</span></h2>
+<p>Glikoz moleküllerinin etil alkol, laktik asit, asetik asit gibi organik moleküllere kadar
+    parçalanmasıdır. Oluşan moleküller yeterince küçük değildir yani koparılan bağ sayısı azdır. Bu
+    nedenle fermantasyon sonucu oluşan ATP, solunum tepkimelerine göre oldukça azdır.</p>
+<p>Bilmemiz gereken 2 çeşit fermantasyon vardır:</p>
+<p><strong> Etil alkol fermantasyonu</strong><br/>
+    <strong> Laktik asit fermantasyonu</strong></p>
+<p>Her iki fermantasyon da glikoliz evresi ile başlar ve her ikisinin de tamamı sitoplazmada
+    gerçekleşir.</p>
+<h3><span style="color: #0000ff">Etil Alkol Fermantasyonu</span></h3>
+<p>1 molekül glikozdan 2 molekül etil alkol, 2 CO2 , ATP ve ısı elde edilmesidir.</p>
+<p>Pirüvik asit 3C’lu bir bileşikken etil alkol 2C’ludur. Bu nedenle pirüvik asit molekülü C
+    (karbon) kaybeder ki bu da CO2 çıkışı ile sağlanır. Bu aşamada asetaldehit adı verilen bir ara
+    molekül oluşur. Ayrıca üretilen ve tüketilen ATP sayıları önemsizdir.</p>
+<p>NAD molekülü glikolizde yakaladığı hidrojenleri Asetaldehit molekülüne aktararak yükseltgenir.
+    Yani etil elkol fermantasyonunda son elektron alıcısı asetaldehittir.</p>
+<p>Etil alkol fermantasyonu prokaryot ya da ökaryot bazı hücrelerde gerçekleşebilir. Üzüm suyunu
+    sirkeye dönüştüren bakteriler, bira mayası, bazı bitki tohumları etil alkol fermantasyonu
+    yapabilirler. Bira mayasının oksijensiz ortamda etil alkol fermantasyonu yapması sonucu oluşan
+    CO2 , mayalanan hamurun kabarmasına neden olur. Uyku halindeki bazı tohumlarda oksijenli solunum
+    yerine etil alkol fermantasyonu yapılır.</p>
+<h3><span style="color: #0000ff">Laktik Asit Fermantasyonu</span></h3>
+<p>Glikolizin son ürünü olan piruvattan laktik asit oluşmasıdır. Yoğurt bakterilerinde, yeterli O2
+    gelmediği durumlarda omurgalıların kas hücrelerinde gerçekleşir.</p>
+<p><span style="color: #000000"><strong> &#8211;</strong> </span>Turşu ve salamura zeytin üretiminde
+    de laktik asit fermantasyonundan yararlanılır. Bazı sucuk ve salamlar da laktik asit
+    fermantasyonu ile olgunlaştırılır.</p>
+<p><span style="color: #000000"><strong> &#8211;</strong> </span>Laktik asit fermantasyonu sonucunda
+    1 molekül glikozdan 2 molekül laktik asit oluşur. Toplam 4 ATP (net 2 ATP) sentezlenirken bir
+    miktar ısı açığa çıkar.</p>
+<p><span style="color: #000000"><strong> &#8211;</strong> </span>Laktik asit birikimi yorgunluğa
+    neden olur. Yoğurt yediğimizde uykumuzun gelmesi laktik asitten dolayıdır.</p>
+<p><span style="color: #000000"><strong> &#8211;</strong> </span>Yoğun egzersizlerde çizgili
+    kaslarımızda laktik asit birikir. Bu da yorgunluğa neden olur. Yorgunluğun ana sebeplerinden
+    biri kas içi pH’nın düşmesidir.</p>
+<p><span style="color: #000000"><strong> &#8211;</strong> </span>Dinlenme ile kaslarımıza yeterli
+    oksijen geldiğinde laktik asit piruvata dönüştürülür. O2’li solunumda kullanılır. Yorgunluk
+    hissi de ortadan kalkar.</p>
+<h2 style="text-align: center"><a name="2"></a><span style="color: #000080">Oksijenli Solunum (Aerobik Solunum)</span>
+</h2>
+<p>Oksijenli solunum, aerobik solunum olarak da bilinir. Organik besinlerin Oksijen yoluyla ATP elde
+    etme işidir. Hücrede besinlerdeki kimyasal enerjinin oksijen kullanarak açığa çıkarılması
+    demektir. Biyoloji ders kitapları sık sık hücresel solunum sırasında glikoz molekülü başına 38
+    ATP molekülü (2 glikolizden, 2 Krebs döngüsünden, 34 kadar elektron taşıma sisteminden)
+    üretildiğini söylese de[1] sızıntılı zarların yanı sıra mitokondriyal matrikse pirüvat ve ADP
+    hareketinin maliyetinden dolayı bu sayıya asla ulaşılmaz, mevcut tahminler glikoz başına 29 ilâ
+    30 ATP dolayındadır.[1]</p>
+<p>C6H12O6 (s) + 6 O2 (g) → 6 CO2 (g) + 6 H2O + 32 ATP</p>
+<p>Üç şekilde incelenir:</p>
+<p><strong>Glikoliz (sitoplazmada)</strong><br/>
+    <strong>Krebs devri (Karbon(C) yolu tepkimeleri) (mitokondrinin matriksinde)</strong><br/>
+    <strong>Elektron taşıma sistemi (Hidrojen(H) yolu tepkimeleri) (mitokondrinin
+        kristasında)</strong></p>
+<h3><span style="color: #0000ff">Glikoz</span></h3>
+<p>Bütün hücresel solunum tepkimeleri glikoliz ile başlar. Glikoliz, glukozun hücrenin
+    sitoplazmasında enzimlerle 2 molekül piruvata (pirüvik aside) yıkıldığı evredir. Glikozun
+    aktifleşmesi ve reaksiyonun başlayabilmesi için aktivasyon enerjisi olarak 2 ATP harcanır.</p>
+<p><strong><span style="color: #000000">&#8211;</span> </strong>Bir glikoz molekülü başına, substrat
+    düzeyinde fosforilasyon ile toplam 4 ATP üretilir. Net kazanç 2 ATP’dir. 2 NAD+ indirgenir yani
+    2 NADH+H+ oluşur.</p>
+<p><strong><span style="color: #000000">&#8211;</span> </strong>Sitoplazmada gerçekleşir.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Oksijene gerek duyulmaz. CO2
+    kullanılmaz ve de oluşmaz.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Glikoliz, hemen hemen tüm
+    canlılarda sitoplazmada aynı enzimlerle gerçekleşir. Bunun nedeni her aşamada görev alan
+    enzimlerin tüm canlılarda bulunmasıdır.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Glikolizin son ürünü olan
+    piruvatlar ve NADH’lar ortamda oksijen varsa, mitokondri matriksine (mitokondri iç sıvısına)
+    geçer. (Oksijenin dolaylı etkisi)</p>
+<h3><span style="color: #0000ff">Krebs Döngüsü</span></h3>
+<p>Sitrik asit döngüsü de denir. Karbondioksit çıkışının olduğu evredir. Substrat düzeyinde
+    fosforilasyon ile az sayıda ATP sentezi gerçekleşir. NAD ve FAD molekülleri hidrojen yakalayarak
+    indirgenir.</p>
+<p>Sitoplazmada glikoliz sonucu oluşan pirüvik asit molekülleri mitokondriye girerek Asetil Co-A
+    molekülüne dönüştürülür. Pirüvik asit 3C’lu,Asetil Co-A ise 2 C’ludur; bu nedenle CO2 çıkışı
+    gerçekleşir. Bu esnada NAD molekülü de hidrojen alarak indirgenir, NADH ‘ye dönüşür. Bu evre
+    Krebs’e hazırlık olarak da tanımlanabilir.</p>
+<p>Krebs döngüsünde NAD’den başka bir hidrojen taşıyısı daha görev yapar: FAD (Flavin Adenin
+    dinükleotid). NAD kadar fazla sayıca kullanılmasa da bu molekül de hidrojenleri ETS’ye
+    taşır.</p>
+<p>Krebs döngüsü reaksiyonları enzimatik özelliktedir ve ökaryotlarda mitokondrinin sıvı kısmı olan
+    matrikste; prokaryotlarda ise sitoplazmada gerçekleşir.</p>
+<h3><span style="color: #0000ff">Elektron Taşıma Sistemi</span></h3>
+<p>Mitokondri iç zarlarinda (krista) gerçekleşir. Glikolizde ve krebste açığa çıkan hidrojenlerin
+    ETS&#8217;den geçerek yine ETS elemanı olan oksijen ile birleşerek suyun oluştuğu evredir.</p>
+<p>NAD ve FAD yükseltgenmesiyle hidrojenler ortama bırakılır. Hidrojen 1 elektron ve 1 protondan
+    oluşur. Hidrojen elektron ve proton olarak ayrılır ve elektronu ETS&#8217;ye aktarır. Burada
+    elektronlar sırasıyla ,ETS elemanları olan, NADH-Q redüktaz, Ubikinon redüktaz, Sitokrom
+    redüktaz, Sitokrom C, Sitokrom oksidaz ve son olarak oksijene doğru ilerlerken, açığa
+    çıkardıkları enerjilerin önemli bir kısmı matrixteki protonların mitakondrinin iç ve dış zarı
+    arasındaki boşluğa pompalanmasında kullanılır.(mitokondrinin iç zarı protonlara geçirgen
+    değildir.) Bir kısmı da ortama ısı olarak verilir. (ETS elemanları elektron alma isteklerine
+    göre dizilmişlerdir. Oksijen en çok elektron alma isteğine sahiptir. ETS elemanlarından sadece
+    Ubikinon redüktaz yağ yapılı bir koenzimdir diğerleri ise protein yapılıdırlar. ) Mitokondrinin
+    2 zarı arasındaki boşlukta protonların fazla olmasıyla elektrik yük farkı ortaya çıkar. Bu
+    durumda ATP sentaz enzimi protonların iç zarından geçmesini sağlayarak oksidatif fosforilasyonla
+    ATP oluşumunu sağlar. Daha sonra protonlar, ETS&#8217;deki son ETS elemanı oksijene gelmiş olan
+    elektronlarla birleşir ve H2O oluşur.</p>
+<p>NADH2&#8217;nin elektronları ETS&#8217;den geçerken 2 hidrojen için 3 ATP, FADH2&#8217;nin
+    elektronları ETS&#8217;den geçerken 2 hidrojen için 2 ATP üretilir.</p>
+<p>1948 yılında keneedy ve Albert Lehninger tarafından ökaryotlarda oksidatif fosforilasyonun
+    yerinin mitokondri olduğu keşfedildi.<br/>
+    E.T.S ile ATP üretimi hakkında bildiklerimiz &#8216;Kemiosmotik Hipotez&#8217;e dayanmaktadır.
+    Hipotezi Lehninger bulmuştur.</p>
+<p>&nbsp;</p>
+<h2 style="text-align: center"><a name="3"></a><span
+        style="color: #000080">Oksijensiz Solunum</span></h2>
+<p>Oksijensiz solunum, adından da anlaşılacağı gibi besinlerin oksijen kullanılmadan parçalanarak
+    enerji üretilmesidir. Oksijensiz solunum diğer adıyla fermantasyon olayı genellikle sitoplazmada
+    gerçekleşir. Fermantasyonda oksijenli solunuma göre daha az enerji üretilir. Çizgili kas
+    hücreleri, tek hücreli canlılar, bazı bakteriler ve maya mantarları oksijensiz solunum
+    yaparlar.</p>
+<p>Oksijensiz solunumla elde edilen enerji miktarı oksijenli solunuma göre daha azdır. Çünkü, burada
+    glikoz, CO2 ve H2O’ya kadar parçalanamaz, yani tamamen okside olmaz.</p>
+<p>&nbsp;</p>
+
+</html>

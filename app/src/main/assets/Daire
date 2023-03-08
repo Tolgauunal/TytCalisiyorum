@@ -1,0 +1,44 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+
+<h4><span style="color: #000080">Dairenin Çevresi</span></h4>
+<p>O merkezli çemberin yarıçapı r ise</p>
+<p><strong>Çevre=2.π.r</strong>&#8216;dir</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-124971"
+        src="images/geometri/daire/daire1.png" alt=""
+        width="259" height="242"/> <img loading="lazy" class="alignnone size-medium wp-image-124972"
+                                        src="images/geometri/daire/daire6.png"
+                                        alt="" width="300" height="123"
+                                        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<h4><span style="color: #000080">Daire Dilimin Yay Uzunluğu</span></h4>
+<p>Yarıçapı r olan bir çemberde <em>a</em> derecelik merkez açının gördüğü AxB yayının uzunluğu;</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-124973"
+        src="images/geometri/daire/daire2.png" alt=""
+        width="300" height="142"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>şeklinde hesaplanır.</p>
+<h4><span style="color: #000080">Daire ve Alanı</span></h4>
+<p>Çember ve iç bölge birleşimine daire denir.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-124974"
+        src="images/geometri/daire/daire3.png" alt=""
+        width="300" height="212"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>Dairenin Alanı =π.r<sup>2</sup> birimkaredir.</p>
+<h4><span style="color: #000080">Daire Diliminin Alanı</span></h4>
+<p><img loading="lazy" class="alignnone wp-image-124975"
+        src="images/geometri/daire/daire4.png" alt=""
+        width="355" height="225"
+        sizes="(max-width: 355px) 100vw, 355px"/></p>
+
+
+</html>

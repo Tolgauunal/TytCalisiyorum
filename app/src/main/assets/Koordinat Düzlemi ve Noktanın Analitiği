@@ -1,0 +1,180 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+
+    </style>
+</head>
+<h1><span style="color: #ff0000;">Doğrunun Analitik İncelenmesi </span></h1>
+<ul>
+    <li><a href="#1">Analitik Geometri Hazırlık</a></li>
+    <li><a href="#2">İki Nokta Arasındaki Uzaklık</a></li>
+    <li><a href="#3">Doğru Parçasını Belli Bir Oranda Bölen Noktanın Koordinatları</a></li>
+    <li><a href="#4">Analitik Düzlemde Doğrular</a></li>
+    <li><a href="#5">Bir Noktanın Bir Doğruya Uzaklığı ve Paralel İki Doğru Arasındaki Uzaklık</a>
+    </li>
+</ul>
+<h3><span style="color: #000080;"><a name="1"></a>Analitik Geometri Hazırlık</span></h3>
+<h4><span style="color: #000080;">Analitik Düzlem ve Dik Koordinat Sistemi</span></h4>
+<p>Dik kesişen iki sayı doğrusunun yerleştirildiği düzleme <strong>analitik düzlem</strong> denir.
+</p>
+<p>Analitik düzlemde dik kesişen iki sayı doğrusunun oluşturduğu siteme <strong>dik koordinat
+    sistemi</strong> denir.</p>
+<p><img class="alignnone size-medium wp-image-124318"
+        src="images/geometri/nokta/nokta1.png" alt=""
+        width="300" height="216"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>Yatay eksen olan x eksenine<strong> apsis ekseni</strong>, dikey olan y ekseni de <strong>ordinat
+    ekseni</strong> denir.</p>
+<p>x (apsis) ve y (ordinat) eksenlerinin kesiştiği noktaya <strong>orjin</strong> (Başlangıç
+    Noktası) denir.</p>
+<p>Koordinatları P(a, b) olan bir P noktasının apsisi a, ordinatı da b dir.</p>
+<p>x ekseni üzerindeki noktaların koordinatları (a, 0), y ekseni üzerindeki noktaların koordinatları
+    da (0, b) şeklindedir. Yani x ekseni üzerindeki noktanın ordinatı sıfır, y ekseni üzerindeki
+    noktanın da apsisi sıfırdır.</p>
+<h4><span style="color: #000080;">Analitik Düzlemde Bölgeler</span></h4>
+<p><img loading="lazy" class="alignnone wp-image-137585"
+        src="images/geometri/nokta/nokta2.png" alt=""
+        width="329" height="252"/></p>
+<p>Koordinat sistemini oluşturan ve dik kesişen x ve y eksenleri analitik düzlem üzerinde 4 bölge
+    meydana getirirler. Bu bölgeler saat yönünün tersine doğru 1. bölge, 2. bölge, 3. bölge ve 4.
+    bölge olarak adlandırılırlar.</p>
+<p>Şekilde de verildiği gibi bileşenleri A(x, y) olan bir nokta,</p>
+<p><strong>*</strong>x ve y pozitif ise 1. bölgede,<br/>
+    <strong>*</strong>x negatif ve y pozitif ise 2. bölgede,<br/>
+    <strong>*</strong>x ve y her ikisi de negatif ise 3. bölge,<br/>
+    <strong>*</strong>x pozitif ve y negatif ise 4. bölgededir.</p>
+<h3><span style="color: #000080;"><a name="2"></a>İki Nokta Arasındaki Uzaklık</span></h3>
+<p><img loading="lazy" class="alignnone size-medium wp-image-124327"
+        src="images/geometri/nokta/nokta3.png" alt=""
+        width="300" height="253"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>dik koordinat sisteminde a(x<sub>1</sub>,y<sub>1</sub>) ve B(x<sub>2</sub>,y<sub>2</sub>)
+    noktaları arasındaki uzaklık ABC dik üçgeninde Pisagor bağıntısı uygulanarak hesaplanabilir.</p>
+<p>|AC|=(x<sub>2</sub>,x<sub>1</sub>) birim<br/>
+    |BC|=(y<sub>2</sub>,y<sub>1</sub>) birim olduğundan</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-124326"
+        src="images/geometri/nokta/nokta4.png" alt=""
+        width="300" height="55"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<h3><span style="color: #000080;"><a name="3"></a> Doğru Parçasını Belli Bir Oranda Bölen Noktanın Koordinatları</span>
+</h3>
+<h4><span style="color: #000080;">Bir Doğru Parçasının Orta Noktası</span></h4>
+<p><img loading="lazy" class="alignnone wp-image-137588"
+        src="images/geometri/nokta/nokta5.png"
+        alt="" width="413" height="187"/></p>
+<h4><span
+        style="color: #000080;">Bir Doğru Parçasını Belli Bir Oranda Bölen Noktanın Koordinatları</span>
+</h4>
+<p><img loading="lazy" class="alignnone wp-image-137586"
+        src="images/geometri/nokta/nokta6.png" alt=""
+        width="345" height="261"/></p>
+<p>Analitik düzlemde, herhangi bir doğru parçasını belli oranda bölen noktanın koordinatları,
+    verilen oranlar ile apsisler farkı ve ordinatlar farkı arasında benzerlikten kaynaklanan
+    oranların eşitliği kaynaklanarak bulunur.</p>
+<p><img loading="lazy" class="alignnone wp-image-137587"
+        src="images/geometri/nokta/nokta7.png" alt=""
+        width="319" height="115"/></p>
+<h3><a name="4"></a><span style="color: #000080;">Analitik Düzlemde Doğrular</span></h3>
+<h4><span style="color: #000080;">Doğrunun Eğimi ve Doğru Denklemleri</span></h4>
+<p><span style="color: #000080;"><strong>Bir Doğrunun Eğim Açısı ve Eğimi</strong></span></p>
+<p><img loading="lazy" class="alignnone wp-image-124379"
+        src="images/geometri/nokta/nokta8.png" alt=""
+        width="348" height="175"
+        sizes="(max-width: 348px) 100vw, 348px"/></p>
+<p>Bir doğrunun -x ekseni ile pozitif yönde (saat yönünün tersi) yaptığı açıya <strong>eğim
+    açısı</strong> denir.</p>
+<p>Eğim açısının tanjantı, o doğrunun <strong>eğimini</strong> verir.<br/>
+    tanα &gt; 0 eğim sıfırdan büyük<br/>
+    tanβ &gt; 0 eğim sıfırdan küçük</p>
+<p><span style="color: #000080;"><strong> İki Noktası Bilinen Doğrunun Eğimi</strong></span></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-137594"
+        src="images/geometri/nokta/nokta9.png" alt=""
+        width="450" height="470"/></p>
+<h3><span style="color: #000080;">Doğru Denklemleri</span></h3>
+<p><span style="text-decoration: underline;"><span
+        style="font-size: 14pt;"><strong>1.</strong> </span>Eğimi ve Bir Noktası Bilinen Doğru Denklemi</span>
+</p>
+<p><img loading="lazy" class="alignnone wp-image-124394"
+        src="images/geometri/nokta/nokta10.png" alt=""
+        width="454" height="262"
+        sizes="(max-width: 454px) 100vw, 454px"/></p>
+<p><span style="text-decoration: underline;"><span
+        style="font-size: 14pt;"><strong>2.</strong></span> İki Noktası Bilinen Doğrunun Denklemi</span>
+</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-137568"
+        src="images/geometri/nokta/nokta11.png" alt=""
+        width="383" height="295"/></p>
+<p>İki noktası bilinen doğrunun denklemini yazmak için;</p>
+<p>İki noktadan geçen doğrunun eğimi bulunur.<br/>
+    Bulunan eğim ve verilen noktalardan herhangi biri kullanılarak doğru denklemi yazılır.</p>
+<p><span style="text-decoration: underline;"><span
+        style="font-size: 14pt;"><strong>3.</strong></span> Eksenleri Kestiği Noktaları Bilinen Doğrunun Denklemi</span>
+</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-137590"
+        src="images/geometri/nokta/nokta12.png" alt=""
+        width="240" height="333"/></p>
+<p>Doğru (a, 0) ve (0, b) noktalarından geçtiğine göre, doğrunun denklemi iki noktadan geçen doğru
+    denklemi özelliği kullanılarak da yazılabilir.</p>
+<p>&nbsp;</p>
+<p><span style="text-decoration: underline;"><span
+        style="font-size: 14pt;"><strong>4.</strong> </span>Eksenlere Paralel Doğruların Denklemi</span>
+</p>
+<p>&nbsp;</p>
+<p><img loading="lazy" class="alignnone wp-image-124405"
+        src="images/geometri/nokta/nokta13.png" alt=""
+        width="424" height="235"
+        sizes="(max-width: 424px) 100vw, 424px"/></p>
+<p><span style="text-decoration: underline;"><span
+        style="font-size: 14pt;"><strong>5.</strong></span> Orjinden Geçen Doğru Denklemi</span></p>
+<p>Orijinden yani O(0,0) noktasından geçen doğrularda x = 0 için y = 0 olacağından</p>
+<p>y = mx + n denklemindeki n terimi sıfır olur.</p>
+<p>O halde orijinden geçen doğrunun eğimi m ise denklemi</p>
+<p>y=mx<br/>
+    Doğru denklemi ax + by = 0 olur. Doğru denklemi ax + by + c = 0 şeklinde ise ve orijinden
+    geçiyorsa c = 0 dır.</p>
+<p>Doğru denklemi ax + by = 0 olur.</p>
+<h4><span style="color: #000080;">Denklemi Verilen Doğrunun Grafiği</span></h4>
+<p><img loading="lazy" class="alignnone wp-image-124407"
+        src="images/geometri/nokta/nokta14.png" alt=""
+        width="316" height="253"
+        sizes="(max-width: 316px) 100vw, 316px"/></p>
+<h3><span style="color: #000080;"> <a name="5"></a>Bir Noktanın Bir Doğruya Uzaklığı ve Paralel İki Doğru Arasındaki Uzaklık</span>
+</h3>
+<h4><span style="color: #000080;">Paralel Doğrular</span></h4>
+<p><img loading="lazy" class="alignnone wp-image-137569"
+        src="images/geometri/nokta/nokta15.png" alt=""
+        width="283" height="62"/><br/>
+    <img loading="lazy" class="alignleft wp-image-137570"
+         src="images/geometri/nokta/nokta16.png" alt=""
+         width="158" height="88"/></p>
+<h4><img loading="lazy" class="alignnone size-full wp-image-137591"
+         src="images/geometri/nokta/nokta17.png" alt=""
+         width="240" height="231"/></h4>
+<p>Verilen denklemlere göre paralel doğrular arasındaki uzaklık</p>
+<p><img loading="lazy" class="alignnone wp-image-137592"
+        src="images/geometri/nokta/nokta18.png" alt=""
+        width="269" height="68"/></p>
+<h4><span style="color: #000080;">Dik Doğrular</span></h4>
+<p><img loading="lazy" class="alignnone size-medium wp-image-124408"
+        src="images/geometri/nokta/nokta19.png" alt=""
+        width="300" height="103"
+        sizes="(max-width: 300px) 100vw, 300px"/><img loading="lazy"
+                                                      class="alignnone  wp-image-222459"
+                                                      src="images/geometri/nokta/nokta20.png"
+                                                      alt="" width="382" height="343"/></p>
+<h4><span style="color: #000080;">Kesişen Doğrular</span></h4>
+<p><img loading="lazy" class="alignnone wp-image-137571"
+        src="images/geometri/nokta/nokta21.png" alt=""
+        width="254" height="121"/><img loading="lazy" class="alignnone  wp-image-222462"
+                                       src="images/geometri/nokta/nokta22.png"
+                                       alt="" width="323" height="281"/></p>
+</html>

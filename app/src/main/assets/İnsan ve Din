@@ -1,0 +1,38 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+    </style>
+</head>
+<h2>İnsanın Doğası ve Din </h2>
+<div class="text-content">
+    <p>İnsanın yaratılışı itibariyle hem maddi hem de manevi yönü vardır. Yeme, içme, dinlenme,
+        ısınma, barınma gibi fizyolojik ihtiyaçları insanın maddi yönünü oluştururken yüce bir
+        varlığa inanma, bir dini benimseme gibi ruhsal ihtiyaçları da manevi yönünü
+        oluşturmaktadır.</p>
+    <p>Din, insanın bir yönden korku ve acizlikle, diğer yönden sevgi ve güvenle tabiatüstü ve
+        kudret sahibi olan varlığa yani yüce Allah’a bağlanmasıdır. Bu bağlılık insanın yaratanına
+        yönelmesini, derin bir saygı ve samimiyetle O’na açılmasını sağlar. Din, insanı hem içten
+        hem dıştan kuşatan, onun düşünce ve davranışlarında kendini gösteren bir disiplindir. Din,
+        insana kuvvetli bir irade ve sağlam bir karakter kazandırır. Din aynı zamanda
+        toplumları<br/>
+        yükselten, onların gelişmesini sağlayan bir kurumdur.</p>
+    <p>İnsanları dine yönlendiren etkenlerin başında fıtrat, hakikati bulma isteği, zihinsel
+        arayışlar, bireysel ve sosyal ihtiyaçlar gelir. İnsan doğası yüce bir varlığa sığınmak
+        ister. Bunun yanında insanın zihinsel arayışları da onu bir yaratıcıya ve hayatını
+        düzenleyecek kurallara yönlendirir. İnsanı inanmaya yönlendiren daha birçok etken
+        vardır.</p>
+    <p>Maddi ve manevi yönü olan insan, yaratılışı itibariyle inanan bir varlıktır. Tarihten
+        günümüze pek çok örnek bu inanma duygusunun varlığını göstermektedir. İnsanın bu yönünün
+        farkında olması hayattaki birçok olayda ona rehber olacak, yanlış arayışlara gitmesini
+        önleyecektir.</p>
+</div>
+</html>

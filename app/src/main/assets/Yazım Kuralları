@@ -1,0 +1,190 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2><strong>YAZIM KURALLARI</strong></h2>
+<p>Sözcüklerin ve harflerin yazılışıyla ilgili belli kurallar da vardır. Bunları şimdi ayrı ayrı
+    göreceğiz.<span id="more-4229"></span></p>
+<p><strong>BÜYÜK HARFLERİN KULLANILDIĞI YERLER</strong></p>
+<ul>
+    <li><strong>Her cümle büyük harfle başlar. Ancak sıralı cümlelerde, cümleler arasında noktalı
+        virgül kullanıldığında, bu işaretten sonraki cümle küçük harfle başlar.</strong></li>
+</ul>
+<p>“Her sabah, erkenden kalkarım; işe geç kalmamaya özen gösteririm.”</p>
+<p>cümlesinde birinci cümle büyük harfle başladığı halde, ikinci cümle küçük harfle başlamıştır.</p>
+<ul>
+    <li><strong>Kitap, dergi isimleri, kurum, kuruluş isimleri ve diğer özel isimler daima büyük
+        harfle başlar.</strong></li>
+</ul>
+<p>“Ben bu Yalnızız romanını çok beğeniyorum.”</p>
+<p>“Sonunda Milli Eğitim Bakanlığı’nda iş bulmuş.”</p>
+<ul>
+    <li><strong>Özel isimlere bağlı ünvan ve lakaplar özel isimden önce de gelse sonra da, büyük
+        harfle başlar.</strong></li>
+</ul>
+<p>“Bunu yapsa yapsa Borazan Mustafa yapar.”</p>
+<p>“Bugün bize Avukat Rıza Bey gelecek.”</p>
+<ul>
+    <li><strong>Ay, Güneş, Dünya ve öteki gezegen isimleri gerçek anlamıyla kullanılırsa büyük
+        harfle, mecaz anlama gelirse küçük harfle başlar.</strong></li>
+</ul>
+<p>“Artık Dünya’nın Güneş’e uzaklığı biliniyor.”</p>
+<p>cümlesinde altı çizili sözcükler gerçek anlamda olduklarından büyük harfle başlamış ve ekler
+    kesmeyle ayrılmıştır.</p>
+<p>“Haberi duyunca dünyalar benim oldu sanki.”</p>
+<p>cümlesinde altı çizili söz mecaz anlamda olduğundan küçük harfle başlamış ve ekler
+    ayrılmamıştır.</p>
+<ul>
+    <li><strong>Yön bildiren isimler, yönünü bildirdiği isimden önce gelirse (yani sıfat olursa)
+        büyük harfle, sonra gelirse küçük harfle başlar.</strong></li>
+</ul>
+<p>“Bu derste Kuzey Anadolu’yu göreceğiz.”</p>
+<p>“Bu derste Anadolu’nun kuzeyini göreceğiz.”</p>
+<p>cümlelerinde altı çizili söz birinci cümlede sıfat olmuş ve büyük harfle yazılmış, ikincide isim
+    olmuş ve küçük harfle yazılmıştır.</p>
+<ul>
+    <li><strong>Tarihler arasında kullanılan gün ve ay isimleri büyük harfle başlar.</strong></li>
+</ul>
+<p>“30 Mart 1994 Pazartesi günü bir oğlum oldu.”</p>
+<p>“Buraya her yıl mart ayında gelirler.”</p>
+<p>Cümlelerinde tarihler arasında kullanıldığı birinci cümlede büyük harfle başlatılan “mart” sözü
+    tarihler arasında olmadığı ikinci cümlede küçük harfle başlatılmıştır.</p>
+<p><strong>“Mİ” SORU EDATININ YAZIMI</strong></p>
+<ul>
+    <li><strong>Bu edat kendinden önceki sözcüğe ayrı, kendinden sonraki eklere bitişik
+        yazılır.</strong></li>
+</ul>
+<p>“Bunu biliyor musunuz?</p>
+<p>“Bu olayı Emre’ mi anlattı?”<strong><br/>
+</strong><strong></strong>yanlış</p>
+<p>“Bu olayı Emre mi anlattı?”<br/>
+    doğru</p>
+<p><strong>İKİLEMELERİN YAZIMI</strong></p>
+<ul>
+    <li><strong>İkilemeyi oluşturan sözcüklerin arasına hiçbir noktalama işareti
+        getirilmez.</strong></li>
+</ul>
+<p>“Olanları bana bir, bir anlattı.”<br/>
+    yanlış</p>
+<p>“O buraya aşağı-yukarı iki saatte bir uğrar.”<br/>
+    yanlış</p>
+<p>cümlelerinde birincide virgül, ikincide kısa çizgi, yazım yanlışına neden olmuştur.</p>
+<ul>
+    <li><strong>Pekiştirmeli sözcükler ise daima bitişik yazılır.</strong></li>
+</ul>
+<p>“Koskocaman adamsın, sapasağlamsın çalış biraz.”</p>
+<p><strong>SAYILARIN YAZIMI </strong></p>
+<ul>
+    <li><strong>Sayı isimleri birbirinden ayrı yazılır.</strong></li>
+</ul>
+<p>“Yirmi iki bin sekiz yüz altmış yedi lira artmış.”</p>
+<ul>
+    <li><strong>Sayılara gelen ekler sayının okunuşuna göre getirilmeli.</strong></li>
+</ul>
+<p>“Yarışmada 6′ıncı olduğuma sevindim.”</p>
+<p>cümlesinde altı çizili söz yanlış yazmıştır. Çünkü sayıyı yazıyla yazsak “altıncı” olur yani ek
+    “-ncı” olacaktır.<br/>
+    “Bana 3′de geleceğini söylemişti.”</p>
+<p>cümlesinde de ekte hata vardır. Çünkü “üç” sözü sert sessizle biter, buna göre ek de sert sessiz
+    olmalı yani “3′te” olmalıdır.</p>
+<p><strong>“Kİ” BAĞLACININ YAZIMI</strong></p>
+<p>Türkçe’de üç tür “ki” vardır: İlgi zamiri, sıfat yapan ek ve bağlaç. Bunlardan ilk ikisi
+    kendinden önceki sözcüğe bitişik, sonuncusu ayrı yazılır.</p>
+<p>İlgi zamiri daima bir ismin yerine geçer ve cümleden çıkarılamaz.</p>
+<p>“Sizin arabanız yeni, bizimki biraz eskice.”</p>
+<p>cümlesinde “-ki” araba isminin yerine geçmiştir.</p>
+<p>Sıfat yapan ek, eklendiği sözcüğe ait olan bir ismin sıfatı olur. Cümleden çıkarılamaz.</p>
+<p>“Çantandaki kalemleri çıkar bakalım.”</p>
+<p>Bağlaç olan ki ise cümlede açıklama anlamı verir. Cümleden çıkarıldığında cümlenin anlamı
+    bozulmaz. Çekimli fiillerden sonra gelen “ki” ler daima bağlaçtır.</p>
+<p>“Baktım ki gelmiyor, ben yanına gittim.”</p>
+<p>“O ki bunu bana yaptı, herkes yapar.</p>
+<p><strong>“DE” BAĞLACININ YAZIMI</strong></p>
+<p>Türkçe’de iki tür “de” vardır: Hal eki ve bağlaç.</p>
+<p>Hal eki cümlede yer, zaman bildirecek şekilde kullanılır ve cümleden çıkarıldığında cümlenin
+    anlamı bozulur.</p>
+<p>“Beni durakta bekle.”</p>
+<p>“Geldiğinde beni arardı.”</p>
+<p>Cümlelerindeki “de”leri çıkarırsak cümlenin anlamsız hale geldiğini görürüz.</p>
+<p>Bağlaç olan “de” cümlede başka şeylerin de olduğu anlamını verir. Cümleden çıkarıldığında
+    cümlenin anlamı daralır ama bozulmaz.</p>
+<p>“Sen de gelecek misin?”</p>
+<p>“Baktı da tanımadı.”</p>
+<p>Cümlelerinde “de”leri çıkarırsak, birincide başka şeylerinde olduğu anlamı ortadan kalkar, ama
+    cümle yine anlamlıdır. İkincide ise daralma bile olmaz.</p>
+<p>“Bu soru hiç te zor değil.<br/>
+    yanlış</p>
+<p>“Bu soru hiç de zor değil.<br/>
+    doğru</p>
+<p>Bizimle Yunus’da gelecek mi?<br/>
+    yanlış</p>
+<p>Bizimle Yunus da gelecek mi?<br/>
+    doğru</p>
+<p>Yusuf’ki bunu bilemedi, kimse bilemez.<br/>
+    yanlış</p>
+<p>Yusuf ki bunu bilemedi, kimse bilemez.<br/>
+    doğru</p>
+<p><strong>BİLEŞİK SÖZCÜKLERİN YAZIMI</strong></p>
+<p>Bileşik sözcükler daima bitişik yazılır. Ancak bileşik fiillerin bir bölümünün, bileşik
+    sıfatların ayrı yazılanları da vardır.</p>
+<p>Buna göre kurallı bileşik fiiller (yeterlik, sürerlik, tezlik, yaklaşma fiilleri) daima bitişik
+    yazılır.</p>
+<p>“gelebilir, gidiverdi, bakakaldı, düşeyazdı”</p>
+<p>Yardımcı fiille yapılanlarda isim durumundaki sözcükte ses düşmesi ya da türemesi oluyorsa
+    bitişik, olmuyorsa ayrı yazılır.</p>
+<p>“yolcu etti, sabretti, hissetti”</p>
+<p>Anlamca kaynaşmış bileşik fiillerin ise kimileri bitişik kimileri ayrı yazılır belli bir kuralı
+    yoktur.</p>
+<p>“Dalga geçme, vazgeçme”</p>
+<p>İki sözcüğün anlamını kaybedip kendi anlamlarından başka bir anlama gelerek oluşturdukları
+    bileşik sözcükler bitişik yazılır. Bileşik sözcükler konusunu yeniden gözden geçirin.</p>
+<p>“Bu gecekondu kimin acaba?”</p>
+<p>“Böyle gelişigüzel konuşmayı bırak.”</p>
+<p>Burada özellikle, karıştırılan birkaç sözcüğü de anlatmadan geçmeyelim.</p>
+<p>“Herhangi bir sorun yok ortalıkta.”</p>
+<p>“Hiçbir soru zor değildi.”</p>
+<p>“Birtakım insanlar giyimlerine önem vermezler.”</p>
+<p>“Birkaç kişinin sözü birçoğunu üzdü.”</p>
+<p>“Elverir ki bir gün bana, gel, desin.”</p>
+<p><strong>YAZIMI KARIŞTIRILAN SÖZCÜKLER</strong></p>
+<p>Kimi sözcüklerin yazımı çoğu zaman, seslerin yeri değiştirildiğinden yanlış olur. Bunlardan
+    birkaçını gösterelim.</p>
+<table border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="70">YanılYalın</p>
+            <p>Kırp</td>
+        <td valign="top" width="35">––</p>
+            <p>–</td>
+        <td valign="top" width="60">ışız</p>
+            <p>ık</td>
+        <td valign="top" width="57">®®</p>
+            <p>®</td>
+        <td valign="top" width="90"><strong>D </strong>yanlış</p>
+            <p>yalnız</p>
+            <p>kirpik<br/>
+                kibrit</td>
+        <td valign="top" width="88"><strong>Y </strong>yalnış</p>
+            <p>yanlız</p>
+            <p>kiprik<br/>
+                kirbit</td>
+    </tr>
+    </tbody>
+</table>
+<p><strong>KISATMALARIN YAZIMI </strong></p>
+<ul>
+    <li><strong>Sözcüklerin baş harflerinin alınmasıyla oluşturulan kısaltmalar daima büyük harfle
+        yazılır. Bu kısatmalara ek getirilirken, harflerin ifade ettiği sözcükler söylenmez sadece
+        harfler okunarak getirilir.</strong></li>
+</ul>
+<p>“ÖSS’de başarılı olamadı.”</p>
+<p>cümlesinde eğer harflerin ifade ettiği sözcükleri söylesek ek “Öğrenci Seçme Sınavı’nda” şeklinde
+    olacaktı. Kısaltıldığında “de” şeklinde olmuştur.</p>
+</html>

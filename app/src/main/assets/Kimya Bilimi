@@ -1,0 +1,182 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    
+    
+    </style>
+</head>
+<h2>Kimya Bilimi</h2>
+<h3><a name="1"></a>Simyadan Kimyaya</h3>
+<p><strong>Simya:</strong> Basit metalleri altına çevirme, şifa
+    ve ölümsüzlük iksirini bulma uğraşlarına simya (alşimi), bu işle uğraşanlara
+    <strong>simyacı</strong><br/>
+    <strong>(alşimist)</strong> denir.</p>
+<p>Simyacıların en büyük iki amacı ;</p>
+<p>Felsefe taşını yapmak<br/>
+    Felsefe taşı hem metalleri altına
+    çevirebilecek, hem de ölümsüzlük iksirinin bulunmasını kolaylaştıracaktı.</p>
+<p>Ab-ı Hayat adını verdikleri bir suyun hayaline inanarak yeni maddeler bulma peşine
+    düşmüşlerdir.</p>
+<p><strong>Simyacıların Kullandığı Teknikler</strong></p>
+<p>Kavurma<br/>
+    Çözme<br/>
+    Yakma<br/>
+    Fırınlama<br/>
+    Damıtma<br/>
+    Süblimleştirme<br/>
+    Süzme<br/>
+    Mayalandırma</p>
+<p><strong>Kullanılan Araç &#8211; Gereçler</strong></p>
+<p>İmbikler (damıtma için)<br/>
+    Potalar (eritme için)<br/>
+    Fırın (ısıtma için)<br/>
+    Kaplar (saklamak için)</p>
+<p><strong>Özetle Simya: </strong>Bilim dalı
+    değildir.Deneme-yanılmaya dayalıdır. Teorik bir temele dayanmaz. Sistematik bilgi birikimi
+    içermez. Bilgi birikimi oluşmamıştır.</p>
+<h3><a name="2"></a>>Kimya Disiplinleri ve Kimyacıların Çalışma Alanları
+</h3>
+<p><strong>Kimya bilimi;</strong> maddelerin yapısını,
+    özelliklerini ve birbirleri arasındaki etkileşimleri inceleyen bilim dalına kimya denir. Bu
+    nedenle kimya madde bilgisi olarak da adlandırılır. Kimya bilimi tarım, tıp, metalürji,
+    arkeoloji ve gıda gibi birçok bilimle ortak çalışmalar yürütmektedir. Bu da kimyanın birçok alt
+    alanlarının oluşmasını sağlamıştır.</p>
+<p>><strong>Kimya Disiplinleri</strong></p>
+<p>Analitik Kimya:Kimyasal bileşiklerin
+    tanınması ve miktarlarının belirlenmesi işlemlerini kapsayan kimya disiplinidir.</p>
+<p><strong>Biyokimya:</strong> Canlı organizmaların kimyasal
+    yapısını ve bu yapıda meydana gelen kimyasaldeğişiklikleri inceleyen kimya disiplinidir.</p>
+<p><strong>Fizikokimya:</strong> Sıcaklık, basınç, derişim
+    (çözeltilerde birim hacimdeki madde miktarı) gibi fiziksel faktörlerin kimyasal tepkimelere
+    etkilerini inceleyen kimya disiplinidir.</p>
+<p><strong>Polimer Kimyası:</strong> Çok sayıda küçük birimin
+    (monomer)birbirine eklenmesiyle oluşan büyük molekülleri (polimer) inceler.</p>
+<p><strong>Anorganik Kimya:</strong> Organik olmayan
+    bileşiklerin yapılarını, özelliklerini ve tepkimelerini inceleyen kimya disiplinidir.</p>
+<p><strong>Organik Kimya:</strong> Karbon (C) bulunduran
+    bileşiklerin yapılarını, özelliklerini ve tepkimelerini inceleyen kimya disiplinidir.</p>
+<p><strong>Endüstriyel Kimya:</strong> Endüstride (sanayide)
+    kullanılan ham maddelerin imalatıyla ilgilenir.</p>
+<p><strong>Kimyacıların Çalışma Alanları</strong></p>
+<p>Kimya bilimi oldukça geniş bir yelpazeye sahiptir. Ancak bu alanda çalışan meslekler genel olarak
+    birkaç başlık altında toplanabilir. Bu mesleklerden bazıları aşağıda kısaca tanıtılmıştır.</p>
+<p><strong>İlaç: </strong>Tıbbın gelişmediği dönemlerde
+    insanlar bitkilerden ilaç elde etmişlerdir. İlaç canlı hücre üzerinde değişiklik meydana getiren
+    kimyasal maddedir. Canlılarda hastalıkların teşhisi, tedavisi ve önlenmesini sağlayan ilaçlar
+    Famasötik kimyanın konusudur.</p>
+<p><strong>Gübre: </strong>Bitkilerin beslenmesi için
+    gereklidir. Bitkiler N, P, K, Ca, Mg, S&#8230;gibi elementlere ihtiyaç doğar. Gübre sanayisinde
+    çalışan kimyacılar toprak ve bitki analizi yaparak toprağın yapısında eksik olan ve bitkinin
+    ihtiyaç duyduğu mineralleri tespit ederek çiftçilere tavsiyede bulunurlar. Kimyacılar biyokimya,
+    biyoloji, ziraaat gibi birçok alanda uzman kişilerle işbirliği içerisindedir.</p>
+<p><strong>Petrokimya: </strong>Ham petrolün işlenmesi ile elde
+    edilen kimyasal maddelerle ilgilenen endüstri koludur.<br/>
+    <strong>Üretilen bu ürünler; </strong>sentetik elyaflar, temizlik malzemeleri,
+    boyalar,ilaç,araba lastiği,plastik gibi ürünlerde hammadde olarak kullanılır. Kimyacılar
+    petrokimya tesislerinde ve petrol ürünleri işleyen fabrikalarda petrol ürünlerinin elde edilmesi
+    sürecinde rol alırlar.</p>
+<p><strong>Arıtım: </strong>Bir ürünün saflığını bozan
+    maddeleri ayırma işlemidir. Arıtım işlemleri başta su arıtımı olmak üzere petrol rafineri ve
+    metalurji gibi birçok alanda yapılmaktadır. Arıtımda elektroliz, ayrımsal damıtma,
+    kristallendirme, süzme, ters osmoz gibi çeşitli fiziksel ve kimyasal ve biyolojik yöntemler
+    kullanılır. Kimyacılar arıtım yapılacak maddeleri analiz ederek uzaklaştırılması gereken
+    kimyasal maddeleri tespit edip uygun arıtım yöntemleri önerirler. Hatta araştırmalar yaparak
+    yeni kimyasal arıtım yöntemleri de geliştirirler.</p>
+<p><strong>Ahşap İşleme: </strong>Ahşap işleme, malzeme üzerine
+    yapılan bir çizimin özel kesici aletlerle kesilmesi veya yontulması ile elde edilme sanatıdır.
+    Ahşap malzeme doğal haldeyken, fiziksel, kimyasal, mekanik, biyolojik faktörlere karşı dayanıklı
+    değildir.<br/>
+    Boya ve vernik gibi kimyasal maddeler ahşap malzemeleri korumaktadır. Ahşap malzemenin
+    korunması, dayanıklılığının artırılmasına yönelik çalışmalar kimyacıların çalışma alanına
+    girmektedir.</p>
+<p><strong>İşleme: </strong>Eski çağlarda kullanılan bitkisel
+    ve hayvansal doğal boyaların yerini yapay boyalar almış ve boya sanayisinde hızlı gelişmeler
+    olmuştur. Herhangi bir cisme renk vermek için veya koruma amaçlı olarak uygulanan kaplamaya
+    <strong>boya</strong> denir. Boyalar özelliklerine göre karıştırılan farklı kimyasallardan
+    oluşur. Bu kimyasallar çözücüler, boyanın yüzeye tutunmasını sağlayan bağlayıcılar ve renk
+    verici pigmentlerdir. Boya sektöründe görev alan kimyacılar sağlık açısından daha az zararlı
+    kimyasallar kullanarak dayanıklı boya üretimi için çalışmalar yapmaktadır.</p>
+<p>Tekstil:Tekstil kimyası kimyanın
+    özelleşmiş bir uygulama alanıdır. İplik hazırlanmasından konfeksiyona kadar yapılan işlemleri
+    kolaylaştırmak ve daha kaliteli ürün elde etmek için kimyasal maddeler kullanılmaktadır. Tekstil
+    malzemeleri kıyafetlerde, halılarda, dikiş ipliklerinde döşemecilik gibi birçok ürün yapımında
+    kullanılmaktadır. Bu malzemeler üretimi ve sentezlenmesinde organik kimyadan faydalanılmaktadır.
+</p>
+<h3><a name="3"></a>Kimyanın Sembolik Dili</h3>
+<p><strong>Element:</strong> Aynı proton sayısına sahip tek tür atomlar topluluğuna
+    <strong>element</strong> denir.<br/>
+    <strong>&#8211; </strong>Tek tür atomdan oluşur.<br/>
+    <strong>&#8211; </strong>Saf maddedir.<br/>
+    <strong>&#8211; </strong>Homojendir.<br/>
+    <strong>&#8211; </strong>Belirli koşullarda erime noktası
+    ve kaynama noktaları sabittir.<br/>
+    <strong>&#8211; </strong>Belirli koşullarda yoğunlukları
+    sabittir.<br/>
+    <strong>&#8211; </strong>Kimyasal ve fiziksel yöntemlerle
+    daha basit maddeler ayrıştırılamazlar.<br/>
+    <strong>&#8211; </strong>Sembollerle gösterilir.<br/>
+    <strong>&#8211; </strong>Helyum, oksijen, azot gibi çok az
+    element doğada element halinde bulunur. Elementlerin çoğunluğu doğada bileşikleri halinde
+    bulunurlar. Bu tür elementler kimyasal yöntemlerle bileşiklerinden elde edilirler.<br/>
+    <strong>&#8211; </strong>Atomik yapılı olanları olduğu gibi
+    molekül yapılı olanları da vardır.</p>
+<p><strong>Bileşik:</strong> Farklı elementlerin belirli
+    oranlarda, Özelliklerini kaybederek bir araya gelmesiyle oluşan saf maddelere
+    <strong>bileşik</strong> denir.</p>
+<p><span style="color: #000000;"><strong>&#8211; </strong>Saf ve homojen (hâl değişimi hariç)
+    maddelerdir.<br/>
+    <strong>&#8211; </strong> Belirli ayırt edici özellikleri
+    vardır (erime, kaynama noktası, yoğunluk gibi).<br/>
+    <strong>&#8211; </strong> Fiziksel yöntemlerle
+    ayrıştırılamaz, kimyasal yöntemlerle ayrıştırılabilirler.<br/>
+    <strong>&#8211; </strong> Bileşikler formüllerle
+    gösterilir.<br/>
+    <strong>&#8211; </strong> Bileşiği oluşturan elementler
+    arasında belirli bir oran vardır. Örneğin suda hidrojen atomunun oksijen atomuna oranı
+    2/1’dir.<br/>
+    <strong>&#8211; </strong> Bileşikler kendisini oluşturan
+    bileşenlerin özelliklerini göstermezler.</span></p>
+<h3><a name="4"></a><span
+        style="color: #0000ff;">Kimya Bilimine Katkı Sağlayan Bilim İnsanları</span></h3>
+<p><strong>Empedokles</strong></p>
+<p>Yunanlı simyacı ve filozof olan Empedokles her şeyin dört elementten oluştuğunu önermiştir. Bu
+    elementler toprak, hava, ateş ve sudur. Bu elementlerin yanında sevgi ve nefret olarak iki
+    kuvvetin her şeyin temelini oluşturduğunu öne sürmüştür.</p>
+<p><strong>Demokritos</strong></p>
+<p>Demokritos, bir maddeyi sürekli küçük parçalara bölme işleminin sonsuza dek sürdürülemeyeceği
+    düşüncesinden yola çıkarak maddelerin çok küçük taneciklerden oluştuğunu ve bu taneciklerin
+    bölünemez olduğunu savunmuştur. Bölünemez taneciklere “atom” adını vermiştir. Demokritos
+    atomları sert, bölünemez ve sürekli hareket hâlinde olan yapılar olarak düşünmüştür</p>
+<p><strong>Câbir bin Hayyan</strong></p>
+<p>Kufe de eczacı bir babanın çocuğu olarak doğmuştur. Abbasi Halifesi Harun Reşidin sarayında
+    yaşamıştır. Başta Kimya olmak üzere, Tıp, Eczacılık, Metalurji, Astronomi, Felsefe, Fizik ve
+    Mekanik alanlarında çalışmalar yapmıştır. En önemli özelliği deneycilik olan Cabir bin Hayyan
+    kimya ilminin hem deneysel hem de teorik olarak gelişmesine yardımcı olmuştur. Dünyada ilk kimya
+    laboratuvarını kuran alim olarak tarihe geçmiştir.</p>
+<p>Kimya ilmine kazandırdığı teknikler; eritme, buharlaştırma, süzme, arıtma, süblimleştirme.
+    Günümüzde damıtmada kullanılan imbik düzeneğini ilk kez bulan bilgindir.</p>
+<p><strong>Ebubekir er-Râzi</strong></p>
+<p>Orta Çağ’ın önemli bir diğer kimyacı / simyacısı Ebubekir er-Râzi’dir Ebubekir er-Râzi,
+    elementlerin modern anlamda sınıflandırılmasının temellerini atmıştır. Etil alkolü sentezlemiş
+    formik asidi elde etmiştir.</p>
+<p>Ebubekir er-Râzi, atom felsefesi üzerinde çalışmalar yapmıştır. Farklı organik maddeleri
+    damıtarak çeşitli yağlar, tuzlar ve boyalar elde etmiştir. Demir gibi erime noktası yüksek
+    metallerin eritme işlemi ile ilgili araştırmalar da<br/>
+    yapmıştır.</p>
+<p><strong>Aristo</strong></p>
+<p>Aristo’ya göre maddelerin özellikleri dört elementle (hava, ateş, toprak ve su) ilgiliydi.
+    Özellikleri değiştirilirse bir element, diğer üç elemente dönüşebilirdi. Örneğin hava nemli ve
+    sıcak, su ise nemli ve soğuk olma özelliklerine sahiptir. Bu durumda hava elementinin sıcak olma
+    özelliği, soğuk olma özelliğine çevrilirse hava, su elementine dönüşmüş olur. Dört element,
+    doğadakilerle özdeş olarak görülmemiştir. Örneğin deniz suyu, su elementiyle aynı değildir.
+    Ancak deniz suyu, su elementini fazla oranda içerir. Aristo’nun maddeyle ilgili dört element
+    açıklaması sonucunda Demokritos’un atom düşüncesi hâkimiyetini yitirmiştir.</p>
+<p>&nbsp;</p>
+</html>

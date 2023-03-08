@@ -1,0 +1,154 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<p class="has-text-align-center">📚📚📚</p>
+
+
+<h2 class="has-vivid-red-color has-text-color" id="duzgun-dogrusal-hareket">Hareket Çeşitleri</h2>
+
+
+<p>Bir cismin başlangıç noktasına olan uzaklığı zamanla değişiyor ise cisim hareket ediyor demektir.
+    Üç türlü hareket vardır:</p>
+
+
+<ol>
+    <li>Öteleme hareketi: ilerleme hareketidir.</li>
+    <li>Dönme hareketi: dairesel yörüngede yapılan harekettir.</li>
+    <li>Titreşim hareket: iki nokta arasında gidip gelme hareketidir. Bir sarkacın hareketi, katı
+        atomların hareketidir.
+    </li>
+</ol>
+
+
+<p class="has-text-align-center">📚📚📚</p>
+
+
+<h3 class="has-vivid-purple-color has-text-color" id="dogrusal-harekette-temel-kavramlar">Hareket
+    Konusu Temel Kavramlar</h3>
+
+
+<ul>
+    <li><strong>Konum</strong>: Bir cismin seçilen bir referans noktasına uzaklığına konum denir. X
+        ile gösterilir. <strong>Vektörel</strong> bir büyüklüktür.
+    </li>
+    <li><strong>Yer Değiştirme</strong>: Hareketli bir cisimin herhangi iki anda bulunduğu noktalar
+        arası uzaklıktır. Δx ile gösterilir. Vektörel bir büyüklüktür. X<sub>son </sub>–
+        X<sub>ilk</sub> ile hesaplanır.
+    </li>
+    <li><strong>Alınan Yol:</strong> Bir cismin izlediği yörüngenin uzunluğuna yol denir. X ile
+        gösterilir. <strong>Skaler </strong>bir büyüklüktür.
+    </li>
+</ul>
+
+
+<p class="has-text-align-center">📚📚📚</p>
+
+
+<h3 class="has-vivid-purple-color has-text-color" id="hiz">Hız</h3>
+
+
+<p>Birim zamandaki yer değiştirmeye <strong>hız</strong> denir. V ile gösterilir. Vektörel bir
+    büyüklüktür.</p>
+
+<h4 class="has-vivid-red-color has-text-color" id="ortalama-hiz">Ortalama Hız</h4>
+
+
+<p>Bir araç hareketinin bir kısmında farklı, diğer kısmında farklı bir hıza sahipse araç için
+    ortalama hız hesaplanır . </p>
+
+
+<p><strong>Ortalama Hız = (Toplam Yer Değiştirme) / (Toplam Zaman)</strong></p>
+
+
+<p></p>
+
+
+<p class="has-text-align-center">📚📚📚</p>
+
+
+<h4 class="has-vivid-red-color has-text-color" id="surat">Sürat</h4>
+
+
+<p>Birm zamanda alınan yola <strong>sürat</strong> denir. V ile gösterilir. Skaler bir büyüklüktür.
+</p>
+
+
+<h4>Hız ve Sürat</h4>
+
+
+<p>Genellikle hız ile sürat birbirine karıştırılır. Günlük hayatta hız kavramını kullandığımız
+    birçok yerde aslında sürat kavramını kullanmamız gerekir. Örneğin arabanın göstergesi hızı
+    değil; sürati gösterir.</p>
+
+
+<p>Araba veya uçakların hızı ifade edilirken km/h ifadesi kullanılır.</p>
+
+
+<p class="has-text-align-center">📚📚📚</p>
+
+
+<h3 class="has-vivid-red-color has-text-color" id="hareket-grafikleri">Doğrusal Hareket
+    Grafikleri</h3>
+
+
+<h3 class="has-vivid-purple-color has-text-color" id="konum-zaman-grafikleri">Konum &#8211; Zaman
+    Grafikleri</h3>
+
+
+<ul>
+    <li>Konum-zaman grafiğinin eğimi hızı verir.</li>
+    <li>Doğrunun yatayla yaptığı açı sıfır ise tanjant = Δx / Δt = v = 0</li>
+</ul>
+
+
+<h3 class="has-vivid-purple-color has-text-color" id="hiz-zaman-grafikleri">Hız &#8211; Zaman
+    Grafikleri</h3>
+
+
+<ul>
+    <li>Hız &#8211; zaman grafiğinde alan, yer değiştirmeye yani konum değişimine eşittir.</li>
+</ul>
+
+
+<h3 class="has-vivid-purple-color has-text-color" id="ivme">İvme Nedir?</h3>
+
+
+<p>Birim zamandaki hız değişimine ivme denir.</p>
+
+
+<h5>İvme Formülü</h5>
+
+
+<p>a= Δv / Δt = m / s<sup>2</sup></p>
+
+
+<p>Hız-zaman grafiklerinde eğim, yani tanjant ivmeyi verir. İvme-zaman grafiğinde alan, hız
+    değişimine eşittir.</p>
+
+
+<h4>Düzgün Doğrusal Hareket (Sabit Hızlı Hareket)</h4>
+
+
+<p>Bir doğru boyunca yapılan sabit hızlı harekete <strong>düzgün doğrusal hareket</strong> denir.
+    Hareketlinin hızında değişilkik görünmez, yani ivme sıfıra eşittir.</p>
+
+
+<h4 class="has-vivid-red-color has-text-color"
+    id="sabit-ivmeli-hareket-duzgun-degisen-dogrusal-hareket">Sabit İvmeli Hareket (Düzgün Değişen
+    Doğrusal Hareket)</h4>
+
+
+<p>Bir cismin ivmesinin sabit olması için her saniyedeki hız değişimlerinin aynı olması gerekir.
+    Yani hızının düzgün artan veya düzgün azalan olması gerekir.</p>
+
+
+</html>

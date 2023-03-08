@@ -1,0 +1,137 @@
+<html>
+<style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+
+</style>
+<h2><a name="1"></a>Kominüte Ekolojisi</h2>
+<p>Ekosistemlerin canlı kısmına komünite adı verilir. Her ekosisteme özgü bir komünite bulunur.
+    Örneğin, ormandaki canlıların tümü orman komünitesini oluşturur. Bir komünitede bitki, hayvan ve
+    mikroorganizma türlerinden oluşan binlerce popülasyon bulunabilir. Komüniteler bitki ve hayvan
+    komüniteleri şeklinde olabileceği gibi karma da olabilir.</p>
+<p>Komünitede ne kadar çok canlı çeşidi varsa komünitede o kadar büyük olur. Bu yüzden kutuplardaki
+    komüniteler orta enlem komünitelerine göre daha küçüktür. Çevre kirliliğinin komüniteler
+    üzerinde kötü bir etkisi vardır; çünkü çevre kirliliği canlı çeşitliliğini azaltır.</p>
+<p>Komüniteler birbirinden tamamen bağımsız değildirler. Komşu komüniteler arasında kesişim(geçiş)
+    bölgeleri vardır. Bu kesişim bölgelerine <strong>ekoton</strong> adı verilir.</p>
+<p>Komüniteyi oluşturan canlılar arasında farklı etkileşimler vardır. Bu etkileşim tipleri
+    şunlardır:</p>
+<p>Rekabet<br/>
+    Av-Avcı İlişkisi<br/>
+    Simbiyotik Yaşam<br/>
+    Süksesyon</p>
+<p><strong>Rekabet: </strong></p>
+<p>Canlıların besin, yaşama alanı, çiftleşme gibi faktörleri elde etmek için birbirleriyle
+    yarışmasına<strong> rekabet</strong> denir. Aynı türe ait
+    bireyler arasındaki rekabete <strong>tür içi rekabet</strong> denir. Farklı türlerin bireyleri
+    arasındaki rekabete ise <strong>türler arası rekabet</strong> denir.</p>
+<p><strong>Av-Avcı İlişkisi: </strong></p>
+<p>Komünitelerdeki bir diğer etkileşim çeşidi de av-avcı ilişkisidir. Daha çok hayvan ağırlıklı
+    komünitelerde görülür. Avlayan hayvana <strong>avcı</strong>,
+    avlanan hayvana ise<strong> av</strong> denir.</p>
+<p>Avcı sayısı arttıkça avlanma aktivitesi de artacak ve av sayısında düşüş gözlenecektir. Av sayısı
+    düştüğü için avcı tür yemek bulmakta zorluk çekecek ve ufak bir kıtlık başlayacaktır. Bu kıtlık
+    avcı sayısını düşürecektir. Avcı sayısı düşünce av olan türün popülasyonu artacaktır. Bu olay
+    zincirleme bir şekilde komüniteler içinde devam eder.</p>
+<p><strong>Simbiyotik Yaşam: </strong></p>
+<p>İki farklı türe ait bireyin ya da popülasyonun yarar ve zarar gözetilmeden birlikte yaşamasına
+    <strong>simbiyoz (birlikte yaşam)</strong> denir. Simbiyotik
+    ilişkide genellikle daha büyük olan organizmaya konakçı, daha küçük olana ise
+    <strong>simbiyont</strong> adı verilir. Simbiyotik
+    ilişkiler mutualizm, parazitizm, kommensalizm, amensalizm gibi farklı biçimlerde
+    gerçekleşebilir.</p>
+<p><strong>Mutualizm:</strong> iki ya da daha fazla türün
+    karşılıklı olarak yararlanması sonucu zorunlu olduğu bir ilişki şeklidir. Mantar ve su yosununun
+    oluşturduğu liken birliği, geviş getiren otçullar arası ilişki mutualizme önektir. Türler
+    arasında zorunlu olmayan mutualizm de görülür. Buna gevşek <strong>mutualizm</strong>
+    denir.</p>
+<p><strong>Kommensalizm:</strong> Bu yaşam biçiminde beraber
+    yaşayan canlılardan biri, bu beraberlikten fayda sağlarken diğeri etkilenmeden yaşar. Örneğin
+    köpek balığının karın kısmına tutunarak hareket eden vantuzlu balık, köpek balığı avını yerken
+    etrafa saçılan et parçalarıyla beslenir. Köpek balığı bu olaydan olumlu veya olumsuz etkilenmez.
+</p>
+<p><strong>Parazitizm:</strong> Bir arada bulunan iki canlıdan
+    birinin diğerine zarar vererek yaşamasıdır. Zarar gören konak yararlanan ise parazitlerdir.</p>
+<p>Bazı bakteriler, amipler, kamçılılar, plazmodyumlar bir hücreli parazitlerdir.</p>
+<p><strong>*Bitkisel parazitleri:</strong> Üzerinde bulunduğu ağacın gövdesinden su ve mineralleri
+    alarak beslenen ökse otu yarı parazit bitkidir. Emeçleri ile üzerinde yaşadığı bitkiden organik
+    besin ve su ihtiyacını karşılayan canavar otu, küsküt otu tam parazit bitkilerdir.</p>
+<p><strong>*Hayvansal parazitler:</strong> Tenya, bağırsak solucanı gibi iç parazitler enzim
+    sistemleri gelişmediğinden konağın sindirim sisteminde yaşar. Üreme sistemleri çok gelişmiştir.
+</p>
+<p><strong>Süksesyon: </strong>Komünitelerde sayıca ve vücut büyüklüğü en fazla olan tür baskın tür
+    olarak adlandırılır. Baskın türlerin uzun bir zaman içerisinde sıralı olarak değişmesine
+    <strong>süksesyon (ardıllık)</strong> denir. İki çeşit süksesyon bulunur. Süksesyonlar
+    komünitenin kararlı hal (klimaks) almasına kadar devam eder.
+</p>
+<p><strong>Birincil Süksesyon:</strong> Üzerinde canlı bulunmayan bir ortama canlıların yerleşmeye
+    başlamasıyla gerçekleşir. Çıplak kayalar, buzulların olduğu sahalar, taş ocakları, kum tepeleri,
+    yeni lav akıntıları, suyu ekilmiş gollerin taban kısımları, yeni oluşmuş adalar birincil
+    süksesyonun başIayabiIeceği alanlardır.</p>
+<p><strong>İkincil Süksesyon:</strong> Daha önce üzerinde bir komünitenin bulunduğu toprak yapısı
+    bozulmadan aşırı otlatma, kesim, yangın gibi nedenlerle bozulmuş ortamlarda yeni komünitelerin
+    gelişmesidir.</p>
+<p>Süksesyon sonucu komünitede bulunan baskın tür zamanla değişir. Komünitede sayısı ve faaliyetiyle
+    göze çarpan türe <strong>baskın tür</strong> denir.</p>
+<h2><a name="2"></a>Popülasyon Ekolojisi</h2>
+<p>Belirli bir bölgede yaşayan aynı türe ait bireylerin oluşturduğu topluluğa<strong>
+    popülasyon</strong> denir. Her bir komünite çok
+    sayıda popülasyondan oluşur. Bir ormandaki meşe ağaçları, bir şehirdeki insanlar birer
+    popülasyon örneğidir. Popülasyonu oluşturan bireyler benzer çevre koşullarından etkilenir,
+    bulundukları ortamın besin kaynaklarını ortak kullanırlar.</p>
+<p>Popülasyonun yoğunluğu, büyüklüğü, dağılımı ve yaş dağılımı popülasyon dinamiğini meydana
+    getirir.</p>
+<h3>Popülasyon Yoğunluğu</h3>
+<p>Birim alan ya da hacimdeki birey sayısına <strong>popülasyonun yoğunluğu</strong> denir.
+</p>
+<p>Doğum ve ölüm oranı, içe ve dışa göçler popülasyon yoğunluğunu etkileyen faktörlerdir. Doğum ve
+    içe göçler popülasyon yoğunluğunu arttırır. Ölüm ve dışa göçler popülasyon yoğunluğunu
+    azaltır.</p>
+<p>Popülasyona birim zamanda üreme sonucu katılan birey sayısına<strong>doğum oranı</strong>;
+    popülasyondan birim zamanda ölüm
+    sonucu ayrılan birey sayısına ise <strong>ölüm oranı</strong> denir.</p>
+<p>Doğum ve ölüm oranı ölçüldüğünde elde edilen veriler, popülasyonun büyüklüğünün zaman içinde
+    nasıl değişeceğini tahmin etmemizi sağlar.</p>
+<h3>Popülasyonun Büyüklüğü</h3>
+<p>Belirli bir zaman diliminde, popülasyonu oluşturan birey sayısı popülasyonun büyüklüğünü
+    belirler. Uygun çevre şartlarının bulunduğu ortama yerleşen bir türün, ortamın uygunluğu
+    derecesinde, sayısında artma veya azalma görülür. Çevre şartları ve biyotik faktörler
+    popülasyonun büyüklüğünü denetler.</p>
+<h3>Popülasyon Büyüklüğü</h3>
+<p>Popülasyonlar bulunduğu ortamda sınırsız çoğalamaz. Popülasyon büyüklüğünü rekabet, av-avcı
+    ilişkisi, sıcaklık, yağış, besin v.b faktörler etkiler. Belirli özelliklere sahip bir yaşama
+    ortamında bulunabilecek en fazla birey sayısı taşıma kapasitesini belirler.</p>
+<p>Popülasyonda birey sayısı taşıma kapasitesine yaklaştıkça çevre direnci artar, popülasyonun
+    büyüme hızı yavaşlar. Popülasyonun artışını engelleyen ekolojik faktörler çevre direncini
+    oluşturur.</p>
+<p>Belirli bir zamanda, popülasyonlarda görülen değişmeler büyüme eğrileri ile açıklanır.</p>
+<p>Böcekler gibi hızlı çoğalma potansiyeline sahip bireylerden oluşan popülasyonlarda birey sayısı
+    geometrik olarak artar. Bu tip popülasyonlarda “<strong>J</strong>”’
+    tipi büyüme eğrisi oluşur. Çevresel sınırlar nedeniyle bazı popülasyonlarda birey sayısı
+    geometrik olarak artmaz. Bu tip popülasyonlarda “<strong>S</strong>”
+    tipi büyüme eğrisi görülür.</p>
+<p>S tipi büyüme eğrisinde başlangıçta birey sayısı az olduğundan popülasyondaki büyüme hızı
+    yüksektir. Birey sayısı taşıma kapasitesine yaklaştıkça büyüme yavaşlar, doyma noktasına
+    ulaşarak dengelenir.</p>
+<h3>Popülasyon Dağılımı</h3>
+<p>Bir popülasyondaki bireylerin belirli bir alandaki yerleşme biçimidir. Popülasyonu oluşturan
+    bireyler temel olarak üç tip dağılım gösterir:</p>
+<p><strong>Rasgele dağılım:</strong> Çevrenin her köşesinde koşulların aynı olması ve rekabet
+    eğilimi olmayan popülasyonlarda gözlenen dağılımdır. Popülasyonu oluşturan bireyler yaşam için
+    en uygun alanı seçerler.</p>
+<p><strong>Düzenli dağılım:</strong> Doğada oldukça nadirdir. Zor çevresel şartlarda bireyler
+    arasında yetersiz kaynaklar için rekabet söz konusuysa görülür. Bireyler birbirlerine nispeten
+    eşit uzaklıkta bulunurlar.</p>
+<p><b> Kümeli dağılım:</b> Doğada en sık görülen dağılım biçimidir. Bireyler bir araya gelerek
+    gruplar oluşturur. Örneğin bazı hayvan türleri belirli sayıda bireylerden oluşan gruplar
+    (sürüler) oluşturacak şekilde bir araya gelirler. Doğada en sık görülen dağılım biçimidir.
+    Bireyler bir araya gelerek gruplar oluşturur. Örneğin bazı hayvan türleri belirli sayıda
+    bireylerden oluşan gruplar (sürüler) oluşturacak şekilde bir araya gelirler.</p>
+</html>

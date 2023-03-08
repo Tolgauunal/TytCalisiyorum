@@ -1,0 +1,71 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<div class="icerikalani">
+    <h2>İSTATİSTİK</h2>
+    <p>Bir veri grubuyla ilgili genel eğilimi gösteren ölçülere <strong>merkezi
+    eğilim ölçüleri</strong> denir. Merkezi eğilim ölçüsü, bir veri grubunu oluşturan sayıların
+    hangi sayı etrafında toplandıklarını gösterir. Dolayısıyla veri grubu hakkında kullanışlı ve
+    etkin bilgi almamızı sağlar. Örneğin, bir sınıftaki öğrencilerin fizik sınavından aldıkları
+    notları bilirsek, her bir öğrencinin fizik dersindeki durumu ile ilgili bir yorum yapabiliriz.
+    Ancak sınıftaki tüm öğrencilerin fizik dersi ile ilgili genel bir yorum yapmak için, tüm
+    öğrencilerin fizik sınav notlarının ortalamasına bakarız. Aritmetik ortalama, tepe değer (mod)
+    ve ortanca (medyan) merkezi eğilim ölçüleridir.</p>
+    <p><strong>Aritmetik Ortalama:</strong> Veri grubundaki tüm sayıların toplamının veri sayısına
+        bölümüne aritmetik ortalama denir. Kısaca, ortalama olarak da ifade edilebilir. Aritmetik
+        ortalama ;sembolü ile gösterilir.</p>
+    <p><strong>Örnek</strong>: Bir basketbol takımında boyu 192 cm olan 3 kişi, boyu 194 cm olan 5
+        kişi ve boyu 197 cm olan 2 kişi vardır. Buna göre, bu takımın boy ortalaması kaç cm&#8217;dir?
+    </p>
+    <p><strong>Çözüm</strong>: Takımda 3 + 5 + 2 = 10 oyuncu vardır. Bunlardan boyu 192 cm olanların
+        boy uzunlukları toplamı 3.192 = 576 cm, boyu 194 cm olayları boy uzunlukları toplamı 5.194 =
+        970 cm ve boyu 197 cm olanların boy uzunlukları toplamı 2.197 = 394 cm&#8217;dir. Bu durumda
+        takımı oluşturan 10 oyuncunun boy uzunlukları toplamı 576 + 970 + 394 = 1940 cm&#8217;dir. O
+        halde, takımın boy ortalaması 194 cm bulunur.</p>
+    <ul>
+        <li>Aritmetik ortalama, dizideki sayıların büyüklüklerinden etkilenen duyarlı bir
+            ortalamadır.
+        </li>
+        <li>Aritmetik ortalama dizideki terimlerin ağırlık merkezi olarak kabul edilir.</li>
+        <li>Bir veri gurubunun aritmetik ortalaması bir tanedir ve bu değer dizinin bir terimine hem
+            eşit olabilir hem de olmayabilir.
+        </li>
+        <li>Günlük hayatta, herhangi bir sayı grubunu yansıtan yaklaşık bir değeri ifade ederken
+            aritmetik ortalamayı kullanırız.
+        </li>
+        <li>Birbirine yakın değerler içeren bir veri grubunu en iyi yansıtan merkezi eğilim ölçüsü
+            aritmetik ortalamadır.
+        </li>
+    </ul>
+    <p><strong>Medyan (ortanca)</strong>: Küçükten büyüğe doğru sıralanmış bir sayı dizisinde; terim
+        sayısı tek sayı ise bu dizinin tam ortasındaki sayıya dizinin medyanı (ortancası) denir,
+        terim sayısı çift sayı ise ortadaki iki terimin aritmetik ortalamasına o dizinin medyanı
+        (ortancası) denir.</p>
+    <ul>
+        <li>Ortanca, diziyi terim sayısı bakımından iki eşit gruba ayırır.</li>
+        <li>Ortanca değer; veri grubunun bir elemanı ise, bu veri grubu tek sayıda elemana sahiptir,
+            veri grubunun bir elemanı değilse, bu durumda veri grubu çift sayıda elemana sahiptir.
+        </li>
+        <li>Ortanca, veri grubundaki sayılardan etkilenmediği için duyarlı değildir.</li>
+        <li>Bir veri grubu, sıra dışı değerlere yani çok büyük ya da çok küçük değerlere sahipse bu
+            gruba uygun merkezi eğilim ölçüsü ortancadır.
+        </li>
+    </ul>
+    <p><strong>Tepe Değer (Mod):</strong> Bir veri grubunda en çok tekrar eden sayıya o veri grubunu
+        oluşturan sayı dizisinin tepe değeri (modu) denir.</p>
+    <ul>
+        <li>Bir veri grubunun modu (tepe değeri) veri grubunun elemanı olmak zorundadır.</li>
+        <li>Veri grubundaki tüm sayılar aynı sayıda tekrar ediyorsa, tepe değeri yoktur.</li>
+        <li>Mod (tepe değeri), veri grubundaki sayıların büyüklüklerinden etkilenmez.</li>
+    </ul>
+</div>
+</div>
+</html>

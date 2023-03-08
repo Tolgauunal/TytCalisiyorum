@@ -1,0 +1,199 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<h1><strong><span style="font-family: Verdana;">PİRAMİTLER</span></strong></h1>
+<p><span style="font-family: Verdana;"><span style="font-family: verdana;">Bir düzlemde kapalı bir bölge ile bu düzlemin dışında bir T noktası alalım. Kapalı bölgenin tüm noktalarının T noktası ile birleştirilmesi sonucunda oluşan cisme </span><strong
+        style="font-family: verdana;">piramit </strong><span
+        style="font-family: verdana;">denir.</span></span></p>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="100%"><img
+                src="images/geometri/piramit/piramit1.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><span style="font-family: verdana;">T noktası piramidin tepe noktasıdır. Kapalı bölge ise piramidin tabanıdır. Piramit; tabanı oluşturan şeklin ismiyle adlandırılır. Taban kare ise, kare piramit; taban altıgense altıgen piramit gibi.</span>
+</p>
+<p><span
+        style="font-family: verdana;">Eğer piramidin tabanı düzgün çokgense bu tip piramitlere <strong>düzgün piramit </strong>denir.</span>
+</p>
+<p><span style="font-family: verdana;">T noktasının taban düzlemi üzerindeki dik izdüşümüne H dersek [TH] piramidin yüksekliği olur.</span>
+</p>
+<p><span style="font-family: verdana;">|TH| = h biçiminde yazılır. [TA], [TB], [TC]… piramidin yanal ayrıtlarıdır.</span>
+</p>
+<p><span style="font-family: verdana;">Piramitlerin hacmi taban alanı ile yüksekliğin çarpımının üçte biri kadardır.</span>
+</p>
+<h5>Düzgün Piramit Hacim Hesabı</h5>
+<table border="9" width="45%">
+    <tbody>
+    <tr>
+        <td width="100%"><img
+                src="images/geometri/piramit/piramit2.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<h3><strong>Kare Piramit</strong></h3>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="100%"><img
+                src="images/geometri/piramit/piramit3.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><span style="font-family: verdana;">Kare piramidin tabanı kare biçimindedir. Yan yüzeyleri ise dört adet ikizkenar üçgenden oluşur.</span>
+</p>
+<p><span style="font-family: verdana;">İkizkenar üçgenlerin taban uzunlukları piramidin tabanının bir kenarına eşittir.</span>
+</p>
+<p><span style="font-family: verdana;">|PH| = h piramidin yüksekliğidir.</span></p>
+<p><span style="font-family: verdana;">Yan yüz yüksekliği |PK| dır.</span></p>
+<p><span style="font-family: verdana;">Tabanının bir kenarına a dersek</span></p>
+<p><img src="images/geometri/piramit/piramit4.gif"
+        alt="derscalisiyorum.com.tr"/><br/>
+    <span style="font-family: verdana;">Buradan yan yüz yüksekliği</span></p>
+<p><span style="font-family: verdana;">|PK|</span><sup>2</sup><span style="font-family: verdana;"> = h</span><sup>2</sup><span
+        style="font-family: verdana;"> + (<img
+        src="images/geometri/piramit/piramit5.gif"
+        alt="derscalisiyorum.com.tr"/> )</span><sup>2</sup><span style="font-family: verdana;"> olur.</span>
+</p>
+<p><img src="images/geometri/piramit/piramit6.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<table border="9" width="22%">
+    <tbody>
+    <tr>
+        <td width="100%"><img
+                src="images/geometri/piramit/piramit7.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><span style="font-family: verdana;">Tüm alan yan yüz alanları ile taban alanının toplamına eşittir.</span>
+</p>
+<h3><span style="font-family: verdana;"><strong>Eşkenar Üçgen Piramit</strong></span></h3>
+<p><span style="font-family: verdana;">Tabanı eşkenar üçgen olan piramitlere eşkenar üçgen piramit denir.</span>
+</p>
+<p><img src="images/geometri/piramit/piramit8.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<table border="0" width="48%" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="33%"><span style="font-family: verdana;">Taban Alanı</span></td>
+        <td width="24%"><img
+                src="images/geometri/piramit/piramit9.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+        <td width="43%"><span style="font-family: verdana;">olduğundan</span></td>
+    </tr>
+    </tbody>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="100%"><img
+                src="images/geometri/piramit/piramit10.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<h3><span style="font-family: verdana;"><strong>Düzgün Dörtyüzlü</strong></span></h3>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="100%"><img
+                src="images/geometri/piramit/piramit11.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><span style="font-family: verdana;">Dört yüzü de eşkenar üçgenlerden oluşan cisimdir. Yükseklik, tabanı oluşturan üçgenin ağırlık merkezine iner.</span>
+</p>
+<p><span style="font-family: verdana;">Bir ayrıtı a olan  düzgün dörtyüzlünün</span></p>
+<table border="0" width="78%" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="33%" height="53"><span style="font-family: verdana;"> Yarı yüz yüksekliği</span>
+        </td>
+        <td width="12%" height="53"><img
+                src="images/geometri/piramit/piramit12.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+        <td width="55%" height="53"><span style="font-family: Verdana;">ve</span></td>
+    </tr>
+    <tr>
+        <td width="33%" height="52"><span style="font-family: Verdana;"> Cisim yüksekliği</span>
+        </td>
+        <td width="12%" height="52"><img
+                src="images/geometri/piramit/piramit13.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+        <td width="55%" height="52"><span style="font-family: Verdana;"> olur</span></td>
+    </tr>
+    </tbody>
+</table>
+<p><span style="font-family: verdana;">Buradan</span></p>
+<p><img src="images/geometri/piramit/piramit14.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><img src="images/geometri/piramit/piramit15.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<h3><span style="font-family: verdana;"><strong>Düzgün Sekizyüzlü</strong></span></h3>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="71%"><span style="font-family: verdana;">Bütün ayrıtları birbirine eş ve yüzeyleri sekiz eşkenar</span><span
+                style="font-family: verdana;">üçgenden oluşan cisme düzgün sekizyüzlü denir.</span><span
+                style="font-family: verdana;">Bir ayrıtına a dersek yan yüz yüksekliği <img
+                src="images/geometri/piramit/piramit16.gif"
+                alt="derscalisiyorum.com.tr"/></span><span
+                style="font-family: verdana;"> olur.</span><span style="font-family: verdana;">Cismin, ortak tabanlı iki adet kare piramitten oluştuğunu</span></p>
+            <p><span style="font-family: verdana;">düşünürsek piramitlerin yüksekliği;</span></p>
+            <p><span style="font-family: verdana;">olur.</span></td>
+        <td width="29%"><img
+                src="images/geometri/piramit/piramit17.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><span style="font-family: verdana;">Piramitin hacmi <img
+        src="images/geometri/piramit/piramit18.gif"
+        alt="derscalisiyorum.com.tr"/> olduğundan;</span></p>
+<p><img src="images/geometri/piramit/piramit19.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><img src="images/geometri/piramit/piramit24.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><span style="font-family: verdana;">Yüzey şekilleri eşkenar üçgen olduğundan</span></p>
+<p><img src="images/geometri/piramit/piramit20.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<h3><span style="font-family: verdana;"><strong>Düzgün Altıgen Piramit</strong></span></h3>
+<p><span style="font-family: verdana;">Tabanı düzgün altıgen olan piramide düzgün altıgen piramit denir.</span>
+</p>
+<p><span style="font-family: verdana;">Yan yüzeyleri altı adet eş ikizkenar üçgenden oluşur.</span>
+</p>
+<table border="0" width="61%" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="33%"><span style="font-family: verdana;">Taban alanı =</span></td>
+        <td width="33%"><img
+                src="images/geometri/piramit/piramit21.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+        <td width="34%"><span style="font-family: verdana;">olduğundan</span></td>
+    </tr>
+    </tbody>
+</table>
+<p><img src="images/geometri/piramit/piramit22.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><img src="images/geometri/piramit/piramit23.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><span
+        style="font-family: verdana;">bulunur.  Yan yüzeyleri altı adet eş ikizkenar üçgen oluşur.</span>
+</p>
+</html>

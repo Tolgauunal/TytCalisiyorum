@@ -1,0 +1,51 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+
+
+    </style>
+</head>
+
+<div>
+    <h2><p>İNSANLARDA ÜREME SİSTEMİ</p></h2>
+</div>
+
+<p>İnsanda üreme sistemi sinirler ve hormonların denetiminde çalışır. Dişi ve erkek üreme sistemi
+    bir birinden farklı yapılar içerir.</p>
+
+<p>1. DİŞİ ÜREME SİSTEMİ</p>
+<p> 2. ERKEK ÜREME SİSTEMİ</p>
+<h4><p>BÜYÜME VE GELİŞME</p></h4>
+<h5><p> TÜP BEBEK YÖNTEMİ</p></h5>
+
+<p>Erkekte canlı sperm sayısının azlığı ya da dişide yumurta kanalının tıkalı olması gibi sebeplerle
+    doğal yolla döllenme gerçekleşmezse, ebeveynlerden alınan yumurta ve sperm hücreleri laboratuvar
+    şartlarında döllenerek dişinin rahmine aktarılır. Bu yönteme tüp bebek yöntemi denir. Tüp bebek
+    yönteminde uygulanan aşamaların sırası,<p>
+
+    1. Yumurtalıkların uyarılması
+
+    2. Yumurta toplama: Yumurtalık uyarımı ile belirli bir büyüklüğe ulaşmış foliküller elde
+    edildiğinde, çatlatıcı iğne yapılır ve 34-36 saat sonrasında yumurta toplama işlemi uygulanır.<p>
+
+    3. Döllenme: Yumurta ve sperm hazırlandıktan sonra döllenme safhasına geçilir. Döllenme standart
+    tüp bebek (in vitro fertilizasyon; IVF) veya mikroenjeksiyon ( ICSI)ile sağlanır. IVF ile
+    ICSI’nin tek farkı dölleme safhasıdır. IVF görünür sperm problemi olmayan durumlarda tercih
+    edilir. Sperm problemi olanlarda ICSI tercih edilir. IVF’de sperm yumurtanın yanına bırakılır ve
+    sperm kendisi döllemeyi gerçekleştirir. ICSI yönteminde ise yumurtanın etrafındaki hücreler
+    eritilerek sperm aktarma işlemi yapılır.<p>
+
+    4. Embriyo transferi: Embriyolar laboratuvarda; takip edilerek embriyo sayısı ve kalitesine göre
+    3. ya da 5. gün transfer edilir.
+<p>
+    5. Gebelik testi yapılır</p>
+</html>

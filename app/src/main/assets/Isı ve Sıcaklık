@@ -1,0 +1,217 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    
+    </style>
+</head>
+<h2>Isı – Sıcaklık – Genleşme</h2>
+<h3><a name="1"></a>Isı ve Sıcaklık</h3>
+<p>Isı ve sıcaklık farklı kavramlardır. <strong>Sıcaklık</strong></span>, bir sistemde rastgele hareket eden
+    moleküllerin ortalama kinetik enerjisinin bir göstergesidir. Maddenin molekül veya atomlarının
+    ortalama kinetik enerjisi artarsa sıcaklığı da artar. Sıcaklık, skaler bir<br/>
+    büyüklüktür, termometre ile ölçülür. SI birim sisteminde sıcaklık birimi Kelvin’dir ancak günlük
+    yaşantıda çoğunlukla Celcius derece (˚C )kullanılır.</p>
+<p>Maddeden maddeye veya aynı maddenin bölgeleri arasında aktarılan enerjiye <strong>ısı</strong></span> denir. Maddeye enerji aktarıldığında
+    maddenin ortalama kinetik enerjisinin artmasına yani sıcaklığının artmasına neden olur. Isı
+    skaler bir büyüklüktür. Birimi joule’dür. Isı enerjisini direk olarak bir aletle ölçemeyiz ancak
+    kalorimetre kabı yardımıyla hesaplayabiliriz.</p>
+<p>Çevremizde bazen rastladığımız; “vücut ısısı”, “suyun ısısı”, “havanın ısısı” kullanımları
+    yanlıştır. Doğru kullanım “vücut sıcaklığı”, “suyun sıcaklığı”, “havanın sıcaklığı” şeklinde
+    olmalıdır.</p>
+<h3>Termometreler</span></h3>
+<p>Bir maddenin sıcaklığını ölçmek için kullanılan aletlere <strong>termometre</strong></span>
+    denir. Sıcaklığın termometre ile ölçülmesi algılama farklılığından kaynaklanan farklı sonuçları
+    ortadan kaldırır.</p>
+<p><strong>Metal Termometreler:</strong> Genellikle yüksek sıcaklıkları ölçmek için tasarlanmıştır.
+    Fabrikalarda yüksek sıcaklık ölçümlerinde, fırınlarda ve sanayide kullanılır.</p>
+<p><strong>Sıvılı Termometreler:</strong> Sıvılı termometreler ile genellikle orta derecede
+    sıcaklıklar ölçülür. Sıvılı termometrelerde alkol ya da cıva kullanılır. Bunun nedeni bu
+    sıvıların sıcaklık değişimine bağlı olarak oldukça iyi genleşmeleridir. Bir sıvılı termometrenin
+    ölçebileceği en yüksek sıcaklık değeri o termometrede kullanılan sıvının cinsine bağlıdır. Bir
+    sıvılı termometre ile ölçüm yaparken termometre sıvısının hal değiştirmemesi gerekir.</p>
+<p><strong>Gazlı Termometreler:</strong> Düşük sıcaklıklarda daha hassas ölçüm yapmak için gazlı
+    termometreler kullanılır.</p>
+<p><strong>Pirometre:</strong>Sıcaklığın yaklaşılmayacak kadar yüksek olduğu veya temas edilmeden
+    ölçüm yapmak istediğimiz durumlarda kullanılan termometredir.</p>
+<h3>Sıcaklık Ölçekleri</span></h3>
+<p>Termometreler tasarlanırken saf suyun donma sıcaklığı ve saf suyun kaynama sıcaklığı
+    belirlenerek, iki değer arası eşit bölmelere ayrılır.</p>
+<p>
+    <img src="https://dilimiz.gen.tr/wp-content/uploads/fikiravm/2019/04/sicaklik-olceklendirmesi.jpg"
+         alt="Sıcaklık Ölçeklendirmesi"/></p>
+<p>Celsius, Fahrenheit ve Kelvin termometreleri şekillerdeki gibi ölçeklendirilmiştir.</p>
+<p>Burada, dikkat edilirse; Celsius termometresinin 1 bölmesi (1 °C’lık değişime), Fahrenheit
+    termometresinin 1,8 bölmesine (1 ,8 °F’lık değişime) ve Kelvin termometresinin 1 bölmesine
+    (1K’lık değişime) karşılık gelmektedir.</p>
+<h3>Öz Isı ve Isı Sığası</span></h3>
+<p>Saf bir maddenin 1 gramının sıcaklığını 1˚C artırmak için gerekli ısı miktarına<strong> öz ısısı</span> </strong>denir. Öz ısı “c” ile gösterilir birimi
+    joule/kg veya cal/g ˚C ve maddeler için ayırt edici bir özelliktir. Öz ısı ile ilgili olarak;
+</p>
+<p><strong>&#8211;</strong> </span>Öz ısı saf maddeler için ayırt edici
+    bir özelliktir.<br/>
+    <strong>&#8211;</strong> </span>Öz ısı madde miktarına bağlı olarak
+    değişmez.<br/>
+    <strong>&#8211;</strong> </span>Eşit miktarda farklı cins
+    maddelere, eşit miktarda ısı verildiğinde öz ısısı az olan sıvının sıcaklığı daha fazla
+    artar.<br/>
+    <strong>&#8211;</strong> </span>Eşit miktarda farklı cins
+    maddelerin çevreye verdikleri ısı, öz ısısı fazla olanın daha fazladır.<br/>
+    <strong>&#8211;</strong> </span>Denizlerin karalardan daha geç
+    ısınıp soğumasının nedeni suyun öz ısısı diğer maddelere göre fazla olmasıdır.</p>
+<p>Bir maddenin sıcaklığını 1 ˚C artımak için gerekli ısı miktarına <strong>ısı sığası</strong></span> veya <strong>ısı kapasitesi</span> </strong>denir <strong>C</span></strong> ile gösterilir . Matematiksel olarak;</p>
+<p><span style="font-size: 14pt"><strong>Isı sığası= Kütle. Öz ısı   </strong></span></p>
+<p><span style="font-size: 14pt"><strong>C= m.c </strong></span> şeklinde ifade edilir.</p>
+<h2><a name="2"></a>Hal Değişimi</span></h2>
+<p>Bir maddeye ısı verildiğinde ya da madde ile çevresi arasında ısı alış – verişi olurken maddenin
+    sıcaklığı değişir. Ancak ısı alış – verişi sırasında maddenin sıcaklığının değişmediği durumlar
+    da vardır. Bu durumlar maddenin katıdan sıvıya geçmesi (erime), sıvıdan gaza geçmesi
+    (buharlaşma), gazdan sıvıya geçmesi (yoğunlaşma), sıvıdan katıya geçmesi (donma) dır. Bu
+    olaylara <strong>hal değişimi</strong> </span>ya da<strong> faz değişmesi</strong></span> denir.</p>
+<h3>Hal Değiştirme Isısı</span></h3>
+<p>1 gram maddenin hal değiştirmesi için gerekli olan ısı miktarına, hal değiştirme ısısı denir.
+    Ayırt edici bir özelliktir. L harfi ile gösterilir. Madde eriyorsa erime ısısı, donuyorsa donma
+    ısısı denir. Aynı cins maddelerin erime ve donma ısıları eşittir. Bu nedenle 1 gram buzun
+    erimesi için gerekli olan ısı değeri ile 1 gram suyun donarken ortama verdiği ısı değeri
+    aynıdır. Bu değer ise 80 kaloridir.</p>
+<p>Benzer biçimde 1 gram suyun kaynaması için gerekli olan ısı değeri ile 1 gram su buharının
+    yoğunlaşırken ortama verdiği ısı değeri aynıdır. Bu değer ise 540 kaloridir. 1 gram maddenin hal
+    değiştirmesi için gerekli olan ısı miktarı L ise, m gram maddenin hal değiştirmesi için gerekli
+    olan ısı miktarı</p>
+<p><span style="font-size: 14pt"><strong>Q = m.L</strong></span> formülü ile ifade edilir.</p>
+<h2><a name="3"></a>Isıl Denge</span></h2>
+<p>Sıcaklıkları farklı maddelerin aralarındaki ısı akışı, maddelerin sıcaklıkları eşitlenince durur.
+    Bu sıcaklığa denge sıcaklığı denir. Denge sıcaklığı<strong> Td</strong></span> ile gösterilir.</p>
+<p><strong>&#8211;</strong> </span>Denge sıcaklığında olan maddeler
+    <strong>ısıl (termal)</strong></span> dengedeki maddeler adı
+    verilir. Isıl dengedeki maddelerin sıcaklıkları eşittir.<br/>
+    <strong>&#8211;</strong> </span>Maddelerin denge sıcaklığı,
+    sıcaklığı büyük olan maddeninkinden daha büyük; sıcaklığı küçük olanından küçük olamaz.<br/>
+    <strong>&#8211;</strong> </span>Dış ortamdan izole edilmiş ve
+    birbirine temas eden iki maddenin arasındaki ısı alışverişinde maddeler ısıl dengeye ulaştığında
+    birinin verdiği ısı miktarı diğerinin aldığı ısı miktarına eşittir. Bu durumu matematiksel
+    olarak;</p>
+<p><span style="font-size: 14pt"><strong>Qalınan=Qverilen</strong></span></p>
+<h2><a name="4"></a>Enerji İletim Yolları ve Enerji İletim Hızı</span>
+</h2>
+<h3>Enerji İletim Yolları</span></h3>
+<p>Isı enerjisi, bir maddeden başka bir maddeye bir yerden başka bir yere üç farklı yolla transfer
+    olur: İletim yoluyla, konveksiyon (dolanım) yoluyla ve ışıma yoluyla.</p>
+<p><strong>Isının İletim Yoluyla Yayılması:</strong> Katı maddelerin atom veya moleküllerinin
+    enerjilerini birbirlerine aktarmasına <strong>ısının iletim yoluyla yayılması</strong></span>
+    denir. Isının iletim yoluyla yayılması için mutlaka ortama ihtiyaç vardır.</p>
+<p><strong>Isının Konveksiyon Yoluyla Yayılması:</strong> Maddenin sıcaklığının yüksek olduğu yerde
+    yoğunluğu daha azalır, sıvı ve gaz maddelerde bu yoğunluk farkı olur. Sıvı ve gaz maddelerde bu
+    yoğunluk farkından dolayı atom ve moleküller yer değiştirirler bu<br/>
+    sayede enerji madde içinde taşınmasına <strong>ısının konveksiyon yoluyla yayılması</strong></span>
+    denir.</p>
+<p>Isının konveksiyon yoluyla yayılması için mutlaka madesel ortama ihtiyaç vardır. Sobanın odayı
+    ısıtması ve tenceredeki suyun kaynaması ısının konveksiyon yoluyla yayılmasına örnek
+    verilebilir.</p>
+<p><strong>Isının Işıma Yoluyla Yayılması:</strong> Dünyamızın en önemli enerji kaynağı olan Güneş
+    bize enerjisini ışıma yoluyla iletmektedir. Isının maddesel ortama ihtiyaç duymadan yayılmasına
+    <strong>ısının ışıma yoluyla yayılması</strong></span> denir.</p>
+<h3>Katı Maddelerdeki Enerji İletim Hızı</span></h3>
+<p>Farklı maddelerin enerji iletim hızları farklıdır. Metallerin enerji aktarım hızları diğer
+    maddelere göre daha fazladır. Metallerin enerji aktarım hızları serbest elektron sayılarına
+    bağlı olarak değişiklik gösterir.</p>
+<p>Maddelerin ısı iletkenliğini ısı iletim katsayısı ile ifade edilir.1 m2’lik yüzey alanına sahip
+    maddelerin iki yüzeyi arasındaki sıcaklık farkından dolayı bir yüzeyinden diğer yüzeyine en kısa
+    mesafede birim zamanda geçen ısı miktarına ısı iletkenlik katsayısı denir.</p>
+<p>Birimi watt/metre. kelvin’dir. Isı iletkenlik katsayısı maddeler için ayırdedici bir özelliktir.
+    Maddelerin ısı iletim hızı;</p>
+<p><strong>&#8211;</strong> </span>Maddenin cinsine,<br/>
+    <strong>&#8211;</strong> </span>Maddenin iki ucu arasındaki
+    sıcaklık farkına,<br/>
+    <strong>&#8211;</strong> </span>Maddenin kalınlığına,<br/>
+    <strong>&#8211;</strong> </span>Enerji iletiminin gerçekleştiği
+    maddenin yüzey alanına bağlıdır.</p>
+<h3>Enerji Tasarrufu</span></h3>
+<p>Ülkemizde de enerji tasarrufu sağlamak için binalarda ısı yalıtımı zorunlu hâle getirilmiştir.
+    Enerji iletim hızı düşük olan maddelere yalıtım malzemeleri denir.</p>
+<p>Binanın yalıtım malzemeleriyle kaplanarak yapılan enerji yalıtım işlemlerine “<strong>mantolama</strong></span>” adı verilir.</p>
+<p>Binalar yapılırken tuğlaların kalın kullanılması veya kullanılan ince tuğlaların arasına strafor
+    veya cam elyaf adı verilen maddeler konularak yapılması birer yalıtım örneğidir. Binalarda ısı
+    yalıtımı sayesinde büyük oranlarda enerji tasarrufu sağlanmaktadır.</p>
+<h3>Küresel Isınma ve Sera Etkisi </span></h3>
+<p>Son yıllarda, Dünya üzerinde yapılan ölçümler, hava, kara ve deniz sıcaklıklarının ortalama
+    değerlerinin önceki yıllara göre arttığını göstermektedir. Ortalama sıcaklıklardaki bu artışa
+    küresel ısınma denir. Küresel ısınmanın ana sebeplerinden biri insanların doğaya verdikleri
+    zararlardır. Kullandığımız, fosil yakıtlardan çıkan sera gazları, kişisel bakım Ürünleri, parfüm
+    ve deodorant küresel ısınmayı tetiklemektedir. Bunların yanında güneşte meydana gelen periyodik
+    olaylar da (patlama gibi) küresel ısınmaya sebep olmaktadır.</p>
+<p><span style="text-decoration: underline"><strong>Küresel ısınma;<br/>
+</strong></span><strong>&#8211;</strong> </span>Dünya üzerinde iklim
+    değişikliğine,<br/>
+    <strong>&#8211;</strong> </span>Buzulların erimesine,<br/>
+    <strong>&#8211;</strong> </span>Canlı türlerinin yok olmasına
+    (özellik deniz canlılarının),<br/>
+    <strong>&#8211;</strong> </span>Deniz seviyesinin yükselmesi sonucu
+    içme suyu sıkıntısına,<br/>
+    <strong>&#8211;</strong> </span>Tarımsal kuraklığa, ve bunlar gibi,
+    yaşamımızı doğrudan etkileyen olaylara neden olmaktadır.<br/>
+    <strong>&#8211;</strong> </span>Küresel ısınmayı engellemek için
+    alınabilecek bireysel önlemlerden bazıları,</p>
+<p><span style="text-decoration: underline"><strong>Küresel Isınmayı Önlemek İçin Alınması Gereken Önlemler</strong></span><br/>
+    <strong>&#8211;</strong> </span>Standart ampulünüzü tasarruf ampulü
+    ile değiştirin ve bir yıldaki karbondioksit salınımını 75 kg azaltın.<br/>
+    <strong>&#8211;</strong> </span>Toplu taşıma araçları kullanın,
+    yürüme mesafelerine yürüyerek gidin.<br/>
+    <strong>&#8211;</strong> </span>otomobillerin hava ve yakıt
+    filtrelerini temiz tutun.<br/>
+    <strong>&#8211;</strong> </span>Geri dönüşüme mutlaka önem
+    gösterin.<br/>
+    <strong>&#8211;</strong> </span>Daha az sıcak su kullanarak enerji
+    kullanımını azaltın.<br/>
+    <strong>&#8211;</strong> </span>Elektronik cihazlarınızı
+    (televizyon, müzik çalar gibi) tamamen kapatın (kapama düğmesinden ya da fişten çekin)<br/>
+    <strong>&#8211;</strong> </span>Her yıl mutlaka ağaç dikin.<br/>
+    <strong>&#8211;</strong> </span>Parfüm ve deodorant kullanımınızı
+    azaltın.</p>
+<h2><a name="5"></a>Genleşme</span></h2>
+<p>Bir maddeye ısı verildiğinde sadece maddenin sıcaklığı değişiyorsa verilen ısı maddenin
+    molekülleri arasındaki bağları gevşetir ve moleküllerin arası açılır. Isı verilerek maddenin
+    hacminin artması olayına <strong>genleşme</strong></span> denir.
+    Genleşme maddenin üç hali için de gözlenebilir.</p>
+<h3>Katılarda Genleşme</span></h3>
+<p>Katı madde, çubuk şeklinde ise boyca uzama, levha şeklinde ise yüzeyce genleşme, küre ve silindir
+    gibi cisimlerde ise hacimce genleşme olarak incelenir.</p>
+<p><strong>Boyca Uzama:</span> </strong></span>Katı bir çubuk, ısıtılıp
+    sıcaklığı artırıldığında boyunun uzadığı gözlenir. Boyu uzayan bir çubuğun genişliği de artar.
+    Fakat boyundaki artışın yanında genişliğindeki artış ihmal edilecek kadar küçüktür.Bundan dolayı
+    metalin tek boyutta genleştiği kabul edilir ve buna <strong>boyca uzama</strong></span>
+    denir.</p>
+<p><strong>Yüzeyce Genleşme:</strong> İnce levha şeklindeki katı maddelerin kalınlığındaki genleşme,
+    yüzeyindeki genleşmenin yanında çok küçük kaldığı için dikkate alınmaz. Dolayısıyla böyle bir
+    levhadaki genleşmeye yüzeyce genleşme denir. Yüzey alanı<strong> 𝑆0</span></strong>
+    olan ince metal bir levha ısıtıldığında yüzey alanı artar. Yüzey alanındaki <strong>ΔS</strong> </span>artış miktarı <strong>ΔS= 𝑆0.2a. ΔT</strong> </span>bağıntısı
+    ile hesaplanır. İki boyutta genleşme olduğu için a uzama katsayısı 2a olarak alınmıştır. Benzer
+    şekilde soğutulan levhanın yüzey alanındaki azalma da aynı bağıntı ile hesaplanır.</p>
+<p>Yüzeyce genleşme aslında fotokopi makinesinde bir cismin daha büyük ya da daha küçük fotokopisini
+    çekmek gibidir. Boyutları değişir fakat şekli değişmez.</p>
+<p><strong>Hacimce Genleşme:</strong> Bütün maddeler hacimce genleşir. Fakat bazı doğrultulardaki
+    genleşmeler ihmal edilecek kadar küçük olduğunda, boyca uzana ve yüzeyce genleşme durumları
+    olur. İlk hacmi 𝑉0 olan küresel bir cismin sıcaklığı <strong>ΔT</strong></span> kadar değiştirildiğinde hacmindeki
+    değişme miktarı olan <strong>ΔV</strong></span>, <strong>Δ<span
+            style="font-size: 14pt">V = V-𝑉0=𝑉0.3λ.Δt </span></strong> bağıntısıyla hesap edilir.
+</p>
+<h3>Gazların Genleşmesi</span></h3>
+<p>Maddelerin genleşme kat sayıları arasında<span style="font-size: 14pt"><strong> a<sub>gaz</sub> &gt; a<sub>sıvı</sub>&gt; a<sub>katı</sub></strong></span>
+    ilişkisi vardır. Bütün gazlar aynı miktarda genleştiğinden genleşme gazlar için ayırt edici bir
+    özellik değildir.</p>
+<h3>Sıvıların Genleşmesi</span></h3>
+<p>Isıtılan bir sıvı, hacimce genleşir. İçi su dolu bir kap ısıtıldığında sıvının taşması,
+    genleştiğini gösterir. Aynı cins sıvıların sıcaklığı eşit miktar artırılırsa, hacmi büyük olan
+    sıvı daha fazla genleşir. Su diğer sıvılardan farklı şekilde genleşir. Suyun 1 atmosferlik
+    basınç altında +4 °C altında ve üstündeki sıcaklıklarda suyun hacmi artar. Eğer suyun diğer
+    sıvılardan farklı özelliği olmasaydı yani diğer sıvılar gibi davransaydı, sular üstten değil
+    dipten donardı. Dolayısıyla denizlerde hayat olmazdı. Halbuki su üstten donup 1 m kalınlığında
+    buz tabakası olsa da, suyun dip taraftaki sıcaklığı +4 civarındadır. Çünkü yoğunluğu en fazla
+    olan sıvı dipte olur.</p>
+<p>&nbsp;</p>
+</html>

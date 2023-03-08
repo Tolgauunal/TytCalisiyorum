@@ -1,0 +1,314 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    
+    </style>
+</head>
+<h2>Modern Atom Teorisi</h2>
+<h2><a name="1"></a>Atomun Kuantum Modeli</h2>
+<h3>Bohr Atom Modeli Yetersizlikleri</h3>
+<p>Bohr atom modeli, elektronların çekirdek etrafında ışıma yapmadan belirli enerjilere sahip
+    yörüngelerde döndüğünü ve enerji alış verişi ile yörüngeler arasında geçiş yapabildiğini
+    belirtir. Ancak atom ve atom altı tanecik(elektron)lerin davranışını tam olarak açıklayamaz. Bu
+    yüzden 1926 yılında modern kuantum modeli Bohr atom modeli’nin yerini almıştır.</p>
+<p>Bohr atom yetersizliklerini aşağıda sıralayacağız;</p>
+<p><strong>&#8211; </strong>Spektrumlardaki bazı çizgilerin, dış
+    manyetik alan etkisinde daha alt çizgilere ayrışması, atomda Bohr’un belirttiklerinden başka
+    fiziksel etkilerin de olduğu fikrini doğurmuştur.<br/>
+    <strong>&#8211; </strong>Spektrum analizlerinde bazı
+    çizgilerin parlaklığının diğerlerinden daha fazla olması, Bohr tarafından açıklanamamıştır.<br/>
+    <strong>&#8211; </strong>Birden fazla elektronu bulunan
+    elementlerde elektronların çekirdekle ve birbirleri ile, elektriksel ve manyetik etkileşimleri
+    hesaba katılmamış ve açıklanamamıştır.<br/>
+    <strong>&#8211; </strong>Atomlar arasındaki bağlar ve
+    atomların birleşerek molekülleri nasıl oluşturduğu açıklanamamıştır.<br/>
+    <strong>&#8211; </strong>Elektronun dalga hareketi dikkate
+    alınmamıştır.</p>
+<h3>Yörünge ve Orbital Kavramları </h3>
+<p><strong>Yörünge (Bohr atom modeline göre)</strong><br/>
+    <strong>&#8211; </strong>Elektronların izlediği varsayılan
+    dairesel yoldur.<br/>
+    <strong>&#8211; </strong>Elektronun düzlemsel hareketini
+    temsil eder.<br/>
+    <strong>&#8211; </strong>Her yörünge bir enerji düzeyi ile
+    temsil edilir.<br/>
+    <strong>&#8211; </strong>Her yörünge, belirli bir kapasiteye
+    sahiptir ve her yörüngede yalnız belirli sayıda elektron bulunur.</p>
+<p><strong>Orbital (Modern atom teorisine göre)<br/>
+</strong><strong>&#8211; </strong>Elektronların bulunma
+    olasılığının en fazla olduğu bölgelerdir.<br/>
+    <strong>&#8211; </strong>Elektronun 3 boyutlu hareketini
+    temsil eder.<br/>
+    <strong>&#8211; </strong>Farklı şekillere sahiptir.<br/>
+    <strong>&#8211; </strong>Her enerji düzeyi farklı orbitaller
+    bulundurabilir.<br/>
+    <strong>&#8211; </strong>Her orbitalde en fazla 2e- bulunur.<span
+            style="text-decoration: underline"></span><strong><br/>
+</strong></p>
+<h2><a name="2"></a>Periyodik Sistem Ve Elektron Dizilimleri
+</h2>
+<p>Periyodik tablonun şekli atomların elektron dizilimiyle son derece ilişkilidir. Örneğin, 2. grup
+    elementlerinin hepsi [E] ns2 elektron dizilimine sahiptir. (E burada bir asal gazın elektron
+    dizilimidir) Ayrıca bunlar aynı grupta oldukları için kimyasal özellikleri bakımından önemli
+    ölçüde birbirine benzemektedirler. Daha genel olarak, periyodik tablodaki blok kavramının nedeni
+    s,p,d,f alt kabuklarını doldurmak için gerekli elektron sayısıdır. ( 2,6,10,14…)</p>
+<p>En dış elektron kabuğuna genellikle “değerlik kabuğu” denilmektedir. Bu kabuk atomun kimyasal
+    özelliğini belirlemektedir.</p>
+<h3>Elektron Dizilimleri</h3>
+<p>Elektron dizilimi, atom fiziği ve kuantum kimyasında, bir atom ya da molekülün (ya da diğer
+    fiziksel yapıların) elektronlarının atomik ya da moleküler orbitallerdeki dağılımıdır. Örneğin
+    Neon atomunun elektron dizilimi 1s2 2s2 2p6 olarak gösterilir.</p>
+<p>Elektron diziliminde elektronlar her biri bağımsız bir şekilde yörüngelerde hareket eden atom
+    altı parçacıklar olarak tanımlanmışlardır. Matematiksel olarak bu dizilim Slater determinantı ya
+    da durum fonksiyon dizilimi olarak belirtilir.</p>
+<p>5. enerji düzeyine kadar her enerji düzeyindeki maksimum elektron sayısı 2n formülü ile
+    bulunur.</p>
+<p><strong>Birinci enerji düzeyi:</strong> en fazla 2,<br/>
+    <strong>İkinci enerji düzeyi:</strong> en fazla 8,<br/>
+    <strong>Üçüncü enerji düzeyi:</strong> en fazla 18,<br/>
+    <strong>Dördüncü enerji düzeyi:</strong> en fazla 32 elektron alabilir.</p>
+<p><strong>Pauli İlkesi’ne göre;</strong> bir atomda hiçbir
+    zaman dört kuantum sayısı da aynı olan iki elektron bulunamaz.İki elektronun üç kuantum sayısı
+    n, l ve ml sayıları aynı olsa da ms yani elektronların orbitaldeki yönleri farklı olmalıdır. Bu
+    ilke, bir orbitalin iki elektron<br/>
+    aldığını ve elektronların zıt spinli olduğunu belirtmektedir.</p>
+<p>Dolayısıyla tek tür olan s orbitaline en fazla iki elektron, üç tür olan p orbitaline en fazla
+    altı elektron, beş tür olan d orbitaline ise en fazla 10 elektron yerleşebilir.</p>
+<p>Elektronlar eş enerjili orbitallere öncelikle birer birer yerleşirler.<strong>Hund Kuralı</strong> olarak bilinen bu kurala göre
+    elektronlar önce boş orbitallere aynı spinli olacak şekilde yerleşirler daha sonra ters spinli
+    olacak şekilde orbitallerdeki elektronlar ikiye tamamlanır.<br/>
+    Hund Kuralı’na göre p orbitallerine ve d orbitellerine elektronların yerleşmesi birer birer
+    olmaktadır.</p>
+<p>Atomların elektron dizilimleri<strong>(Aufba) Kuralı</strong>’na göre yapılır. Aufbau
+    Almanca’da inşa etme anlamına gelir ve bu kural atomların atom numaraları arttıkça elektron
+    diziliminin nasıl inşa edileceğini gösterir. Pauli İlkesi ve Hund Kuralı’nı da içeren bu kurala
+    göre elektronlar orbitallere en düşük enerjili orbitalden başlayarak yerleşir. Her orbital en
+    fazla 2 elektron alabilir.</p>
+<p><strong>Anyonların Elektron Dizilimi</strong></p>
+<p>Negatif yüklü iyonların elektron dizilişlerinde; toplam elektronları, en düşük enerjili
+    orbitallerden başlanarak kurallara göre yerleştirilir. 1s<sup>2</sup> 2s<sup>2</sup>
+    2p<sup>4</sup> elektron dizilimine sahip <sub>8</sub>O atomu 2e– aldığında
+    <sub>8</sub>O<sup>2–</sup> : 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> dizilimine sahip olur.
+</p>
+<p><strong> Katyonların Elektron Dizilimi </strong></p>
+<p>Pozitif yüklü iyonların elektron dizilişlerinde; önce nötr atomun elektron dizilişi yazılır,
+    sonra atomun verdiği elektronlar en dış temel enerji düzeyinden başlanarak uzaklaştırılır.
+    1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6 </sup>3s<sup>2</sup> 3p<sup>6</sup> 4s<sup>2</sup>
+    elektron dizilimine sahip Ca atomu 2e– verdiğinde son katman olan 4s’den elektron vererek <sub>20</sub>Ca<sup>2</sup>+
+    : 1s<sup>2</sup> 2s<sup>2</sup> 2p<sup>6</sup> 3s<sup>2</sup> 3p<sup>6 </sup>dizilimine sahip
+    olur</p>
+<p><strong>Küresel Simetri </strong></p>
+<p>Atomun elektron dizilimi yapıldığında son orbitali yarı dolu ve tam dolu orbitallerden herhangi
+    biriyle sonlanıyorsa (s<sup>1</sup>, s<sup>2</sup>, p<sup>3</sup>, p<sup>6</sup>, d<sup>5</sup>,
+    d<sup>10</sup>) atomda küresel simetri özelliği vardır.</p>
+<p>Bu durumda; çekirdek, elektron bulutlarını her yönde eşit düzeyde yani daha dengeli bir biçimde
+    çeker. Bu tür atomlar, diğerlerine göre daha düşük enerjili olup daha kararlı yapıdadır.</p>
+<p><strong>Değerlik Elektron Sayısı ve Değerlik Orbitali</strong>
+</p>
+<p>Atomların katman-elektron dizilimlerini yapmayı öğrenmiştiniz.Atomun bu katman-elektron
+    diziliminde son katmandaki elektronlar atomun kimyasal davranışını ortaya koyar. Nötr bir atomun
+    elektron diziliminde son katmanda bulunan elektronlara değerlik elektronları, bu orbitallerin
+    bulunduğu orbitallere de değerlik orbitalleri denir.</p>
+<p>Bir atomun kimyasal özelliklerini belirleyen, kimyasal tepkimelerdeki, kimyasal bağ oluşumunda
+    rol oynayan elektronlardır.</p>
+<p><strong>Bir atomun elektron diziliminde;</strong></p>
+<p><strong>&#8211; </strong>Elektron dizilimi ns ile sonlanan atomların değerlik elektron sayısı ns
+    orbitalindeki elektron sayısına eşittir. (n = en büyük başkuantum sayısı)<br/>
+    <strong>&#8211; </strong>Elektron dizilimi ns np ile sonlanan atomların değerlik elektron sayısı
+    ns np orbitallerindeki toplam elektron sayısına eşittir.<br/>
+    <strong>&#8211; </strong>Elektron dizilimi ns(n &#8211; 1)d ile sonlanan atomların değerlik
+    elektron sayısı ns (n &#8211; 1)d orbitallerindeki toplam elektron sayısına eşittir.</p>
+<h2><a name="3"></a>Periyodik Özellikler</h2>
+<p>Periyodik cetvelin bilim insanlarına sağladığı en büyük fayda, bir elementin sadece periyodik
+    cetvedeki yerini bilerek onun hakkında bazı bilgilere anında ulaşabilmektir. Periyodik cetvelin
+    yapısı gereği bir takım özellikler periyodik olarak artar veya azalır. Bu özelliklere<strong> periyodik özellikler</strong> denir.</p>
+<h3> Atom Yarı Çapı</h3>
+<p>Atomun merkezi ile son katmanı arasındaki uzaklık atom yarıçapıdır . Atomların yaptığı bağ türüne
+    göre yarıçaplar üçe ayrılır.Bunlar;</p>
+<p>Tek bir kovalent bağla bağlanmış eşdeğer iki atomun çekirdekleri arasındaki uzaklığın
+    yarısına<strong> kovalent yarıçap </strong>denir.</p>
+<p>İyonik bağı oluşturan metal atomları elektron vererek katyon oluştururken ametal atomları da
+    elektron alarak anyon oluşturur. İyonik bağı oluşturan katyon ve anyonların çekirdekleri
+    arasındaki uzaklık ölçülür. Bu iyonlar eşdeğer büyüklükte olmadığından, aralarındaki uzaklığın
+    katyon ve anyon arasında bölüştürülmesiyle elde edilen yarıçapa<strong> iyonik yarıçap</strong> denir.</p>
+<p>Soy gaz atomları yüksek basınçlarda ve düşük sıcaklıklarda katı hale geçerken aralarındaki
+    etkileşimlerden yararlanarak <strong>Van der Waals yarıçap</strong>
+    hesaplanır.</p>
+<h3>İyonlaşma Enerjisi</h3>
+<p>Gaz halde bulunan nötr bir atomdan elektron koparmak için gereken enerjiye<strong>iyonlaşma enerjisi</strong> denir. Gaz halindeki nötr
+    bir atomdan bir elektron koparmak için gereken enerji birinci iyonlaşma enerjisidir.</p>
+<p><strong>X<sub>(g)</sub> + i . En X<sup>+</sup> <sub>(g)</sub> + e +1 </strong></p>
+<p>yüklü iyondan ikinci elektronu koparmak için gereken enerji ikinci iyonlaşma enerjisidir (İE<sub>2</sub>).
+</p>
+<p><strong>X<sup>+</sup> <sub>(g)</sub> + i . E<sup>2</sup> X<sup>2+</sup> <sub>(g)</sub> +
+    e<sup>–</sup></strong></p>
+<p>Herhangi bir atom için daima E1 &lt; İE2 &lt; İE3&#8230; geçerlidir. Yani bir sonraki elektronu
+    koparmak daha fazla enerji gerektirir.</p>
+<h3>Elektron İlgisi</h3>
+<p>Gaz halinde nötral bir atomun bir elektron yakalaması sırasında açığa çıkan enerjiye elektron
+    ilgisi denir. Elektron ilgisi, atom yarıçapı ya da iyonlaşma enerjisine göre daha az periyodik
+    olmasına rağmen atom yarıçapındaki değişim ile paralellik gösterir. Atom yarıçapı küçüldükçe
+    elektron ilgisi artar.</p>
+<p><strong>F <sub>(gaz)</sub>+ e<sup>&#8211;</sup> F <sup>&#8211;</sup>+ Enerji</strong></p>
+<p>Florun elektron ilgisinin değer +328 kj/mol olarak gösterilir. Bir elementin elektron ilgisi
+    değeri çok pozitif ise o elementin elektron kabul etme eğilimi büyüktür.</p>
+<p><strong>&#8211;</strong> Aynı periyotta soldan sağa doğru
+    gidildikçe elementin elektron ilgisi artar.<br/>
+    <strong>&#8211;</strong> Metallerin ve soygazların elektron
+    ilgisi yoktur, sadece ametallerde elektron ilgisi gözlemlenir.<br/>
+    <strong>&#8211;</strong> Aynı gurupta yukarıdan aşağıya
+    inildikçe elementlerin elektron ilgisi azalır.</p>
+<h3>Elektronegatiflik</h3>
+<p>Elektronegatiflik, kovalent bir bileşiği oluşturan atomların bağdaki elektronları kendine çekme
+    gücünün bir ölçüsüdür.Atomun çapı küçüldükçe ve proton sayısı arttıkça bağ elektronlarının
+    çekirdek tarafından çekilmesi artar. Periyodik sistemde elektronegatiflik soldan sağa artarken
+    yukarıdan aşağıya azalır. Periyodik sistemde elektronegatifliği en yüksek atom Flor
+    atomudur.</p>
+<h3>Metal – Ametal Özellik</h3>
+<p>Metallerin değerlik elektron sayısı genellikle az ve dolayısıyla iyonlaşma enerjileri düşüktür.
+    Bu sebeple hidrojen hariç 1A grubu elementleri, 2A grubu elementleri, tüm B grubu elementleri,
+    bor hariç tüm 3A grubu metaldir. Periyodik tabloda sağdan sola doğru gidildikçe, metalik özellik
+    özellik azalır. Ancak metalik özellikler birden bitip ametallik özellik başlamaz. Metallerden
+    ametallere geçiş süreci “yarı metaller” ile başlar.</p>
+<p>Periyodik tabloda aynı periyotta soldan sağa doğru gidildikçe metalik özellik azalırken aynı
+    grupta yukarıdan aşağıya doğru inildikçe metalik özellik artar.</p>
+<h3>Asitlik/Bazlık Özellikleri</h3>
+<p>Oksijen hemen hemen tüm elementlerle tepkimeye girerek oksit bileşiklerini oluşturur. Oksit
+    bileşiklerinin bazıları asidik özellik gösterirken bazıları da bazik özellik gösterir. Metal
+    oksitlerin sulu çözeltileri genellikle bazik özellik gösterir.Örneğin; Sodyumun Oksijenle
+    oluşturduğu sodyum oksit bileşiği suyla etkileştiğinde sodyum hidroksit bazını oluşturur.</p>
+<p>Bir periyotta soldan sağa doğru ve bir grupta aşağıdan yukarıya doğru gidildikçe element
+    oksitlerinin asidik karakteri artar.Bir periyotta sağdan sola doğru ve bir grupta yukarıdan
+    aşağıya doğru element oksitlerinin bazik karakteri artar.</p>
+<h2><a name="4"></a>Elementleri Tanıyalım</h2>
+<p>Periyodik sistemin periyot ve gruplardan oluştuğunu ve sistemde soldan sağa doğru yatay sıralara
+    <strong>periyot,</strong> yukarıdan aşağıya doğru inen düşey
+    sütunlara<strong> grup</strong> denir.</p>
+<p>Aynı periyotta ve aynı grupta bulunan elementler iyon yükleri, aktiflikleri, yaptıkları kimyasal
+    bağlar, metal/ametal karakteri gibi<br/>
+    özellikler yönünden benzer eğilimler gösterir. Elektronların bulunduğu alt kabuklar, periyodik
+    sistem üzerinde farklı bloklarla gösterilir.</p>
+<h3>s Bloğu Elementleri</h3>
+<p>Periyodik sistemde 1A ve 2A grubu elementleri, elektron dizilimleri s1 ve s2 ile bittiğinden s
+    bloğu elementleridir. Bu elementlerin ortak özellikleri elektron vermeye çok yatkındırlar ve
+    bileşiklerinde pozitif değerlik alırlar. Hidrojen elementi 1A grubundadır fakat ametaldir.</p>
+<p>Hidrojen dışında hepsi metaldir. Elektron dizilimi ns1 ile biter ve bir atom kaçıncı periyotta
+    ise s orbitalinin baş kuantum sayısı da o sayı olur. Helyum atomunda 1S2 elektron dizilimine
+    sahip olduğundan bu blokta gösterilebilmektedir.</p>
+<p>Özelliklerine değinecek olursak;</p>
+<p><strong>&#8211; </strong>En aktif metallerdir. Bu nedenle
+    doğada saf halde bulunmazlar. Bileşikler halinde bulunurlar.<br/>
+    <strong>&#8211; </strong>Periyodik cetvelin 1A ve 2A
+    gruplarında bulunurlar (He 8A grubundadır).<br/>
+    <strong>&#8211; </strong>Bileşiklerinde +1 ve +2 değerlik
+    alırlar (He hariç).<br/>
+    <strong>&#8211; </strong>Periyodik cetvelde aynı periyotta
+    yer alan elementlerden, atom yarıçapı en büyük olan elementler s bloku elementleridir.<br/>
+    <strong>&#8211; </strong>Ametallerle elektron alışverişi
+    yaparak iyonik bağlı bileşikler oluştururlar.<br/>
+    <strong>&#8211; </strong>Su ile tepkimeye girerek bazları,
+    hava ile temas ettiklerinde metal oksitlerini oluştururlar.<br/>
+    <strong>&#8211; </strong>Erime ve kaynama noktaları diğer
+    metallerle kıyaslandığında düşüktür.<br/>
+    <strong>&#8211; </strong>İyonlaşma enerjileri ve
+    elektronegatiflikleri düşüktür</p>
+<h3>p-blok Elementleri</h3>
+<p>3A, 4A, 5A, 6A, 7A ve 8A grupları bu blok türüne aittir. s-blokta helyum haricinde diğer
+    elementler metaldir. Ancak p-blokta metal, ametal ve soygaz elementleri bulunur.</p>
+<p>Periyodik sistemde metalik özellik periyotlarda soldan sağa doğru azalırken ametalik özellik
+    artar. Gruplarda bu değişim yukarıdan aşağıya doğru metalik özellik artarken ametalik özelliğin
+    azalması şeklindedir.</p>
+<p><strong>3A grubu:</strong> Bu grup elementlerinin değerlik
+    elektron sayıları 3’tür. Son yörüngelerindeki P orbitallerinde 1 elektron bulunur.</p>
+<p>Bu elementler toprak metalleri olarak adlandırılır. Grubun ilk elementi Bor (B) elementidir. Bu
+    element yarı metal bir elementtir, H2O ve O2 ile tepkimeye girmez. Bileşiklerinde sadece (+3)
+    değerlik alır.</p>
+<p>Grubun 2. Elemanı Alüminyum (Al) elementidir. Al amfoter bir metaldir, hem asitlerle hem de
+    bazlarla tepkimeye girerek H2 gazı açığa çıkarır. Elektriksel iletkenliği çok yüksektir. Havaii
+    hatlarda kullanılır.</p>
+<p>3A grubu elementleri bileşiklerinde 3 elektron vererek (+3) yüklü katyon halinde bulunurlar.</p>
+<p><strong>4A grubu: </strong>4A grubunda SC, “Si, 32Ge, SDSn,
+    52Pb ve ,MFI bulunur.</p>
+<p><strong>*</strong> Değerlik elektronları sayısı 4 tür.
+    Elektron dizilimindeki son katmanında 4 elektron bulunur.<br/>
+    <strong>*</strong> C ametal, Si ve Ge yarı metal özelliği
+    gösterirken diğerleri metal özelliği gösterir.</p>
+<p><strong>5A grubu: </strong>5A grubunda ,N, 15P, 33As, 51Sb,
+    83Bi ve 115Mc bulunur.</p>
+<p><strong>*</strong> Değerlik elektronları sayısı 5 tir.
+    Elektron dizilimindeki son katmanında 5 elektron bulunur.<br/>
+    <strong>*</strong> 7N ve 15P ametal, 33As ve 51Sb yarı metal
+    özelliği gösterirken diğerleri metal özelliği gösterir.</p>
+<p><strong>6A grubu: </strong>6A grubunda 8O, 16S, 34Se, 52Te,
+    84Po ve 116LV bulunur.</p>
+<p><strong>*</strong> Değerlik elektronları sayısı 6 dır.
+    Elektron dizilimindeki son katmanında 6 elektron bulunur.<br/>
+    <strong>*</strong> Po ve Te yarı metal özelliği gösterirken
+    diğerleri ametal özelliği gösterir.</p>
+<p><strong>7A grubu:</strong> 7A grubunda 9F, 17CI, 35Br, 53I,
+    85At, 117Ts bulunur.</p>
+<p><strong>*</strong> Değerlik elektron sayıları 7 dir. 7A
+    grubundaki elementler bileşiklerinde 1- ve bazı bileşiklerinde 1+, 3+, 5+, 7+ değerlik
+    alabilirler.<br/>
+    <strong>*</strong> En aktif ametallerdir. Bileşik yapmaya
+    çok isteklidirler. Bu istekleri aynı grupta aşağı doğru inildikçe azalır.<br/>
+    <strong>*</strong> Doğada F2, Cl2, Br2, I2, şeklinde
+    moleküler halde bulunurlar. Oda koşullarında F2 ve CI2 gaz, Br2 sıvı I2 ve diğerleri katı
+    haldedir.<br/>
+    <strong>*</strong> Herbirinin kendine özgü bir rengi vardır
+    ve zehirlidirler.</p>
+<p><strong>8A grubu:</strong> Bu elementler soygazlar olarak
+    adlandırılırlar. Değerlik elektron sayıları 8’dir. Son yörüngelerindeki P orbitallerinde 6
+    elektron bulunur. Dolayısıyla kararlıdırlar. Bu elementler bileşik yapmaya yatkın değildirler,
+    doğada tek atomlu gaz halinde bulunurlar.</p>
+<p>Bu elementlerden sadece Kr ve Xe elementlerinin özel koşullarda sınırlı sayıda bileşikleri
+    oluşturulabilmiştir.</p>
+<h3>d Bloğu Elementleri</h3>
+<p>d bloğu elementlerinin tamamı metaldir. Bu blok elementlerine geçiş metalleri denir. Elektron
+    dizilimleri ns2 (n–1)d ile biter. Bu elementler bileşik oluştururken değerlik orbitalleri olan
+    en sondaki s ve d orbitallerindeki elektronlardan bazılarını verir. Bileşiklerinde değişik iyon
+    yükleri alabilirler.</p>
+<h3>f Bloğu Elementleri</h3>
+<p>Elektron dizilimleri f orbitali ile sonlanır. Bu blok elementleri İç geçiş elementleri olarak
+    adlandırılırlar. 14 adet lantanit, 14 adet aktinit elementi vardır.Lantanitler grubunda bulunan
+    Prometyum radyoaktif bir elementtir. Aktinitlerin tamamı radyoaktiftir.Kimyasal özellikleri
+    büyük benzerlikler gösterir.Atom yarıçapları birbirine çok yakın elementlerdir.Aktinitlerin çoğu
+    doğada bulunamaz. Sentezleme yolu ile elde edilirler.Lantanitlerin ise çoğu doğada bir arada
+    bulunur. Aktif metallerdir.Periyodik cetvelin yapısını bozmamak amacıyla iki sıra halinde
+    periyodik cetvelin altında gösterilmişlerdir . Lantanit ve aktinitlerin tamamı 4B<br/>
+    grubundadır.</p>
+<h2><a name="5"></a>Yükseltgenme Basamakları</h2>
+<p>Ametaller kendi aralarında kovalent bağları oluşturur. Kovalent bağlar elektronların ortaklaşa
+    kullanılması sonucu oluşur. Kovalent bağlı bileşikler suda çözündüklerinde iyonları oluşturamaz.
+    Bu nedenle bu atomlar için iyon yükü yerine yükseltgenme basamağı terimi uygundur.</p>
+<p>Yükseltgenme basamakları hesaplanırken bazı kuralların bilinmesi ve uygulanması gerekmektedir. Bu
+    kurallar şöyledir:</p>
+<p><strong>&#8211; </strong>1A grubu elementleri +1, 2A grubu
+    elementleri +2, 3A grubu elementleri +3 yükseltgenme basamağına sahiptir.<br/>
+    <strong>&#8211; </strong>Element halindeki atom ya da
+    moleküllerin yükseltgenme basamakları sıfırdır. Na Fe Bileşiklerde oksijenin yükseltgenme
+    basamağı -2’dir. Peroksitlerde (HO) yükseltgenme basamağı -1 ve OF bileşiğinde +2’dir.<br/>
+    <strong>&#8211; </strong>Hidrojen bileşiklerinde genellikle
+    +1 yükseltgenme basamağına sahiptir. Metal hidrürlerde ise -1’dir (metal hidrürlere örnek NaH,
+    MgH).<br/>
+    <strong>&#8211; </strong>Florun yükseltgenme basamağı
+    -1’dir.<br/>
+    <strong>&#8211; </strong>Bütün bileşiklerde atomların
+    yükseltgenme basamakları toplamı sıfıra, köklerde ise atomların yükseltgenme basamakları toplamı
+    kökün yüküne eşittir.</p>
+<p><strong>D Bloğu Elementlerinin Yükseltgenme Basamağı</strong>
+</p>
+<p>D grubu elementlerinin orbital dağılımlarını incelediğimizde son 2 orbitalinin {ns (n-1)d}
+    (n=periyot) orbitallerinden oluştuğunu gözlemlemekteyiz. D bloğundaki çoğu element elektron
+    verdiği durumda elektronlarını öncelikle S orbitalinden daha sonra d orbitalinden
+    vermektedir.</p>
+<p>Örneğin, Co atomu Co<sup>+3</sup> şeklinde elektron vereceği zaman, öncelikle 2 tane elektronunu
+    4s orbitalinden, daha sonra 1 tane elektronunu 3d orbitalinden vermektedir.</p>
+</html>

@@ -1,0 +1,82 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2><strong>CÜMLEDE ANLAM </strong></h2>
+<p>Cümle, yargı bildiren sözcük ya da söz öbeğidir. Bir sözün yargı bildirmesi, şahıs ve kip
+    bildirecek biçimde çekimlenmesine bağlıdır. Bu özelliği gösteren tek bir sözcük cümle
+    olabileceği gibi birbirini <span id="more-4199"></span>tamamlayan birçok sözcük de cümle
+    özelliği gösterebilir. Yani “geliyorum”, “hastayım” sözleri de cümledir; “Dün seni okulun
+    bahçesinde arkadaşlarınla gezerken görmüştüm.” de cümledir. Daha uzun cümleler de kurulabilir.
+</p>
+<p>Bizim burada üzerinde duracağımız konu cümlenin yapısal özellikleri değil anlamlarıdır.
+    Sınavlarda çıkan cümle anlamıyla ilgili soruları iki grupta değerlendirebiliriz. Birincisi
+    cümlelerin anlamca eşleştirilmesi şeklindedir. Bir bilgi gerektirmeyen bu tür soruların
+    çözümünde cümlelerin ifade ettiği anlamların iyi kavranması gerekir. Kimi zaman ise bu şekilde
+    eşleştirme sorulmaz da cümlede anlatılmak istenenin ne olduğu, sözü edilen düşünceyle, hangi
+    cümlenin aynı doğrultuda olduğu ya da sözü edilen düşünceyle hangi cümlenin çeliştiği
+    sorulabilir</p>
+<p>Bazı cümle anlamı soruları da cümle tamamlama biçiminde olabilir.</p>
+<p>İkinci grup cümle anlamı soruları ise kavramlar ve duygularla ilgilidir. “Tanım, üslup,
+    değerlendirme, öznellik, nesnellik, karşıtlık, eşitlik, karşılaştırma, önyargı, neden-sonuç,
+    koşula bağlılık, beğenme…” sorulan kavram ve duygulardan bazılarıdır. Bunlardan önemli
+    gördüklerimizi açıklayarak konuyu pekiştirelim.</p>
+<p><strong>TANIMLAMA </strong></p>
+<p>Bir şeyin ne olduğunu anlatan cümleler tanım cümleleridir. Bu tür cümleler “Bu nedir?” sorusuna
+    cevap verir. Örneğin, “Sözcük, dilin anlamlı en küçük parçasıdır.” cümlesinde tanım yapılmıştır.
+    Çünkü, “Sözcük nedir?” sorusuna cevap verir.</p>
+<p><strong>ÜSLUP </strong></p>
+<p>Sanatçının dili kullanma biçimi, anlatım şekli üslupla ilgilidir. Cümlelerin uzunluğu, kısalığı,
+    sözcük seçimi, sanatlı ya da yalın oluş, sanatçının üslubunu ortaya koyar. Örneğin, “Sanatçı
+    eserinde gerçekleri dile getirir.” cümlesi üslupla ilgili değildir. Çünkü anlatımdan söz
+    edilmemiş. Ancak “Sanatçı, eserinde gerçekleri kısa, yalın cümlelerle dile getirmiş.” sözü
+    üslupla ilgilidir.</p>
+<p><strong>KARŞILAŞTIRMA</strong></p>
+<p>Bir düşünceyi ya da kavramı daha anlaşılır hale getirmek için onu başka bir düşünce ya da
+    kavramla herhangi bir yönden değerlendirmeye denir. Karşılaştırma, ortak ya da farklı yönlerden
+    yapılabilir. Örneğin “Ahmet’in boyu Ali kadar uzundur.” cümlesinde Ahmet ve Ali boyları yönünden
+    karşılaştırılmışlardır. “Ali, Ahmet’ten çalışkandır.” cümlesi de bir karşılaştırmadır.
+    Karşılaştırma çalışkanlık yönünden yapılmış. “Ahmet gezmeyi çok sever, Ali ise ders çalışmayı
+    tercih eder.” cümlesinde de karşılaştırma vardır. Ali ve Ahmet sevdikleri durumlar yönünden
+    karşılaştırılmışlardır.</p>
+<p>Karşılaştırmayla benzetmeyi karıştırmamalıyız. Karşılaştırmada üstünlük, aşağılık ya da aynı
+    seviyede olmak gibi bir derecelendirme vardır. Benzetmede bu görülmez. “O aslan gibi bir
+    delikanlıdır.” cümlesinde benzetme vardır. Ancak “O aslan kadar güçlüdür.” cümlesinde
+    karşılaştırma vardır; çünkü birincisinde benzerlik, ikincisinde derecelendirme söz
+    konusudur.</p>
+<p><strong>ÖZNELLİK VE NESNELLİK </strong></p>
+<p>Kimi yargıların kişiden kişiye değişen göreli bir yanı vardır. Bu yargıların doğru ya da yanlış
+    olduğu kanıtlanamaz. Söyleyenin yorumunu içeren bu tür yargılara öznel yargılar denir. Örneğin
+    “En beğenilen edebiyat türü romandır.” cümlesinde beğeni ifadesi, söyleyenin yorumuna bağlıdır
+    ve bu yorum kişiden kişiye değişir.</p>
+<p>Doğruluğu ya da yanlışlığı kişiden kişiye değişmeyen, kanıtlanabilir bir bilgi özelliği taşıyan
+    ve söyleyenin yorumunu içermeyen yargılar ise nesneldir. Örneğin, “En çok satan romanlar aşk
+    romanlarıdır.” cümlesi nesneldir. Çünkü satış rakamları incelenerek kanıtlanabilecek bir bilgi
+    cümlesidir.</p>
+<p><strong>DEĞERLENDİRME </strong></p>
+<p>Bir sanat eserinin, sanatçının ya da herhangi bir durumun iyi ya da kötü yönlerini ortaya koymaya
+    veya özelliklerini belirlemeye değerlendirme denir. Değerlendirmeler öznel ya da nesnel nitelik
+    gösterebilir. Örneğin “Sanatçı şiirinde yabancı sözcüklere hiç yer vermemiş.” cümlesi nesnel bir
+    değerlendirmedir. Ancak “Şiirde her insanı derinden etkileyen hayal alemlerine yer verilmiş.”
+    cümlesi öznel bir değerlendirmedir.</p>
+<p>Değerlendirme belli bir eser, kişi ya da durum üzerine yapılır ve genel kanı niteliği
+    taşımaz.</p>
+<p><strong>KOŞULA BAĞLILIK </strong></p>
+<p>Bir eylemin ya da durumun gerçekleşebilmesi için önceden olması gereken başka bir durumun
+    varlığı, koşula bağlılıktır. Örneğin “Sizinle gelirim, ama önce bu işi bitirmeme yardım
+    ederseniz.” cümlesinde “gelme” eyleminin olması “yardım etme” eyleminin gerçekleşmesine
+    bağlıdır. Koşul olarak ileri sürülen durum gerçekleşmezse sonuç olacak durum da gerçekleşmez.
+    Cümledeki koşulu bulabilmek için yükleme “hangi şartla, hangi taktirde” gibi sorular
+    sorulabilir.</p>
+<p><strong>NEDEN – SONUÇ </strong></p>
+<p>Bir eylemin hangi gerekçeyle ya da hangi nedenden dolayı yapıldığını bildiren cümlelerde
+    neden-sonuç ilgisi vardır. Bunu bulmak için yükleme “niçin” sorusu sorulabilir. Bu tür sorularda
+    neden-sonuç sorulabileceği gibi hangi gerekçeyle yapıldığı da sorulabilir.</p>
+</html>

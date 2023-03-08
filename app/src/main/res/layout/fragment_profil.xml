@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ChipNavigation.Profil.Profil">
+
+    <RelativeLayout
+        android:id="@+id/tasarimLinear"
+        android:layout_width="match_parent"
+        android:layout_height="160dp"
+        android:background="@color/kapaliMavi"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent">
+
+        <ImageView
+            android:id="@+id/profil_duzenle_image"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignParentRight="true"
+            android:layout_gravity="right"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:layout_marginBottom="5dp"
+            android:src="@drawable/edit" />
+
+        <de.hdodenhof.circleimageview.CircleImageView
+            android:id="@+id/profil_resim_image"
+            android:layout_width="100dp"
+            android:layout_height="100dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginStart="5dp"
+            android:layout_marginTop="5dp"
+            android:layout_marginEnd="5dp"
+            android:src="@drawable/personn" />
+
+        <TextView
+            android:id="@+id/profil_kayitliAd"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:layout_gravity="center"
+            android:layout_marginStart="15dp"
+            android:layout_marginTop="15dp"
+            android:layout_marginEnd="15dp"
+            android:layout_marginBottom="15dp"
+            android:fontFamily="@font/nunito_sans"
+            android:text="Misafir Kullanıcı"
+            android:textColor="@color/white"
+            android:textSize="15sp" />
+
+        <FrameLayout
+            android:id="@+id/profil_framelayout"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"
+            android:padding="5dp"
+            android:visibility="gone">
+
+            <EditText
+                android:id="@+id/profil_name_textview"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center"
+                android:fontFamily="@font/nunito_sans"
+                android:hint="Kullanıcı Adınızı Giriniz"
+                android:paddingRight="30dp"
+                android:textColor="@color/white"
+                android:textColorHint="@color/white"
+                android:textSize="15sp" />
+
+            <Button
+                android:id="@+id/profil_kaydetButton"
+                android:layout_width="20dp"
+                android:layout_height="20dp"
+                android:layout_gravity="right|center_vertical"
+                android:background="@drawable/onay" />
+        </FrameLayout>
+
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="16dp"
+        android:orientation="vertical"
+        android:padding="5dp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/tasarimLinear">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_marginBottom="5dp"
+            android:fontFamily="@font/nunito_sans"
+            android:text="Ayarlar"
+            android:textAlignment="center"
+            android:textColor="@color/kapaliMavi"
+            android:textSize="22sp"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/gizlilik"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:backgroundTint="@color/acikmavi"
+            android:drawableStart="@drawable/gizlilik"
+            android:drawableEnd="@drawable/right"
+            android:fontFamily="@font/nunito_sans"
+            android:text="Gizlilik Politikası"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textSize="17sp" />
+
+        <Button
+            android:id="@+id/sartlar"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:backgroundTint="@color/acikmavi"
+            android:drawableStart="@drawable/sartlar"
+            android:drawableEnd="@drawable/right"
+            android:fontFamily="@font/nunito_sans"
+            android:text="Şartlar ve Koşullar"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textSize="17sp" />
+
+        <Button
+            android:id="@+id/bizeoyverin"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:backgroundTint="@color/acikmavi"
+            android:drawableStart="@drawable/oy"
+            android:drawableEnd="@drawable/right"
+            android:fontFamily="@font/nunito_sans"
+            android:text="Bize Oy Verin"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textSize="17sp" />
+
+        <Button
+            android:id="@+id/hatabildir"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:backgroundTint="@color/acikmavi"
+            android:drawableStart="@drawable/error"
+            android:drawableEnd="@drawable/right"
+            android:fontFamily="@font/nunito_sans"
+            android:text="Hata Bildir"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textSize="17sp" />
+
+        <Button
+            android:id="@+id/contact"
+            android:layout_width="match_parent"
+            android:layout_height="64dp"
+            android:backgroundTint="@color/acikmavi"
+            android:drawableStart="@drawable/contact"
+            android:drawableEnd="@drawable/right"
+            android:fontFamily="@font/nunito_sans"
+            android:text="İletişim"
+            android:textAlignment="center"
+            android:textAllCaps="false"
+            android:textSize="17sp" />
+    </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>

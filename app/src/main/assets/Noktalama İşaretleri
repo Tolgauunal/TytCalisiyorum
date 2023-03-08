@@ -1,0 +1,301 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<p><strong>NOKTALAMA İŞARETLERİ </strong></p>
+<p>Dilimizde ilk kez Tanzimat döneminde kullanılan noktalama işaretleri, yazının daha kolay
+    anlaşılmasını sağlar. Yazının okunmasını kolaylaştırır ve anlam karışıklığına düşülmesine engel
+    olur.Biz konuşurken cümlede anlatmak istediklerimizi ses tonumuzla açık olarak ortaya
+    koyabiliriz. Nerede duracağımızı nerede vurgu yapacağımızı biliriz. Ancak yazıda böyle bir
+    vurgulama yapamadığımızdan, bunu noktalama işaretleriyle sağlamaya<span id="more-4226"></span>
+    çalışırız.</p>
+<p>Şimdi noktalama işaretlerinin neler olduğunu ayrıntılarıyla görelim.</p>
+<p><strong>NOKTA (.)</strong></p>
+<ul>
+    <li><strong>Anlamca tamamlanmış cümlelerin sonunda kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Bu konuyu mutlaka öğrenmeliyim.”</p>
+    <p>“Seni de bekliyoruz bu akşamki yemeğe.”</p></blockquote>
+<ul>
+    <li><strong>Sözcüklerin kısaltılarak yazılmaları halinde kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Seni bir de Dr. Ali Bey’e götürelim.”</p>
+    <p>“Askerlere Yzb. Ahmet emir vermiş.”</p>
+    <p>Sözcüklerin baş harflerinin alınmasıyla yapılan kısaltmalarda artık nokta kullanılmıyor.</p>
+    <p>“Arkadaşım DSİ’de çalışıyormuş.”</p></blockquote>
+<ul>
+    <li><strong>Rakamla yazılan tarihler arasında kullanılır.</strong></li>
+</ul>
+<blockquote><p>“15.5.1995 tarihinde anlaşma imzalandı.”</p></blockquote>
+<ul>
+    <li><strong>Sıra bildiren “-ncı, -nci” eklerinin yerine kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Şimdi de 2. maddeyi inceleyelim.”</p></blockquote>
+<ul>
+    <li><strong>Saat ve dakikaların yazımında kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Bugün 8.45‘te toplantı var.”</p></blockquote>
+<p><strong>VİRGÜL (,)</strong></p>
+<ul>
+    <li><strong>Eş görevli sözcük ve söz öbeklerinin aralarında kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Kitaplarını, defterlerini, kalemlerini alıp gitti.”</p>
+    <p>cümlesinde nesnelerin ayrılmasında,</p>
+    <p>“Kırmızı, güzel bir arabası vardı.”</p>
+    <p>cümlesinde sıfatların ayrılmasında kullanılmıştır.</p></blockquote>
+<ul>
+    <li><strong>Anlamca karışan öğelerin ayrılmasında kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Yaşlı kadının yanına yaklaştı.”</p>
+    <p>“Yaşlı, kadının yanına yaklaştı.”</p>
+    <p>cümlesinde virgül özneyi ayırmakta kullanılmıştır. Eğer olmasaydı, “yaşlı” sözü sıfat
+        olurdu.</p></blockquote>
+<ul>
+    <li><strong>Arasözlerin başında ve sonunda kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Bu evi, çocukluğumun geçtiği yeri, asla sattırmam.”</p></blockquote>
+<ul>
+    <li><strong>İçinde başka virgül bulunmayan sıralı cümlelerin ayrılmasında kullanılır.</strong>
+    </li>
+</ul>
+<blockquote><p>“Beni çağırdı, kendisi gelmedi.”</p></blockquote>
+<ul>
+    <li><strong>Cümle içindeki ünlem bildiren sözcüklerden sonra kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Yoo, bu kadarına dayanamam!”</p></blockquote>
+<ul>
+    <li><strong>Seslenme bildiren sözcüklerden sonra kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Arkadaşlar, biraz beni dinler misiniz?”</p></blockquote>
+<p><strong>NOKTALI VİRGÜL (;)</strong></p>
+<ul>
+    <li><strong>Öğe sayısı fazla olan ya da cümle içinde virgül bulunan sıralı cümleler arasında
+        kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Öğretmen, elindeki not defterini açtı; sözlü yapacağı bir öğrenci aradı.”</p>
+</blockquote>
+<ul>
+    <li><strong>Bir bağlaçla birbirine bağlanan cümleler arasında bağlaçtan önce
+        kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Beni davet etmediniz; ama bunun için size kızmıyorum.”</p></blockquote>
+<ul>
+    <li><strong>Aralarında nitelik farkı bulunan söz öbeklerinin ayrılmasında kullanılır.</strong>
+    </li>
+</ul>
+<blockquote><p>“Sözcükler isim, sıfat, zamir, zarf; edat, bağlaç, ünlem; fiil gibi gruplara
+    ayrılabilir.</p></blockquote>
+<ul>
+    <li><strong>Öznenin diğer öğelerle karıştığı yerlerde kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Küçük; eski bir eve girdi.”</p>
+    <p>cümlesinde giren “küçük”tür. Eğer virgül koysaydık bu sözcük evin sıfatı olarak da
+        düşünülebilirdi.</p></blockquote>
+<p><strong>İKİ NOKTA (:)</strong></p>
+<ul>
+    <li><strong>Bir cümlede açıklama yapılacaksa, açıklamaya başlamadan hemen önce iki nokta
+        kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Türkçe’de sözcük kökleri iki ana gruba ayrılır: İsim ve fiil.</p></blockquote>
+<ul>
+    <li><strong>Kavramlar tanımlanırken ya da açıklanırken kullanılır.</strong></li>
+</ul>
+<blockquote><p>İsim: Varlıkları, kavramları karşılayan sözcüklerdir.</p></blockquote>
+<ul>
+    <li><strong>Konuşma metinlerinde kullanılır.</strong></li>
+</ul>
+<blockquote><p>Ahmet: “Ne zaman geldiniz eve?” diye sordu.</p></blockquote>
+<p><strong>ÜÇ NOKTA (…)</strong></p>
+<ul>
+    <li><strong>Benzer örneklerin sürdürülebileceğini göstermek için kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Bahçede elma, portakal, … daha birçok meyve ağacı vardı.”</p></blockquote>
+<ul>
+    <li><strong>Anlamca tamamlanmamış cümlelerin sonunda kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Bir de istediğimi almamışsa….”</p></blockquote>
+<ul>
+    <li><strong>Söylenmek istenmeyen sözler yerine kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Bu suçu … işlemiş olabilir.”</p></blockquote>
+<ul>
+    <li><strong>Bir alıntının alınmayan yerleri yerine kullanılır.</strong></li>
+</ul>
+<blockquote><p>Ahmet Haşim “… sözden ziyade musikiye yakın …” sözleriyle tanımlamıştır şiiri.</p>
+</blockquote>
+<ul>
+    <li><strong>Sözün bir yerde kesildiğini anlatmak için kullanılır.</strong></li>
+</ul>
+<blockquote><p>– Niçin gelmedin?</p>
+    <p>– Benim …</p>
+    <p>– Mazereti bırak da gerçeği söyle.</p></blockquote>
+<ul>
+    <li><strong>Yüklemi bulunmayan cümlelerin sonunda kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Karşıda başı dumanlı dağlar … Yan tarafta küçük bir dere …”</p></blockquote>
+<p><strong>SIRA NOKTALAR (…..)</strong></p>
+<ul>
+    <li><strong>Şiirde alınmayan dizelerin, yazıda alınmayan bölümlerin yerine kullanılır.</strong>
+    </li>
+</ul>
+<blockquote><p>Ne sitem ne korku yalnızlıktan</p>
+    <p>…..</p>
+    <p>Süslenmiş gemiler geçse açıktan</p>
+    <p>…..</p>
+    <p>dizelerindeki kafiyeleri inceleyelim.</p></blockquote>
+<ul>
+    <li><strong>Konuşmalarda kişinin sustuğunu göstermek için kullanılır.</strong></li>
+</ul>
+<blockquote><p>– Neden geldin?</p>
+    <p>– …..</p>
+    <p>– Seni o mu çağırdı?</p></blockquote>
+<p><strong> </strong></p>
+<p><strong>KISA ÇİZGİ (-) </strong></p>
+<ul>
+    <li><strong>Bir olayın başlangıç ve bitiş tarihleri arasında kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Bu savaş 1939 – 1945 yılları arasında olmuştur.”</p></blockquote>
+<ul>
+    <li><strong>Birbiriyle ilgili ülke ya da kavram isimleri arasında kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Türkiye – Suriye ilişkileri biraz gergin.”</p>
+    <p>“Devlette yasama – yürütme – yargı organları net olarak ayrılmalıdır.”</p></blockquote>
+<ul>
+    <li><strong>Cümle içindeki arasözlerin başında ve sonunda kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Bu konuyu – sen de hatırlarsın – onunla konuşmuştuk.”</p></blockquote>
+<ul>
+    <li><strong>Cümle sonunda sözcük yarım kaldığında kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Şiir konusunda onun da benimle aynı görüşte olduğunu duyunca çok sevindim.”</p>
+    <p>Eğer satır sonunda özel isim bitmiş ve ona ait olan ek diğer satıra düşmüşse, arada kısa
+        çizgi değil kesme (‘) kullanılır.</p>
+    <p>“Sizinle geçen yıl bugün yine aynı şehirde Ankara’da karşılaşmıştık .”</p></blockquote>
+<ul>
+    <li><strong>Dilbilgisinde eklerin ve mastar halindeki fiillerin gösterilmesinde
+        kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Kitapçı” sözcüğü “-çı” yapım ekini almıştır.</p>
+    <p>“Çalışkan” sözcüğü “çalış-” fiilinden türemiştir.</p></blockquote>
+<ul>
+    <li><strong>Osmanlıca tamlamalarda kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Servet-i Fünun edebiyatından sonra Fecr-i Ati topluluğu gelir.”</p></blockquote>
+<p><strong>UZUN ÇİZGİ (—)</strong></p>
+<p><strong>Konuşma metinlerinde, konuşmaların başında kullanılır.</strong></p>
+<blockquote><p>– Sen de bizimle gelecek misin?</p>
+    <p>– Neden gelmeyeyim?</p>
+    <p>– Hiç, sordum sadece.</p></blockquote>
+<p><strong>KESME İŞARETİ (‘)</strong></p>
+<ul>
+    <li><strong>Özel isimlere gelen çekim eklerinin ayrılmasında kullanılır. </strong></li>
+</ul>
+<blockquote><p>“Bu konuda bir de Ahmet’in fikrini alalım.”</p>
+    <p>Eğer özel isim, yapım eki almışsa çekim ekleri kesmeyle ayrılmaz.</p>
+    <p>“Bu soruyu bir de İzmirlilere soralım.”</p></blockquote>
+<ul>
+    <li><strong>Sayılara ek getirilirken kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Toplantı 10.45′te başlayacaktır.”</p></blockquote>
+<ul>
+    <li><strong>Kısaltmalara ek geldiğinde kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Sorun BM’de görüşülecekmiş.”</p></blockquote>
+<ul>
+    <li><strong>İki sözcüğün kaynaştırılarak söylenmesi sırasında ses düşmesi olursa ya da şiirde
+        vezin gereği ses düşmesi yapılmışsa kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Acep bu yerde var m’ola</p>
+    <p>Şöyle garip bencileyin”</p>
+    <p>“Yine n’oldu da ağlıyorsun?”</p></blockquote>
+<ul>
+    <li><strong>Anlamca karışan sözcüklerin yazımında kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Bu sorunun nasıl çözüleceğini bilmiyorum.”</p>
+    <p>Cümleside altı çizili sözün “soru” mu yoksa “sorun” mu olduğu belli değil. Bu karışıklığı
+        kesmeyle giderebiliriz.<br/>
+        “Bu soru’nun nasıl çözüleceğini bilmiyorum.”</p>
+    <p>cümlesinde sözcüğün “soru” olduğu açıklanmış olur.</p></blockquote>
+<p><strong>SORU İŞARETİ (?)</strong></p>
+<ul>
+    <li><strong>Soru anlamı taşıyan cümlelerin sonunda kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Sana bu haberi kim verdi?”</p></blockquote>
+<ul>
+    <li><strong>Sözcüğün karşıt anlamının ifade edilmek istendiği yerlerde kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Burada ondan daha akıllı (?) biri var mı ki?</p></blockquote>
+<ul>
+    <li><strong>Kesin olarak bilinmeyen tarihler yerine kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Yunus Emre (? – ?) Tekke şiirinin kurucusudur.”</p></blockquote>
+<p><strong>TIRNAK İŞARETİ (“ ”) </strong></p>
+<ul>
+    <li><strong>Cümle içinde başkasına ait sözlerde kullanılır.</strong></li>
+</ul>
+<blockquote><p>O bana: “Şimdi sizinle gelemem.” demişti.</p></blockquote>
+<ul>
+    <li><strong>Cümle içinde geçen kitap, dergi isimleri tırnak içine alınabilir.</strong></li>
+</ul>
+<blockquote><p>Bu derste “Aşk-ı Memnu” romanını inceledik.</p>
+    <p>Tırnak içindeki söze ek gelirse, tırnaktan sonra gelir ve kesme kullanılmaz.</p>
+    <p>Siz bir de Haşim’in “O Belde” sini okuyun.</p></blockquote>
+<ul>
+    <li><strong>Cümlede önemsenen, vurgulanmak istenen sözcükler tırnak içine alınabilir.</strong>
+    </li>
+</ul>
+<blockquote><p>Benim söylediklerim “vaad” değil “gerçek”tir.</p></blockquote>
+<ul>
+    <li><strong>Alıntılar tırnak içine alınarak verilir.</strong></li>
+</ul>
+<blockquote><p>Yunus’un “Bana seni gerek seni” dizesi, amacını ortaya koyar.</p>
+    <p>Tırnak içindeki cümlenin içinde bir tırnak daha kullanmak gerekirse bu kez tekli tırnak (‘ ’)
+        kullanılır.</p>
+    <p>“Haşim, şiirin yoruma açık olmasını ister ve daima ‘Şiir her okuyanda ayrı duygular
+        uyandırmalıdır.’ der.”</p></blockquote>
+<p><strong>PARANTEZ (AYRAÇ) İŞARETİ ( ( ) )</strong></p>
+<ul>
+    <li><strong>Cümle içinde bir sözcüğün eş anlamlısı verilirse kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Bu dizede teşhis (kişileştirme) yapılmış.”</p></blockquote>
+<ul>
+    <li><strong>Cümledeki herhangi bir sözcüğün açıklanması durumunda kullanılır.</strong></li>
+</ul>
+<blockquote><p>“Kıbrıs konusunda iki ülke (Türkiye ve Yunanistan) hiçbir zaman anlaşamaz.”</p>
+</blockquote>
+<ul>
+    <li><strong>Cümle içinde kullanılan tarihler ya da bir sözcüğün anlamıyla ilgili noktalamalar
+        parantez içine alınır.</strong></li>
+</ul>
+<blockquote><p>“Bu öğretim yılında (1993 – 1994), devlet yine gelişmiş (?) eğitim sistemleri
+    deneyecekmiş.”</p></blockquote>
+<ul>
+    <li><strong>Yabancı sözcüklerin okunuşu parantez içinde gösterilir.</strong></li>
+</ul>
+<blockquote><p>“Bacon (Beykın) ünlü bir deneme yazarıdır.”</p></blockquote>
+<ul>
+    <li><strong>Tiyatro metinlerinde hareketleri anlatan bölümler parantez içine alınır.</strong>
+    </li>
+</ul>
+<blockquote><p>“Kadın (başını öne eğerek): “Bilmiyorum.” dedi.</p></blockquote>
+<p><strong>ÜNLEM İŞARETİ (!)</strong></p>
+<ul>
+    <li><strong>Ünlem cümlelerinin sonunda kullanılır. </strong></li>
+</ul>
+<blockquote><p>“Hey, bana baksana sen!”</p>
+    <p>“Yandım!”</p>
+    <p>“Aman Allah’ım!”</p></blockquote>
+<ul>
+    <li>Bir sözün yanında parantez içinde ünlem işareti bulunuyorsa, o söze inanılmadığını
+        gösterir.
+    </li>
+    <li>“Ne kadar nazik (!) biri olduğunu göreceksin.”</li>
+</ul>
+</html>

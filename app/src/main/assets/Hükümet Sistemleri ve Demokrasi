@@ -1,0 +1,100 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2 align="center"><span>Hükümet Sistemleri</span></h2>
+<p>Kpss vatandaşlık dersindeki
+    demokratik hükümet sistemleri 4&#8217;e ayrılmaktadır.</p>
+<p><span style="color: #800000;"><strong>1) Başkanlık Sistemi:</strong></span>
+    Kuvvetler birbirinden kesin ve katı bir biçimde ayrılmıştır. Yürütme
+    tek kanatlıdır ve devlet başkanını halk seçer. Devlet başkanının
+    siyasi partisiyle ilişiği kesilmez.</p>
+<div class="woo-sc-box  tick   ">ABD ve Brezilya gibi ülkeler başkanlık
+    sistemini kullanırlar.
+</div>
+<p><span
+        style="color: #800000;"><strong>2) Yarı Başkanlık Sistemi:</strong></span>
+    Devlet başkanı ve bakanlar kurulundan oluşan yürütme organı iki
+    başlıdır. Devlet başkanını halk seçer. Yarı başkanlık sisteminde
+    yumuşak kuvvetler ayrılığı vardır. Özellikle dış politikada devlet
+    başkanı etkilidir.</p>
+<div class="woo-sc-box  tick   ">Fransa, Rusya, İran yarı başkanlık
+    sistemine örnek teşkil eder.
+</div>
+<p><span style="color: #800000;"><strong>3) Parlamenter Sistem:</strong></span>
+    Yürütme iki kanatlıdır ve devlet başkanını meclis seçer. Yumuşak
+    kuvvetler ayrılığı vardır. İç ve dış politikalarda Başbakan
+    etkilidir.</p>
+<div class="woo-sc-box  tick   ">İtalya parlamenter sistemdir.</div>
+<p><span
+        style="color: #800000;"><strong>4) Meclis Hükümeti Sistemi:</strong></span>
+    Yürütme tek kanatlı olmakla beraber, yasama ve yürütme mecliste
+    toplanmıştır. Meclis başkanını meclis seçer. Bakanları da tek tek
+    meclis seçer. Buna karşın bakanlarında meclise karşı bireysel
+    sorumlulukları vardır.</p>
+<div class="woo-sc-box  info   ">Yürütme vardır, meclis üstünlüğü söz
+    konusudur.
+</div>
+<div class="woo-sc-box  tick   ">İsviçre meclis hükümeti sistemi
+    içindedir.
+</div>
+<h3 align="center"><span style="color: #800000;">Demokratik Hükümet Sistemleri Özellikleri</span>
+</h3>
+<p><span style="color: #800000;"><strong>1) Kuvvetler Ayrılığı:</strong></span>
+    Yasama, yürütme ve yargının birbirinden ayrılmasıdır.</p>
+<ul>
+    <li><span
+            style="color: #800000;">Sert Kuvvetler Ayrılığı (Erkler):</span>
+        Erkler, yani güçler sert bir şekilde ayrılmıştır. Yasama
+        yürütmeyi, yürütme de yasamayı feshedemez. Bir kişi hem yasamada
+        hem de yürütmede görev alamaz.
+    </li>
+</ul>
+<div class="woo-sc-box  tick   ">Başkanlık sistemi buna örnektir.</div>
+<ul>
+    <li><span style="color: #800000;">Yumuşak Kuvvetler Ayrılığı:</span>
+        Erkler birbirine müdahale edebilir. Bir kişi hem yasamada hem de
+        yürütmede yer alabilir. Milletvekili aynı zamanda Başbakan ya da
+        bakan olabilir.
+    </li>
+</ul>
+<div class="woo-sc-box  tick   ">Parlamenter sistemde olduğu gibi yasama
+    gensoru ile hükümetin görevine son verebilir.
+</div>
+<p><span
+        style="color: #800000;"><strong>2) Yürütmenin Sayısına Göre:</strong></span>
+</p>
+<ul>
+    <li><span
+            style="color: #800000;">Tek Başlı (Kanatlı) Yürütme:</span>
+        Devlet başkanı aynı zamanda hükümetin de başkanıdır.
+    </li>
+    <li><span
+            style="color: #800000;">İki Başlı (Kanatlı) Yürütme:</span>
+        Devlet başkanının yanında Başbakan başkanlığında hükümetin
+        olmasıdır.
+    </li>
+</ul>
+<div class="woo-sc-box  info   ">Türkiye iki kanatlı yürütmeye 1921
+    Anayasası&#8217;nın 1923 değişikliği ile geçmiştir.
+</div>
+<p><span
+        style="color: #800000;"><strong>3) Devlet Başkanının Seçilmesi:</strong></span>
+</p>
+<ul>
+    <li><span style="color: #800000;">Halk Seçer</span></li>
+    <li><span style="color: #800000;">Meclis Seçer</span></li>
+</ul>
+<div class="woo-sc-box  info   ">Türkiye&#8217;de 2007 yılına kadar
+    devlet başkanını meclis seçmekteydi. 2007 anayasa değişikliği ile
+    halkın seçmesi karara bağlanmıştır. 11. Cumhurbaşkanı Abdullah Gül&#8217;ü
+    TBMM seçmiştir.
+</div>
+</html>

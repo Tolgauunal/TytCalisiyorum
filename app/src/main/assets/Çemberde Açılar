@@ -1,0 +1,121 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<h2>&Ccedil;ember Kavramları</h2>
+<p>Sabit O noktasında r birim uzunluktaki noktalar k&uuml;mesi <strong>&ccedil;ember</strong> olarak
+    adlandırılır. Aşağıda verilen &ccedil;ember &ouml;rneğinde &ccedil;ember &uuml;zerindeki her
+    notanın merkeze olan uzaklığı eşittir. Bu uzaklık r olarak g&ouml;sterilir ve <strong>yarı&ccedil;ap</strong>
+    olarak adlandırılır.</p>
+<div><img src="images/geometri/cember/cem1.jpg" alt="&ccedil;ember konu anlatımı" width="198"
+          height="185"/></div>
+<p>&Ccedil;ember ve daire konusunda başarılı olmak i&ccedil;in genel kavramları bilmek gerekir.</p>
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-2929596510412371"
+     data-ad-slot="2654477956"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+
+</script>
+</p>
+<p>&Ccedil;ember &uuml;zerinde iki noktayı birleştiren doğru par&ccedil;asına <strong>kiriş</strong>
+    denir. Aşağıda &ccedil;ember &uuml;zerinde kirişler g&ouml;sterilmiştir. [CD] ve [AB] birer
+    kiriştir. &Ccedil;emberin merkezinden ge&ccedil;en b&uuml;t&uuml;n kirişler eşit uzunluktadır ve
+    <strong>&ccedil;ap</strong> olarak isimlendirilir. &Ccedil;ap aynı zamanda en uzun kiriştir.</p>
+<div><img src="images/geometri/cember/cem2.jpg" alt="&ccedil;emberde kirişler" width="263"
+          height="169"/></div>
+<p>&#350;ekilde [AB] kirişi aynı zamanda &ccedil;aptır.</p>
+<p>&Ccedil;emberi iki noktada kesen doğrulara <strong>kesen</strong> adı verilir. &#350;ekil &uuml;zerindeki
+    EF doğrusu bir kesendir. Eğer doğru &ccedil;embere bir noktada değiyorsa buna da
+    <strong>teğet</strong> adı verilir. &#350;ekilde TP doğrusu O merkezli &ccedil;embere T
+    noktasından teğettir.</p>
+<h2>&Ccedil;emberde A&ccedil;ı T&uuml;rleri</h2>
+<p>Bir tam &ccedil;ember yayı 360&deg; derecedir. &Ccedil;ap ile b&ouml;l&uuml;nm&uuml;ş bir
+    &ccedil;emberin ise her yarım yayı 180&deg; derecedir.</p>
+<p>&Ccedil;emberde bilmemiz gereken temel iki t&uuml;r a&ccedil;ı vardır.</p>
+<p><strong>Merkez a&ccedil;ı</strong>: K&ouml;şesi &ccedil;emberin merkezinde olan a&ccedil;ıya
+    denir. G&ouml;rd&uuml;ğ&uuml; yay ile &ouml;l&ccedil;&uuml;s&uuml; eşittir.</p>
+<p><strong>&Ccedil;evre a&ccedil;ı</strong>: Merkezi &ccedil;emberin &uuml;zerinde olan ve kiriş
+    kollara sahip a&ccedil;ıdır. G&ouml;rd&uuml;ğ&uuml; yayın &ouml;l&ccedil;&uuml;s&uuml;n&uuml;n
+    yarısına sahiptir.</p>
+<p>Yukarıdaki şekilde &ccedil;emberde a&ccedil;ı t&uuml;rleri g&ouml;sterilmiştir.</p>
+<div><img src="images/geometri/cember/cem3.jpg" alt="&ccedil;emberde a&ccedil;ı t&uuml;rleri"
+          width="901" height="237"/></div>
+<p>&#350;imdi de g&ouml;rd&uuml;ğ&uuml;m&uuml;z bu a&ccedil;ı kavramları ile ilgili bir basit &ouml;rnek
+    &ccedil;&ouml;zelim.</p>
+<p><strong>&Ouml;rnek</strong>: Aşağıdaki O merkezli &ccedil;emberde x + y = 99 derece olarak
+    verilmiştir. Buna g&ouml;re y ka&ccedil; derecedir.</p>
+<p><strong>&Ccedil;&ouml;z&uuml;m</strong>: Yukarıda değindiğimiz gibi &ccedil;evre a&ccedil;ı g&ouml;r&uuml;len
+    yayın yarısı kadar, merkez a&ccedil;ı ise g&ouml;r&uuml;len yay kadar bir &ouml;l&ccedil;&uuml;ye
+    sahiptir.</p>
+<div><img src="images/geometri/cember/cem4.jpg" alt="&ccedil;emberde a&ccedil;ı &ouml;rneği"
+          width="194" height="211"/></div>
+<p>&Ouml;yleyse x + y = 99 bilgisinin yanına x = 2y bilgisini de ekleyebiliriz. Bu durumda 3y = 99,
+    y = 33 derece olacaktır.</p>
+<div class="note note-alert">
+    <p>&Ccedil;apı g&ouml;ren &ccedil;evre a&ccedil;ının 90&deg; olduğunu bilmemizde fayda
+        vardır.</p>
+    <div><img src="images/geometri/cember/cem5.jpg"
+              alt="&ccedil;apı g&ouml;ren &ccedil;evre a&ccedil;ı" width="237" height="239"/></div>
+    <p>Yukarıdaki şekilde (ACB) a&ccedil;ısı &ccedil;apı g&ouml;ren &ccedil;evre a&ccedil;ı olduğu i&ccedil;in
+        90&deg; olacaktır.</p>
+</div>
+<p><strong>Teğet kiriş a&ccedil;ı</strong>: Kollarından biri &ccedil;emberin kirişi diğeri ise
+    &ccedil;emberin teğeti olan a&ccedil;ıdır. Aynı &ccedil;evre a&ccedil;ı gibi g&ouml;rd&uuml;ğ&uuml;
+    yayın yarı derecesine eşittir.</p>
+<p><strong>&Ccedil;emberde i&ccedil; a&ccedil;ı</strong>: Kesişen iki kirişin kolları arasındaki a&ccedil;ıdır.
+    &Ccedil;aprazında olan a&ccedil;ıyla aynı &ouml;l&ccedil;&uuml;ye sahiptir. İki a&ccedil;ının g&ouml;rd&uuml;ğ&uuml;
+    iki yayın toplam derecesinin yarısı kadar bir &ouml;l&ccedil;&uuml;ye sahiptir.</p>
+<div><img src="images/geometri/cember/cem6.jpg"
+          alt="&ccedil;emberde teğet kiriş ve i&ccedil; a&ccedil;ı" width="561" height="223"/></div>
+<p>Yukarıdaki g&ouml;rselde teğet kiriş a&ccedil;ı ve &ccedil;ember i&ccedil; a&ccedil;ısı
+    verilmiştir.</p>
+<p><strong>&Ccedil;emberde dış a&ccedil;ı</strong>: İki kesenin, iki teğetin ya da bir teğet ve bir
+    kesen ile &ccedil;ember dışında oluşmuş a&ccedil;ıya dış a&ccedil;ı denir. Dış a&ccedil;ı
+    kirişle ya da teğetle ortaya &ccedil;ıkmış olabilir.</p>
+<p>Dış a&ccedil;ı nasıl oluşmuş olursa olsun form&uuml;l&uuml; aynıdır. Dış a&ccedil;ının g&ouml;rd&uuml;ğ&uuml;
+    uzak yaydan yakın yayı &ccedil;ıkarıp sonucu ikiye b&ouml;lersek dış a&ccedil;ının &ouml;l&ccedil;&uuml;s&uuml;n&uuml;
+    elde ederiz.</p>
+<div><img src="images/geometri/cember/cem7.jpg"
+          alt="&ccedil;emberde dış a&ccedil;ı t&uuml;rleri" width="909" height="307"/></div>
+<p>Yukarıdaki g&ouml;rselde dış a&ccedil;ı t&uuml;rleri verilmiştir.</p>
+<p><strong>Kirişler d&ouml;rtgeni</strong>: Kenarlarının hepsi bir &ccedil;emberin kirişi olan d&ouml;rtgene
+    kirişler d&ouml;rtgeni denir. Kirişler d&ouml;rtgeninin b&uuml;t&uuml;n a&ccedil;ıları birer
+    &ccedil;evre a&ccedil;ıdır.</p>
+<div><img src="images/geometri/cember/cem8.jpg" alt="kirişler d&ouml;rtgeni" width="206"
+          height="209"/></div>
+<p>Yukarıdaki şekilde g&ouml;sterilen kirişler d&ouml;rtgenidir. Kirişler d&ouml;rtgeninin
+    karşılıklı a&ccedil;ıları b&uuml;t&uuml;nlerdir. Yani toplamları 180 dereceyi verecektir. Aynı
+    zamanda karşılıklı a&ccedil;ı &ouml;l&ccedil;&uuml;leri 180 dereceyi veren d&ouml;rtgenlerin
+    etrafından bir &ccedil;ember ge&ccedil;er de diyebiliriz.</p>
+<p>Yani şekilde x + y = 180&deg; ve&nbsp;&alpha; +&nbsp;&theta; = 180&deg; eşitlikleri vardır.</p>
+<h3>&Ccedil;emberde A&ccedil;ı Sorularını &Ccedil;&ouml;zerken Dikkat Edilmesi Gerekenler</h3>
+<p>&Ccedil;emberde a&ccedil;ı her d&uuml;zeyde geometri testinde karşımıza mutlaka sorunun &ccedil;ıktığı
+    bir konudur. &Ccedil;ok fazla kural i&ccedil;ermemesine rağmen aynı zamanda &ouml;ğrencilerin en
+    &ccedil;ok zorlandıkları konulardan biridir.</p>
+<p>Konu anlatımında anlatılanları anladıysanız bu konuyu iyi &ouml;ğrenmek i&ccedil;in bol miktarda
+    test sorusu &ccedil;&ouml;zmeniz gerekir. Soruları &ccedil;&ouml;zerken şunlara dikkat edin:</p>
+<ul>
+    <li>&Ccedil;evre a&ccedil;ı ve merkez a&ccedil;ı ile ilgili kuralları dikkate alın.</li>
+    <li>&Ccedil;apı g&ouml;ren &ccedil;evre a&ccedil;ıya dikkat edin.</li>
+    <li>Kirişler d&ouml;rtgeni farkında olmadan karşımıza &ccedil;ıkabilir.</li>
+    <li>İ&ccedil; a&ccedil;ı ve dış a&ccedil;ıda yaylar ile ilgili form&uuml;lleri g&ouml;z &ouml;n&uuml;ne
+        getirin.
+    </li>
+    <li>Boş yerlere harflendirme ile a&ccedil;ıları yazın.</li>
+    <li>Elde olan a&ccedil;ılarla denklem kurun.</li>
+    <li>Teğet ve kirişlerden &uuml;&ccedil;genler elde etmeye &ccedil;alışın.</li>
+</ul>
+</html>

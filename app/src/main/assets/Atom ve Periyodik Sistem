@@ -1,0 +1,194 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<h2>Periyodik Sistem</h2>
+<p>Birçok bilim insanı elementleri çeşitli özelliklerine göre sınıflandırmaya çalışmıştır.
+    Günümüzdeki periyodik tabloya en yakın sınıflandırma 1869 yılında Julius Lothar Mayer (Julis
+    Lother Mayer) ve Dimitri Mendeleyev’in (Dimitri Mendeleyev) çalışmalarına dayanmaktadır.</p>
+<h2><a name="1"></a> Mendeleyev ve Periyodik Sistem</h2>
+<p>1869 yılında Rus kimyacı Dimitri Mendeleyev ve 1870 yılında Alman kimyacı Lothar Meyer yaptıkları
+    çalışmaların sonuçlarını bilim dünyası ile paylaştılar.</p>
+<p>Her iki bilim insanının yaptığı çalışmada da elementler atom ağırlıklarına ve benzer
+    özelliklerine göre sınıflandırılmıştır. Meyer 28 elementi karşılaştırarak bir tablo
+    oluştururken, Mendeleyev 63 elementi içeren bir tablo oluşturmuştur.</p>
+<p>Mendeleyev daha fazla elementi daha iyi açıkladığı için Meyer’in çalışması gölgede kalmış ve
+    Mendeleyev’in oluşturduğu periyodik sistem tablosu günümüzdeki tablonun ilk örneği olarak kimya
+    literatüründe yerini almıştır.</p>
+<p><strong>&#8211; </strong>63 elementi sınıflandırmıştır.<br/>
+    <strong>&#8211; </strong>Bu sıralamada elementlerin
+    fiziksel ve kimyasal özelliklerinin de düzenli (periyodik) olarak tekrarladığını görmüştür.<br/>
+    <strong>&#8211; </strong>Mendeleyevin bu tabloda sıralama
+    yaparken yanılgısı elementlerin özelliklerinin atom kütlelerine bağlı olduğunu düşünmesiydi.</p>
+<p>Mendeleyev hiç bir yeni element keşfedememiş olmasına rağmen, bilim dünyasına yaptığı hizmetten
+    dolayı, 1955 yılında G. T. Seaborg başkanlığındaki Amerikalı bilim adamları tarafından
+    sentezlenen 101 atom numaralı elemente, onun onuruna “Mendelevyum” adı verilmiştir.</p>
+<h2><a name="2"></a>Moseley ve Modern Periyodik Sistem</h2>
+<p>İngiliz fizikçi Henry Moseley (Henri Mozli), X-ışınları ile yaptığı deneylerde çeşitli
+    elementlerin atom numaralarını bulmuştur. Elementlerin fiziksel ve kimyasal özelliklerinin atom
+    kütlesine değil, atom numarasına (proton sayısına) bağlı olduğunu kanıtlamıştır.</p>
+<h3>Periyodik Sistem</h3>
+<p>Elementlerin benzer kimyasal ve fiziksel özelliklerine ve artan atom numaralarına göre
+    gruplandırıldıkları ç<strong>izelgeye periyodik tablo / periyodik sistem / periyodik cetvel</strong>
+    denir.</p>
+<p>Elementler gruplandırılırken; oda şartlarındaki fiziksel hâl, sertlik-yumuşaklık, iletkenlik,
+    kararlılık, iyon yükü gibi özellikleri dikkate alınır. Periyodik tabloda benzer özelliğe sahip
+    elementler alt alta dizilmiştir.</p>
+<p>Her elementin özelliklerini ayrı ayrı belirlemek yerine, periyodik tablodaki yerine bakarak
+    element hakkında bilgi edinilebilir. Bu durum kimya ile ilgilenenlerin işini önemli ölçüde
+    kolaylaştırmaktadır. Periyodik tabloda;</p>
+<p><strong>&#8211; </strong>7 tane periyot vardır.<br/>
+    <strong>&#8211; </strong>Periyotlarda soldan sağa doğru gidildikçe elementlerin proton sayıları
+    artar.<br/>
+    <strong>&#8211; </strong>Aynı periyottaki elementlerin yörünge sayıları aynıdır.<br/>
+    <strong>&#8211; </strong>Gruplarda yukarıdan aşağıya doğru gidildikçe elementlerin proton
+    sayıları artar.<br/>
+    <strong>&#8211; </strong>Gruplarda yukarıdan aşağıya doğru gidildikçe elementlerin yörünge
+    sayıları artar.<br/>
+    <strong>&#8211; </strong>Aynı grupta yer alan elementlerin kimyasal özellikleri genellikle
+    benzerdir.<br/>
+    <strong>&#8211; </strong>Periyodik sistemde toplam 18 tane grup yer alır.<br/>
+    <strong>&#8211; </strong>Bunlardan 8 tanesi A grubu, 10 tanesi B grubu elementleridir.</p>
+<h2><a name="3"></a>Periyodik Sistemde Yer Bulma</h2>
+<p>Bir elementi periyodik sistemdeki yeri nötr durumdaki elektron dağılımına göre yapılır.</p>
+<p>Katman elektron dizilimi B grubu ve A grubu elementlerinin grup türlerinin belirlenmesi için
+    yeterli değildir. Bu nedenle sadece A grubu elementlerinin hatta ilk 20 elementin yeri katman
+    elektron dizilimine bakılarak kesin olarak ifade edilebilir. Bunun için 2 temel kural
+    vardır.</p>
+<p><strong>&#8211; </strong>Elektron dizilimindeki katman
+    sayısı elementin bulunduğu periyotu belirtir.<br/>
+    <strong>&#8211; </strong>Elektron diziliminin son
+    katmanındaki elektron sayısı da elementin bulunduğu A grubunu belirtir.</p>
+<p>Yani;</p>
+<p><strong>Katman sayısı = Periyot Numarası</strong><br/>
+    <strong>Son Katmandaki elektron sayısı = Grup Numarasını</strong> verir.</p>
+<p><strong>Örnek:</strong> 19K (Potasyum)elementinin peridodik
+    cetveldeki yerini bulalım.</p>
+<p>19K: 2) 8) 8) 1) à Elementin 4 tane yörüngesi bulunduğundan element 4. periyotta yer alır.</p>
+<p>à Elementin son yörüngesinde 1 elektron bulunduğundan 1A grubunda yer alır.</p>
+<p>Yani 19K elementi 4. Periyot 1A grubunda yer alır.</p>
+<p><img loading="lazy" class="size-full wp-image-153769 aligncenter"
+        src="images/kimya/kimya1/kimya.png"
+        alt="" width="682" height="379"/></p>
+<h2><a name="4"></a>Elementlerin Sınıflandırılması</h2>
+<p>Elementler; metal, ametal ve yarı metal olmak üzere üç gruba ayrılmaktadır.</p>
+<h3>Metaller</h3>
+<p>Bilinen elementlerin büyük çoğunluğu metaldir. 1A, 2A ve 3A gruplarında büyük oranda metal
+    vardır. B gruplarının ise tamamı metaldir.</p>
+<p><strong>&#8211;</strong>Cıva dışındaki metallerin tamamı oda koşullarında (25° C ve 1 atm) katı
+    halde bulunurlar.<br/>
+    <strong>&#8211;</strong>Kuvvet etkisi altında işlenebilir ve şekil verilebilir.<br/>
+    <strong>&#8211;</strong>Parlak bir yüzeye sahiptirler.<br/>
+    <strong>&#8211;</strong>Elektrik akımını ve ısıyı iyi iletirler.<br/>
+    <strong>&#8211;</strong>Sadece elektron vererek bileşik oluşturabilirler. Yani bileşiklerinde
+    daima pozitif (+) yüklüdürler. Bu nedenle birbirleriyle bileşik oluşturamazlar.<br/>
+    <strong>&#8211;</strong>Isıtılarak eritildiklerinde birbirleri ile homojen karışırlar ve oluşan
+    bu karışım alaşım olarak adlandırılır.</p>
+<p><strong>NOT:</strong> 1 A grubunun 1.elementi olan hidrojen
+    metal değildir.</p>
+<h3>Ametaller</h3>
+<p>Genellikle son katmanında 4, 5,6, 7 ve 8 elektron bulunur. Hidrojen hariç periyodik tablonun
+    sağında bulunur.</p>
+<p><strong>&#8211; </strong>Tel ve levha haline
+    getirilemez.<br/>
+    <strong>&#8211; </strong>Isı ve elektriği iyi iletmez.<br/>
+    <strong>&#8211; </strong>Mattır.<br/>
+    <strong>&#8211; </strong>Oda koşullarında katı, sıvı ve gaz
+    haldedir.<br/>
+    <strong>&#8211; </strong>Molekül yapıdadır.<br/>
+    <strong>&#8211; </strong>Elektron alarak &#8211; yüklü
+    (Anyon) oluşturur.<br/>
+    <strong>&#8211; </strong>Son yörüngelerinde 5,6 veya 7
+    elektron bulundurur.<br/>
+    <strong>&#8211; </strong>Periyodik sistemin sağ tarafında
+    bulunmaktadır.</p>
+<h3> Yarı Metaller</h3>
+<p>Bor, antimon, silisyum, tellür, germanyum, polonyum, arsenik ve astatin olmak üzere toplam 8 yarı
+    metal vardır. Yarı metaller fiziksel özellikleri bakımından metaller, kimyasal özellikleri
+    bakımından ametallere benzerler.</p>
+<p><strong>&#8211; </strong>Parlak ya da mat olabilirler.<br/>
+    <strong>&#8211; </strong>Metallere göre az, ametallere göre
+    ise daha iyi elektrik akımını ve ısıyı iletebilirler. (Yarı iletken özelliktedirler.)<br/>
+    <strong>&#8211; </strong>Yarı metaller özellikle elektronik
+    devre parçalarının ve optik malzemelerin yapımında kullanılırlar.<br/>
+    <strong>&#8211; </strong>Tel ve levha haline
+    getirilebilirler.<br/>
+    <strong>&#8211; </strong>Çekiçle dövülemezler.
+    Kırılgandırlar.</p>
+<h3> Soygazlar</h3>
+<p>En kararlı element grubudur. Helyum, neon, argon, kripton, ksenon ve radon soy gazdır.</p>
+<p><strong>&#8211; </strong>Oda sıcaklığında gaz halinde
+    bulunurlar.<br/>
+    <strong>&#8211; </strong>Elektrik akımını iletmezler.<br/>
+    <strong>&#8211; </strong>Bileşik oluşturmaya istekleri
+    yoktur.<br/>
+    <strong>&#8211; </strong>Helyum hariç son katmanlarında 8
+    elektron bulunur.<br/>
+    <strong>&#8211; </strong>Doğada hiç bileşikleri
+    yoktur.<br/>
+    <strong>&#8211; </strong> Helyum (He) hidrojenden sonra en
+    hafif gazdır. Yanıcı ve parlayıcı değildir. Renksiz bir gazdır. Güneşte ve yıldızlarda bol
+    miktarda bulunur. Zeplin ve balon gibi hava taşıtlarını şişirmede, derin dalış tüplerinde
+    kullanılır.<br/>
+    <strong>&#8211; </strong>Neon (Ne),renksiz bir gazdır.
+    Renkli reklam panolarının aydınlatılmasında, televizyon tüplerinde, paratonerlerde
+    kullanılır.<br/>
+    <strong>&#8211; </strong>Argon (Ar), kokusuz ve renksiz bir
+    gazdır. Ampullerde ve flüoresan tüplerinde kullanılır.</p>
+<p><img loading="lazy" class="size-full wp-image-153769 aligncenter"
+        src="images/kimya/kimya1/kimya.png"
+        alt="" width="682" height="379"/></p>
+<h2><a name="5"></a>Periyodik Özelliklerin Değişimi</h2>
+<p>Periyodik cetvelin bilim insanlarına sağladığı en büyük fayda, bir elementin sadece periyodik
+    cetvedeki yerini bilerek onun hakkında bazı bilgilere anında ulaşabilmektir. Periyodik cetvelin
+    yapısı gereği bir takım özellikler periyodik olarak artar veya azalır. Bu özelliklere periyodik
+    özellikler denir. Periyodik özellikler; atom yarı çapı, iyonlaşma enerjisi, elektron ilgisi,
+    elektronegativite ve metalik-ametalik özellik olarak sıralanabilir. Periyodik özelliklerin hemen
+    hemen hepsi elektronların orbitallere dizilişine bağlı olarak açıklanabilir (ya da daha basit
+    bir yorumla, atomun yarıçap büyüklüğüne bağlıdır).</p>
+<h3>Atom Yarıçapı</h3>
+<p>Atomun yapısında yoğun bir çekirdek ve çekirdek etrafında elektron bulutu vardır. Elektron
+    bulutunda elektronları yoğun olarak bulunduğu bölgeler vardır. Bir atom da atom çekirdeği ile
+    çekirdekten en uzaktaki elektron arasındaki uzaklık atom yarıçapı olarak tanımlanır.</p>
+<p>Bir atomun hacmi, atom yarıçapı ile doğru orantılı olduğu için atom yarıçapı aynı zamanda atom
+    hacmi gibi kullanılır. Atom hacmi çekirdek ve elektron sayısı ile ilgilidir. Atom hacminin
+    değişim eğilimi periyot ve gruplarda farklı şekillerde gerçekleşir.</p>
+<h3>İyon Yarıçapı</h3>
+<p>İyonik bağlı bileşiklerdeki iyonların çekirdekleri arasındaki uzaklıktan faydalanılarak
+    hesaplanır. İyonlar aynı büyüklükte olmadığından iyon yarıçapı iyonların çekirdekleri arasındaki
+    uzaklığın yarısına eşit değildir. Uzaklık anyon ve katyonun büyüklüğüne göre paylaştırılarak
+    iyon yarıçapı bulunur.</p>
+<h3>İyonlaşma Enerjisi</h3>
+<p>Gaz halinde nötral bir atomdan bir elektron uzaklaştırmak için verilmesi gereken enerjiye
+    iyonlaşma enerjisi denir. İyonlaşma enerjisi bir atomun elektronlarından birini koparıp sonsuz
+    uzaklığa götürmek ve bir fazla artı yüklü yeni bir atom iyonu oluşturmak için gerekli enerji
+    olarak da tanımlanabilir.</p>
+<h3>Elektronegatiflik</h3>
+<p>Bir atomun kimyasal bağda bağ yapan elektronları kendisine çekme gücüne elektronegatiflik veya
+    elektronegativite denir.Elementlerin elektronegatifliklerini sıralayabilmek için florun
+    elektronegatifliği 4.0 olarak kabul edilmiştir.</p>
+<p><strong>&#8211; </strong>Periyodik tabloda soldan sağa doğru
+    gidildikçe atom çapı küçülür, elektronegatiflik artar.<br/>
+    <strong>&#8211; </strong>Aynı grupta yukarıdan aşağı doğru
+    gidildikçe atom çapı artar, çekirdeğin çekim gücü azalır, elektronegatiflik azalır.</p>
+<h3>Metal – Ametal Özellik</h3>
+<p>Metallerin değerlik elektron sayısı genellikle az ve dolayısıyla iyonlaşma enerjileri düşüktür.
+    Bu sebeple hidrojen hariç 1A grubu elementleri, 2A grubu elementleri, tüm B grubu elementleri,
+    bor hariç tüm 3A grubu metaldir. Periyodik tabloda sağdan sola doğru gidildikçe, metalik özellik
+    özellik azalır. Ancak metalik özellikler birden bitip ametallik özellik başlamaz. Metallerden
+    ametallere geçiş süreci “yarı metaller” ile başlar.</p>
+<p><strong>&#8211; </strong>Metalik özellik periyodik cetvelde
+    (aynı grup içerisinde) sağdan sola ve (aynı periyot içerisinde) yukarıdan aşağıya gittikçe
+    artar.<br/>
+    <strong>&#8211; </strong>Ametalik özellik periyodik
+    cetvelde (aynı grup içerisinde) sağdan sola ve (aynı periyot içerisinde) yukarıdan aşağıya
+    gittikçe azalır.</p>
+</html>

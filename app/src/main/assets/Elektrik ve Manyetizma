@@ -1,0 +1,153 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+
+    
+    </style>
+</head>
+<h2>Elektrik ve Manyetizma</h2>
+<h3><a name="1"></a>Elektrik Akımı</h3>
+<p>Negatif yüklerin titreşim hareketi sonucunda yükler arasında gerçekleşen elektrik enerjisi
+    aktarımına <strong>elektrik akımı</strong> denir.</p>
+<p>Elektrik akımı, yüklerin (elektronların) akışı anlamına gelmez. Elektrik akımı, iletken bir
+    teldeki yüklerin titreşim hareketi sonucunda oluşur. Bir iletkenden t sürede geçen yük miktarına
+    akım şiddeti adı verilir ve<strong> I</strong> sembolü ile
+    gösterilir.</p>
+<p>Akım şiddeti,</p>
+<p><span style="font-size: 14pt"><strong>I = q/ t </strong>bağıntısıyla hesaplanır.</span></p>
+<p>Bu bağıntıda;<br/>
+    <strong>I:</strong> Amper (A) olarak akım şiddetini,<br/>
+    <strong>q:</strong> Coulomb (C) olarak yük miktarını,<br/>
+    <strong>t:</strong> Saniye (s) olarak zamanı ifade eder.</p>
+<h3><a name="2"></a>Potansiyel Farkı</h3>
+<p>Bir iletkende elektrik akımını oluşturmak için gerekli enerjiyi sağlayan enerji kaynaklarına
+    <strong>üreteç</strong> adı verilir. Üretecin iletken telin
+    iki ucu arasındaki elektronlar üzerine uyguladığı kuvvet ile elektronların enerjilerinde meydana
+    gelen enerji farkına<strong> potansiyel fark</strong> denir.
+    Potansiyel fark <strong>V</strong> sembolü ile gösterilir ve
+    SI’da birimi Volt (V)’tur.</p>
+<p>Potansiyel farkı devreye paralel bağlanan voltmetre denilen araçla ölçülür. Voltmetrenin direnci
+    çok büyüktür.</p>
+<h3><a name="3"></a>Direnç</h3>
+<p>Elektrik yükünü kolay ileten maddelere <strong>iletken madde</strong> denir. Demir, bakır,
+    alüminyum
+    gibi maddeler iletkendir. Elektrik yükünü kolay iletmeyen maddelere <strong>yalıtkan
+        madde</strong> denir. Plastik, cam,
+    ebonit, saf su, kuru hava gibi maddeler yalıtkandır.<br/>
+    Elektrik akımına karşı gösterilen zorluğa <strong>direnç</strong> denir ve
+    <strong>R</strong> ile gösterilir. Direnç birimi ohm (Q)
+    dur.</p>
+<p>Bir iletkenin direnci;</p>
+<p><strong><span style="font-size: 14pt">R= p. L / A</span></strong></p>
+<p>bağıntısı ile hesaplanır.</p>
+<h2><a name="4"></a>Elektrik Devreleri</h2>
+<h3>Akım, Direnç Ve Potansiyel Farkı Arasındaki İlişki</h3>
+<p>Elektrik enerjisinin, elektrik akımı ile taşındığı, farklı devre elemanlarının bağlı olduğu
+    iletken yola <strong>elektrik devresi</strong> denir. Basit
+    bir elektrik devresinde, pil, anahtar, lamba gibi devre elemanları bulunur. Üretecin yanı sıra,
+    elektrik enerjisinin harcandığı, lamba gibi devre elemanlarının dirençleri devredeki elektrik
+    akım şiddetini belirler. Bir devredeki akım, potansiyel farkı ve direnç arasındaki ilişki
+    <strong>Ohm Yasası</strong> olarak bilinir ve aşağıdaki
+    gibi ifade edilir</p>
+<p><strong>Ohm Yasası</strong>: Sıcaklığı sabit olmak koşuluyla, bir iletkenin uçları arasındaki
+    gerilimin, bu iletkenden geçen akım şiddetine oranı sabittir. Bu sabit oran o iletkenin
+    direncine eşittir. Ohm Yasası’na göre bir iletkenin direnci;</p>
+<p><span style="font-size: 14pt"><strong>V / I = sabit = R</strong> olarak yazılır.</span></p>
+<h3>Seri ve Paralel Bağlı Devreler</h3>
+<p>Bir elektrik devresinde, devre elemanları, istenilen amaca uygun olarak farklı şekillerde
+    bağlanabilir. Bağlama şekillerine göre devrede ölçülen gerilim, akım ve direnç değerleri
+    değişebilir.</p>
+<p>Bir elektrik devresinde doğrudan üretece bağlı olan kola ana kol denir.<br/>
+    Birden fazla direncin bağlı olduğu bir elektrik devresinde, dirençlerin toplam etkisine eş değer
+    direnç denir ve Reş şeklinde gösterilir.</p>
+<p><strong>Seri bağlama:</strong> İki ya da daha fazla direncin
+    uç uca bağlanmasıdır. Bu tür bağlanma şeklinde dirençler<br/>
+    üzerinden aynı akım geçer. Dirençlerin uçları arasındaki potansiyel farklarının toplamı üretecin
+    potansiyel farkına eşittir. Seri bağlı dirençlerin eş değeri dirençlerin toplamına eşittir.</p>
+<p><strong>Paralel bağlama:</strong> İki ya da daha fazla
+    direnci birbirine paralel yerleştirilip uçlarını birleştirerek bir üretece bağlanmasıdır. Bu tür
+    bağlamada dirençlerin uçları arasında oluşan gerilim eşittir. Dirençler üzerinden geçen akım
+    şiddetinin toplamı ana koldan<br/>
+    geçen akım şiddetine eşittir. Paralel bağlı dirençlerin eş değerinin tersi dirençlerin tersleri
+    toplamına eşittir.</p>
+<h2><a name="5"></a>Manyetizma</h2>
+<h3>Mıknatıs ve Manyetik Alan</h3>
+<h3>Mıknatıs Nedir?</h3>
+<p>Demir, nikel, kobalt gibi maddeleri çekme özelliği gösteren maddelere<strong>
+    mıknatıs</strong> denir. Mıknatısın en fazla çekme
+    etkisini gösterdiği uç bölgelerine <strong>mıknatısın kutbu</strong> adı verilir. Bir
+    mıknatısın kuzey <strong>(N)</strong> ve güney<strong> (S)</strong> olmak üzere
+    iki kutbu vardır.</p>
+<h3>Manyetik Alan Nedir?</h3>
+<p>Basit bir şekilde söylemek gerekirse, manyetik alan, mıknatısı çevreleyen bir bölgedir.
+    Mıknatıslar, demiri çeken bir özelliğe sahip magnetit (ya da mıknatıstaşı) denilen madenden
+    yapılmıştır. Bilim insanları, manyetik alanları açıklamak için manyetik alan çizgilerini
+    kullanır.</p>
+<p>Mıknatıstan etkilenebilen maddeler manyetik alan içinde bulunduklarında, manyetik kuvvetin
+    etkisinde kalır. Manyetik kuvvet, yer çekimi kuvveti gibi temas gerektirmeyen bir kuvvettir.</p>
+<p>
+    <strong>Mıknatısın Manyetik Alanı</strong>
+</p>
+<p>Bir mıknatısın yakınında tutulan bir pusulanın iğnesi sapar. Pusula, mıknatıs çevresinde farklı
+    konumlarda gezdirildiğinde, pusula iğnesi buna göre sürekli yön değiştirir. Pusula iğnesinin bu
+    etkileşimi manyetik alan nedeniyledir.</p>
+<p>Pusula iğnesine benzer bir etki demir tozları ile mıknatıs arasında da gözlenir.Mıknatısın
+    manyetik alanındaki demir tozları çizgiler oluşturur. Manyetik alan görsel olarak modellenirken,
+    demir tozlarının oluşturduğu gibi çizgiler kullanılır.<br/>
+    Manyetik alanın gösterilmesi için kullanılan hayali çizgilere <strong>manyetik alan
+        çizgileri</strong> ya da <strong>manyetik alan kuvvet çizgileri </strong>
+    denir.</p>
+<p>Bir bölgedeki alan manyetik alan çizgileri ile ifade edilir. Manyetik alan çizgilerinin sık
+    olması o bölgedeki manyetik alan şiddetinin büyük, seyrek olması ise alan şiddetinin küçük
+    olduğunu gösterir. Manyetik alan kuvvet çizgileri alan kaynağının özelliğine göre birbirine
+    paralel olabilir. Bu tür manyetik alana <strong>düzgün manyetik alan</strong>
+    denir. Manyetik alan çizgilerinin sıklık ve seyrekliği mıknatısın bulunduğu ortama göre değişir.
+</p>
+<h3>Manyetik Geçirgenliklerine Göre Maddeler</h3>
+<p>Maddeler manyetik geçirgenliklerine göre üç gruba ayrılır.</p>
+<p>Diyamanyetik Maddeler<br/>
+    <strong> </strong>Zayıf manyetik özellik
+    gösteren maddelerdir.<br/>
+    <strong> </strong>Bağıl manyetik geçirgenlik
+    katsayıları 1’den biraz küçüktür.<br/>
+    <strong> </strong>Manyetik alan içine konulduğunda
+    alan çizgilerini seyreltirler.<br/>
+    <strong> </strong>Bakır, gümüş, bizmut, azot ve
+    karbon bazı diyamanyetik maddelerdir.</p>
+<p>
+    <strong>Paramanyetik Maddeler</strong><br/>
+    <strong> </strong>Manyetik alan içine konulduğunda
+    zayıf olarak mıknatıslanan maddelerdir.<br/>
+    <strong> </strong>Bağıl manyetik geçirgenlik
+    katsayıları 1’den biraz büyüktür.<br/>
+    <strong> </strong>Manyetik alan içine konulduğunda
+    alan çizgilerini biraz sıklaştırırlar.<br/>
+    <strong> </strong>Alüminyum, magnezyum, oksijen ve
+    hava bazı paramanyetik maddelerdir.</p>
+<p><strong>Ferromanyetik Maddeler<br/>
+</strong><strong> </strong>Manyetik alan içine
+    konulduğunda kuvvetli olarak mıknatıslanan maddelerdir.<br/>
+    <strong> </strong>Manyetik alan çizgilerini
+    paramanyetik maddelere göre daha fazla sıklaştırırlar.<br/>
+    <strong> </strong>Bağıl manyetik geçirgenlik
+    katsayıları 1’den çok büyüktür.<br/>
+    <strong> </strong>Demir, nikel ve kobalt bazı
+    ferromanyetik maddelerdir.</p>
+<h2>Akım ve Manyetik Alan</h2>
+<p>Elektrik akımının çevresinde bir manyetik alan oluşturması elektromıknatıslık olay olarak
+    tanımlanmaktadır.</p>
+<p>İletken bir telden akım geçirildiğinde çevresinde manyetik alan oluşur. Böylece tel bir mıknatıs
+    gibi davranır. Üzerinden akım geçen iletken telin etrafında manyetik alan oluşturmasına akımın
+    manyetik etkisi denir. Akımın manyetik etkisi telden geçen akımın artması ile artarken telden
+    uzaklaştıkça azalır. Bu etki aynı zamanda telin bulunduğu ortama göre de değişir.</p>
+<p>&nbsp;</p>
+</html>

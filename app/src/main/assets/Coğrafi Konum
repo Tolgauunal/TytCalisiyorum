@@ -1,0 +1,243 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<p><strong><span style="font-family: Verdana; font-size: medium;"><span style="font-size: medium;">COĞRAFİ KONUM</span></span></strong></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Herhangi bir yerin Dünya üzerinde bulunduğu alana <strong>coğrafi konum</strong> denir. <span id="more-4020"></span></span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><strong><span style="font-family: Verdana;">A. ÖZEL KONUM</span></strong></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Herhangi bir yeri diğer yerlerden ayıran, sahip olduğu kendine has özelliklerin tümüne <strong>özel konum </strong>denir. Özel konum, insanları, çevreyi, ülkelerin ekonomik ve politik durumunu çok yönlü etkiler. Dünya üzerinde, özel konum etkisine şu örnekler verilebilir:</span></p>
+<ul>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Norveç, Japonya, İngiltere, İzlanda gibi deniz ve okyanuslara komşu ülkeler balıkçılıkta ileri gitmişlerdir.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Kuzeybatı Avrupa kıyıları, yüksek enlemlerde bulunmasına rağmen, Gulf – Stream sıcak su akıntısının etkisiyle ılıman bir iklime sahip olmuştur.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Orta Asya ve Orta Avrupa denizlere uzak olduğu için karasal bir iklime sahip olmuştur.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Kanarya, Havai, Kıbrıs, vb. adalar, deniz ve hava yollarının gelişmesiyle ikmal ve uğrak yeri haline gelmişlerdir. Buna bağlı olarak bu adaların önemi artmıştır.</span></p>
+    </li>
+</ul>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><strong><span style="font-family: Verdana;">Türkiye’nin Özel Konumu ve Sonuçları</span></strong></p>
+<ul>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Türkiye, Asya, Avrupa ve Afrika kıtalarının birbirine en çok yaklaştığı yerde bulunur.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Farklı kültürlerin kurulduğu, Dünya’nın en eski kültür hazinelerine sahiptir.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Dünya’da en fazla petrol çıkaran ülkelere komşudur.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Üç tarafı denizlerle çevrilidir ve yeryüzü şekilleri çeşitlidir.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Karadeniz’i Akdeniz’e bağlayan İstanbul ve Çanakkale boğazlarına sahiptir.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Türkiye’nin ortalama yükseltisi fazladır. (Yaklaşık 1132 m)</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Yükselti batıdan doğuya doğru gidildikçe artmaktadır.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Zengin yeraltı kaynaklarına sahiptir.</span></p>
+    </li>
+</ul>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><strong><span style="font-family: Verdana;">B. MATEMATİK KONUM</span></strong></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Herhangi bir yerin, Dünya üzerinde bulunduğu alanın, enlem ve boylam dereceleriyle belirtilmesine matematik konum denir.</span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><strong><span style="font-family: Verdana;">PARALEL (ENLEM)</span></strong></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Ekvator’a paralel olarak çizildiği varsayılan hayali çemberlere <strong>paralel</strong> denir.</span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 16px;"><span style="font-family: Verdana;">Paralel çemberlerinin, Başlangıç paraleline (Ekvator) olan uzaklığının açı cinsinden değerine ise <strong>enlem</strong> denir. Enlem ve paralel birbirlerinin yerine kullanılırlar.</span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><img src="https://www.derscalisiyorum.com.tr/wp-content/uploads/2011/06/1_cogkonum.gif" alt="derscalisiyorum.com.tr" /></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><strong><span style="font-family: Verdana;">Paralellerin Özellikleri</span></strong></p>
+<ul>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Ekvator’un 90 kuzeyinde, 90 da güneyinde olmak üzere, toplam 180 paralel bulunur.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Başlangıç paraleli Ekvator’dur.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">En büyük paralel dairesi Ekvator’dur.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Ekvator’dan kutuplara doğru gidildikçe paralellerin boyları kısalır. Buna karşılık paralel numaraları büyür.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">İki paralel arası uzaklığa bir enlem derecesi denir. Matematik konumu daha ayrıntılı olarak belirleyebilmek için, her paralel dairesi 60 dakikaya, her dakika 60 saniyeye bölünmüştür.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">90° paralelleri nokta halindedir.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Paraleller birbirleriyle kesişmezler, birleşmezler.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Paraleller doğu – batı doğrultusunda uzanırlar.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Ekvator ile dönenceler arasında kalan enlemlere <strong>alçak enlemler</strong>, dönenceler ile kutup daireleri arasında kalan enlemlere <strong>orta enlemler</strong>, kutup daireleri ile kutup noktaları arasında kalan enlemlere de <strong>yüksek enlemler </strong>denir.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Ardışık iki paralel arası uzaklık yaklaşık olarak 111 km dir. Bu uzaklıktan yararlanarak kuzey güney doğrultusunda ve aynı meridyen üzerinde bulunan iki nokta arasındaki uzunluk hesaplanabilir.</span></p>
+    </li>
+</ul>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><strong>Paraleller arası uzunluk işlemlerinde şu yol takip edilir:</strong></span></p>
+<ul>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Aralarında uzaklığı sorulan noktalar arasındaki enlem farkı bulunur. İstenilen merkezlerin her ikisi de aynı yarım kürede ise, numarası büyük paralelden küçük paralel çıkarılır. Farklı yarım küredeler ise paraleller toplanır.</span></p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Bulunan paralel farkı sabit uzaklık olan 111 ile çarpılır.</span></p>
+    </li>
+</ul>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><strong>Enlemin Etkileri</strong></span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Enlem; iklimi, güneş ışınlarının düşme açısını, sıcaklık dağılışını, denizlerin tuzluluk oranlarını, gece ile gündüz arasındaki zaman farkını, kalıcı kar sınırı yükseltisini, yerleşme ve tarım faaliyetlerinin sınırını, bitki örtüsü çeşitliliğini, toprak çeşidini, akarsu rejimlerini, tarım ürünleri çeşitliliğini, yerleşme biçimini, hayvanların dağılışını, vs. etkiler.</span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><strong>MERİDYEN </strong>(BOYLAM)</span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Bir kutuptan diğer kutba ulaşan, paralelleri dik açıyla kesen hayali yarım çemberlere meridyen denir.</span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 16px;"><span style="font-family: Verdana;">Meridyenlerin, Başlangıç meridyenine (Greenwich) olan uzaklığının açı cinsinden değerine ise boylam denir. Meridyen ve boylam birbirlerinin yerine kullanılırlar.</span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><img src="https://www.derscalisiyorum.com.tr/wp-content/uploads/2011/06/2_cogkonum.gif" alt="derscalisiyorum.com.tr" /></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><strong>Meridyenlerin Özellikleri</strong></span></p>
+<ul>
+    <ul>
+        <li>
+            <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Başlangıç meridyeninin 180 doğusunda, 180 de batısında olmak üzere, toplam 360 meridyen vardır.</span></p>
+        </li>
+        <li>
+            <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Başlangıç meridyeni İngiltere’nin başkentindeki Greenwich istasyonundan geçen meridyendir.</span></p>
+        </li>
+        <li>
+            <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">İki meridyen arası uzaklığa bir boylam derecesi denir. Koordinatlarla bir yeri daha iyi belirleyebilmek için, her meridyen derecesi 60 dakikaya, her dakika 60 saniyeye bölünmüştür.</span></p>
+        </li>
+        <li>
+            <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;">Ekvator üzerinde iki meridyen arası uzaklık 111 km dir. Kutuplara doğru gidildikçe bu uzaklık azalır. Türkiye üzerinde ise iki meridyen arası uzaklık, yaklaşık olarak 85 – 86 km dir. </span></p>
+        </li>
+    </ul>
+</ul>
+<p>&nbsp;</p>
+<ul>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Bütün meridyenlerin boyları birbirine eşittir.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Aynı meridyen üzerinde bulunan bütün noktaların (Güneş karşısından aynı anda geçtiklerinden) yerel saatleri aynıdır.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Meridyen dereceleri Greenwich’ten doğuya ve batıya gidildikçe büyür.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Meridyenler kuzey – güney doğrultusunda uzanır.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Bütün meridyenler kutuplarda birleşirler.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Meridyenler bir paralel boyunca birbirlerinden eşit uzaklıkta bulunurlar.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Ardışık iki meridyen arasındaki yerel saat farkı 4 dakikadır.</p>
+    </li>
+</ul>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><strong>Boylamın Etkileri</strong></span></span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;">Boylamın Dünya üzerindeki en belirgin etkisi, yerel saat farklarını oluşturmaktır.</span></span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><strong>YEREL SAAT</strong></span></span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;">Herhangi bir yerde, Güneş’in en tepede olduğu ana ya da gölge boyunun en kısa olduğu ana öğle vakti denir. Öğle vakti gün ortasıdır ve saat 12.00 olarak kabul edilir. Buna göre ayarlanan saat dilimine yerel saat denir.</span></span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;">Yerel saat farkları, meridyenlerden faydalanılarak hesaplanabilir. Yerel saat hesaplarını yapabilmek için şunları öğrenmekte fayda vardır: </span></span></p>
+<p><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"> </span></span></span></p>
+<ul>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Aynı meridyen üzerinde bulunan bütün noktaların öğle vakitleri aynı anda olur ve yerel saatleri birbirine eşittir.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Aynı meridyen üzerinde bulunan noktaların yerel saatleri birbirine eşit olmasına rağmen (21 Mart ve 23 Eylül tarihleri hariç) Güneş’in doğma ve batma saatleri farklıdır. Bunun nedeni, Dünya ekseninin 23° 27′ eğik olmasıdır.</p>
+    </li>
+</ul>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><strong>ORTAK SAAT (ULUSAL SAAT)</strong></span></span></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;">Çalışma hayatında, yerel saatlerin hepsini kullanmak mümkün değildir. Ticari ve ekonomik ilişkilerin kolaylaştırılması, haberleşme ve ulaşım hizmetlerinin hızlı ve düzenli bir şekilde yapılabilmesi için, yerel saatten farklı olarak, ortak saat ya da ulusal saat uygulamasına ihtiyaç duyulmuştur. Bu nedenle her ülkenin, kendisine en uygun meridyenin yerel saatini bütün ülke sınırlarında geçerli hale getirmesiyle oluşan saate ortak saat adı verilmektedir.</span></span></span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;">Doğu – batı doğrultusunda geniş olan ülkeler (A.B.D, Kanada, Çin, vb.) aynı anda birden çok ortak saat kullanırlar. Ancak doğu – batı yönünde dar olan ülkeler (Türkiye, İtalya, Bulgaristan, İspanya, vb.) ise aynı anda tek ortak saat kullanırlar.</span></span></span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;">Türkiye’de, 1978 yılına kadar, 2. saat diliminde yer alan 30° Doğu meridyeninin yerel saati ortak saat olarak kullanılmıştır. 1978 yılından sonra, güneş ışınlarından daha fazla yararlanarak enerji tasarrufu sağlamak amacıyla, ileri ve geri saat uygulamasına geçilmiştir. Şöyle ki;</span></span></span></p>
+<p><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"> </span></span></span></span></p>
+<ul>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Yaz döneminde 3. saat dilimine giren 45° Doğu meridyeninin yerel saati esas alınarak ileri saat uygulamasına geçilmiştir.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Kış döneminde ise 2. saat dilimine giren 30° Doğu meridyeninin yerel saati esas alınarak geri saat uygulamasına geçilmektedir.</p>
+    </li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><strong>SAAT DİLİMLERİ (ULUSLAR ARASI SAAT)</strong></span></span></span></span></p>
+<p>&nbsp;</p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 16px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;">Bilim ve tekniğin hızla gelişmesiyle ülkeler arası ekonomik ve siyasi ilişkilerin artması, buna bağlı olarak iletişimin hızlı olması uluslararası saatin doğmasına yol açmıştır. Bu sebeple saat dilimleri oluşturulmuştur. Dünya üzerinde 24 saat dilimi vardır.</span></span></span></span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><img src="https://www.derscalisiyorum.com.tr/wp-content/uploads/2011/06/3_cogkonum.gif" alt="derscalisiyorum.com.tr" /> </span></span></span></span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><strong>TARİH DEĞİŞTİRME ÇİZGİSİ</strong></span></span></span></span></p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 16px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;">Dünya’nın doğu ve batı yarım kürelerinin uç noktaları arasında bir günlük zaman farkı vardır. Bu nedenle, Başlangıç meridyeninin devamı olan 180° meridyeni, tarih değiştirme çizgisi olarak kabul edilmiştir.</span></span></span></span></p>
+<p><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><img src="https://www.derscalisiyorum.com.tr/wp-content/uploads/2011/06/4_cogkonum.gif" alt="derscalisiyorum.com.tr" /> </span></span></span></span></span></p>
+<ul>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">180° boylamının batısına doğru gidildiğinde, Doğu Yarım Küre’ye geçildiği için, tarih 1 gün ileridir.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">180° boylamının doğusuna doğru gidildiğinde, Batı Yarım Küre’ye geçildiği için, tarih 1 gün geridir.</p>
+    </li>
+</ul>
+<p>&nbsp;</p>
+<p><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><strong>TÜRKİYE’NİN MATEMATİK</strong> <strong>KONUMU VE SONUÇLARI</strong></span></span></span></span></span></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;">Türkiye, 36° – 42° Kuzey paralelleri ile 26° 45° Doğu meridyenleri arasında yer alır. Diğer bir ifadeyle, Türkiye Ekvator’un kuzeyinde ve Greenwich’in doğusunda bulunan bir ülkedir. Türkiye’nin matematik konumunun sonuçları şöylece sıralanabilir:</span></span></span></span></span></p>
+<p><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"><span style="font-family: Verdana;"> </span></span></span></span></span></span></p>
+<ul>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Doğu – batı istikametinde 76 dakika yerel saat farkı bulunur.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Aynı anda tek ortak saat kullanılır. Çünkü doğu – batı yönünde fazla geniş değildir.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Güneş ışınları hiçbir zaman dik açıyla gelmez.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">İki meridyen arası uzaklık yaklaşık olarak 85 – 86 km dir.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Orta kuşakta yer alır.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Mevsimler belirgin olarak görülür.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Kışın cephesel yağışlar fazladır.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Güneyden kuzeye gidildikçe güneş ışınlarının geliş açısı küçülür.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Güneyden kuzeye gidildikçe cisimlerin gölge boyu uzar.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Güneyden kuzeye gidildikçe gece – gündüz süreleri arasındaki fark artar.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Kuzeyden esen rüzgârlar sıcaklığı düşürürken, güneyden esen rüzgârlar sıcaklığı yükseltir.</p>
+    </li>
+    <li>
+        <p style="line-height: 150%; margin-top: 0pt; margin-bottom: 8px;">Dağların güney yamaçları daha sıcaktır. Buna bağlı olarak güney yamaçlarda yerleşmeler fazladır.</p>
+    </li>
+</ul>
+</html>

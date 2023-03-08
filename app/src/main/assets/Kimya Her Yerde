@@ -1,0 +1,181 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    
+
+    </style>
+</head>
+<h2>Kimya Her Yerde</h2>
+<p>Yaşamımızın vazgeçilmez parçası olan kimyasallar hemen hemen her alanda karşımıza çıkmaktadır.
+    Temizlikte kullanılan sabun, deterjan; mutfak malzemeleri, kıyafetler, oyuncakların ana
+    malzemesi polimerler, kozmetik ürünler, ilaçlar, gıdalar vb. maddeler kimya bilimi sayesinde
+    kullanıma hazır hâle getirilmektedir. Yani kimya her yerdedir.</p>
+<h3><a name="1"></a>Yaygın Günlük Hayat Kimyasalları</h3>
+<h3>Temizlik Maddeleri</h3>
+<p>Kişisel temizlikte kullanılan sabun, şampuan, diş macunu; ev temizliğinde kullanılan deterjanlar,
+    ağartıcılar, çamaşır suyu; gıdalarda hijyen sağlamak amacıyla kullanılan kireç kaymağı vb.
+    ürünler temizlik maddeleridir .Sabun, deterjan, çamaşır sodası, çamaşır suyu, kir ve yağ
+    çözücüler örnek olarak verilebilir.</p>
+<p><strong>Sabun</strong><br/>
+    Sabun, bitkisel ve hayvansal yağların veya yağ asitlerinin NaOH gibi bazlarla kimyasal tepkimesi
+    sonucu elde edilen temizlik maddesidir. Sabun kullanım amacına göre yapılır. Genel olarak
+    yumuşak ve sert olmak üzere iki tür sabun vardır. Sert sabunlar sodyum (Na) tuzu, yumuşak
+    sabunlar ise potasyum (K) tuzudur. Yumuşak sabunlar suda sert sabunlara göre daha fazla
+    çözündükleri için genellikle traş kreminde ve sıvı sabun yapımında kullanılır.</p>
+<p><strong>Deterjan</strong></p>
+<p>Kir sökücü anlamına gelen deterjan petrol türevlerinden elde edilir. Deterjanın en önemli
+    özelliği sert sularda bile köpürebilmesidir. Yaygın olarak kullanılan deterjan lauril alkolden
+    elde edilen sodyum lauril sülfat’tır.</p>
+<p><span
+        style="text-decoration: underline"><strong>Deterjanların temel bileşenleri</strong><br/>
+    Yüzey aktif maddeler<br/>
+    Köpük düzenleyiciler<br/>
+    Sertlik gidericiler<br/>
+    Katkı maddeleri</span></p>
+<p><span
+        style="text-decoration: underline"><strong>Sabun ve deterjanın farkları ve benzerlikleri</strong></span>
+</p>
+<p><b> </b>Suda çözünürler.<br/>
+    <b> </b>Temizleyici ve dezenfekte edicidirler.<br/>
+    <b> </b>Moleküllerinde polar ve apolar kısımlar
+    vardır.<br/>
+    <b> </b>Sulu çözeltileri baziktir.<br/>
+    <b> </b>Organik maddelerdir.<br/>
+    <b> </b>Yüzey aktif madde içerirler.<br/>
+    <b> </b>Sabun sert sularda deterjan kadar iyi
+    temizleyemez.<br/>
+    <b> </b>Yapısında benzen halkası taşıyan deterjanlar
+    zor bozunur ve doğaya zararlıdır.<br/>
+    <b> </b>Sabun bitkisel veya hayvansal yağlardan elde
+    edilirken, deterjanlar petrol türevlerinden elde edilirler.</p>
+<h3>Polimerler</h3>
+<p>Birbirine bağlanan ve tekrar eden küçük moleküllerin her birine<strong> monomer</strong>, oluşan
+    büyük moleküle de <strong>polimer</strong> denir.<br/>
+    Çok sayıda küçük moleküllerin uzun bir zincir şeklinde birleşmesiyle büyük moleküller
+    oluşturması olayına <strong>polimerleşme tepkimesi</strong> denir.
+</p>
+<p><strong>Yaygın Kullanılan Polimerler</strong></p>
+<p><strong>Kauçuk:</strong> Kauçuk polimerine çeşitli katkı maddeleri katılarak istenilen esneklikte
+    araba lastikleri, silgiler, ameliyat eldivenleri vb. malzemeler yapılır.</p>
+<p><strong>Polietilen:</strong> Polietilen polimeri elektrik yalıtkanı bir maddedir. Polietilenin
+    farklı tepkime koşullarında ve farklı katalizör eşliğinde, kullanım alanları farklılık
+    göstermektedir. Örneğin, PE polimerinin bir türü sert olup plastik şişe ve kapaklarında, plastik
+    boru yapımında, oyuncaklarda kullanılırken diğer türü ise esnek ve yumuşak olup çöp ve
+    alış-veriş poşetlerinde, şampuan, meyve suyu gibi sıkılabilir şişelerde, elektrik kablosunun
+    kaplanmasında vb. kullanılmaktadır.</p>
+<p><strong>Polietilen teraftalat (PET):</strong> Meşrubat, yiyecek ve içecek kapları, sentetik fiber
+    gibi kullanım alanlarına sahiptir.</p>
+<p><strong>Kevlar:</strong> Zırh, sağlam halat yapımı ve yanmayan koruyucu giysi yapımında
+    kullanılmaktadır.</p>
+<p><strong>Akrilik:</strong> Elyaflar giyim, ev tekstili ürünlerinde, araba tavanı, branda
+    yapımında, inşaatlarda dolgu maddesi olarak kullanılır.</p>
+<h3>Kozmetikler </h3>
+<p>Cildimizi temizlemek, güzelleştirmek veya görünüşünü değiştirmek amacıyla cilde sürülen maddelere
+    kozmetik denir. Kozmetik malzemeler kişisel bakım veya estetik amacıyla kullanılmaktadır. Cilt
+    kremleri, makyaj malzemeleri, parfüm, saç bakım ürünleri, kalıcı dövme boyası, vb. maddeler
+    kozmetik malzemelere örnektir.</p>
+<p><strong> </strong>Parfümler, malzemenin hoş kokulu
+    olmasını sağlamak amacıyla kullanılır.<br/>
+    <strong> </strong>Nemlendiriciler, cildin nemli
+    kalmasını sağlar.<br/>
+    <strong> </strong>Boyalar, karışıma istenilen rengi
+    verir.</p>
+<h3>İlaçlar</h3>
+<p>Hastalıkları teşhis etmek, tedavi etmek veya önlemek amacıyla kullanılan canlı metabolizmasını
+    etkileyen yiyecek ve su dışındaki kimyasal maddelerdir.</p>
+<p>İlaçlar doğal kaynaklardan elde edildiği gibi günümüzde daha çok laboratuvar koşullarında yapay
+    olarak elde edilir. İlaçlar iki kısımdan oluşur. Bunlardan ilki etkin madde, diğeri ise taşıyıcı
+    maddedir. Etkin madde, vücuttaki hedef bölgeye etki eden kimyasal maddelerdir. Taşıyıcı madde
+    ise etkin maddenin hasta tarafından kolay alınabilmesi veya dozun daha kolay ayarlanabilmesi
+    için vücudun normal işleyişine etkisi olmayan kimyasal maddelerdir.</p>
+<p>İlaçlar hastalığın türüne göre ve vücuttaki hangi bölgeye ne şekilde etki edeceğine göre çeşitli
+    formlarda bulunur. Hap, şurup, iğne, merhem vb. ürünler ilaç formlarıdır.</p>
+<h2><a name="2"></a>Gıdalar</h2>
+<h3>Hazır Gıdalar</h3>
+<p>Çeşitli fiziksel veya kimyasal işlem uygulanmış (işlenmiş) ve ambalajlanmış gıda maddelerine ise
+    <strong>hazır gıda</strong> denir.</p>
+<p><strong>Hazır gıdalar şu şekilde sınıflandırılabilir;</strong></p>
+<p><strong>Toz ürünler;</strong> Hazır çorbalar, meyve içecekleri, tatlılar&#8230; Unlu mamüller;
+    Hazır ekmek, kek, gofret, kraker&#8230;<br/>
+    <strong>Fermantasyon ürünler;</strong> Ekmek, peynir, yoğurt, tereyağı, turşu, alkollü içecekler&#8230;<br/>
+    <strong>Dondurulmuş ürünler;</strong> Ayıklanmış sebzeler, patates kızartması, balık,
+    dondurulmuş meyveler&#8230;<br/>
+    <strong>Konserveler;</strong> Hazır salçalar, marmelatlar, sebzeler, ton balıkları.</p>
+<p><strong>Pastörizasyon nedir?</strong></p>
+<p>Pastörizasyon işlemi gıda sanayinde besin maddelerini hastalık yapıcı mikroorganizma-lardan
+    arındırmak amacıyla uygulanan ısıtma yöntemidir.</p>
+<p>Pastörizasyonda sütün 70-75°C ısıda 15 saniye ya da 90°C ısıda 1 saniye bekletilmesi söz
+    konusudur.<br/>
+    Kutu sütlerinde ise UHT (Ultra-Hight Temperature) yöntemi kullanılır. Süt 135-150°C sıcaklıkta
+    2-4 saniye ısıtılır. UHT’li süt 4 ay, pastörize süt ise 3 gün dayanır.</p>
+<p><strong>Hazır gıdaları alırken ve tüketirken;</strong></p>
+<p><strong> </strong>Ambalaj üzerindeki içindekiler kısmı
+    kontrol edilmelidir.<br/>
+    <strong> </strong>Hangi katkı maddelerini içerdiğine
+    dikkat edilmelidir. Bu katkı maddelerinin zararlı olup olmadığının bilincinde olunmalıdır.<br/>
+    <strong> </strong>Üretim ve son kullanma tarihleri
+    kontrol edilmelidir<br/>
+    <strong> </strong>İlgili bakanlıkça onayının olup
+    olmadığı kontrol edilmeli, onaysız ürünler satın alınmamalıdır.<br/>
+    <strong> </strong> Kullanım bilgisine ve saklama
+    koşullarına dikkat edilmelidir.</p>
+<p><strong>Gıda katkı maddeleri ve kodları;</strong><br/>
+    <strong> </strong>E 100-180 Renklendiriciler (Alura
+    REDAC, amarant, azorubin ve eritrosin)<br/>
+    <strong> </strong>E 200-297 Koruyucular (sitrik asit,
+    sodyum benzoat)<br/>
+    <strong> </strong>E 300-321 Antioksidanlar ve asit
+    düzenleyiciler<br/>
+    <strong> </strong>E 322-500 Emülgatörler ve
+    stabilizatörler (lesitin, polisorbat 60)<br/>
+    <strong> </strong>E 500-578 Asit-baz
+    sağlayıcılar<br/>
+    <strong> </strong>E 620-637 Tatlandırıcılar ve koku
+    verenler (Monosodyum glutamat, sakkarin, aspartam)<br/>
+    <strong> </strong>E 900-937 Geniş amaçlı gıda katkı
+    maddleri</p>
+<h3>Yenilebilir Yağ Türleri</h3>
+<p>Yağ, temel olarak karbon, hidrojen ve oksijen elementlerinden oluşan suda çözünmeyen bir
+    maddedir. Yağlar; bitkisel yağlar, hayvansal yağlar, mineral (madeni) yağlar vb. olmak üzere
+    çeşitli sınıflara ayrılır. Gıda, yakıt, kozmetik, boya, makine sanayi ve daha birçok alanda
+    kullanılmaktadır</p>
+<p><strong>Sıvı Yağ Çeşitleri</strong></p>
+<p>Sıvı yağlar ayçiçek, zeytin, mısır, fındık vb. bitkilerinin tohumlarından çeşitli işlemler sonucu
+    elde edilir.</p>
+<p><strong>Ham yağ nedir?</strong></p>
+<p>Bitki tohumlarından yağ elde ederken presleme veya özütleme yöntemi bazen de her iki yöntem
+    birden kullanılarak yağının çıkması sağlanır. Presleme sonrasında karışımdaki yağ, küspeden
+    süzme yöntemiyle ayrılır. Özütleme sonrasında ise yağ, çözücüden ayrımsal damıtma ile ayrılır.
+    Bu şekilde ham yağ elde edilir.</p>
+<p><strong>Rafinerasyon nedir?</strong></p>
+<p>Ham yağın gıda olarak tüketilebilecek özellik kazanması için (yenilebilir yağ hâline gelebilmesi
+    için) istenmeyen maddelerin yağdan uzaklaştırılması yani yağın arıtılması gerekmektedir. Bu
+    işlemlere rafinasyon denir. Rafinasyon; yağa istenilen renk ve kokuyu verme, yağın asitliğinin
+    azaltılması, yağdaki mumsu maddelerin uzaklaştırılması gibi işlemleri içermektedir.</p>
+<p><strong>Sızma yağ:</strong> Bitki tohumlarından sadece presleme sonucu elde edilen ve başka
+    hiçbir işleme tabi tutulmayan yağlardır. Serbest yağ asidi oranı düşük olan yağlar sızma yağ
+    şeklinde kullanılmaktadır. Yağın renk, koku ve tat gibi özelliklerinde herhangi bir
+    değişiklik<br/>
+    yapılmadan, ham yağın olduğu gibi kullanıldığı yağ çeşididir.</p>
+<p><strong>Rafine yağ:</strong> Yağın asitlik miktarı fazla olduğunda ve yağda istenmeyen renk ve
+    tat ve koku olduğunda, yağa rafinasyon işlemleri uygulanarak istenilen özellikte yağ elde
+    edilir.<br/>
+    Yağdaki serbest yağ asitlerinin oranını düşürmek için yağa NaOH gibi bazlar eklenir. Baz,
+    serbest yağ asidiyle tepkimeye girerek asidi nötrleştirir. Böylece yağ asidi<br/>
+    oranı istenilen seviyeye düşer. Yine yağın renginin açılması ve istenmeyen kokunun giderilmesi
+    için çeşitli yöntemler uygulanır. Bu işlemler sonucunda elde edilen yağa <strong>rafine
+        yağ</strong> denir.</p>
+<p><strong> Riviera yağ:</strong> Sızma yağ ile rafine yağ karıştırılarak elde edilir. Riviera yağda
+    genellikle rafine yağ oranı daha fazladır.</p>
+<p><strong>Vinterize yağ:</strong> Yağdaki bulanık görüntüye sebep olan mumsu maddelerin
+    uzaklaştırılması sonucu elde edilen yağa <strong>vinterize yağ</strong> denir.</p>
+<p>Sıvı yağlar yeterince hidrojen elementiyle tepkimeye sokulduğunda ise yapay bir madde olan
+    <strong>margarin</strong> elde edilir.</p>
+</html>

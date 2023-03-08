@@ -1,0 +1,112 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+
+    </style>
+</head>
+<h1><span style="color: #ff0000">Üçgenlerde Eşlik ve Benzerlik</span></h1>
+<h3><span style="color: #000080"><a name="1"></a>Üçgenlerde Eşlik Nedir?</span></h3>
+<p>İki üçgenin karşılıklı kenarının uzunlukları ve açılarının ölçüleri birbirine eşit ise bu
+    üçgenler eş üçgenlerdir. İki üçgenin eşliği “<strong>≅</strong>” sembolü ile gösterilir.
+    Sembolle gösterirken eş olan açılar aynı sırada yazılmalıdır.</p>
+<p><img class="alignnone size-medium wp-image-122942"
+        src="images/geometri/eslik/eslik1.jpg" alt=""
+        width="300" height="195"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>ABC ile DEF üçgenleri arasında yapılan ABC ↔ DEF eşlemesinde karşılıklı kenarlar ve karşılıklı
+    açılar eş ise, bu eşleme bir eşliktir.</p>
+<h3><span style="color: #000080"><a name="2"></a>Üçgenlerde Benzerlik Nedir?</span></h3>
+<p>İki üçgenin karşılıklı köşelerinin açıları eş olan ve karşılıklı kenar uzunlukları orantılı olan
+    üçgenlere benzer üçgenler denir. İki üçgenin benzerliği göstermek için kullanılan sembol ise
+    şöyledir;</p>
+<p>Benzerlik sembolü ⇒ ∼</p>
+<p><img loading="lazy" class="alignnone wp-image-122943"
+        src="images/geometri/eslik/eslik2.jpg" alt=""
+        width="428" height="314"
+        sizes="(max-width: 428px) 100vw, 428px"/></p>
+<p>eşitliğinde verilen k sayısına benzerlik oranı denir.</p>
+<p>k = 1 olan benzer üçgenlerde karşılıklı kenarlar eşit olduğundan, bu üçgenlere<strong> eş
+    üçgenler</strong> denir.</p>
+<p>ABC ~ DEF benzerliği yazılırken eş açıların sıralanmasına dikkat edilir.</p>
+<h3><span style="color: #000080"><a name="3"></a>Üçgenlerde Eşlik Şartları</span></h3>
+<p>İki üçgenin karşılıklı tüm kenarlarının uzunlukları ve tüm açılarının ölçüleri eşitse bu iki
+    üçgen eştir. Ancak iki üçgenin tüm kenarları ve tüm açıları her zaman verilmeyebilir. Böyle
+    durumlarda bu kısıtlı verilere bakarak da biz iki üçgenin eş olup olmadığına kanaat
+    getirebiliriz.</p>
+<p><span style="color: #000080"><strong> Kenar – Kenar – Kenar Eşlik Şartı (KKK)</strong></span></p>
+<p>İki üçgenin karşılıklı üçer kenarı eş ise, bu iki üçgen eştir.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122944"
+        src="images/geometri/eslik/eslik3.jpg" alt=""
+        width="300" height="249"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p><span style="color: #000080"><strong>Kenar – Açı – Kenar Eşlik Şartı (KAK)</strong></span></p>
+<p>İki üçgen arasında birebir eşleme yapıldığında ikişer kenar uzunlukları ve bu iki kenar arasında
+    kalan açılarının ölçüleri eşit ise bu üçgenler eş üçgenlerdir. Buna; Kenar – Açı – Kenar (KAK)
+    eşlik şartı denir.</p>
+<p><strong><span style="color: #000080">  Açı – Kenar – Açı Eşlik Şartı (AKA)</span></strong></p>
+<p>İki üçgenin ikişer açıları ile bu açıların köşelerini birleştiren kenarları karşılıklı olarak eş
+    ise, bu iki üçgen eştir.</p>
+<p><img loading="lazy" class="alignnone wp-image-122946"
+        src="images/geometri/eslik/eslik4.jpg" alt=""
+        width="350" height="254"
+        sizes="(max-width: 350px) 100vw, 350px"/></p>
+<p><span style="color: #000080"><strong>Kenar – Açı – Açı Eşlik Şartı (KAA)</strong></span></p>
+<p>İki üçgen arasında birebir eşleme yapıldığında ikişer açılarının ölçüleri ve bu açılardan
+    herhangi birinin karşısındaki kenarın uzunlukları eşit ise bu üçgenler eş üçgenlerdir. Buna;
+    Kenar – Açı – Açı (KAA) eşlik şartı denir.</p>
+<p><img loading="lazy" class="alignnone wp-image-122947"
+        src="images/geometri/eslik/eslik5.jpg" alt=""
+        width="340" height="238"
+        sizes="(max-width: 340px) 100vw, 340px"/></p>
+<h3><span style="color: #000080"><a name="4"></a>Üçgenlerde Benzerlik Şartları</span></h3>
+<p>*Benzer üçgenlerin çevreleri oranı benzerlik oranına eşittir.<br/>
+    *Benzer üçgenlerin karşılıklı yardımcı elemanları da (yükseklikleri, açıortayları,
+    kenarortayları ) aynı benzerlik oranına sahiptir.<br/>
+    *Bütün eş üçgenler aynı zamanda benzer üçgenlerdir.<br/>
+    *Bütün benzer üçgenler eş üçgen olmak zorunda değildir.<br/>
+    *Eş üçgenlerde benzerlik oranı 1’dir.<br/>
+    *Üçgenlerde benzerlik alan ilişkisi, iki üçgenin benzerlik oranının karesine eşittir. Yani
+    alanları oranı k²’dir.</p>
+<p><span style="color: #000080"><strong>Kenar-Açı-Kenar (K. A. K.) Benzerlik Kuralı</strong></span>
+</p>
+<p>İki üçgen arasında birebir eşleme yapıldığında karşılıklı ikişer kenar uzunluklarının oranı ve bu
+    iki kenar arasında kalan açılarının ölçüleri birbirine eşit ise bu üçgenler benzerdir
+    üçgenlerdir. Buna; Kenar – Açı – Kenar (KAK) benzerlik şartı denir.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122948"
+        src="images/geometri/eslik/eslik6.jpg" alt=""
+        width="300" height="258"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p><span
+        style="color: #000080"><strong>Kenar – Kenar – Kenar (K.K.K.)Benzerlik Kuralı </strong></span>
+</p>
+<p>İki üçgen arasında birebir eşleme yapıldığında karşılıklı kenar uzunluklarının oranı birbirine
+    eşit ise bu üçgenler benzer üçgenlerdir. Buna; Kenar – Kenar – Kenar (KKK) benzerlik şartı
+    denir.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122949"
+        src="images/geometri/eslik/eslik7.jpg" alt=""
+        width="300" height="235"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p><span style="color: #000080"><strong>Açı-Açı (A.A) Benzerlik Kuralı</strong></span></p>
+<p>Bire bir eşleşen iki üçgenin karşılıklı iki açısının ölçüleri eşit olan üçgenlere benzer üçgenler
+    denir. Bu benzerlik durumu Açı – Açı (A. A.) benzerlik kuralı ile açıklanır.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122950"
+        src="images/geometri/eslik/eslik8.jpg" alt=""
+        width="285" height="297"/></p>
+<p><span style="color: #000080"><strong>Kenar-Açı-Kenar (K. A. K.) Benzerlik Kuralı</strong></span>
+</p>
+<p>Karşılıklı iki kenarın oluşturduğı açıları eş olan ve kenar uzunlukları orantılı olan üçgenler
+    benzer üçgenlerdir. Bu benzerlik durumu Kenar – Açı – Kenar (K. A. K.) kuralı ile açıklanır.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122951"
+        src="images/geometri/eslik/esliik9.jpg" alt=""
+        width="300" height="138"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+</html>

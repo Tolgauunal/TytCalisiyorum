@@ -1,0 +1,309 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+    </style>
+</head>
+<table xmlns="http://www.w3.org/1999/xhtml" cellspacing="0"
+       class="sites-layout-name-one-column sites-layout-hbox">
+    <tbody>
+    <tr>
+        <td class="sites-layout-tile sites-tile-name-content-1">
+            <div dir="ltr"><h1
+                    style="margin:20px 0px 10px 5px;font-size:25px;font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(53,152,220)">
+                <a name="TOC-gende-A-lar"></a>Üçgende Açılar</h1>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Üçgende açılar konusunu iyi anlamak için önce üçgeni iyi anlamamız gerekir.
+                    Doğrusal olmayan üç noktayı birleştiren doğru parçalarının birleşim kümesine
+                    <span style="font-weight:700">üçgen</span> denir.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Üçgende açılar konusunu iyi anlamamız için bir önceki konu olan doğruda açılar
+                    konusunu da iyi bilmemiz gerekir. Zaten üçgendeki açı problemlerinin önemli bir
+                    kısmı da bu konudan edindiğimiz bilgi ile çözülmektedir.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="üçgen" src="images/geometri/ucgen/ucgen1.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Şekildeki ABC üçgeninde [AB], [AC] ve [BC] üçgenin kenarlarıdır. Bu üç doğru
+                    parçasının birleşmesiyle bir üçgen ortaya çıkmıştır. Küçük harfle gösterilen a,
+                    b, ve c üçgenin iç açılarıdır. Yine aynı şekilde x, y ve z de üçgenin dış
+                    açılarıdır. Üçgende iç ve dış açılar, kenarlar temel elemanlardır.</p>
+                <h2 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(40,183,121);margin-top:20px;margin-bottom:10px;font-size:21px;margin-left:5px">
+                    <a name="TOC-gende-A-lar-in-Yard-mc-Elemanlar"></a>Üçgende Açılar İçin Yardımcı
+                    Elemanlar</h2>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Üçgende birçok yardımcı elemanlar vardır. Bu yardımcı elemanlar üçgene çeşitli
+                    özellikler katarlar. Bu şekilde ortaya çıkan yeni yapılarda açıları hesaplamaya
+                    çalışırız.</p>
+                <h3 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(204,153,51);margin-top:20px;margin-bottom:10px;font-size:19px;margin-left:5px">
+                    <a name="TOC-gende-A-ortay"></a>Üçgende Açıortay</h3>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Açıortay kavramını geometrik kavramlar ve doğruda açılar konusunda gördük.
+                    Burada da değişen bir şey yok. Açıyı eşit iki parçaya ayıran doğru parçasına
+                    <span style="font-weight:700">açıortay</span> denir. Üçgende olduğu zaman eğer
+                    iç açıyı ikiye bölüyorsa <span style="font-weight:700">iç açıortay</span>, eğer
+                    dış açıyı ikiye bölüyorsa <span style="font-weight:700">dış açıortay</span>
+                    şeklinde tanımlanır.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="iç ve dış açıortay"
+                         src="images/geometri/ucgen/ucgen2.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <h3 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(204,153,51);margin-top:20px;margin-bottom:10px;font-size:19px;margin-left:5px">
+                    <a name="TOC-gende-Kenarortay"></a>Üçgende Kenarortay</h3>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Kenarortay kenarı iki eşit parçaya ayıran ve karşıdaki köşeden çıkan doğru
+                    parçasıdır. Üçgende açılar konusunda açıortayla birlikte çok kullanılan
+                    elemanlardan biridir.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="üçgende kenarortay" src="images/geometri/ucgen/ucgen3.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <h3 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(204,153,51);margin-top:20px;margin-bottom:10px;font-size:19px;margin-left:5px">
+                    <a name="TOC-Kenar-Orta-Dikme"></a>Kenar Orta Dikme</h3>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Bir kenarı ortadan iki eşit parçaya ayıran doğru eğer dikse buna <span
+                        style="font-weight:700">kenarortay dikme</span> denir.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="kenar orta dikme"
+                         src="images/geometri/ucgen/ucgen4.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <h3 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(204,153,51);margin-top:20px;margin-bottom:10px;font-size:19px;margin-left:5px">
+                    <a name="TOC-Y-kseklik"></a>Yükseklik</h3>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Bir kenara dik bir şekilde karşı köşeden çıkan doğru parçasına denir. Yükseklik
+                    üçgen içinde olabildiği gibi üçgen dışında da olabilir. Üçgende alan
+                    hesaplamalarında çokça kullanılır.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="üçgende yükseklik" src="images/geometri/ucgen/ucgen5.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <h2 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(40,183,121);margin-top:20px;margin-bottom:10px;font-size:21px;margin-left:5px">
+                    <a name="TOC-gende-A-ve-Kenarlara-G-re-S-n-fland-r-lma"></a>Üçgende Açı ve
+                    Kenarlara Göre Sınıflandırılma</h2>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Üçgenler açı ve kenarlarına göre sınıflandırılabilirler. Açılarına göre üçgenler
+                    dar açılı üçgen, dik açılı üçgen ve geniş açılı üçgen şeklinde sınıflandırılır.
+                    Kenarlarına göre ise çeşitkenar üçgen, ikizkenar üçgen ve eşkenar üçgen şeklinde
+                    sınıflandırılır.</p>
+                <h3 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(204,153,51);margin-top:20px;margin-bottom:10px;font-size:19px;margin-left:5px">
+                    <a name="TOC-Dar-A-l-gen"></a>Dar Açılı Üçgen</h3>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Üç açısının hepsi 90 dereceden küçük olan üçgen dar açılı üçgendir. Kağıda
+                    düzgün bir şekilde çizdiğimiz üçgen genellikle dar açılı üçgen olur.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="dar açılı üçgen" src="images/geometri/ucgen/ucgen6.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Yukarıdaki üçgende α, β ve θ açıları 90 dereceden küçüktür. Bu nedende bu üçgen
+                    dar açılı bir üçgendir.</p>
+                <h3 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(204,153,51);margin-top:20px;margin-bottom:10px;font-size:19px;margin-left:5px">
+                    <a name="TOC-Dik-gen"></a>Dik Üçgen</h3>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Bir açısı 90 derece olan üçgene denir. 90 derecelik açıyı oluşturan kenarlara
+                    dik kenar denir. 90 derecelik açının karşısındaki kenar ise en uzun kenardır ve
+                    bu kenara hipotenüs denir.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="dik üçgen" src="images/geometri/ucgen/ucgen14.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <h3 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(204,153,51);margin-top:20px;margin-bottom:10px;font-size:19px;margin-left:5px">
+                    <a name="TOC-Geni-A-l-gen"></a>Geniş Açılı Üçgen</h3>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Açılardan birinin ölçüsü 90 dereceden daha büyük olan üçgen şeklidir. Bir açı
+                    geniş olduğu için diğer açılar genellikle oldukça dar olmaktadır.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="geniş açılı üçgen"
+                         src="images/geometri/ucgen/ucgen7.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Geniş açılı üçgende yüksekliklerden bazıları üçgen dışarısında olmaktadır.</p>
+                <h3 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(204,153,51);margin-top:20px;margin-bottom:10px;font-size:19px;margin-left:5px">
+                    <a name="TOC-e-itkenar-gen"></a>Çeşitkenar Üçgen</h3>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Kenar uzunlukları farkı ölçülerde olan üçgenlere çeşitkenar üçgen denir.
+                    Üçgenlerde açılar kenar uzunluklarıyla doğru orantılı olduğu için farklı
+                    kenarlar farklı açı ölçüleri demektir. Yani çeşitkenar bir üçgende hem 3 kenar
+                    uzunluğu hem de 3 açı ölçüsü farklıdır. Aksi belirtilmediği sürece biz üçgenleri
+                    çeşitkenar üçgen olarak varsayarız.</p>
+                <h3 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(204,153,51);margin-top:20px;margin-bottom:10px;font-size:19px;margin-left:5px">
+                    <a name="TOC-kizkenar-gen"></a>İkizkenar Üçgen</h3>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Kenarlarda ikisinin uzunluğu birbirine eşit olan üçgene ikizkenar üçgen denir.
+                    İkizkenar üçgende eşit kenarların karşısındaki açılar da doğal olarak birbirine
+                    eşit olmaktadır. İkizkenar üçgende eşit kenarların eşitliğini gösteren bir simge
+                    genellikle her iki kenar üzerinde de bulunur.</p>
+                <h3 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(204,153,51);margin-top:20px;margin-bottom:10px;font-size:19px;margin-left:5px">
+                    <a name="TOC-E-kenar-gen"></a>Eşkenar Üçgen</h3>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Üç kenarı da eşit uzunlukta olan üçgene eşkenar üçgen denir. Eşkenar üçgende üç
+                    kenar da eşit uzunluktadır. Bunun sonucunda üç açısın ölçüsü de eşit olmaktadır.
+                    Bir üçgenin iç açıları toplam derecesi 180 olduğuna göre bir eşkenar üçgende her
+                    bir açının ölçüsü de 60 derece olacaktır.</p>
+                <h2 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(40,183,121);margin-top:20px;margin-bottom:10px;font-size:21px;margin-left:5px">
+                    <a name="TOC-gende-A-zellikleri"></a>Üçgende Açı Özellikleri</h2>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Yukarıdaki üçgende açılar için gerekli kavram bilgisi verilmiştir. Üçgende açı
+                    sorularının çözülebilmesi için üçgende açı özelliklerinin kavranması gerekir.
+                    Üçgende açı özellikleri birbiriyle bağlantılı olan çok sayıda açı kurallarından
+                    oluşmuştur. Aşağıda liste halinde en yaygın üçgende açı özellikleri
+                    bulunmaktadır.</p>
+                <ul style="margin-top:0px;margin-bottom:10px;color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important">
+                    <li style="border-radius:0px!important">Bir üçgenin iç açıları toplamı 180
+                        derecedir.
+                    </li>
+                    <li style="border-radius:0px!important">Bir üçgenin dış açıları toplamı 360
+                        derecedir.
+                    </li>
+                    <li style="border-radius:0px!important">Bir dış açı kendisine komşu olmayan iki
+                        iç açının toplamına eşittir.
+                    </li>
+                    <li style="border-radius:0px!important">Eşit uzunluktaki kenara bakan açıların
+                        ölçüleri eşittir.
+                    </li>
+                    <li style="border-radius:0px!important">Eşkenar üçgenin bütün açıları 60 derece
+                        ve bütün kenar uzunlukları eşittir.
+                    </li>
+                    <li style="border-radius:0px!important">Bir üçgenin iç açıortayları bir noktada
+                        kesişirler.
+                    </li>
+                    <li style="border-radius:0px!important">Bütünler iki açının açıortayları
+                        arasındaki ölçü 90 derecedir.
+                    </li>
+                </ul>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Yukarıdaki kurallar baz alınarak ve bu kurallardan çıkan sonuçlar kullanılarak
+                    bütün üçgende açı problemleri çözülebilir. Şimdi üçgende açı özelliklerinin
+                    uygulama alanlarını gösterelim.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="dış açının komşu olmayan iç açıların toplamına eşitliği"
+                         src="images/geometri/ucgen/ucgen8.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Yukarıdaki şekilde gördüğünüz gibi ölçüsü x ve y olan iki iç açıya komşu olmayan
+                    dış açının ölçüsü x + y olmaktadır. Aslında bu kural bir üçgenin iç açıları
+                    toplamı ile bir doğru açının ölüsünün aynı ve 180 derece olmasından
+                    kaynaklanmaktadır. Diğer açının ölçüsüne mesela z dersek hem üçgen açıları
+                    toplamı hem de doğru açının ölçüsü x + y + z = 180 olur.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Şimdi gerçek sayılarla bununla ilgili bir örnek çözelim.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="dış açı sorusu" src="images/geometri/ucgen/ucgen9.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Yukarıdaki üçgende ölçüsü x olan DAC açısı verilmiştir. Buna göre x kaç
+                    derecedir?</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <span style="font-weight:700">Çözüm</span>: Bir dış açının kendisine komşu
+                    olmayan iki iç açının toplamının ölçüsüne eşit olduğunu biliyoruz. Buradan da x
+                    = 60 + 35 = 95 derece olur.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <span style="font-weight:700">İkinci yol</span>: Herhangi bir kurala bağlı
+                    kalmadan sadece üçgen iç açıları toplamının 180 olduğunu bilsek de yeterlidir.
+                    İki açının ölçüsünün toplamı 95 derece olduğuna göre üçüncü ölçüsü 85 derece
+                    olacaktır. Üçüncü açısının dış açısı olan x ise 85 derecenin bütünleridir. Çünkü
+                    ikisi birlikte bir doğru açı oluşturmaktadır. Bu nedenle bu açının ölçüsü 180 -
+                    85 = 95 derece olur yine.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Gördüğünüz gibi bir kuralın geliş noktasını bilirseniz bunu ezberinizde tutmak
+                    zorunda da kalmazsınız. Üçgende açı problemlerini hep bu mantıkla
+                    çözmeliyiz.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="konkav dörtgen açı kuralı"
+                         src="images/geometri/ucgen/ucgen10.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Yukarıdaki konkav dörtgen yine bir kuralı ifade etmektedir. Aslında bu kural da
+                    aynı mantıklı ortaya çıkmaktadır. C noktasından karşı kenara bir doğru parçası
+                    çizdiğinizde ve bir dış açı kendisine komşu olmayan iki iç açının toplamına
+                    eşittir kuralını uyguladığınız zaman elinize aynı form gelecektir.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="üçgende açıortay sorusu"
+                         src="images/geometri/ucgen/ucgen11.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Üçgende açılara ait başka bir özelliği kullanıp bir örnek soru daha çözelim.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Yukarıdaki üçgende komşu iç ve dış açıortaylar verilmiş ve x açısının ölçüsü
+                    sorulmaktadır.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <span style="font-weight:700">Çözüm</span>: Dikkat ederseniz ortadan açıortayla
+                    ikiye ayrılmış iki açının bütünler açılar olduğunu fark edersiniz. Bütünler
+                    açıların toplam ölçüsü 180 derecedir. Yani bu soruda nokta ve çizgiyle
+                    gösterilen açılardan 2 nokta açısı + 2 çizgi açısı = 180 derecedir. Bu durumda 1
+                    nokta + 1 çizgi açısı = 90 olur. Yani (NAD) açısının ölçüsü 90 derecedir. Bu
+                    durumda 90 + 28 = 118 derece yapmaktadır. Dikkat ederseniz bu iki açıya x
+                    açısını da eklediğimizde bir üçgen ortaya çıkmaktadır. Bu durumda x =180 - 118 =
+                    62 derece olur.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Bu örnek soruda da aslında mantığımızı kullanarak yukarıda bahsettiğimiz başka
+                    bir kuralı ortaya çıkardık. Bütünler iki açının açıortaylarının toplamının 90
+                    derece olduğunu yukarıda zaten söylemiştik.</p>
+                <h2 style="font-family:Helvetica,Arial,sans-serif;line-height:1.1;color:rgb(40,183,121);margin-top:20px;margin-bottom:10px;font-size:21px;margin-left:5px">
+                    <a name="TOC-gende-A-lar-Soru-z-m-Y-ntemleri"></a>Üçgende Açılar Soru Çözüm
+                    Yöntemleri</h2>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Üçgende açılar sorularını çözerken takip edilmesi gereken bazı önemli yöntemler
+                    vardır. Bu yöntemleri takip etmek üçgende açılar konusuna ait soru çözümünü en
+                    iyi şekilde yapmayı sağlar. Öncelikle bütün geometri konularında olduğu gibi
+                    işleme başlamadan önce soru kısmını detaylı bir şekilde okumalısınız. Çünkü
+                    üçgen şeklin üstünde belirtilmemiş bazı bilgiler soruda verilmiş
+                    olabilmektedir.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Geometri sorularında işlem yapmaktan kaçınmamak gerekir. Bu işlem yapma boş açı
+                    ve uzunluklara harfler vererek denklem eşitlikleri elde etme şeklinde
+                    olmaktadır. Ayrıca üçgende açı sorularında gerekli gördüğünüz yerde çizgiler
+                    çizerek yeni üçgenler elde etmekten kaçınmamalısınız. Bu şekilde soruyu daha
+                    kolay bir forma getirebilirsiniz.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Aşağıda 2009 yılında üniversite sınavının ikinci bölümünde çıkmış bir üçgende
+                    açılar sorusu bulunmaktadır.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="2009 mat2 üçgende açılar sorusu"
+                         src="images/geometri/ucgen/ucgen12.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Gördüğünüz gibi soru gayet standart bir üçgende açılar sorusudur. Her zamanki
+                    gibi belirli bilgiler verilmiş ve x açısının ölçüsü sizden istenmektedir. Bu
+                    sorunun çözümünü açılara harfler vererek gerçekleştirelim.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <span style="font-weight:700">Çözüm</span>: DAC üçgeni için 65 derecelik açı bir
+                    dış açıdır. Dolayısıyla kendisine komşu olmayan a ve b açılarının toplamına
+                    eşittir.</p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    <img alt="2009 mat2 üçgende açılar çözümü"
+                         src="images/geometri/ucgen/ucgen13.jpg"
+                         style="border:0px;vertical-align:middle;border-radius:0px!important;height:auto;max-width:100%;margin-right:7px;margin-top:7px;margin-bottom:15px"/>
+                </p>
+                <p style="color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Bu durumda a + b = 65 olur. Şimdi en büyük üçgene baktığımız zaman ise x + a + a
+                    + b + b = 180 eşitliğini rahatlıkla kurabiliriz. Bu durumda x + 2(a+b) = 180
+                    olacaktır. Yukarıda elde ettiğimiz eşitliği kullanırsak da x + 2.65 = 180 ⇒ x +
+                    130 = 180 ⇒ x = 50 derece eşitliğini elde ederiz. </p>
+                <p style="margin-bottom:0px;color:rgb(51,51,51);font-family:Helvetica,Arial;font-size:17px;margin-right:2px!important;margin-left:2px!important;border-radius:0px!important;line-height:25px!important;padding:5px!important">
+                    Bu örnek soruda görüldüğü gibi bilmediğimiz açılara harf verip eşitlik kurmak
+                    üçgende açılar soruları için çok önemlidir. Elde edilecek olan eşitlikler
+                    birinci dereceden basit denklemler olacaktır.</p></div>
+        </td>
+    </tr>
+    </tbody>
+</table>
+
+</html>

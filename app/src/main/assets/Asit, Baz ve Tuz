@@ -1,0 +1,185 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    
+    </style>
+</head>
+<h2>Asitler-Bazlar ve Tuzlar</h2>
+<h3><a name="1"></a>Asitler ve Bazlar</h3>
+<p>Canlılar için yaşamsal bir öneme sahip olan asitler ve bazların yapılarını ve özelliklerini
+    bilmemiz bizim için önemlidir.</p>
+<h3>Asit Nedir?</h3>
+<p>Sulu çözeltilerinde Hidrojen İyonu veren maddelere asit denir.</p>
+<p><strong>&#8211; </strong>Tatları ekşidir.<br/>
+    <strong>&#8211; </strong>Sulu çözeltilerinde H3O+
+    (hidronyum) iyonu fazlalığı vardır.<br/>
+    <strong>&#8211; </strong>Genellikle suda iyi
+    çözünürler.<br/>
+    <strong>&#8211; </strong>Sulu çözeltileri elektrik akımını
+    iletir.<br/>
+    <strong>&#8211; </strong>Mavi turnusol kağıdını kırmızıya
+    boyarlar.<br/>
+    <strong>&#8211; </strong>Aktifliği hidrojenden fazla olan
+    metallerle tepkime vererek metalin tuzunu ve H2 gazını oluştururlar.</p>
+<p><strong>Bazı asit formülleri: </strong></p>
+<p><strong>HCI :</strong> Hidroklorik asit<br/>
+    <strong>HNO3 :</strong> Nitrik asit<br/>
+    <strong>H2SO4 :</strong> Sülfürik asit<br/>
+    <strong>H3PO4 :</strong> Fosforik asit</p>
+<p>* Sulu çözeltilerinde büyük oranda iyonlarına ayrışabilen
+    asitlere <strong>kuvvetli asit</strong> denir.<br/>
+    * Kuvvetli asitler çok tahriş edici ve yakıcıdır. Bu yüzden
+    dikkatli kullanılmalıdır.<br/>
+    * Günlük hayatta tükettiğimiz bazı gıdaların yapısında asit
+    bulunur. Bu asitler zayıftır.</p>
+<p><strong>Kuvvetli asitlere örnek;</strong></p>
+<p><strong>HNO3 :</strong> Nitrik Asit<br/>
+    <strong>HCl :</strong> Hidroklorik Asit<br/>
+    <strong>HClO4 :</strong> Perklorik Asit<br/>
+    <strong>H2SO4 :</strong> Sülfürik Asit</p>
+<p><strong>Zayıf asitlere örnek;</strong></p>
+<p>Üzüm <strong>&#8211;&gt;</strong> Tartarik Asit<br/>
+    Ekşimiş Süt <strong>&#8211;&gt;</strong> Laktik Asit<br/>
+    Kola <strong>&#8211;&gt;</strong> Karbonik Asit<br/>
+    Karınca <strong>&#8211;&gt;</strong> Formik Asit<br/>
+    Elma<strong> &#8211;&gt;</strong> Malik Asit<br/>
+    Sirke <strong>&#8211;&gt;</strong> Asetik Asit</p>
+<h3>Baz Nedir?</h3>
+<p>Sulu çözeltilerine hidroksit ( OH – ) iyonu verebilen maddelere <strong>baz</strong> denir.</p>
+<p>NaOH → Na+(suda) + OH– (suda )</p>
+<p><strong>&#8211; </strong>Tatları acıdır.<br/>
+    <strong>&#8211; </strong>Sulu çözeltilerin de OH– iyonu
+    fazlalığı vardır.<br/>
+    <strong>&#8211; </strong>Temas edildiklerinde ele kayganlık
+    hissi verirler.<br/>
+    <strong>&#8211; </strong>Sulu çözeltileri elektrik akımını
+    iletir.<br/>
+    <strong>&#8211; </strong>Kırmızı turnusolü maviye
+    çevirir.<br/>
+    <strong>&#8211; </strong>Alkali metallerin hidroksitleri
+    (NaOH, KOH gibi) hariç diğerlerinin sudaki çözünürlükleri genellikle azdır.<br/>
+    <strong>&#8211; </strong>Kuvvetli bazlar (Alkali metallerin
+    oksit ve hidroksitleri.) amFoter metallerle (Zn, AI, Cr, Pb, Sn gibi…) tepkime vererek tuz ve H2
+    gazını oluştururlar.<br/>
+    <strong>&#8211; </strong>Bazlar, asitler ile nötralleşme
+    tepkimesi verir.<br/>
+    <strong>&#8211; </strong>Aşındırıcı ve tahriş edicidirler.
+    Sodyum hidroksit (NaOH) nem çekicidir. Ele temas ederse ciddi yanıklara sebep olur.</p>
+<p><strong>*</strong> Sulu çözeltilerinde büyük oranda
+    iyonlarına ayrışabilen bazlara<strong> kuvvetli baz</strong>
+    denir.<br/>
+    <strong>*</strong> Kuvvetli bazlar çok tahriş edici ve
+    yakıcıdır. Bu yüzden dikkatli kullanılmalıdır.<br/>
+    <strong>*</strong> Günlük hayatta kullandığımız bazı
+    temizlik malzemeleri bazdır. Bunlar sulandırılmış ve zayıflatılmış bazlardır.</p>
+<p><strong>Kuvvetli bazlara örnek olarak;</strong></p>
+<p><strong>NaOH :</strong> Sodyum hidroksit<br/>
+    <strong>KOH :</strong> Potasyum hidroksit<br/>
+    <strong>Ca(OH)2 :</strong> Kalsiyum hidroksit</p>
+<p><strong>Zayıf bazlara örnek olarak;</strong></p>
+<p><strong>NH3 :</strong> Amonyak<br/>
+    <strong>NH4OH :</strong> Amonyum Hidroksit</p>
+<h3>İndikatör Nedir?</h3>
+<p>İki maddeyi birbirinden ayıran veya bilinmeyen bir maddenin hangi madde olduğunu bilmemize
+    yarayan maddelere denir. Ayıraç ya da belirteç de denir. Asit ve baz indikatörü olarak birçok
+    madde kullanılmaktadır. Bunlar;</p>
+<p><strong>&#8211; </strong>Turnusol Kağıdı<br/>
+    <strong>&#8211; </strong>Fenolftalin<br/>
+    <strong>&#8211; </strong>Metil oranj&#8217;dır.</p>
+<p>Bunların yanı sıra doğal indikatörler de vardır. Bahsedecek olursak;</p>
+<p><strong>&#8211; </strong>Kırmızı soğan<br/>
+    <strong>&#8211; </strong>Kara lahana<br/>
+    <strong>&#8211; </strong>Nar<br/>
+    <strong>&#8211; </strong>Ateş dikeni<br/>
+    <strong>&#8211; </strong>Gül vb.</p>
+<p><b>Kara Lahana : </b>Eğer kara lahana suyuna asidik bir madde eklenirse, karışımın rengi
+    kırmızıya; bazik bir madde eklenirse, yeşile döner.</p>
+<h3>Turnusol Kağıdı Nedir?</h3>
+<p>Çözeltilerin asit veya alkaliliğini belirlemede kullanılan kimyasal bir madde olan turnusol, boya
+    emdirilmiş kağıt şeritler sıvıya daldırılır. Sıvı asitse kağıt kırmızı, alkali ise mavi renk
+    alır. Asit çözeltisine turnusol ilave edildiğinde çözelti kırmızı, baz çözeltilerine ilave
+    edildiği zaman ise çözeltinin rengi mavi olur.</p>
+<p>Turnusol, asidik veya bazik maddelerin değerlerini ölçer bu ölçüm de belli değerler arasında
+    yapılır. Bu değerlere pH adı verilir. Turnusolun pH olarak dönüm noktası 4,5-8,3
+    arasındadır.</p>
+<p>Turnusol kağıdı pH’ı 7’den büyük olan çözeltilere batırılırsa kağıt mavi, pH’ı 7’den küçük
+    (asidik) çözeltilere batırılırsa kağıt kırmızı renk alır. Turnusol daha çok kimya
+    laboratuvarlarında kullanılır.</p>
+<p>&nbsp;</p>
+<h3>Asitlik ve Bazlık Ölçüsü &#8220;PH&#8221;</h3>
+<p>Asitlik derecesi ise pH değeri ile ölçülür. pH değeri 7’nin altında olan çözeltiler <strong>asidik</strong>, 7’nin üzerinde olan çözeltiler <strong>bazik</strong> olarak tanımlanır. pH değeri 7 olan
+    çözeltiler ise<strong> nötr</strong>dür.</p>
+<p>Asit ve bazlar her biri serbest hidrojen ve hidroksil iyonlarına sahiptirler. Belli koşullarda ve
+    belli bir çözeltide hidrojen ve hidroksil iyonlarının ilişkileri sabit olduğu için, birini
+    tespit etmek diğerini bilmek ile mümkündür. Bu anlamda, pH, tanımsal açıdan hidrojen iyonu
+    aktivitesinin seçici bir ölçümü olsa da, hem alkalinlik hem de asitliğin bir ölçüsüdür. pH
+    logaritmik bir fonksiyon olması açısından, pH değerindeki bir birimlik değişim hidrojen iyon
+    derişimindeki on-katlık değişime karşılık gelir.</p>
+<h2><a name="2"></a>Asit ve Bazların Tepkimeleri</h2>
+<p>Asit ya da asidik özelliğe sahip olan maddeler ile baz ya da bazik özelliğe sahip olan maddelerin
+    tepkimesi mümkündür. Bu tepkimelere &#8220;nötürleşme tepkimesi&#8221; adı da verilmektedir. Bu
+    tepkimelerin maddelerin sınıflarına göre 4 bölüme ayrılır. Bunlar;</p>
+<h3>Asidik Oksit</h3>
+<p>Ametallerin oksijenli bileşiğidir. <strong>Örnek:</strong> CO2
+    – SO2 – SO3 – NO2 – N2O5→ Asidik oksitler</p>
+<p>Asitlerle tepkime vermez ama bazlara tepkime verir.<br/>
+    Su ile tepkime verir (Asit çözeltileri oluşur).<br/>
+    Yapılarında H yoktur.</p>
+<h3>Bazik Oksit</h3>
+<p>Bazlarla tepkime vermez ama asitlere tepkime verir.<br/>
+    Suyla tepkime verir ve Bazik çözelti oluşur.<br/>
+    Yapılarında OH- iyonu yok.<br/>
+    Bazlarla tepkime vermez.<br/>
+    Metallerin oksijenli bileşiğidir.</p>
+<p><strong>Örnek:</strong> Na2O, Li2O, MgO, CaO&#8230;</p>
+<h3>Nötr Oksit</h3>
+<p>Ametallerin oksijence fakir bileşiğidir. <strong>Örnek:</strong> N2O, CO, NO</p>
+<p>Suyla , asitle, bazla tepkime vermez.<br/>
+    Sadece yanma tepkimesi verir. CO + ½ O2 → CO2</p>
+<h3>Amfoter Oksit</h3>
+<p>Asitlerle ve bazlarla tepkime verir.<br/>
+    Suyla tepkime vermez.<br/>
+    Amfoter metallerin oksijenli bileşiğidir.</p>
+<p><strong>Örnek:</strong> ZnO, Al2O3, PbO, SnO, PbO</p>
+<h2><a name="3"></a>Yaşamımızda Asitler ve Bazlar</h2>
+<p><strong>&#8211; </strong>Midemiz de seyreltik hidroklorik
+    asit salgılayarak besinleri parçalar. Bu salgının fazlalaşması midede ülsere sebep olur.<br/>
+    <strong>&#8211; </strong>Bazı maddelerin yapısında hidrojen
+    bulunmadığı hâlde, hidrojen iyonu (H+) oluşumuna sebep oldukları için sulu çözeltileri asit
+    özelliği gösterir.<br/>
+    <strong>&#8211; </strong>CO2 , NO2 ve SO2 suda asit özelliği
+    gösteren maddelerdir.<br/>
+    <strong>&#8211; </strong>Havadaki karbon dioksit, azot
+    dioksit ve kükürt dioksit gazları da yağmur damlalarında çözündüklerinde asit olarak yere
+    düşer.Asit yağmurları bu şekilde oluşur.<br/>
+    <strong>&#8211; </strong>Diş macunu ve şampuanlarda da baz
+    olduğu için acı tat verir.<br/>
+    <strong>&#8211; </strong>Amonyaklı sıvı maddeler, yağ sökücü
+    olarak ev temizleyicilerinde kullanılır.<br/>
+    <strong>&#8211; </strong>Yemek sodası olarak bilinen
+    kabartma tozu, bir çeşit baz olan sodyum bikarbonat içerir.<br/>
+    <strong>&#8211; </strong>Kireç suyu bir çeşit bazdır.</p>
+<h2><a name="4"></a>Tuzlar</h2>
+<p>Asitler ve bazlar tepkimeye girdiğinde tuz ve su oluşur.<br/>
+    Bu olaya nötrleşme tepkimesi denir. Bu olayda asit ve baz bir birinin etkilerini yok ettiği
+    için, asit ve baz etkileşmesine nötrleşme tepkimesi adı verilir.</p>
+<p><strong>Tuzlara genel örnek olarak;</strong></p>
+<p>Sodyum Klorür (NaCl)<br/>
+    Sodyum Karbonat (Na2CO3)<br/>
+    Sodyum Bikarbonat (NaHCO3)<br/>
+    Amonyum Klorür (NH4Cl)</p>
+<p><strong>&#8211; </strong>Tuz çözeltileri, asit ve baz
+    çözeltileri gibi elektrik akımını iletir. Katı halde elektrik akımını iletmezler.<br/>
+    <strong>&#8211; </strong>Çünkü tuzlar su içinde iyonlarına
+    ayrışır. Su içinde serbest hâlde gezebilen iyonlar elektrik akımını iletir.<br/>
+    <strong>&#8211; </strong>Tuzlar turnusol kağıdına etki
+    etmez.<br/>
+    <strong>&#8211; </strong>Kristal yapılıdırlar.</p>
+<p>&nbsp;</p>
+</html>

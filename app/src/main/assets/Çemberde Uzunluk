@@ -1,0 +1,368 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+    </style>
+</head>
+<h1><span style="font-family: verdana;"><strong>ÇEMBER NEDİR?</strong></span></h1>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="75%"><span style="font-family: verdana;">Düzlemde sabit bir noktadan eşit uzaklıktaki noktalar kümesine <strong>çember </strong>denir.</span><span
+                style="font-family: verdana;">O noktasından r uzaklıktaki noktalar kümesi, O merkezli ve r yarıçaplı çemberdir.</span>
+        </td>
+        <td width="25%"><img
+                src="images/geometri/uzun/cem1.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="100%"><img
+                src="images/geometri/uzun/cem2.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><span style="font-family: verdana;">Çember üzerindeki iki noktayı birleştiren doğru parçasına kiriş denir. [CD] kirişi gibi.</span>
+</p>
+<p><span style="font-family: verdana;">En uzun kiriş merkezden geçen kiriştir. O merkezinden geçen [AB] kirişine çemberin çapı denir.</span>
+</p>
+<p><span
+        style="font-family: verdana;">Çemberi iki noktada kesen doğrulara kesen denir. d<sub>2</sub> doğrusu çemberi K ve L noktalarında kestiğine göre, kesendir.</span>
+</p>
+<p><span style="font-family: verdana;">Çemberi bir noktada kesen doğruya teğet denir. d<sub>1</sub> doğrusu çemberi T noktasında kestiğinden teğettir.</span>
+</p>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="74%"><span style="font-family: verdana;">Çemberin merkezindeki 360° lik açı çember yayının tamamını görür.</span><span
+                style="font-family: verdana;">Çember yayının açısal değeri 360° dir.</span></td>
+        <td width="26%"><img
+                src="images/geometri/uzun/cem3.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="74%"><span style="font-family: verdana;">Çap çember yayını iki eşit parçaya ayırır. Her bir parça 180°</span>
+            <span style="font-family: verdana;">dir.</span></td>
+        <td width="28%"><img
+                src="images/geometri/uzun/cem4.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<h3><span style="font-family: verdana;"><strong>ÇEMBERDE AÇI ÖZELLİKLERİ</strong></span></h3>
+<p><span style="font-family: verdana;"><strong>1. Merkez Açı</strong></span></p>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="72%"><span style="font-family: verdana;">Köşesi çemberin merkezinde olan açıya merkez açı denir. Bir</span>
+            <span style="font-family: verdana;">merkez açının ölçüsü gördüğü yayın ölçüsüne eşittir.<br/>
+</span></p>
+            <table border="9" width="39%">
+                <tbody>
+                <tr>
+                    <td width="100%" height="19"><strong><span style="font-family: verdana;">m(AOB)=m(AB)=</span><span
+                            style="font-family: Symbol;">a</span></strong></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="28%"><img
+                src="images/geometri/uzun/cem5.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><span style="font-family: verdana;"><strong>2. Çevre Açı</strong></span></p>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="72%"><span style="font-family: verdana;">Köşesi çemberin üzerinde, kenarları bu çemberin kirişleri</span><span
+                style="font-family: verdana;">olan açıya çevre açı denir. Çevre açının ölçüsü, gördüğü</span><span
+                style="font-family: verdana;">yayın ölçüsünün yarısına eşittir.</span></p>
+            <table border="9" width="38%">
+                <tbody>
+                <tr>
+                    <td width="100%"><img
+                            src="images/geometri/uzun/cem6.gif"
+                            alt="derscalisiyorum.com.tr"/></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="28%"><img
+                src="images/geometri/uzun/cem7.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="73%"><span style="font-family: verdana;">Aynı yayı gören çevre açının ölçüsü merkez açının ölçüsünün</span><span
+                style="font-family: verdana;">yarısıdır.</span></p>
+            <table border="9" width="35%">
+                <tbody>
+                <tr>
+                    <td width="100%"><img
+                            src="images/geometri/uzun/cem8.gif"
+                            alt="derscalisiyorum.com.tr"/></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="27%"><img
+                src="images/geometri/uzun/cem9.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="73%"><span style="font-family: verdana;">Aynı yayı gören çevre açıların ölçüleri eşittir.</span><span
+                style="font-family: verdana;">m(BAC) = m(BEC) = m(BDC)</span></td>
+        <td width="27%"><img
+                src="images/geometri/uzun/cem10.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="73%"><span
+                style="font-family: verdana;">Çapı gören çevre açının ölçüsü 90° dir.</span><span
+                style="font-family: verdana;">m(AEB) = m(ACB) = m(ADB) = 90°</span></td>
+        <td width="27%"><img
+                src="images/geometri/uzun/cem11.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<h3><span style="font-family: verdana;"><strong>Çemberde Teğet &#8211; kiriş açı</strong></span>
+</h3>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="73%"><span style="font-family: verdana;">Köşesi çember üzerinde, kollarından biri çemberin teğeti, diğeri çemberin kirişi olan açıya, <strong>teğet &#8211; kiriş </strong>açı denir.</span><span
+                style="font-family: verdana;">Teğet &#8211; kiriş açının ölçüsü, gördüğü yayın ölçüsünün yarısına eşittir.</span></p>
+            <table border="9" width="40%">
+                <tbody>
+                <tr>
+                    <td width="100%"><img
+                            src="images/geometri/uzun/cem12.gif"
+                            alt="derscalisiyorum.com.tr"/></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="27%"><img
+                src="images/geometri/uzun/cem13.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="72%">
+            <ul>
+                <li><span style="font-family: verdana;">Aynı yayı gören teğet-kiriş açı ile çevre açının ölçüleri eşittir.</span>
+                </li>
+            </ul>
+            <blockquote><p><span style="font-family: verdana;">m(ABT) = m(ATC) = </span><span
+                    style="font-family: SYMBOL;">a</span></p></blockquote>
+        </td>
+        <td width="28%"><img
+                src="images/geometri/uzun/cem14.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<h3><span style="font-family: verdana;"><strong>Çemberde İç Açı</strong></span></h3>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="73%"><span style="font-family: verdana;">Bir çemberde kesişen farklı iki kirişin oluşturduğu açıya iç açı denir.</span><span
+                style="font-family: verdana;">İç açının ölçüsü gördüğü yayların ölçüleri toplamının yarısına eşittir.</span></p>
+            <table border="9" width="52%">
+                <tbody>
+                <tr>
+                    <td width="100%"><img
+                            src="images/geometri/uzun/cem15.gif"
+                            alt="derscalisiyorum.com.tr"/></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="27%"><img
+                src="images/geometri/uzun/cem16.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<h3><span style="font-family: verdana;"><strong>Çemberde Dış Açı</strong></span></h3>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="74%"><span style="font-family: verdana;">İki kesenin, iki teğetin veya bir teğetle bir kesenin</span><span
+                style="font-family: verdana;">oluşturduğu açıya, çemberin bir dış açısı denir.</span>
+        </td>
+        <td width="31%"><img
+                src="images/geometri/uzun/cem17.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><span style="font-family: verdana;">Bir dış açının ölçüsü, gördüğü yayların ölçüleri farkının yarısına eşittir.</span>
+</p>
+<p><span style="font-family: verdana;">APB açısı AB ve CD yaylarını gördüğüne göre,</span></p>
+<table border="9" width="38%">
+    <tbody>
+    <tr>
+        <td width="100%"><img
+                src="images/geometri/uzun/cem18.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="72%">
+            <ul>
+                <li><span style="font-family: verdana;">[PA teğet,</span></li>
+            </ul>
+            <blockquote><p><span style="font-family: verdana;">[PB kesen,</span><img
+                    src="images/geometri/uzun/cem19.gif"
+                    alt="derscalisiyorum.com.tr"/></p></blockquote>
+        </td>
+        <td width="31%"><img
+                src="images/geometri/uzun/cem20.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="70%">
+            <ul>
+                <li><span style="font-family: verdana;">[PA teğet ve </span><span
+                        style="font-family: verdana;">[PC teğet</span></li>
+            </ul>
+            <blockquote><p><span style="font-family: verdana;">m(AC) = y   ve </span><span
+                    style="font-family: verdana;">m(CA) = x   </span><span
+                    style="font-family: verdana;">dersek</span></p>
+                <p><span style="font-family: verdana;"> </span><img
+                        src="images/geometri/uzun/cem21.gif"
+                        alt="derscalisiyorum.com.tr"/></p>
+                <p><span style="font-family: verdana;">Burada, x + y = 360° olduğundan,</span></p>
+                <table style="width: 119px; height: 46px;" border="9" width="119">
+                    <tbody>
+                    <tr>
+                        <td width="100%"><strong><span style="font-family: symbol;">a </span><span
+                                style="font-family: verdana;">+ x = 180°</span></strong></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </blockquote>
+        </td>
+        <td width="30%"><img
+                src="images/geometri/uzun/cem22.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="70%">
+            <ul>
+                <li><span style="font-family: verdana;">O merkezli yarım çemberde,</span></li>
+            </ul>
+            <blockquote><p><span style="font-family: verdana;">m(APC) = a</span></p>
+                <p><span style="font-family: verdana;">m(AB) = b</span></p>
+                <table style="width: 98px; height: 61px;" border="9" width="98">
+                    <tbody>
+                    <tr>
+                        <td width="100%"><span
+                                style="font-family: verdana;"><strong>a+b = 90°</strong></span></td>
+                    </tr>
+                    </tbody>
+                </table>
+            </blockquote>
+        </td>
+        <td width="31%"><img
+                src="images/geometri/uzun/cem23.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<h3><span style="font-family: verdana;"><strong>Çemberde Kirişler Dörtgeni</strong></span></h3>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="70%"><span style="font-family: verdana;">Kenarları bir çemberin kirişleri olan dörtgene <strong>kirişler dörtgeni </strong>denir.</span><span
+                style="font-family: verdana;">Bir kirişler dörtgeninde karşılıklı açılar bütünlerdir.</span></p>
+            <table border="9" width="36%">
+                <tbody>
+                <tr>
+                    <td width="100%"><span style="font-family: verdana;">m(A)+m(C)=180°</span><span
+                            style="font-family: verdana;">m(B)+m(D)=180°</span></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="30%"><img
+                src="images/geometri/uzun/cem24.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><span style="font-family: verdana;">Karşılıklı açılarının ölçüleri toplamı 180 olan bütün dörtgenlerin köşelerinden bir çember geçer.</span>
+</p>
+<ul>
+    <li><span
+            style="font-family: verdana;">Kesişen iki çemberde oluşan ABEF ve BCDE dörtgenlerinde</span>
+    </li>
+</ul>
+<table border="1" width="100%" cellspacing="1" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="71%"><span style="font-family: verdana;">m(ABE)=m(CDF)</span><span
+                style="font-family: verdana;">m(AFD)=m(CBE)</span><span
+                style="font-family: verdana;">m(ABE)+m(CBE)=180° olduğundan,</span></p>
+            <table style="width: 127px; height: 64px;" border="9" width="127">
+                <tbody>
+                <tr>
+                    <td width="100%"><span
+                            style="font-family: verdana;"><strong>[AF] // [CD]</strong></span></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="29%"><strong><a
+        ><img
+                loading="lazy" title="20çember açı"
+                src="images/geometri/uzun/cem25.gif"
+                alt="" width="199" height="131"/></a></strong></td>
+    </tr>
+    </tbody>
+</table>
+</html>

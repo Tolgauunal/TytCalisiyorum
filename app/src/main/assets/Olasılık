@@ -1,0 +1,58 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2>OLASILIK</h2>
+<p>Kpss ders notlarını sunduğumuz sitemizin bu günkü matematik
+    dersinde Olasılık Konu Anlatımını işleyeceğiz. Olasılık konusunda bazen kpss sınavlarında soru
+    çıkabiliryor. Konuyu daha iyi anlayabilmeniz çin bir kaç örnek yapalım. Olasılık Formulu;</p>
+<p><img class="aligncenter size-full wp-image-477" title="Olasılık Formulu"
+        src="images/matematik/olasılık/ol1.jpg"
+        alt="Olasılık Formulu" width="209" height="65"/></p>
+<p><em><strong>Örnek;</strong></em></p>
+<table width="505">
+    <tbody>
+    <tr>
+        <td><img class="aligncenter size-full wp-image-478" title="olasılık"
+                 src="images/matematik/olasılık/ol2.jpg"
+                 alt="" width="177" height="45"/></td>
+        <td><em><strong>Soru</strong></em>: 1 torbada 3 siyah, 5 Mor, 7 Lacivert top bulunmaktadır.
+            Bunların içerisinden mor topun gelme olasılıgı nedir ?<br/> Çözüm: Sayıları olasılık formülündeki yerlerine
+            koyalım istenen durumda 5 top var. Tüm durumda ise topların toplamı yani 15 top var.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p><em><strong>Örnek</strong></em></p>
+<table width="505">
+    <tbody>
+    <tr>
+        <td><img class="aligncenter size-full wp-image-479" title="olasılık"
+                 src="images/matematik/olasılık/ol3.jpg"
+                 alt="" width="191" height="102"/></td>
+        <td><em><strong>Soru</strong></em>: 1 torbada 3 siyah, 5 Mor, 7 Lacivert top bulunmaktadır.
+            Aralarından seçilen 2 topun Lacivet olma olasılığı nedir?<br/>
+            <strong></strong><strong></strong><strong></strong><strong>Çözüm: </strong>Burada iki
+            durumlar var. Birinci çekişte 7 &#8216;nin 15 &#8216;lisi vardır. Toplar 1 azalacağı
+            için ikinci çekişte ise 6&#8217;nın 14 &#8216;lüsü vardır. Bundan sonrada olasılık
+            problemini basit bir şekilde çözebilirsiniz.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p><span id="more-476"></span></p>
+<p>Örnek Atılan 2 zarın 11 ve 11 &#8216;den büyük olma olasığı nedir?</p>
+<p>6*6 = 136 Zarların 11 büyük gelmesi : 5,6 &#8211; 6,5 * 6,6</p>
+<p><span style="text-decoration: underline;"> 3</span> = 1 /12<br/>
+    36</p>
+<p>Çözüm : 2 zarın toplam olasılıkları 36 &#8216;dır. 11 ve 11 den büyük olma olasılığı da 3 tür.
+    Sonuç 1/12 &#8216;dir.</p>
+
+</html>

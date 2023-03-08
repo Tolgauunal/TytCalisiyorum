@@ -1,0 +1,180 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<p>
+<h1 style="margin: 20px 0px 10px 5px; font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: rgb(53, 152, 220);">
+    İkizkenar Üçgen</h1>
+<div><span
+        style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; display: inline !important;">Kenarlarından ikisi birbirine eşit olan üçgene ikizkenar üçgen denir. Bir üçgende kenarların eşit olması o açılara bakan kenarların da eşit olması manasına gelir. Dolayısıyla ikizkenar üçgende hem açısal eşitlik hem de kenar uzunluğu açısından eşitlik vardır.</span><br>
+</div>
+<div><span
+        style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; display: inline !important;"><img
+        src="images/geometri/ikiz/ikiz1.jpg"><br></span>
+</div>
+<div><span
+        style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; display: inline !important;"><span
+        style="display: inline !important;">İkizkenar üçgende çizilen orta dikme hem yükseklik, hem açıortay hem de kenarortaydır. Bu konuyla ilgili bilmemiz gereken en önemli özellik budur. Yukarıdaki şekilde |AH| doğru parçası bu üç işlevi de aynı anda görmektedir. Bu doğru parçası üçgeni eşit ve simetrik iki parçaya ayırır. Bir örnek üzerinden ikizkenar üçgenin bu özelliğini görelim.</span><br></span>
+</div>
+<div><span
+        style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; display: inline !important;"><span
+        style="display: inline !important;"><img
+        src="images/geometri/ikiz/ikiz2.jpg"><br></span></span>
+</div>
+<div><span
+        style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; display: inline !important;"><span
+        style="display: inline !important;"><span style="display: inline !important;">Yukarıdaki örnekte x uzunluğu sorulmaktadır. İki kenar uzunluğunun eşit olması bizi yükseklik ve kenar ortay elde etmeye teşvik etmektedir. Bu tarz sorular bu konuyla ilgili sorulan en kolay ve temel sorulardır. Bu sorunun çözümünü ise indirdiğimiz dikme ile şekil üzerinde gerçekleştirelim.</span><br></span></span>
+</div>
+<div><span
+        style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; display: inline !important;"><img
+        src="images/geometri/ikiz/ikiz3.jpg"><br></span>
+</div>
+<div><span
+        style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; display: inline !important;"><span
+        style="display: inline !important;"><span style="display: inline !important;"><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">Dikmeyi indirdikten sonra aşağıdaki 10 birim uzunluktaki |BC| kenarı 5 birimlik iki parçaya ayrılır. Çünkü ikizkenar üçgende yüksekliğin aynı zamanda kenarortay olduğunu biliyoruz. Elde ettiğimiz yeni minik AHD üçgeninde ise x uzunluğunu Pisagor bağıntısı ile bulabiliriz. 1 + 24 = 25,&nbsp;√25 = 5 = x olur.</p></span></span></span>
+</div>
+<span style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; display: inline !important;"><span
+        style="display: inline !important;"><span style="display: inline !important;"><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">Dik üçgen özelliklerini de dahil ettiğimiz açılı bir örnek daha çözelim. Aşağıdaki üçgende 60 derecelik bir açı ikizkenar üçgenle birlikte verilmiş ve yine x uzunluğu sorulmaktadır.</p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;"><img
+        src="images/geometri/ikiz/ikiz2.jpg"><br></p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;"><span
+        style="display: inline !important;">Sorunun çözümü için yine dikme indiririz.&nbsp;</span><br></p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;"><span
+        style="display: inline !important;"><img
+        src="images/geometri/ikiz/ikiz5.jpg"><br></span></p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">İndirilen dikme ile dikmenin indiği kenar ikiye eşit parçaya bölünmektedir ve 30 - 60 - 90 üçgeni ortaya çıkmıştır. 90 derecenin karşısı 10 birim olduğu için 30 derecenin karşısı 5 birim olacaktır. Bu durumda dikme aynı zamanda kenarortay olduğu için ve de |BH| = 9 birim olduğundan |HC| de 9 birim olur. Bu durumda x = 9 + 5 = 13 birim olur.</p><h2
+        style="margin-top: 20px; margin-bottom: 10px; font-family: Helvetica, Arial, sans-serif; color: rgb(40, 183, 121); font-size: 21px; margin-left: 5px;">İkizkenar Üçgenin Diğer Özellikleri</h2><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">İkizkenar üçgenin yukarıda belirtilen özelliği en önemli özelliğidir ancak bunun dışında da problemleri kolaylaştıran birçok özellik vardır. Bu özelliklerin birçoğu birbiriyle bağlantılı olduğu için en önemli ve yaygın özellikleri göstereceğiz.</p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;"><span
+        style="display: inline !important;"></span></p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">Bir ikizkenar üçgenin tabanından eş olan kenarların her birine diğer kenara paralel olacak şekilde doğru parçaları çizildiğinde yine ikizkenar üçgenler oluşur. Aslında bunun nedeni de paralellikten gelen yöndeş açıların aynı olmasıdır. Aşağıda bunun mantığı gösterilmiştir.</p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;"><img
+        src="images/geometri/ikiz/ikiz6.jpg"><br></p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;"><span
+        style="display: inline !important;">Yukarıdaki üçgende eşit olan kenarlara bakan açılar a harfi ile gösterilmiştir. Tabandan çizilen doğru parçalarıyla paralellik sağlandığından yine a açısı elde edilmektedir. Bu durumda küçük üçgenler de birer ikizkenar üçgen olmaktadırlar. Bununla ilgili bir soru çözelim.</span><br></p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;"><span
+        style="display: inline !important;"><img
+        src="images/geometri/ikiz/ikiz7.jpg"><br></span></p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">Yukarıdaki üçgende |AB| = |AC| ve |DE| doğru parçası |AC| kenarına paraleldir. Bu durumda x uzunluğu kaç birim olur?</p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">Çözüm: |DE| doğru parçası paralel çizildiği için küçük üçgende ikizkenar olur. Bu durumda |DB| = |DE| = 8 olur. |AB| = 8 + 5 = 13 olur. |AC| = |AB| = 13 bulunur.</p><p
+        style="margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;"></p></span></span></span>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <span style="display: inline !important;">İkizkenar üçgende eş kenarlara indirilen dikme uzunlukları da eşit olmaktadır.</span><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/ikiz/ikiz8.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yukarıdaki üçgende |BE| = |DC|, |EK| = |DK|, |AE| = |AD|, |BK| = |CK| eşitlikleri vardır. |AH|
+    dikmesi eş kenarlar arasında simetri ekseni vazifesi görmektedir.</p>
+<h3 style="margin-top: 20px; margin-bottom: 10px; font-family: Helvetica, Arial, sans-serif; color: rgb(204, 153, 51); font-size: 19px; margin-left: 5px;">
+    İkizkenar Üçgende Soru Çözme Yöntemleri</h3>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    İkizkenar üçgen sorularını hem kenar uzunluğu açısından hem de açı ölçüsü açısından çözmek için
+    dikkat etmeniz gereken bazı hususlar bulunmaktadır. Öncelikle sorularda kolaylık sağlamak için
+    mutlaka eşit kenarları belirtmeniz gerekir. Bunu eşit kenarlara aynı işareti koyarak
+    gerçekleştirebilirsiniz. Bazı sorularda bu işaretler zaten bulunmaktadır.</p>
+<div id="adMapper35pix"
+     style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; width: 0px; height: 0px; border-radius: 0px !important;"></div>
+<p style="margin-bottom: 0px; color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin-top: -5px !important; margin-right: 2px !important; margin-left: 2px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Soruları çözerken YAK ı asla unutmayın. YAK açılım olarak yükseklik, açıortay ve kenarortay
+    manasına gelir. İkizkenar üçgenin eşit kenarlarının birleştiği köşeden çizilen bu doğru parçası
+    sihirlidir. Üç özelliği de birlikte gösterip sorunun kolaylığını sağlar. Eğer yapacak hiçbir şey
+    bulamıyorsanız ilk yapmanız gereken bunu çizmektir. Bazen doğru parçasını size verir ve
+    yükseklik olduğunu söyler. Buradan açıortay ve kenarortay olduğunu kendiniz çıkarmalısınız.
+    Bunlara dikkat edildiği halde bu konuya ait sorular rahatlıkla çözülecektir.</p>
+<div><br></div>
+<h1 style="margin: 20px 0px 10px 5px; font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: rgb(53, 152, 220);">
+    Eşkenar Üçgen</h1>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Üç kenarının uzunluğu da eşit olan üçgene&nbsp;<span
+        style="font-weight: 700;">eşkenar üçgen</span>&nbsp;denir. Kenarların hepsinin eşit olması
+    açıların hepsinin de eşit olmasını beraberinde getirir. Üçgenin iç açıları toplamı 180 derece
+    olduğuna göre eşkenar üçgenin her bir açısı 60 derecedir sonucuna varabilir. Eşkenar üçgen
+    öğrenciler tarafından çok sevilen bir üçgen tipidir. Çok fazla eşitlik olması işlemleri
+    kolaylaştırır ve bizi kolay hedefimize götürür. Kısacası eşkenar üçgen en düzgün üçgendir
+    diyebiliriz.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/ikiz/ikiz9.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <span style="display: inline !important;">İkizkenar üçgen için geçerli her özellik eşkenar üçgende de aynen geçerli olacaktır. Çünkü eşkenar üçgende de iki eşit kenar bulunur. Ekstradan sadece diğer kenar da eşittir. Dolayısıyla üçgen içerisinde indirilen dikmenin hem yükseklik, hem açıortay hem de kenarortay olması burada da geçerlidir.</span><br>
+</p>
+<h2 style="font-family: Helvetica, Arial, sans-serif; color: rgb(40, 183, 121); margin-top: 20px; margin-bottom: 10px; font-size: 21px; margin-left: 5px;">
+    Eşkenar Üçgenin Yüksekliği</h2>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <span style="display: inline !important;"></span></p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Üçgende yükseklik çizdiğimiz zaman üçgenin temel özelliklerini de elde etmiş oluruz. Bu nedenle
+    eşkenar üçgenin yüksekliği önemlidir. Yükseklik bize kenarlar arasındaki oranları da
+    verecektir.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/ikiz/ikiz10.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Eşkenar bir üçgenin her bir kenarına a birim dersek. Yükseklik de a nın yarısın&nbsp;√3 katı
+    olacaktır. Ortaya aynı zamanda 30 - 60 - 90 üçgeni de çıkacaktır. Tamamen simetrik ve
+    özellikleri belirlenmiş bu üçgende yüksekliği hangi köşeden çizerseniz çizin sonuç
+    değişmeyecektir.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yukarıdaki şekli iyice zihninize oturttuğunuz taktirde eşkenar üçgen sorularında hiçbir problem
+    yaşamazsınız. Aslında böyle bir görünüm bu konuyu özetlemektedir.&nbsp;</p>
+<div id="adMapper31pix"
+     style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; width: 0px; height: 0px; border-radius: 0px !important;"></div>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Eşkenar üçgende işlem yapmaya başlamadan önce her açının 60 derece olduğunu belirtmek için
+    açıları üçgen içerisine yazın. Bunu yaptığınızda bir şeyleri gözden kaçırmanız daha zor hale
+    gelecektir.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <span style="font-weight: 700;">Soru: Yüksekliği 2√3 cm olan eşkenar üçgenin çevresi kaç &nbsp;cm dir?</span>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <span style="font-weight: 700;">Çözüm</span>: Yükseklik bir kenar uzunluğunun yarısının&nbsp;√3
+    katı kadardır. Bu durumda bir kenar 4 cm olacaktır. Üçgenin çevresi de 4x3 = 12 cm olacaktır.
+</p>
+<h2 style="font-family: Helvetica, Arial, sans-serif; color: rgb(40, 183, 121); margin-top: 20px; margin-bottom: 10px; font-size: 21px; margin-left: 5px;">
+    Eşkenar Üçgende Yardımcı Özellikler</h2>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Eşkenar üçgende yardımcı birçok özellik bulunmaktadır. Bu özelliklerin birçoğu birbiri ile
+    doğrudan bağlantılı olduğu için hepsinin üzerinde durmayacağız. Zaten ikizkenar üçgende geçerli
+    olan her şey eşkenar üçgen için de geçerlidir.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/ikiz/ikiz11.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Çözüm: Paralel doğru parçalarının toplamı bir kenarın uzunluğuna eşittir. Buna göre bir kenar
+    uzunluğu 3 + 4 +5 = 12 olur. Üçgenin çevresi ise 3.12 = 36 birim olur.</p>
+<div id="adMapper33pix"
+     style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; width: 0px; height: 0px; border-radius: 0px !important;"></div>
+<h3 style="font-family: Helvetica, Arial, sans-serif; color: rgb(204, 153, 51); margin-top: 20px; margin-bottom: 10px; font-size: 19px; margin-left: 5px;">
+    Özel Üçgen Soruları</h3>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Açılarından biri 30°, 45°, 60°, 120°, 135° ve 150° olan üçgenleri özel üçgenler olarak
+    isimlendiriyo­ruz. Bu üçgenlerle ilgili olan soruları çözerken 30° - 60° - 90° ve 45° - 45° -
+    90° üçgenlerinin kenar özelliklerinden faydalanırız. Eğer açımız 30°, 45° veya 60° gibi dar bir
+    özel açı ise, açının karşısına dikme inerek, 120°, 135° veya 150° gibi bir geniş açı ise, açının
+    bütünlerini oluşturduktan sonra dış açının kollarından birine dikme ineriz. Daha sonra Pisagor
+    teoremini uygulayarak çözü­me gideriz.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Bu konuyla ilgili de soru çözelim. Aşağıdaki şekilde 45 derecelik açı verilmiş ve x uzunluğu
+    sorulmaktadır.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/ikiz/ikiz12.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <span style="display: inline !important;">45 derecelik açıyı gördüğümüz için dikme inerek işlem yapmayı deneyelim.</span><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <span style="display: inline !important;"></span></p></p>
+
+</html>

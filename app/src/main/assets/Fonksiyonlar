@@ -1,0 +1,116 @@
+<html>
+<h4><a name="2"></a><span style="color: #000080">Fonksiyon Kavramı</span></h4>
+<p>Boş kümeden farklı A ve B kümeleri için A nın her bir elemanını B nin bir tek elemanı ile eşleyen
+    kurala A dan B ye fonksiyon denir ve genellikle f, g, h, veya F, G, H, sembolleriyle
+    gösterilir.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123168"
+        src="images/matematik/fonksiyonlar/fonk1.jpg" alt=""
+        width="300" height="208"
+        srcset="images/matematik/fonksiyonlar/fonk1.jpg 300w, images/matematik/fonksiyonlar/fonk1.jpg 380w"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>Yukarıda Venn şemasıyla gösterimde x ∈ A elemanın, y ∈ B elemanına eşleyen kural f ile
+    gösterilmiştir. Bunu</p>
+<p>f: A → B biçiminde ifade ederiz ve B deki y elemanı A daki x elemanına f kuralı ile bağlıdır
+    deriz. Yani<br/>
+    f: A → B<br/>
+    x → y</p>
+<p>x in f kuralı altındaki görüntüsü y dir denir.</p>
+<p>Bunu f(x) = y şeklinde de gösteririz.</p>
+<p>f: A → B gösteriminde A ya fonksiyonun tanım kümesi B ye fonksiyonun <strong>değer
+    kümesi</strong> denir. Tanım kümesinin f kuralı altındaki görüntülerinin oluşturduğu f(A)
+    kümesine de <strong>görüntü kümesi</strong> denir.</p>
+<p><img loading="lazy" class="alignnone wp-image-123169"
+        src="images/matematik/fonksiyonlar/fonk2.jpg" alt=""
+        width="347" height="184"
+        srcset="images/matematik/fonksiyonlar/fonk2.jpg 300w, images/matematik/fonksiyonlar/fonk2.jpg 638w"
+        sizes="(max-width: 347px) 100vw, 347px"/></p>
+<h4><a name="3"></a><span style="color: #000080">Fonksiyon Türleri</span></h4>
+<p><span style="color: #000080"><strong>Bire-bir Fonksiyon: </strong></span> Tanım kümesindeki
+    farklı kişilerin yaşları da farklı olduğu görülmektedir.</p>
+<p>Genel olarak f: A → B, y = f(x) fonksiyonu verilsin. A tanım kümesindeki farklı iki elemanın eğer
+    görüntüleri de farklı oluyorsa f ye bire bir fonksiyon denir. Yani her x<sub>1</sub>,
+    x<sub>2</sub> ∈ A için eğer x<sub>1 </sub>≠ x<sub>2</sub> iken f(x<sub>1</sub>) ≠
+    f(x<sub>2</sub>) oluyorsa f ye <strong>bire bir (1 – 1) fonksiyon</strong> denir.</p>
+<p><span style="color: #000080"><strong>Örten Fonksiyon: </strong></span> Değer kümesinde boşta
+    eleman kalmıyorsa fonksiyon örten &#8216;dir. Başka bir deyişle, görüntü kümesi değer kümesine
+    eşit olan fonksiyonlar örtendir.</p>
+<p><img loading="lazy" class="alignnone wp-image-123172"
+        src="images/matematik/fonksiyonlar/fonk3.jpg." alt=""
+        width="364" height="215"
+        srcset="images/matematik/fonksiyonlar/fonk3.jpg 300w, images/matematik/fonksiyonlar/fonk3.jpg 597w"
+        sizes="(max-width: 364px) 100vw, 364px"/></p>
+<p><span style="color: #000080"><strong>İçine Fonksiyon:</strong></span> Örten olmayan fonksiyona
+    içine fonksiyon denir.</p>
+<p><span style="text-decoration: underline"><strong><span
+        style="color: #000080;text-decoration: underline">Bazı Özel Fonksiyonlar:</span> </strong></span>Sabit,
+    Doğrusal, Birim, Parçalı, Permütasyon</p>
+<p><span style="color: #000080"><strong>Sabit Fonksiyon:</strong> </span>Tanım kümesindeki her
+    eleman değer kümesinde yalnızca bir elemanla eşleşen fonksiyonlara sabit fonksiyon denir. c bir
+    gerçek sayı olmak üzere sabit fonksiyonlar f(x) = c biçiminde gösterilir.</p>
+<p>Hatırlatma: y = f(x) = c sabit fonksiyonunda x li terimler olmaz.</p>
+<p><span style="color: #000080"><strong>Birim Fonksiyon:</strong></span> Tanım kümesindeki her
+    elemanı yine kendisine dönüştüren kurala birim fonksiyon denir ve f(x) = x biçiminde gösterilir.
+</p>
+<p>f: R → R, f(x) = x in grafiği çizilirken y = x doğusunu çizmek yeterlidir.</p>
+<p>Hatırlatma: y = f(x) = x fonksiyonuna I. açıortay doğrusu denir. f(x) = x birim fonksiyonunda x
+    li terim dışında hiçbir terim olmamalıdır.</p>
+<p><span style="color: #000080"><strong><a name="4"></a>Parçalı Fonksiyon:</strong></span></p>
+<p>Tanım kümesini parçalara ayırıp bunların her biri için farklı kurallar içeren fonksiyon parçalı
+    bir fonksiyondur.</p>
+<p><img loading="lazy" class="alignnone wp-image-123173"
+        src="images/matematik/fonksiyonlar/fonk4.jpg" alt=""
+        width="403" height="94"
+        srcset="images/matematik/fonksiyonlar/fonk4.jpg 300w, images/matematik/fonksiyonlar/fonk4.jpg 524w"
+        sizes="(max-width: 403px) 100vw, 403px"/></p>
+<p><span style="color: #000080"><strong>Permütasyon fonksiyon:</strong></span> Bir kümeden kendisine
+    yazılan bire-bir ve örten fonksiyonlara permütasyon denir.</p>
+<p>f: A → A</p>
+<p>f = fonksiyonu permütasyon fonksiyon olup;</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-123174"
+        src="images/matematik/fonksiyonlar/fonk5.jpg" alt=""
+        width="162" height="127"/></p>
+<p><span style="color: #000080"><strong>Doğrusal Fonksiyon:</strong></span> f(x)=ax+b| şeklindeki
+    fonksiyonlar doğrusaldır. Grafikleri kartezyen düzlemde bir doğru oluşturur. Doğrusal
+    fonksiyonlar, bire-birlik özelliği incelenirken bir örneğini gördüğümüz gibi, a≠0| ise
+    bire-birdir. Doğrunun ayırıcı özelliği eğim dir. Eğim, x| teki 1 br lik artışın y| de yarattığı
+    değişimdir.</p>
+<h4><a name="5"></a><span style="color: #000080">Fonksiyonlarda Dört İşlem</span></h4>
+<p><img loading="lazy" class="alignnone wp-image-123181"
+        src="images/matematik/fonksiyonlar/fonk6.jpg" alt=""
+        width="304" height="316"
+        srcset="images/matematik/fonksiyonlar/fonk6.jpg 289w, images/matematik/fonksiyonlar/fonk6.jpg 471w"
+        sizes="(max-width: 304px) 100vw, 304px"/></p>
+<h4><span style="color: #000080">Fonksiyonların Grafikleri</span></h4>
+<p>f(x) = ax + b fonksiyonunun (Doğrusal fonksiyon) grafiği çizilirken x = 0 için y eksenini kestiği
+    nokta, y = 0 için x eksenini kestiği nokta bulunur. Bu iki noktadan geçen bir doğru çizildiğinde
+    grafik tamamlanır.</p>
+<p><img loading="lazy" class="alignnone wp-image-123182"
+        src="images/matematik/fonksiyonlar/fonk7.jpg" alt=""
+        width="326" height="242"
+        srcset="images/matematik/fonksiyonlar/fonk7.jpg 300w, images/matematik/fonksiyonlar/fonk7.jpg 517w"
+        sizes="(max-width: 326px) 100vw, 326px"/></p>
+<h3><a name="6"></a><span
+        style="color: #000080"> İki Fonksiyonun Bileşkesi ve Bir Fonksiyonun Tersi</span></h3>
+<h4><a name="7"></a><span style="color: #000080">Fonksiyonlarda Bileşke İşlemi</span></h4>
+<p>f: A → B ve g: B → C</p>
+<p>fonksiyonları için A kümesindeki her elemanı, C kümesindeki yalnız bir elemana eşleyen fonksiyona
+    bileşke fonksiyon denir. Bu fonksiyon gof şeklinde gösterilir.</p>
+<p><img loading="lazy" class="alignnone wp-image-123326"
+        src="images/matematik/fonksiyonlar/fonk10.png" alt=""
+        width="383" height="185"
+        srcset="images/matematik/fonksiyonlar/fonk10.png 300w, images/matematik/fonksiyonlar/fonk10.png 430w"
+        sizes="(max-width: 383px) 100vw, 383px"/></p>
+<p>gof : A→C</p>
+<p>x →(gof) (x) olur.</p>
+<h4><a name="8"></a><span style="color: #000080">Bir Fonksiyonun Tersi</span></h4>
+<p><img loading="lazy" class="alignnone wp-image-123329"
+        src="images/matematik/fonksiyonlar/fonk11.png" alt=""
+        width="322" height="130"
+        srcset="images/matematik/fonksiyonlar/fonk11.png 300w, images/matematik/fonksiyonlar/fonk11.png 398w"
+        sizes="(max-width: 322px) 100vw, 322px"/></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123334"
+        src="images/matematik/fonksiyonlar/fonk12.png" alt=""
+        width="234" height="300"
+        srcset="images/matematik/fonksiyonlar/fonk12.png 234w, images/matematik/fonksiyonlar/fonk12.png 252w"
+        sizes="(max-width: 234px) 100vw, 234px"/></p>
+</html>

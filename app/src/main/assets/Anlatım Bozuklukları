@@ -1,0 +1,262 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2><strong>ANLATIM BOZUKLUKLARI</strong></h2>
+<p>Her cümle belli bir düşünceyi, duyguyu aktarmak için kurulur. Bu cümlenin, ifade edeceği anlamı
+    açık ve anlaşılır bir biçimde ortaya koyması gerekir. Ayrıca mümkün olduğunca gereksiz
+    unsurlardan arındırılmış olmalıdır bu cümle. İşte bu özelliği göstermeyen cümleler, anlatım
+    bakımından bozuktur.</p>
+<p>Bu alanda sorulan sorular değişik özellikler gösterir. Bazen bir cümle verilir ve “Bu cümledeki
+    anlatım bozukluğu nasıl giderilir?” diye sorulur, bazen de “Aşağıdakilerden hangisinde anlatım
+    bozukluğu vardır?” şeklinde sorulur.</p>
+<p>Anlatım bozukluklarını anlama<span id="more-4221"></span> ve yapıya dayalı bozukluklar olmak
+    üzere iki grupta toplayabiliriz:</p>
+<p><strong>1. Anlama dayalı bozukluklar</strong></p>
+<p>Bu bozuklukları birkaç bölüme ayırarak inceleyebiliriz.</p>
+<ul>
+    <li>Gereksiz sözcük kullanılması</li>
+    <li>Cümlede belirsizlik bulunması</li>
+    <li>Birbiriyle çelişen ifadelerin bulunması</li>
+    <li>Sözcüğün anlamca cümleye uymaması</li>
+    <li>Sözcüklerin yanlış eyleme bağlanması</li>
+    <li>Mantık hatasının olması</li>
+    <li>Deyimin yanlış anlamda kullanılması</li>
+    <li>Sözcüğün yanlış yerde kullanılması</li>
+    <li>Bazen de bu belirsizlik noktalama işaretleriyle giderilir.</li>
+</ul>
+<p><strong>Örneğin;</strong></p>
+<p>“Yaşlı adamın yüzüne dalgın dalgın baktı.”</p>
+<p>cümlesinde “dalgın dalgın” bakanın “yaşlı” olduğunu belirtmek için, “yaşlı” dan sonra virgül
+    gelmelidir. Aksi takdirde “yaşlı” sözü adam isminin sıfatı olacaktır.</p>
+<ul>
+    <li><strong>Cümlede gereksiz sözcük kullanılması anlatım bozukluğuna yol açar. </strong></li>
+</ul>
+<p>Bir cümlede gereksiz sözcük bulunduğunu anlamak için, sözcük cümleden çıkarılır. Bu durumda
+    cümlenin anlam ve anlatımında bir bozulma oluyorsa o sözcük gerekli, olmuyorsa gereksizdir.</p>
+<p>“Herkesi eleştirip tenkit etmek bize hiçbir yarar sağlamaz.”</p>
+<p>cümlesinde “eleştirip” sözcüğünün verdiği anlamla “tenkit etmek” sözcüğünün verdiği anlam
+    aynıdır. Öyleyse bu cümlede “eleştirip” sözü gereksizdir. Cümleden çıkarılmalıdır.</p>
+<p>“İki kardeşten <strong>en</strong> küçüğü arkadaşımdı.”</p>
+<p>“Bilgili insanlardan <strong>yararlanmayı</strong>, istifade etmeyi bilmeliyiz.”</p>
+<p>cümlelerinde altı çizili sözcükler gereksizdir.</p>
+<ul>
+    <li><strong>Bir cümlenin anlamı içinde bulunan başka bir sözü cümlede kullanmak da gereksiz
+        sözcük kullanımına girer. </strong></li>
+</ul>
+<p>Cümlede böyle bir sözcük varsa, o cümle de anlatım bakımından bozuktur.</p>
+<p>“Böyle yüksek sesle bağırmana gerek yok, sağır değilim.”</p>
+<p>cümlesinde “bağırmak” zaten yüksek sesle konuşmak anlamındadır. Öyleyse bu sözün anlamı içinde
+    bulunan “yüksek sesle” sözüne gerek yoktur.</p>
+<ul>
+    <li><strong>Cümlede belirsizlik varsa, o cümle iyi bir cümle değildir.</strong></li>
+</ul>
+<p>Bu belirsizlik mutlaka giderilmelidir.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Geleceğini babamdan öğrendim.”</p>
+<p>cümlesinde “geleceğini” sözü belirsizdir. Çünkü kimin geleceği belli değil. “Onun geleceği” de
+    olabilir; “senin geleceğin” de olabilir. Bu belirsizlik giderilmeli ve sözcüğün kime ait olduğu
+    belirginleştirilmelidir.</p>
+<ul>
+    <li><strong>Bazı eylemler olumlu durumlarda, bazıları olumsuz durumlarda kullanılır. Eylemin
+        anlamca yanlış yerde kullanılması da anlatım bozukluğuna yol açar.</strong></li>
+</ul>
+<p><strong>Örneğin;</strong></p>
+<p>“Bana yardım ederek, işi kısa sürede bitirmeme neden oldu..”</p>
+<p>cümlesindeki “neden olmak” eylemi daima olumsuz anlamlar verecek biçimde kullanılır. Oysa işin
+    kısa sürede bitirilmesi olumlu bir durumdur. Öyleyse “neden oldu” sözü bu cümlede yanlış
+    kullanılmıştır. Bunun yerine cümle “…bitirmemi sağladı.” şeklinde bitirilebilir.</p>
+<ul>
+    <li><strong>Bazı cümlelerde mantık hatasının bulunması da o cümlenin anlatımını bozar.</strong>
+    </li>
+</ul>
+<p><strong>Örneğin;</strong></p>
+<p>“Bırakın patates doğramayı yemek bile yapamaz o.”</p>
+<p>cümlesinde “bırakın” sözcüğünün cümleye kattığı anlamdan dolayı sanki patates doğramak yemek
+    yapmaktan daha önemliymiş gibi görülüyor. Bu yanlışın düzeltilmesi için cümle,</p>
+<p>“Bırakın yemek yapmayı, patates bile doğrayamaz o.”</p>
+<p>şeklinde söylenmelidir.</p>
+<ul>
+    <li><strong>Bazen sözcüklerin bağlandığı ortak eylemler de anlatımda bozukluğa yol
+        açar. </strong></li>
+</ul>
+<p><strong>Örneğin;</strong></p>
+<p>“Bu davranışıyla bize yarar mı sağladı zarar mı belli değil.”</p>
+<p>cümlesinde “yarar” ve “zarar” sözcükleri “sağladı” eylemine bağlanmıştır. Ancak “yarar sağlamak”
+    doğru olsa bile, “zarar sağlamak” doğru değildir. Cümle;</p>
+<p>“Bu davranışıyla bize yarar mı sağladı, zarar mı verdi belli değil.”</p>
+<p>şeklinde söylenmelidir.</p>
+<ul>
+    <li><strong>Bu, bazen öğelerin eyleme bağlanmasında da görülür. </strong></li>
+</ul>
+<p><strong>Örneğin;</strong></p>
+<p>“Ayağına ayakkabı, omzuna şal, üzerine pardesü giyip dışarı çıktı.”</p>
+<p>cümlesinde “ayakkabı, şal ve pardesü” sözcükleri “giymek” eylemine bağlanmıştır. Oysa şal
+    giyilmez, atılır.</p>
+<ul>
+    <li><strong>Cümlede deyimin yanlış yerde kullanılması da cümlenin anlamını bozar.</strong></li>
+</ul>
+<p>“Öğretmenin anlattığı konu tüm öğrencilerin dikkatini çekmişti. Herkes kulak kabartmış, öğretmeni
+    dinliyordu.”</p>
+<p>cümlesinde “kulak kabartmış” yanlış kullanılmıştır. Çünkü “kulak kabartmak” fark ettirmeden
+    dinlemek anlamındadır. Burada “kulak kesilmek” deyiminin kullanılması gerekirdi.</p>
+<ul>
+    <li><strong>Bazı sözcüklerin anlamları birbirine karıştırılabilir. Cümledeki sözcüklerin
+        anlamına da dikkat edilmelidir. </strong></li>
+</ul>
+<p><strong>Örneğin;</strong></p>
+<p>“Çocukların birbiriyle uygunluk içinde olmaları beni sevindirdi.”</p>
+<p>cümlesindeki “uygunluk” sözü yanlış anlamda kullanılmıştır. Çünkü burada “uyum” sözü
+    kullanılmalıdır.</p>
+<ul>
+    <li><strong>Bazen sözcük doğrudur ancak cümlede bulunduğu yer doğru değildir.</strong></li>
+</ul>
+<p><strong>Örneğin;</strong></p>
+<p>“Yeni elbisemi giymiştim ki kapı açıldı.”</p>
+<p>Cümlesinde “yeni” sözünün yeri anlatımda bozukluğa yol açmıştır. Çünkü burada söylenmek istenen,
+    elbisenin yeniliği değil, giymenin yeni yapıldığıdır. Öyleyse cümle;</p>
+<p>“Elbisemi yeni giymiştim ki kapı açıldı.” şeklinde olmalıdır.</p>
+<ul>
+    <li><strong>Aynı anlama gelen ek ve sözcüklerin bir arada kullanılması anlatım bozukluğuna yol
+        açar.</strong></li>
+</ul>
+<p><strong>Örneğin;</strong></p>
+<p>“Onun beni sevmemesinin nedeni, fikirlerini benimsememiş olmamdandır.”</p>
+<p>cümlesinde “nedeni” sözcüğü bir olayın sebebini anlatıyor. Ayrıca “olmamdandır” sözündeki “-dan”
+    eki de neden anlamı veren bir ektir. İkisinin bir arada bulunması cümlenin anlatımını bozmuştur.
+    Cümle,</p>
+<p>“Onun beni sevmemesinin nedeni, fikirlerini benimsememiş olmamdır.”</p>
+<p>şeklinde düzeltilebilir.</p>
+<p>Anlatım bozukluklarının anlama dayalı olanlarını anlattık. yapıya dayalı anlatım bozukluklarını
+    anlatacağız. Bu tür bozukluklar daha çok, Türkçe’nin kurallarıyla ilgili olduğundan, soruları
+    çözebilmek için dilbilgisi kurallarının iyi bilinmesi gerekir. Bu tür bozukluklar şu şekilde
+    sıralanabilir:</p>
+<ul>
+    <li>Öğe eksikliğinin bulunması</li>
+    <li>Özneyle yüklem arasında olumluluk-olumsuzluk uyumsuzluğunun bulunması</li>
+    <li>Özneyle yüklem arasında tekillik-çoğulluk açısından uyumsuzluğun bulunması</li>
+    <li>Özneyle yüklem arasında şahıs yönünden uyumsuzluğun bulunması</li>
+    <li>Tamlama uyumsuzluğunun bulunması</li>
+    <li>Ek uyumsuzluğunun bulunması</li>
+    <li>Etken-edilgen fiillerin bir arada bulunması</li>
+    <li>İsim cümlelerinde ekfiilin ortak kullanılması</li>
+</ul>
+<p>Şimdi bunları tek tek açıklayalım.</p>
+<p>Cümlede, kullanılması gereken bir öğenin bulunmaması, anlatım bozukluğuna yol açar. Bu, daha çok
+    ortak kullanılan öğelerde görülür. Çünkü Türkçe’de her fiil, öğeleri aynı eklerle kendine
+    bağlamaz.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Kardeşini yanına çağırdı, bir şeyler söyledi.”</p>
+<p>cümlesindeki öğeleri inceleyelim: “Çağırdı” ve “söyledi” yüklemdir. Çağrılan ve söylenen kişi ise
+    “kardeşi” dir. Yani “Kardeşini” öğesi her iki yüklemin ortak öğesidir. Bu ortak öğeyi
+    yüklemlerle kullanalım. “Kardeşini çağırdı” doğrudur; ancak “kardeşini bir şeyler söyledi.”
+    denmez, “kardeşine bir şeyler söyledi.” olmalı. “Kardeş” sözcüğünü iki kez kullanmamak için
+    “ona” da diyebiliriz.</p>
+<p><strong>Başka bir örnek verelim:</strong></p>
+<p>“Arkadaşlarını pek sevmez, hatta çoğu zaman nefret ederdi.”</p>
+<p>cümlesinde, sevmediği kişiler ile nefret ettiği kişiler aynıdır, yani “arkadaşları” ortak öğedir.
+    Ancak “arkadaşlarını sevmez” dense de “arkadaşlarını nefret ederdi.” denmez; “arkadaşlarından
+    nefret ederdi.” denmeli ya da onun yerine geçen “onlardan” sözü kullanılmalıdır.</p>
+<p>Görüldüğü gibi bu tür bozukluklar daha çok sıralı cümlelerde görülüyor, ancak bileşik cümlelerde
+    de bu tür öğe eksiklikleri görülebilir.</p>
+<p>Türkçe’de bazı özneler olumlu, bazıları olumsuz anlamlar verir. Buna göre yüklemlerin de olumlu,
+    olumsuz çekimlenmesi gerekir.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Hiç kimse okula gelmedi, geziye gitti.”</p>
+<p>cümlesinde gelmeyen ve gidenler aynı kişiler, ancak “hiç kimse” olumsuz bir öznedir ve yüklemi
+    daima olumsuz çekimlenir. Oysa “gitti” olumlu bir çekimdir. Yani ikinci cümle özneyle uyum
+    sağlamamıştır. Buna “hepsi” şeklinde bir özne getirilmelidir.</p>
+<p>Gerçi bu, sadece özneyle ilgili bir durum değildir. Bu tür sözcükler başka öğe durumunda
+    bulunduklarında da yüklem aynı özelliği gösterir.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Öğretmenimiz hiçbirimizi azarlamaz, çok severdi.”</p>
+<p>cümlesinde, yine “hiçbirimizi” olumsuz olduğundan “hiçbirimizi severdi” şeklinde kullanılmaz;
+    “hepimizi severdi” olmalıdır.</p>
+<p>Cümlede öznenin ifade ettiği şahıslarla yüklemin bildirdiği şahıs arasında bir uyum
+    olmalıdır.</p>
+<p>Özne birinci tekil, ikinci tekil <strong>(ben, sen)</strong>; birinci tekil, üçüncü tekil
+    <strong>(ben, o)</strong>; birinci tekil, ikinci çoğul, <strong>(ben, siz)</strong>; birinci
+    tekil, üçüncü çoğul <strong>(ben, onlar)</strong> şahıslardan oluşuyorsa yüklem, daima birinci
+    çoğul şahısa göre çekimlenir.</p>
+<p>“Bu işi ancak ben ve sen halledebiliriz.”</p>
+<p>“Dışarıda sadece ben ve o küçük çocuk kalmıştık.”</p>
+<p>“Ben ve siz yarışmada eşit durumda değildik.”</p>
+<p>“Ben ve birkaç yaşlı adam, kahvede uzun bir sohbete dalmıştık.”</p>
+<p>cümleleri buna örnek gösterilebilir.</p>
+<p>Eğer özne ikinci tekil ve üçüncü tekil <strong>(sen, o)</strong>; ikinci tekil ve ikinci çoğul
+    <strong>(sen, siz)</strong>; ikinci tekil ve üçüncü çoğul <strong>(sen, onlar)</strong>;
+    şahıslardan oluşuyorsa, yüklem ikinci çoğul şahısa göre çekimlenir. Ancak ikinci tekil ve
+    birinci çoğul <strong>(sen, biz)</strong> şahıslar özne olursa yüklem birinci çoğul şahısa göre
+    çekimlenir.</p>
+<p>“Sen ve annen burada ne yapıyordunuz?”</p>
+<p>“Sen hatta hepiniz bu konuda suçlusunuz.”</p>
+<p>“ Sen ve buradaki konukların, bize yarın gelebilirsiniz.”</p>
+<p>“Galiba sonunda senle biz aynı sonuca ulaştık.”</p>
+<p>cümleleri buna örnektir.</p>
+<p>Öznenin insan ya da başka varlıklar olması da yüklemin tekil veya çoğulluğunu etkiler. Eğer özne
+    bitkiler, hayvanlar, cansız varlıklar ya da soyut kavramlarsa, yüklem daima tekil olur. İnsanlar
+    çoğul özne olduğunda ise yüklem tekil veya çoğul olabilir.</p>
+<p>“Kuşlar dallara kondular.” değil “Kuşlar dallara kondu.”</p>
+<p>“Sevgiler gizli kaldıkça güzelleşirler.” değil “güzelleşir.” olacak.</p>
+<p>“Çocuklar geldi.” şeklinde de doğrudur, “Çocuklar geldiler.” de.</p>
+<p>Bazen özneyle yüklem arasındaki uyumsuzluk, öznenin anlamından kaynaklanır.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Nüfus sayımı bu yıl yapıldı, bir hayli artmış.”</p>
+<p>cümlesinde “yapıldı” yükleminin öznesi “nüfus sayımı”dır, “artmış” yükleminin öznesi ise “nüfus”
+    olacaktır. Ancak cümlede “nüfus” diye bir özne yoktur. Sanki nüfus sayımı, “artmış” yükleminin
+    öznesi olmuştur. Bu ise anlamca uygun değildir.</p>
+<p>Sıfat ve isim tamlamalarının aynı tamlanana bağlanması anlatım bozukluğuna yol açar. Çünkü isim
+    tamlamalarında tamlanan iyelik eki aldığı halde sıfat tamlamalarında tamlanan ek almaz.
+    Dolayısıyla tamlananlar, niteliği farklı olduğundan, ortak kullanılamaz.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Kaza yerine birçok askeri ve polis aracı geldi.”</p>
+<p>cümlesinde “araç” sözü hem “askeri” hem “polis” sözcüklerinin tamlananı durumundadır. Ancak
+    “polis aracı” isim tamlamasıdır ve tamlanan iyelik eki almıştır. “Askeri” sözcüğü ise sıfat
+    olabilecek bir sözcüktür ve “askeri araç” şeklinde sıfat tamlaması yapar; tamlanan da ek almaz.
+    Dolayısıyla araç sözcüğü ortak tamlanan olarak kullanılamaz. Cümle;</p>
+<p>“Kaza yerine birçok askeri araçla polis aracı geldi.”</p>
+<p>şeklinde olmalıdır.</p>
+<p>Burada ayrıca sıfat tamlamalarında görülen bir özelliği de ifade edelim. Türkçe’de sıfatlar çoğul
+    anlam verirse isimler çoğul eki almaz. Bu özellik genellikle belgisiz sıfatlarda görülür.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Geceye birçok davetliler katıldı.”</p>
+<p>cümlesinde “birçok” sıfatı çoğul bir anlam verdiği halde davetliler sözü de çoğul eki almıştır.
+    Cümleden çoğul eki çıkarılmalıdır.</p>
+<p>Cümlede eklerin eksik kullanılması cümlenin anlatımını bozar.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Her ülke, dünya devletleri arasında önemli bir yer edinmek için, ekonomik açıdan gelişmesi
+    gerekir.”</p>
+<p>cümlesinde “gelişmesi” sözcüğündeki iyelik ekinin, sözcüğü nereye bağladığı belli değil; “kimin
+    gelişmesi gerekir?” diye sorarsak “ülkenin” cevabı gelir. Öyleyse “ülke” sözcüğüne ilgi eki
+    (-in) getirilmelidir.</p>
+<p>Bazen de bu durumun tersi görülür.</p>
+<p>“Sanatçının, topluma yararlı bir kişi olmak için, eserinde mutlaka toplum sorunlarına yer
+    vermelidir.”</p>
+<p>cümlesinde “yer veren kim?” sorusuna “sanatçı” cevap verir. Oysa cümlede “sanatçının” denmiş. Ya
+    bu sözcükteki ilgi eki kaldırılmalı ya da yüklem “vermesi gerekir” şeklinde
+    değiştirilmelidir.</p>
+<p>Bazı cümlelerde ise sözcükleri birbirine bağlayan ekler yanlış kullanılmıştır.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Senin en beğendiğim yanın, derslerine düzenli çalıştığındır.”</p>
+<p>Cümlede öğeleri ortak olarak kullanan etken ve edilgen fiiller bir arada bulunmaz.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Bütün yemekleri hazırlayıp bir kenara koyulmalıdır.”</p>
+<p>cümlesinde “hazırlamak” etken “koyulmalıdır” edilgen fiillerdir. Bunların aynı öğelerle
+    kullanılması bozukluğa yol açmıştır. Cümle;</p>
+<p>“Bütün yemekler hazırlanarak, bir kenara koyulmalıdır.”</p>
+<p>şeklinde düzenlenirse bozukluk giderilir.</p>
+<p>Sıralı isim cümlelerinde ekfiilin kullanılması da bazen bozukluğa yol açar.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“O yaşlı şair geleneklere bağlı, ama yeniliklere kapalı değildi.”</p>
+<p>cümlesinde iki yargı vardır: Şairin geleneklere bağlı olduğu, aynı zamanda yeniliklere de kapalı
+    olmadığı, oysa cümlede “bağlı” sözü yüklem gibi kullanılmadığından “değildi” edatına bağlanıyor
+    ve böylece şairin geleneklere bağlı olmadığı anlamı çıkıyor. Bunu engellemek için “bağlı” sözü
+    “bağlıydı” şekline getirilmelidir.</p>
+</html>

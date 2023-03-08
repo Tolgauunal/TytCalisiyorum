@@ -1,0 +1,105 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+    </style>
+</head>
+<h1><span style="color: #ff0000">Dik Üçgen ve Trigonometri</span></h1>
+<ul>
+    <li><a href="#1">Pisagor Teoremi</a></li>
+    <li><a href="#2">Oklid Teoremi</a></li>
+    <li><a href="#3">Trigonometri Nedir?</a></li>
+    <li><a href="#4">Sinüs, Kosinüs, Tanjant, Kotanjant</a></li>
+    <li><a href="#5"> 30-60-90 Üçgeni</a></li>
+    <li><a href="#6">45-45-90 Üçgeni</a></li>
+</ul>
+<h3><span style="color: #000080"><a name="1"></a>Pisagor Teoremi</span></h3>
+<p>Pisagor Teoremine göre; bir dik üçgende dik kenarların karelerinin toplamlarının hipotenüsün
+    karesine eşittir.</p>
+<p><img class="alignnone size-medium wp-image-122955"
+        src="images/geometri/dik/dik1.jpg" alt=""
+        width="300" height="266"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>Pisagor’dan bu yana Pisagor teoremi üzerinde çalışan matematikçiler şöyle bir genellemeye
+    ulaşmıştır:</p>
+<p>n pozitif bir doğal sayı olmak üzere;</p>
+<ul>
+    <li>a = 2n + 1</li>
+    <li>b = 2n<sup>2</sup> + 2n</li>
+    <li>c = 2n<sup>2 </sup>+ 2n + 1</li>
+</ul>
+<p>eşitliklerini sağlayan tüm a, b ve c doğal sayıları, a<sup>2 </sup>+ b<sup>2 </sup>=
+    c<sup>2</sup> eşitliğini de sağlar.</p>
+<h3><span style="color: #000080"><a name="2"></a>Oklid Teoremi</span></h3>
+<p>Bir dik üçgenin dik açının olduğu köşeden karşı kenara indirilen dikme için</p>
+<p><img loading="lazy" class="alignnone wp-image-122957"
+        src="images/geometri/dik/dik2.jpg" alt=""
+        width="235" height="347"
+        sizes="(max-width: 235px) 100vw, 235px"/></p>
+<h3><span style="color: #000080"><a name="3"></a>Trigonometri Nedir?</span></h3>
+<p>Trigonometri kelimesi Yunanca trigōnon (üçgen) ve metron (ölçmek) kelimelerinin birleşmesiyle
+    oluşmuştur. Trigonometri, üçgenlerin açıları ile kenarları arasındaki bağıntıları konu edinen
+    bir matematik dalıdır. Trigonometri günümüzde ekonomi, fizik ve mühendislik alanlarında sıkça
+    kullanılmaktadır.</p>
+<h3><span style="color: #000080"><a name="4"></a>Sinüs, Kosinüs, Tanjant, Kotanjant</span></h3>
+<p><span style="color: #000080"><strong>Sinüs</strong></span></p>
+<p>Bir dik üçgende, bir dar açının karşısındaki dik kenar uzunluğunun hipotenüsün uzunluğuna oranına
+    o dar açının sinüsü denir. Bir A açısının sinüsü “sin A” şeklinde gösterilir.</p>
+<p><img loading="lazy" class="alignnone wp-image-122958"
+        src="images/geometri/dik/dik3.jpg" alt=""
+        width="276" height="387"
+        sizes="(max-width: 276px) 100vw, 276px"/></p>
+<p><span style="color: #000080"><strong>Kosinüs</strong></span></p>
+<p>Bir dik üçgende, bir dar açının komşu dik kenar uzunluğunun hipotenüsün uzunluğuna oranına o dar
+    açının kosinüsü denir. Bir A açısının kosinüsü “cos A” şeklinde gösterilir.</p>
+<p><img loading="lazy" class="alignnone wp-image-122960"
+        src="images/geometri/dik/dik4.jpg" alt=""
+        width="297" height="430"
+        sizes="(max-width: 297px) 100vw, 297px"/></p>
+<p><span style="color: #000080"><strong>Tanjant</strong></span></p>
+<p>Bir dik üçgende, bir dar açının karşısındaki dik kenar uzunluğunun komşu dik kenar uzunluğuna
+    oranına o dar açının tanjantı denir. Bir A açısının tanjantı “tan A” şeklinde gösterilir.</p>
+<p><img loading="lazy" class="alignnone wp-image-122961"
+        src="images/geometri/dik/dik5.jpg" alt=""
+        width="289" height="411"
+        sizes="(max-width: 289px) 100vw, 289px"/></p>
+<p><strong><span style="color: #000080">Kotanjant</span></strong></p>
+<p>Bir dik üçgende, bir dar açının komşu dik kenar uzunluğunun karşısındaki dik kenar uzunluğuna
+    oranına o dar açının kotanjantı denir. Bir A açısının kontanjantı “cot A” şeklinde
+    gösterilir.</p>
+<p><img loading="lazy" class="alignnone wp-image-122962"
+        src="images/geometri/dik/dik6.jpg" alt=""
+        width="282" height="394"
+        sizes="(max-width: 282px) 100vw, 282px"/></p>
+<h3><span style="color: #000080"> <a name="5"></a>30-60-90 Üçgeni</span></h3>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122963"
+        src="images/geometri/dik/dik7.jpg" alt=""
+        width="300" height="278"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>*İç açıları her zaman 30 60 ve 90 olan üçgenlerdir<br/>
+    *30 derecenin karşısındaki kenar uzunluğu hipotenüsün yarısına eşittir.<br/>
+    *60 derecenin karşısındaki kenar uzunluğu ise hipotenüse eşittir. Yani 30 derecenin karşısındaki
+    kenar uzunluğunun iki katıdır.<br/>
+    *90 derecenin karşısındaki kenar uzunluğu ise 60 derece ve 30 derecenin karşısındaki kenar
+    uzunluklarının *toplamına eşittir.</p>
+<p><img loading="lazy" class="alignnone wp-image-122964"
+        src="images/geometri/dik/dik8.jpg" alt=""
+        width="327" height="463"
+        sizes="(max-width: 327px) 100vw, 327px"/></p>
+<h3><span style="color: #000080"><a name="6"></a>45-45-90 Üçgeni</span></h3>
+<p>İkizkenar bir dik üçgenin açıları 45° – 45° – 90° ‘dir. Bu ikizkenar dik üçgenin dik kenarlarının
+    uzunluğunu a kabul edersek hipotenüsün uzunluğunu Pisagor Bağıntısından a2–√ buluruz. Bu
+    kenarları oranlarsak aşağıdaki trigonometrik oranları elde ederiz.</p>
+<p><img loading="lazy" class="alignnone wp-image-122966"
+        src="images/geometri/dik/dik9.jpg" alt=""
+        width="236" height="363"
+        sizes="(max-width: 236px) 100vw, 236px"/></p>
+<p>&nbsp;</p>
+</html>

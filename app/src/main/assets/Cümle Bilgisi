@@ -1,0 +1,191 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2><strong>CÜMLE BİLGİSİ</strong></h2>
+<p>Bir duygu, düşünce veya durumu tam olarak anlatan sözcük ya da söz öbeklerine cümle denir. Şimdi
+    birbirini tamamlayan öğeleri inceleyeceğiz.Bir cümlenin oluşması için en önemli şart, kip ve
+    şahıs bildiren bir unsurun bulunmasıdır. Yani eğer cümle içinde herhangi bir söz, haber veya
+    dilek kiplerinden herhangi biriyle çekimli halde bulunuyorsa o, bir yargı bildiriyor demektir.
+    Yargı bildirmek ise cümle olmanın en önemli koşuludur. Şahıs bildirmek, cümle olmak için her
+    zaman<span id="more-4211"></span> gerekli değildir.</p>
+<p>Cümlede bulunabilecek öğeler, yüklem, özne, nesne ve tümleçlerdir. Bunların özelliklerinin neler
+    olduğunu şimdi ayrı ayrı görelim.</p>
+<p><strong>Yüklem</strong></p>
+<p>Cümlede kip ve zaman bildirerek yargıyı ortaya koyan temel unsurdur. Tek başına cümle özelliği
+    gösterir. Diğer öğeler yüklemin tamamlayıcı öğeleridir.</p>
+<p>Cümlede yüklemi bulmak için herhangi bir öğeye soru soramayız. Onu çekimli durumda bulunan
+    sözcüklerden anlarız.</p>
+<p><strong>Örneğin;</strong></p>
+<p><strong>“Biliyorum”</strong> sözü “bilmek” eyleminin şimdiki zamanla çekimlendiğini gösteriyor.
+    Öyleyse yargı bildiriyor demektir. Dolayısıyla bir cümledir.</p>
+<p>“Biraz önce gelen çocuk, <strong>kapıcının kızıydı</strong>.”</p>
+<p>cümlesindeki altı çizili söz isim tamlaması olduğundan;</p>
+<p>“O, eskiden, <strong>yaramaz bir çocuktu</strong>.”</p>
+<p>cümlesindeki altı çizili söz sıfat tamlaması olduğundan birbirinden ayrılmaz ve birlikte yüklem
+    olur.</p>
+<p><strong>Özne</strong></p>
+<p>Cümlede yüklemin bildirdiği işi, hareketi yapan ya da oluş içinde bulunan öğedir. Cümlenin temel
+    öğesidir. Ancak her cümlede bulunmak zorunda değildir.</p>
+<p>Cümlede özneyi bulmak için yükleme <strong>“kim”</strong> ve <strong>“ne”</strong> sorularını
+    sorarız. Ancak özellikle “ne” sorusu, nesneyi bulmak için de sorulduğundan, biz özne sorusunu
+    yükleme değişik biçimde sorarız.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Öğretmen soruyu bana sordu.”</p>
+<p>cümlesinde <strong>“sordu” </strong>yüklemdir. Özneyi bulmak için yükleme <strong>“Soran
+    kim?”</strong> diye soruyoruz. Cevap olarak “<strong>Öğretmen</strong>” geliyor. Öyleyse
+    cümlenin öznesi bu sözcüktür.</p>
+<p>Cümlede özne yukarıdaki örneklerde görüldüğü gibi, açık olarak verilebileceği gibi, yüklemin
+    çekiminden de çıkarılabilir. Cümlede olmayan, yüklemdeki şahıs eklerinden anlaşılan bu tür
+    öznelere <strong>“gizli özne”</strong> adı verilir.<br/>
+    “Sana bu kitabı iki günlüğüne verebilirim.”</p>
+<p>cümlesinin yüklemi <strong>“verebilirim”</strong> sözüdür. Özneyi bulmak için<strong> “Veren
+    kim?” </strong>diye soruyoruz, “Ben” cevabı geliyor; ancak bu söz cümlede yok, biz bunu yüklemin
+    bildirdiği şahıstan çıkarıyoruz. Öyleyse bu cümlenin öznesi gizli öznedir. Bu özne cümlede var
+    olan öğelerden biri sayılmaz. Yani “Geldim.” cümlesinde öznenin “ben” olduğu görülse bile bu
+    cümle sadece yüklemden oluşmuş sayılır.</p>
+<p>Her cümlede özne bulunmaz. Yani eylemi yapan bazen belli değildir.</p>
+<p>“Kasabaya bu yoldan gidilmez.”</p>
+<p>cümlesinde “Gidilmeyen ne, gidilmeyen kim?” gibi sorulara cevap alınmaz. Öyleyse cümlenin öznesi
+    yoktur.</p>
+<p><strong>Nesne</strong></p>
+<p>Cümlede yüklemin bildirdiği işten etkilenen öğedir. Yükleme sorulan <strong>“kimi, neyi,
+    ne” </strong>sorularına cevap verir.</p>
+<p>Nesneler hal ekini alıp almamalarına göre iki grupta incelenir.</p>
+<p><strong>1. Belirtili Nesne</strong></p>
+<p>Nesne görevinde bulunan söz, “-i” hal ekini almışsa, nesneye belirtili nesne denir.</p>
+<p>“Çiçekleri annesine verdi.”</p>
+<p>cümlesinde “Çiçekleri” nesnesi “-i” hal eki aldığından belirtili nesnedir.</p>
+<p><strong>2. Belirtisiz Nesne</strong></p>
+<p>Nesne görevinde bulunan söz “-i” hal ekini almamışsa nesne, belirtisiz nesnedir.</p>
+<p>“Annesi için çiçek topladı.”</p>
+<p>cümlesinde “çiçek” nesnesi bu eki almamış ve belirtisiz nesne olmuştur.</p>
+<p><strong>Dolaylı Tümleç</strong></p>
+<p>Yüklemin yöneldiği, bulunduğu, çıktığı yeri gösteren öğedir. Yükleme sorulan<strong> “-e”, “-de”
+    ve “-den”</strong> hal eklerini alan sorulara aynı ekleri alarak cevap veren sözcük ya da söz
+    öbekleri dolaylı tümleç görevinde bulunur. Soruların ve cevapların aynı ekleri alması
+    zorunluluğu bunun diğer öğelerle karışmasına engel olur. Bunu örneklerle açıklayalım.</p>
+<p>“Elindeki kitap ve defterleri <strong>bana </strong>verdi.”</p>
+<p>cümlesinde altı çizili öğeyi bulabilmek için yükleme <strong>“kime”</strong> sorusunu soruyoruz.
+    Soru da cevap da aynı eki almış. Öyleyse <strong>“bana”</strong> sözü dolaylı tümleçtir.</p>
+<p>“Sizinle ancak <strong>yaza </strong>görüşürüz.”</p>
+<p>cümlesinde altı çizili sözcük de “-e” hal ekini almıştır. Ancak bu öğeyi bulmak için yükleme
+    <strong>“ne zaman”</strong> sorusunu soruyoruz. Görüldüğü gibi soru hal eki almadan soruluyor.
+    Öyleyse bu, “-e” hal eki almış olmasına rağmen dolaylı tümleç değildir.</p>
+<p>“Kimseye sormadan <strong>dışarı</strong> çıktı.”</p>
+<p>cümlesinde ise altı çizili öğeyi bulmak için yükleme <strong>“nereye”</strong> sorusunu
+    soruyoruz. Bu durumda soru, <strong>“-e”</strong> hal eki almış, ancak <strong>“dışarı”</strong>
+    sözü aynı eki almamış. Öyleyse buna da dolaylı tümleç diyemeyiz.</p>
+<p>Görüldüğü gibi sorular ve cevapların aynı ekleri alması koşulu, birbiriyle karışan öğeleri ayırt
+    etmemizi sağlıyor.</p>
+<p>Aynı durumu “-de” ve “-den” eklerinde de görebiliriz.</p>
+<p>“Beni <strong>sınıfta</strong> iki saattir bekliyormuş.”</p>
+<p>cümlesindeki altı çizili öğeyi cevap olarak almak için, yükleme <strong>“nerede”</strong>
+    sorusunu soruyoruz. Öyleyse bu öğe dolaylı tümleçtir.</p>
+<p>“Hepimiz iki saattir <strong>ayakta</strong> bekliyoruz.”</p>
+<p>cümlesinde ise altı çizili öğeyi bulabilmek için yükleme <strong>“nasıl”</strong> sorusunu
+    sormamız gerekiyor. Görüldüğü gibi soru “-de” ekiyle sorulmamış. Demek ki öğe dolaylı tümleç
+    değil.</p>
+<p>“O, iki gün önce <strong>buradan</strong> ayrıldı.”</p>
+<p>cümlesinde altı çizili öğe “nereden” sorusuna cevap vererek dolaylı tümleç olmuş.</p>
+<p>“Senin de gelmeni <strong>yürekten</strong> isterdim.”</p>
+<p>cümlesinde altı çizili öğe <strong>“nasıl”</strong> sorusuna cevap verdiğinden dolaylı tümleç
+    değildir.</p>
+<p><strong>“Şu elmadan</strong> üç kilo verir misin?”</p>
+<p>cümlesinde altı çizili öğeyi bulmak için <strong>“neyden”</strong> sorusunu yükleme soruyoruz.
+    Cevap geldiğinden öğe dolaylı tümleçtir.</p>
+<p><strong>“Hastalandığından</strong> gelmedi.”</p>
+<p>cümlesinde altı çizili öğeyi ise <strong>“niçin”</strong> sorusuyla buluyoruz. Öyleyse bu,
+    dolaylı tümleç değildir.</p>
+<p>Örnekleri daha da çoğaltabiliriz. Burada unutmamamız gereken, soruyla cevabın aynı ekleri (-e,
+    -de, -den) almasıdır. Dolaylı tümleci bulduran soruları ezberlemek yerine, bunu kavramak daha
+    avantajlı bir yoldur.</p>
+<p><strong>Zarf Tümleci</strong></p>
+<p>Yüklemin zamanını, durumunu, miktarını, yönünü, koşulunu vb. bildiren öğelerdir. Bunların her
+    biri değişik bir soruyla bulunur.</p>
+<p>“<strong>Hava kararmadan</strong> köye inmeliyiz.”</p>
+<p>cümlesindeki altı çizili zarf “<strong>ne zaman”;</strong></p>
+<p>“<strong>Dosta düşmana muhtaç olmadan</strong> yaşamalıyız.”</p>
+<p>cümlesinde altı çizili zarf “<strong>nasıl</strong>”;</p>
+<p>“Aldığı notlar <strong>şaşılacak kadar</strong> yüksekti.”</p>
+<p>cümlesindeki altı çizili zarf “<strong>ne kadar</strong>”;</p>
+<p>“Tek bir söz bile söylemeden <strong>içeri</strong> girdi.”</p>
+<p>cümlesindeki altı çizili zarf “<strong>nereye</strong>”;</p>
+<p>“<strong>Zamanımız kalırsa </strong>bir örnek daha çözeriz.”</p>
+<p>cümlesindeki altı çizili zarf “<strong>hangi takdirde</strong>” sorularına cevap vermişlerdir.
+    Yükleme sorulan bu sorulara cevap veren öğeler daima zarftır. Ancak burada “nereye” sorusuna
+    dikkat etmeliyiz. Dolaylı tümleç konusunda da söylemiştik, bu soru dolaylı tümleci de buldurur.
+    Ancak cevabın da aynı eki alması gerekir. Örnekteki “<strong>içeri</strong>” sözü ise bu eki
+    almamıştır. Bu özelliği, yani hal eki almadan yön bildirme özelliğini yer-yön zarfları gösterir.
+</p>
+<p>Cümleyi öğelerine ayırırken dikkat edilmesi gereken bir husus, azlık – çokluk zarflarının
+    kullanımıdır.</p>
+<p>“O, <strong>çok çalışkan bir öğrencidir</strong>.”</p>
+<p>cümlesinde yüklem, altı çizili sözün tamamıdır. Çünkü “öğrenci” isimdir, “çalışkan” öğrencinin
+    sıfatıdır. “çok” da çalışkan sıfatının zarfıdır. Dolayısıyla, “çok çalışkan bir öğrenci” sıfat
+    tamlaması olduğundan bunlar birbirinden ayrılmaz. Oysa biz aynı cümleyi;</p>
+<p>“O, çok çalışkandır.”</p>
+<p>şeklinde kullansak, “çalışkandır” yüklem “çok” zarf tümleci olacaktır. <strong>Kısaca adlaşmış
+    sıfatlar yüklem olduğunda, onun derecesini bildiren zarflar zarf tümleci olur. </strong>
+    birinde,</p>
+<p>“Kafesteki kuşların tüyleri, şaşılacak kadar parlaktı.”</p>
+<p>cümlesi verilmiş ve “<strong>şaşılacak kadar</strong>” öğesine zarf tümleci denmiştir.</p>
+<p><strong>Edat Tümleci</strong></p>
+<p>Çıkmış sorularda, seçeneklerde bile olsa, edat tümleci adının geçtiği görülmemiştir. Ancak bazı
+    soruların çözümünde yardımcı olduğu söylenebilir. Eğer seçeneklerde “edat tümleci” adı
+    geçmiyorsa, siz “edat tümleci” olarak gördüğünüz söz öbeklerine zarf tümleci de
+    diyebilirsiniz.</p>
+<p>Yüklemin <strong>ne ile, kimin ile, hangi amaçla</strong>, yapıldığını gösteren söz öbeklerine
+    <strong>edat tümleci</strong> denir.</p>
+<p>“O, bütün yazılarını, <strong>dolma kalemle </strong>yazar.”</p>
+<p>“Bu araştırmayı <strong>arkadaşlarıyla </strong>yapmış.”</p>
+<p>“Bu yemekleri<strong> sizin için</strong> hazırladım.”</p>
+<p>cümlelerindeki altı çizili söz öbekleri edat tümleci sayılır.</p>
+<p>Cümle içinde her söz, cümlenin bir öğesi durumunda değildir. Yükleme sorulan sorulara cevap
+    vermeyen söz veya söz öbekleri cümle dışı unsur sayılır. Örneğin aşağıdaki cümleyi öğelerine
+    ayıralım.</p>
+<p>“Ahmet, sana defalarca geç kalmamanı<br/>
+    Dolaylı Zarf Nesne</p>
+<p>söylemedim mi?”<br/>
+    yüklem</p>
+<p>Görüldüğü gibi “Ahmet” sözü cümlede yükleme sorulan herhangi bir soruya cevap vermiyor yani cümle
+    dışı unsurdur.</p>
+<p><strong>CÜMLE VURGUSU</strong></p>
+<p>Cümlede asıl anlatılmak istenen öğe vurgulanır. Biz konuşurken, önemsediğimiz öğeyi cümlenin
+    herhangi bir yerinde ses tonumuzu yükselterek vurgulayabiliriz. Ancak yazıda bunu
+    yapamayacağımızdan, vurgulamak istediğimiz öğeyi yükleme yaklaştırırız. <strong>Yani cümlede
+        yükleme en yakın öğe, en çok vurgulanan öğedir.</strong></p>
+<p>“O, beni, hep burada bekler.”</p>
+<p>Özne Nesne Zarf Dolaylı Yüklem</p>
+<p>Tümleci Tümleç</p>
+<p>cümlesinde yükleme en yakın öğe dolaylı tümleç olduğundan, en çok vurgulanan öğe de odur.</p>
+<p><strong>ARASÖZ</strong></p>
+<p>Cümleyi söylerken söz arasına sıkıştırılan, bazen bir öğenin açıklayıcısı, bazen cümle dışı unsur
+    olan söz veya söz öbeklerine <strong>arasöz</strong> denir. Eğer bu söz bir cümle ise “<strong>aracümle</strong>”
+    diye de adlandırılır.</p>
+<p>Açıklamadan da anlaşılacağı gibi arasözün iki işlevi vardır.</p>
+<p>“O kasabayı, <strong>doğduğum yeri,</strong> bu kitapta tanıttım.”<br/>
+    Nesne Dolaylı Yüklem</p>
+<p>Tümleç</p>
+<p>cümlesinde “doğduğum yeri” sözü, kasaba hakkında söylenmiştir ve kasabayı açıklamaktadır. Öyleyse
+    bu öğe nesneyi açıklayan bir arasözdür.</p>
+<p><strong>Arasöz daima açıkladığı öğeden sonra gelir.</strong></p>
+<p>“Ahmet, <strong>siz de çok iyi bilirsiniz, </strong>derslerine pek çalışmaz.”<br/>
+    özne Dolaylı Zarf Yüklem<br/>
+    Tümleç Tümleci</p>
+<p>cümlesinde “siz de çok iyi bilirsiniz” sözü cümlenin geneli üzerinde açıklama yapan, ancak
+    herhangi bir öğeyle ilgili olmayan bir arasözdür. Cümle dışı unsur olarak kabul edilir.</p>
+<p>Arasöz ve aracümleler iki virgül arasında ya da iki kısa çizgi arasında verilir.</p>
+<p>“Anneme,<strong> hayatını bana adayan kadına</strong>, saygıda kusur etmem.”<br/>
+    D.Tümleç Dolaylı Tümleç Yüklem</p>
+<p>“Odaya girdiğimde, <strong>neden olduğunu bilmiyorum</strong>, içim garip bir hüzünle doldu.”</p>
+<p>Zarf Tümleci Özne Zarf Tümleci Yüklem</p>
+<p>cümlelerinde koyu renkle gösterilen sözler de arasözdür.</p>
+</html>

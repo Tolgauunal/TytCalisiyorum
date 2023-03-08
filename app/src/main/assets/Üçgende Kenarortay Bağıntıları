@@ -1,0 +1,108 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+    </style>
+</head>
+<h1><span style="color: #ff0000">Kenarortay</span></h1>
+<p>Bir üçgende bir köşeyi karşısındaki kenarın orta noktasına birleştiren doğru parçasına o kenara
+    ait <strong>kenarortay</strong> denir.</p>
+<p><span style="font-size: 14pt"><strong><a name="1"></a>1.</strong></span> Üçgenlerde kenarortaylar
+    bir noktada kesişirler. Kenarortayların kesişim noktasına <strong>ağırlık merkezi</strong>
+    denir.</p>
+<p><img class="alignnone size-full wp-image-122909"
+        src="images/geometri/ken/ken1.png" alt=""
+        width="227" height="201"/></p>
+<p>ABC üçgeninde [AD], [BE] ve [CF] kenarortaylarının kesiştikleri G noktasına ABC üçgeninin ağırlık
+    merkezi denir.</p>
+<p>Ağırlık merkezi kenarortayı, kenara 1 birim, köşeye 2 birim uzaklık olacak şekilde böler.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122911"
+        src="images/geometri/ken/ken2.png" alt=""
+        width="223" height="221"
+        sizes="(max-width: 223px) 100vw, 223px"/></p>
+<p>ABC üçgeninde D, E, F noktaları bulundukları kenarların orta noktaları ve G ağırlık merkezi
+    ise</p>
+<p><span style="font-size: 14pt">|AG|=2|GD|</span><br/>
+    <span style="font-size: 14pt">|BG|=2|GE|</span><br/>
+    <span style="font-size: 14pt">|CG|=2|GF|</span></p>
+<p>Bir üçgende iki kenarortayın kesişmesiyle oluşan nokta ağırlık merkezidir.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122913"
+        src="images/geometri/ken/ken3.png" alt=""
+        width="220" height="209"/></p>
+<p>ABC üçgeninde [AD] kenarortay ve |AG| = 2|GD| olduğunda G noktası ağırlık merkezidir.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122914"
+        src="images/geometri/ken/ken4.jpg" alt=""
+        width="249" height="220"/></p>
+<p>ABC üçgeninde [AD] kenarortay ve |CG| = 2|FG| olduğunda G noktası ağırlık merkezidir.</p>
+<p><img loading="lazy" class="alignnone wp-image-122912 size-full"
+        src="images/geometri/ken/ken5.png"
+        alt="" width="241" height="210"/></p>
+<p>ABC üçgeninde |AG| = 2|GD| ve |CG| = 2|GF| eşitliğini sağlayan G noktası ABC üçgeninin ağırlık
+    merkezidir.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122915"
+        src="images/geometri/ken/ken6.jpg" alt=""
+        width="229" height="214"/></p>
+<p><span style="font-size: 14pt"><strong><a name="2"></a>2. </strong></span>Dik üçgende hipotenüse
+    ait kenarortay (dik köşeden çizilen kenarortay) hipotenüsün yarısına eşittir.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122916"
+        src="images/geometri/ken/ken7.jpg" alt=""
+        width="234" height="185"/></p>
+<p>ABC dik üçgeninde [BD] hipotenüse ait kenarortay |AD|=|DC|=|BD|</p>
+<p><span style="font-size: 14pt"><strong><a name="3"></a>3.</strong></span> Kenarortayların Böldüğü
+    Alanlar</p>
+<p>Kenarortaylar üçgenin alanını altı eşit parçaya bölerler.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122917"
+        src="images/geometri/ken/ken8.jpg" alt=""
+        width="232" height="217"/></p>
+<p>G ağırlık merkezi köşelere birleştirildiğinde üçgenin alanı üç eşit parçaya bölünür.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122918"
+        src="images/geometri/ken/ken9.jpg" alt=""
+        width="221" height="230"/></p>
+<p>G ağırlık merkezi kenarların orta noktaları ile birleştirildiğinde üçgenin alanı üç eşit parçaya
+    bölünür.</p>
+<p><img loading="lazy" class="alignnone wp-image-122919 size-full"
+        src="images/geometri/ken/ken10.jpg"
+        alt="" width="254" height="219"/></p>
+<p><span style="font-size: 14pt"><strong><a name="4"></a>4.</strong></span> ABC üçgeninde
+    kenarortaylar ve orta taban [FE] çizilirse</p>
+<p><img loading="lazy" class="alignnone wp-image-122920 size-full"
+        src="images/geometri/ken/ken11.jpg"
+        alt="" width="239" height="215"/></p>
+<p>|AK| = 3x<br/>
+    |KG| = x<br/>
+    |GD| = 2x eşitlikleri bulunur.</p>
+<p>Bu kuran 312 kuralı olarak da adlandırabilir.</p>
+<p>K noktası [AD] kenarortayının orta noktasıdır. Ayrıca [FE] orta taban olduğundan;</p>
+<p>[FE] // [BC] 2[FE]=[BC]</p>
+<p>ABC üçgeninde kenarortaylar ve [FE] çizildiğinde şekildeki gibi bir alan bölünmesi oluşur.<img
+        loading="lazy" class="alignnone size-full wp-image-122921"
+        src="images/geometri/ken/ken12.jpg" alt=""
+        width="222" height="223"
+        sizes="(max-width: 222px) 100vw, 222px"/></p>
+<p>Kenarların orta noktalarını birbirine birleştirdiğimizde üçgenin alanı dört eşit parçaya
+    bölünür.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122922"
+        src="images/geometri/ken/ken13.jpg" alt=""
+        width="225" height="221"/></p>
+<p><span style="font-size: 14pt"><strong><a name="5"></a>5.</strong> </span>Kenarortay Uzunluğu
+    (Kenarortay Teoremi)</p>
+<p>ABC üçgeninde A köşesinden çizilen kenarortayın uzunluğu V<sub>a</sub> ;</p>
+<p><img loading="lazy" class="alignnone wp-image-122923"
+        src="images/geometri/ken/ken14.jpg" alt=""
+        width="327" height="373"
+        sizes="(max-width: 327px) 100vw, 327px"/></p>
+<p><span style="font-size: 14pt"><strong><a name="6"></a>6.</strong> </span>Dik Üçgende
+    Kenarortaylar</p>
+<p>A açısı 90° olan bir dik üçgende kenarortaylar arasında</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122924"
+        src="images/geometri/ken/ken15.jpg" alt=""
+        width="251" height="234"/></p>
+</html>

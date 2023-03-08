@@ -1,0 +1,43 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+    </style>
+</head>
+<h1><span style="color: #ff0000">Açıortay</span></h1>
+<p>Bir açıyı iki eş açıya ayıran ışına <strong>açıortay</strong> denir. Açıortay iç ve dış açıortay
+    olmak üzere ikiye ayrılır.</p>
+<p><img class="alignnone size-medium wp-image-122852"
+        src="images/geometri/aci/aci1.jpg" alt=""
+        width="300" height="196"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<h3><span style="color: #000080"><a name="1"></a>Açıortay Teoreminin İspatı</span></h3>
+<p><img loading="lazy" class="alignnone wp-image-122853"
+        src="images/geometri/aci/aci2.jpg" alt=""
+        width="316" height="181"
+        sizes="(max-width: 316px) 100vw, 316px"/></p>
+<h3><a name="2"></a><span style="color: #000080">Üçgende İç Açıortay</span></h3>
+<p>Bir üçgenin bir iç açısını iki eş açıya ayıran ışına o üçgenin iç açıortayı denir. Bir üçgende iç
+    açıortaylar tek noktada kesişir.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122854"
+        src="images/geometri/aci/aci3.jpg" alt=""
+        width="182" height="163"/></p>
+<p>Bir üçgende iç açıortayların kesişim noktası üçgenin iç teğet çemberinin merkezidir.</p>
+<h3><a name="3"></a><span style="color: #000080">Üçgende İç Açıortay Teoremi</span></h3>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122907"
+        src="images/geometri/aci/aci4.jpg" alt=""
+        width="300" height="234"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<h3><a name="4"></a><span style="color: #000080">Üçgende Dış Açıortay </span></h3>
+<p><img loading="lazy" class="alignnone wp-image-122908"
+        src="images/geometri/aci/aci5.jpg" alt=""
+        width="314" height="397"
+        sizes="(max-width: 314px) 100vw, 314px"/></p>
+</html>

@@ -1,0 +1,78 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+    </style>
+</head>
+<h1><span style="color: #ff0000">Çokgenler</span></h1>
+<h3><span style="color: #000080"><a name="1"></a>Tanım</span></h3>
+<p>Düzlemde herhangi üçü doğrusal olmayan üç ya da daha fazla noktanın ikişer ikişer
+    birleştirilmesiyle beraber oluşan kapalı geometrik şekillere çokgen denilmektedir.</p>
+<p><img class="alignnone size-full wp-image-123727"
+        src="images/geometri/cokgen/cokgen1.png" alt=""
+        width="293" height="263"/></p>
+<p>Şekildeki ABCDE çokgeninde A, B, C, D ve E noktalarına çokgenin köşeleri, [AB], [BC], [CD], [DE]
+    ve [EA] doğru parçalarına çokgenin <strong>kenar</strong>ları denir. Çokgenin içine çizilen [DA]
+    ve [DC] doğru parçalarına çokgenin <strong>köşegen</strong>leri denir.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123740"
+        src="images/geometri/cokgen/cokgen2.png" alt=""
+        width="300" height="283" sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>Çokgenler kenar sayısına göre isimlendirilir. Üç kenarlı ise Üçgen, dört kenarlı ise dörtgen
+    isimini alır. ABCDE çokgeni beş kenarlı olduğundan beşgendir. Beşgenin 5 tane iç açısı, 5 tane
+    de dış açısı vardır.</p>
+<p>Kenar sayısı n olan bir çokgenin iç açılarının ölçüleri toplamı (n – 2). 180º formülüyle
+    bulunur.</p>
+<p><span style="color: #ff0000"><strong>Örnek:</strong></span></p>
+<p>5 kenarlı bir çokgenin iç açılar toplamı (5 – 2).180° = 540°<br/>
+    6 kenaı1ı bir çokgenin iç açılar toplamı (6 – 2).180° = 720° ve<br/>
+    7 kenarlı bir çokgenin iç açılar toplamı (7 – 2).180° = 900° dir.</p>
+<p>Dış açılar toplamı ise 3600 dir. Dış açılar toplamı kenar sayısına bağlı değildir.</p>
+<h3><span style="color: #000080"><a name="2&quot;"></a>Düzgün  Çokgen</span></h3>
+<p>Tüm kenarları ve tüm iç açıları eş olan dış bükey çokgene düzgün çokgen denir.</p>
+<p><img loading="lazy" class="alignnone wp-image-123756"
+        src="images/geometri/cokgen/cokgen3.png" alt=""
+        width="312" height="285" sizes="(max-width: 312px) 100vw, 312px"/></p>
+<p>n kenarlı bir çokgende;</p>
+<p>bir dış açısı ölçüsü: <img loading="lazy" class="alignnone wp-image-123767"
+                              src="images/geometri/cokgen/cokgen4.png"
+                              alt="" width="34" height="48"/>,</p>
+<p>bir iç açısı:<img loading="lazy" class="alignnone wp-image-123769"
+                     src="images/geometri/cokgen/cokgen5.png"
+                     alt="" width="78" height="39"/>veya <img loading="lazy"
+                                                              class="alignnone wp-image-123768"
+                                                              src="images/geometri/cokgen/cokgen6.png"
+                                                              alt="" width="77" height="37"/>
+    formülleri ile bulunur.</p>
+<h3><span style="color: #000080"><a name="3"></a>Düzgün Çokgenlerin Özellikleri</span></h3>
+<p><span style="font-size: 14pt"><strong>1.</strong> </span>Bir düzgün çokgende sabit bir köşeden
+    aynı sayıda kenar atlanarak çizilen köşegenlerin uzunlukları eşittir.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123771"
+        src="images/geometri/cokgen/cokgen7.png" alt=""
+        width="300" height="292" sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>Düzgün beşgenin bütün köşegenleri aynı uzunluktadır.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123773"
+        src="images/geometri/cokgen/cokgen8.png" alt=""
+        width="300" height="291"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>Düzgün sekizgende |NI|=|ZK|&#8230; ; |MI|=|HK|&#8230;.</p>
+<p><strong><span style="font-size: 14pt">2. </span></strong></p>
+<p><strong><span style="font-size: 14pt"><img loading="lazy" class="alignnone wp-image-123778"
+                                              src="images/geometri/cokgen/cokgen9.png"
+                                              alt="" width="386" height="148"
+                                              sizes="(max-width: 386px) 100vw, 386px"/></span></strong>
+</p>
+<p><span style="font-size: 14pt"><strong>3.</strong></span></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123779"
+        src="images/geometri/cokgen/cokgen11.png" alt=""
+        width="296" height="300"
+        sizes="(max-width: 296px) 100vw, 296px"/></p>
+<p>&nbsp;</p>
+</html>

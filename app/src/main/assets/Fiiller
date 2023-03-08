@@ -1,0 +1,115 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<h1 class="entry-title ">Fiiller (Eylemler) Konu Anlatımı</h1>
+
+<div class="entry-content">
+    <p style="text-align: left;">Eylem; iş, oluş, hareket bildirip kip ve kişi eki alan
+        sözcüklerdir.</p>
+    <p style="text-align: left;"><i>İşten çıktıktan sonra parkta biraz yürüdüm.</i></p>
+    <p style="text-align: left;">Bu cümlede, bir hareket bildiren &#8220;yürümek&#8221; sözcüğü kip
+        (-di&#8217;li geçmiş zaman) ve kişi eki (-m) alarak, (yürü &#8211; dü &#8211; m) cümlede
+        &#8220;eylem&#8221; olmuştur.</p>
+    <p style="text-align: left;">Aşağıdaki cümlelerde koyu renkli sözcükler kip ve şahıs eki alarak
+        cümlede eylem görevinde kullanılmışlardır.</p>
+    <address><i>Bu yaz tatilinde köyümüze <b>gideceğiz</b>.</i></address>
+    <address><i>Şimdi askerdeki amcama mektup <b>yazıyorum</b>.</i></address>
+    <address><i>Dilekçenizi ay sonuna kadar bana <b>vermelisiniz</b>.</i></address>
+    <address><i>Öğretmenimizin anlattığı fıkraya uzun süre <b>güldük</b>.</i></address>
+    <p><b>Eylem Kipleri</b></p>
+    <p>Eylemlerin bir işi, durumu veya oluşu ortaya koyuş biçimlerine kip denir. Kipler, haber ve
+        dilek kipleri olmak üzere ikiye ayrılır.</p>
+    <p><b>A. Haber (Bildirme) Kipleri</b></p>
+    <p>Zaman anlamı taşıyan kiplerdir. Bu kiplerle çekimlenen eylemlerin gerçekleşme zamanı
+        bellidir.</p>
+    <ol>
+        <li>Di’li Geçmiş Zaman Kipi</li>
+        <li>Miş&#8217;li Geçmiş Zaman Kipi</li>
+        <li>Şimdiki Zaman Kipi</li>
+        <li>Gelecek Zaman Kipi</li>
+        <li>Geniş Zaman Kipi</li>
+    </ol>
+    <p><b>B. Dilek (Tasarlama) Kipleri</b></p>
+    <p>Zaman anlamı taşımayan kiplerdir. Bu kiplerle çekimlenen eylemler, bir tasarı halinde
+        olduğundan zaman kavramı taşımaz.</p>
+    <ol>
+        <li>Gereklilik Kipi</li>
+        <li>İstek Kipi</li>
+        <li>Dilek-Koşul Kipi</li>
+        <li>Emir Kipi</li>
+    </ol>
+    <p><a title="Haber (Bildirme) Kipleri Konu Anlatımı"
+          href="https://www.edebiyatogretmeni.org/haber-bildirme-kipleri-konu-anlatimi/"><b>A. Haber
+        (Bildirme) Kipleri</b></a></p>
+    <p><a title="Dilek (Tasarlama) Kipleri Konu Anlatımı"
+          href="https://www.edebiyatogretmeni.org/dilek-tasarlama-kipleri-konu-anlatimi/"><b>B.
+        Dilek (Tasarlama) Kipleri</b></a></p>
+    <p><b>Eylemlerde Olumsuzluk</b></p>
+    <p>Eylemlerde olumsuzluk, kip eklerinden önce eyleme olumsuzluk eki (-me, -ma, -mez, -maz )
+        getirilerek yapılır.</p>
+    <p><b>Eylem + Olumsuzluk Eki (-me, -ma) + Kip + Kişi Eki </b></p>
+    <address>gel &#8211; me &#8211; miş &#8211; sin (öğrenilen geçmiş zaman)</address>
+    <address>gel &#8211; me &#8211; di &#8211; m (görülen geçmiş zaman)</address>
+    <address>gel &#8211; mi(me) &#8211; yor &#8211; um (şimdiki zaman)</address>
+    <address>gel &#8211; me &#8211; y &#8211; eceğ(ecek) &#8211; im (gelecek zaman)</address>
+    <address>gel &#8211; me &#8211; m (geniş zaman)</address>
+    <address>gel &#8211; mez &#8211; sin (geniş zaman)</address>
+    <address>gel &#8211; me &#8211; y &#8211; e &#8211; lim (istek kipi)</address>
+    <address>gel &#8211; me &#8211; se &#8211; n (dilek-koşul kipi)</address>
+    <address>gel &#8211; me &#8211; meli &#8211; sin (gereklilik kipi)</address>
+    <address>gel &#8211; me (emir kipi)</address>
+    <p><b>Eylemler anlam bakımından üçe ayrılır:</b></p>
+    <p><b>1. İş (Kılış) Eylemleri</b></p>
+    <p>Yapılan işten etkilenen bir varlığın, nesnenin bulunduğu eylemlerdir.</p>
+    <address><i>Öğrenci soruyu kısa sürede çözdü. </i></address>
+    <address><i>Dün seni çok aradım.</i></address>
+    <p>Bu cümlelerde &#8220;çözmek&#8221; eyleminden &#8220;soru&#8221; sözcüğü, &#8220;aramak&#8221;
+        eyleminden &#8220;seni&#8221; sözcüğü etkilenmektedir.</p>
+    <p><b>2. Durum Eylemleri</b></p>
+    <p>Yapılan işten etkilenen bir varlığın, nesnenin bulunmadığı eylemlerdir.</p>
+    <address><i>Araba yolun ortasında durdu. </i></address>
+    <address><i>Bu espriye tüm sınıf güldü. </i></address>
+    <address><i>Duvardaki resimlere baktım.</i></address>
+    <p>Bu cümlelerdeki &#8220;durmak, gülmek, bakmak&#8221; eylemlerinde bir iş, bir hareket vardır.
+        Ancak bu eylemlerden etkilenen bir varlık, nesne yoktur.</p>
+    <p><b>3. Oluş Eylemleri</b></p>
+    <p>Zamanla meydana gelen değişmeyi gösteren eylemlerdir. Bu sözcüklerde eylem genellikle
+        kendiliğinden gerçekleşir.</p>
+    <address><i>Öğleden sonra karnım çok acıktı. </i></address>
+    <address><i>Annem dün hastalandı. </i></address>
+    <address><i>Kardeşimin boyu uzadı.</i></address>
+    <p>Bu cümlelerdeki &#8220;acıkmak, hastalanmak, uzamak&#8221; eylemleri, belli bir süre sonunda
+        gerçekleşen bir değişmeyi ifade etmektedir.</p>
+    <p><b>Eylemlerde Anlam (Zaman) Kayması</b></p>
+    <p>Bir eylem kipinin kendi anlamı dışında, başka bir kip yerine kullanılmasıdır.</p>
+    <p><i>Hafta sonları evinde oturup kitap okuyor.</i></p>
+    <p>Bu cümlede, her zaman yapılmakta olan bir iş bildirilmektedir. Yani cümlede geniş zamanlı bir
+        eylem anlatılmaktadır; ancak cümlede şimdiki zaman kipi kullanılmıştır. Dolayısıyla şimdiki
+        zaman kipi, geniş zaman kipi yerine kullanılmıştır.</p>
+    <address><i>Gelecek yıl üniversiteyi bitiriyor. (bitirecek) </i></address>
+    <address><i>(şimdiki zaman kipi, gelecek zaman kipi yerine)</i></address>
+    <address><i>Ekinler her yıl temmuzda sararıyor. (sararır) </i></address>
+    <address><i>(şimdiki zaman kipi, geniş zaman kipi yerine)</i></address>
+    <address><i>Bir gün Nasrettin Hoca eşeğe ters biniyor. (binmiş) </i></address>
+    <address><i>(şimdiki zaman kipi, geçmiş zaman kipi yerine)</i></address>
+    <address><i>İlk şiiri uzun yıllar önce yayımlanır. (yayımlandı) </i></address>
+    <address><i>(geniş zaman kipi, geçmiş zaman kipi yerine)</i></address>
+    <address><i>Yıl sonunda yaylada buluşuruz. (buluşacağız) </i></address>
+    <address><i>(geniş zaman kipi, gelecek zaman kipi yerine)</i></address>
+    <address><i>Bu kitabı önceden okumuş olacak. (olmalı) </i></address>
+    <address><i>(gelecek zaman kipi, gereklilik kipi yerine) (olasılık)</i></address>
+    <address><i>Arkadaşlar, sınav kâğıtlarını verelim. (verin) </i></address>
+    <address><i>(istek kipi, emir kipi yerine)</i></address>
+    <address><i>Allah gönlünüze göre versin. (vere) </i></address>
+    <address><i>(emir kipi, istek kipi yerine)</i></address>
+</div>
+</html>

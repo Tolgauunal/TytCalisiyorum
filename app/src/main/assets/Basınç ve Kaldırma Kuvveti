@@ -1,0 +1,87 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    
+    </style>
+</head>
+<h2>Basınç ve Kaldırma Kuvveti</h2>
+<h2><a name="1"></a>Basınç</h2>
+<p>Bütün maddelerin ağırlığı vardır ve maddeler ağırlıklarından dolayı temas ettiği yüzeye basınç
+    uygular. Maddenin ağırlığından dolayı birim yüzeye uyguladığı dik kuvvete<strong> basınç </strong>denir. Basınç <strong>P</strong> sembolü ile gösterilir ve değeri</p>
+<p><strong><span style="font-size: 14pt">P = F<sub>dik</sub>/A </span></strong> eşitliği ile
+    bulunur.</p>
+<p><strong>&#8211; </strong>Bağıntıda; P: basınç, F: yüzeye
+    uygulanan dik kuvvetin büyüklüğü, S : kuvvetin etki ettiği yüzey alanıdır.<br/>
+    <strong>&#8211; </strong>Kuvvet birimi newton (N), yüzey
+    alan birimi m2 alındığında basınç birimi N/m2 bulunur.<br/>
+    <strong>&#8211; </strong>1 N/m2 = 1 pascaldır.</p>
+<h3>Katılarda Basınç</h3>
+<p>Katılar, ağırlıkları ile bulundukları yüzeye basınç uygular ve bunu hesaplamak için</p>
+<p><strong><span style="font-size: 14pt">P= G/S</span></strong></p>
+<p>formülü kullanılır. Buradaki <strong>G</strong> kütleden
+    kaynaklı kuvvet yani <strong>m.g</strong>‘dir (<strong>g: yer çekimi ivmesi</strong>) ki aynı zamanda
+    basınç kuvvetini veren formüldür. Ayrıca katılarda <strong>yüzey alanı(S)</strong>
+    yatay kesite eşittir.</p>
+<p><strong>Üst Üste Konulan Cisimlerin Basınçları</strong></p>
+<p>Katılar kendilerine uygulanan kuvveti aynı doğrultu ve yönde hiçbir değişime uğramadan temas
+    ettikleri yüzeye iletirler. Bu sayede, bir katının üzerine cisim konulduğunda oluşan basınç
+    ise</p>
+<p><span style="font-size: 14pt"><strong>P= G<sub>1</sub>+G<sub>2</sub>/S</strong></span></p>
+<p>şeklinde hesaplanır.</p>
+<h3>Durgun Sıvıların Basıncı</h3>
+<p>Sıvılar da katılar gibi bir kütleye sahip oldukları için basınç, katılara benzer şekilde
+    kuvvet/alan yoluyla bulunur. Fakat katılardan farklı olarak sıvılar, temas ettikleri her yüzeye
+    başka bir deyişle her doğrultuda basınç uygularlar.</p>
+<p>Sıvı basıncının değeri</p>
+<p><span style="font-size: 14pt"><strong>P = h.d.g </strong></span></p>
+<p>eşitliği ile bulunur.</p>
+<p>Sıvı basıncı, sıvının bulunduğu kabın şeklinden bağımsızdır. Sıvı maddeler kuvveti tamamen
+    iletmez ancak basıncı iletirler. Bu durum Pascal Prensibi ile açıklanır.</p>
+<p><strong>Pascal Prensibi</strong></p>
+<p>Kapalı bir kaptaki sıvının herhangi bir noktasına uygulanan basınç kabın sekli nasıl olursa
+    olsun, kabın iç yüzeylerinin her noktasına sıvı tarafından aynı büyüklükte iletilir. Pascal
+    prensibinden yararlanılarak, bileşik kapların ve su cenderelerinin çalışma ilkeleri
+    açıklanabilir.</p>
+<h3>Gazların Basıncı</h3>
+<p>Gaz basıncı, ideal gaz denklemi sayesinde hesaplanır. İdeal gaz denklemi şu şekilde formüle
+    edilir:</p>
+<p><strong>P V = n. R .T</strong></p>
+<p>Denklemdeki;</p>
+<p><strong>P:</strong> İdeal gazın herhangi bir durumdaki basıncını (atm biriminden)<br/>
+    <strong>V:</strong> İdeal gazın hacmini (litre cinsinden)<br/>
+    <strong>n:</strong> İdeal gazın mol sayısını<br/>
+    <strong>R:</strong> İdeal gaz sabitini<br/>
+    <strong>T:</strong> İdeal gazın kelvin sıcaklığındaki değerini temsil eder.</p>
+<p>Basıncı ölçmek için farklı araçlar kullanılır: Açık hava basıncını ölçmek için<strong> barometre</strong>; bir kaptaki gaz basıncını ölçmek
+    için <strong>manometre</strong>.</span></p>
+<h2><a name="2"></a>Kaldırma Kuvveti</h2>
+<p>Sıvı ve gaz maddeler içerisinde bulunan maddelere kaldırma kuvveti uygular. Bir sıvı içerisine
+    konulan ve sıvı<br/>
+    içerisinde çözünmeyen cisme etki eden kaldırma kuvveti, cismin alt ve üst yüzeylerine sıvı
+    tarafından uygulanan basınç farkından ortaya çıkar. Sıvı içerisinde bulunan cisme etki eden
+    kaldırma kuvvetinin büyüklüğü</p>
+<p><span style="font-size: 14pt"><strong>Fk = V<sub>batan</sub>.d<sub>sıvı</sub>.g</strong>
+</span></p>
+<p>bağıntısı ile bulunur. Bu eşitlik cismin sıvı içerisinde ne kadar hafiflediğini<br/>
+    de ifade eder. Cisim sıvı içerisine bırakıldığında hacmi kadar sıvı ile yer değiştirir.
+    Archimedes (Arşimet) İlkesi olarak bilinen bu ilke aşağıdaki gibi ifade edilir:</p>
+<p><strong>Archimedes İlkesi:</strong> Tamamı ya da bir kısmı durgun akışkana batırılan cisme
+    akışkan tarafından uygulanan kaldırma kuvvetinin büyüklüğü, cismin batan kısmının hacminden
+    dolayı yer değiştiren akışkanın ağırlığına eşittir.<br/>
+    Sıvı içerisinde bir cisim yüzebilir, askıda kalabilir ya da<br/>
+    batabilir. Bu durumların oluşması için gerekli şartlar aşağıdaki gibi sıralanabilir:</p>
+<p><strong>&#8211;</strong> dc &lt; dsıvı ise cisim yüzer.<br/>
+    <strong>&#8211; </strong>dc = dsıvı ise cisim askıda
+    kalır.<br/>
+    <strong>&#8211; </strong>dc &gt; dsıvı ise cisim batar.</p>
+<p>Benzer durum gaz içerisinde bulunan cisim için de geçerlidir. Gazlar da sıvılar gibi içerisinde
+    bulunan cisme yukarı yönlü kaldırma kuvveti uygular. Bu kuvvetin büyüklüğü cismin hacmine ve
+    gazın yoğunluğuna bağlıdır.</p>
+<p>&nbsp;</p>
+</html>

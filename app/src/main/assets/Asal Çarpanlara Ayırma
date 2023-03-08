@@ -1,0 +1,105 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<div class='code-block code-block-1'
+     style='margin: 8px 0; clear: both;'>
+    <script async
+            src=//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js></script>
+    <ins class=adsbygoogle style=display:block
+         data-ad-client=ca-pub-6090902114617364 data-ad-slot=1502028332
+         data-ad-format=auto></ins>
+    <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+<h2 style="text-align: center;"><span style="color: #800000;">Asal Çarpanlara Ayırma</span>
+</h2>
+<p>Bir doğal sayının asal çarpanlarını bulabilmek için bu doğal sayıyı
+    bölünebildiği en küçük doğal sayıdan başlayarak sırasıyla asal
+    sayılara bölmemiz gerekir. Yani Asal Çarpanlara Ayırma işlemini
+    uygulamamız gerekir. Bulduğumuz bölümler çarpımı sayının asal
+    çarpanlara ayrılmış şeklidir.</p>
+<p>Örneğin; 36 sayısı asal çarpanlara şu şekilde ayrılır.</p>
+<p>$ \displaystyle 36={{2}^{2}}{{.3}^{2}}$<a
+        href=images/matematik/asalcarpanlar/asal1.jpg><img
+        class="alignleft size-full wp-image-2554"
+        src=images/matematik/asalcarpanlar/asal1.jpg
+        alt=asal width=65 height=146></a></p>
+<p>36&#8217;nın içerisinde 2 tane 2 çarpanı, 2 tane 3 çarpanı vardır.
+    yani 36&#8217;nın asal çarpanları 2 ve 3 &#8216; tür.</p>
+<p>&nbsp;</p>
+<p>Asal Çarpanlara Ayırma ilgili 8 farklı soru tipi gelebilir.</p>
+<p>&nbsp;</p>
+<div class='code-block code-block-3'
+     style='margin: 8px 0; clear: both;'>
+    <script async
+            src=//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js></script>
+    <ins class=adsbygoogle style=display:block
+         data-ad-client=ca-pub-6090902114617364 data-ad-slot=1502028332
+         data-ad-format=auto></ins>
+    <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+<p><strong><span
+        style="color: #800000;">1. Sayının Pozitif Bölenlerinin Sayısı (P.B.S)</span></strong>
+</p>
+<p>Pozitif tam bölenlerinin sayısını bulmak için verilen sayının kaç
+    tane tam sayı bölenin olduğuna bakmalıyız.</p>
+<p>Örneğin 12 sayısını tam olarak bölen pozitif tam sayılar, 1,2,3,4,6
+    ve 12 olmak üzere 6 tanedir. Eğer biz bunu bağıntı yardımı ile
+    bulmak istersek önce 12 sayısını asal çarpanlara ayırırız.</p>
+<p>$\displaystyle 12={{2}^{2}}.3$ şimdi asal çarpanların kuvvetlerini 1
+    arttırıp çarpalım.</p>
+<p>
+    <a href=images/matematik/asalcarpanlar/asal2.jpg><img
+            class="alignleft wp-image-2555"
+            src=images/matematik/asalcarpanlar/asal2.jpg
+            alt=asal width=97 height=97></a></p>
+<div class='code-block code-block-2'
+     style='margin: 8px 0; clear: both;'>
+    <script async
+            src=//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js></script>
+    <ins class=adsbygoogle style=display:block
+         data-ad-client=ca-pub-6090902114617364 data-ad-slot=1502028332
+         data-ad-format=auto></ins>
+    <script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+</div>
+<p>$\displaystyle 12={{2}^{2}}.3$</p>
+<p>(2+1).(1+1)=3.2=6 tanedir.</p>
+<p>$ \displaystyle A={{a}^{x}}.{{b}^{y}}.{{c}^{z}}$ ise</p>
+<p>P.B.S=(x+1)(y+1)(z+1) dir.</p>
+<p>Bir sayının kaç tane pozitif tam bölen sayısı varsa o kadar negatif
+    bölen sayısı vardır. Örneğimizdeki gibi 12 sayısının 6 tane pozitif
+    tam sayı böleni varsa 6 tane de negatif tam böleni vardır.</p>
+<p>Pozitif tam böleni demek doğal tam sayı böleni doğal sayı böleni
+    demektir.</p>
+<p><strong><span
+        style="color: #800000;">2. Bir Sayının Tam Bölenlerinin Sayısı (T.B.S)</span></strong>
+</p>
+<p>Bir sayının pozitif ve negatif bölenleri sayısı aynı olduğu için
+    pozitif bölen sayısını 2 ile çarparsak tam bölen sayısını bulmuş
+    oluruz.</p>
+<div class="woo-sc-box  normal   ">T.B.S=2.(P.B.S)</div>
+<div class="woo-sc-box  tick   ">Örnek: 120 sayısının tam bölen sayısı
+    kaçtır?</p><p>$ \displaystyle 120={{2}^{3}}{{.3}^{1}}{{.5}^{1}}$</p>
+    <p>P.B.S=(3+1)(1+1)(1+1)= 4.2.2 = 16</p>
+    <p>T.B.S=2(P.B.S)= 2.16= 32 tanedir.</div>
+<p><span style="color: #800000;"><strong>3. Bir Sayının Asal Bölen Sayısı</strong></span>
+</p>
+<p>Asal bölen sayısını bulmak için sayıyı asal çarpanlarına ayırıp
+    tabanları işaretlememiz yeterlidir.</p>
+<div class="woo-sc-box  tick   ">Örnek: 120 sayısının kaç tane asal
+    böleni vardır?</p><p>$ \displaystyle
+        120={{2}^{3}}{{.3}^{1}}{{.5}^{1}}$</p>
+    <p>60&#8242; ın asal çarpanları 2,3 ve 5&#8242; tir. (3 tane)</div>
+<p><span style="color: #800000;"><strong>4. Bir Sayının Tam Bölenleri Toplamı</strong></span>
+</p>
+<p>Bir sayının tam bölenlerinin toplamı daima sıfırdır.</p>
+<div class="woo-sc-box  tick   ">Örnek: 10 sayısını tam bölenlerinin
+    toplamı kaçtır?</p><p>1+2+5+10+(-1)+(-2)+(-5)+(-10)=0</div>
+</html>

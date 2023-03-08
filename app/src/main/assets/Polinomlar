@@ -1,0 +1,225 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2><span class="ez-toc-section" id="Polinomlar_Cok_Terimliler"></span>Polinomlar (Çok
+    Terimliler)<span class="ez-toc-section-end"></span></h2>
+<p>a<sub>0</sub>, a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub> …, a<sub>n </sub>ϵ R ve n ϵ N olmak
+    üzere P(x) =
+    a<sub>0</sub>+a<sub>1</sub>.x+a<sub>2</sub>.x<sup>2</sup>+a<sub>3</sub>.x<sup>3</sup>+….+a<sub>n</sub>.x<sup>n</sup>
+    biçimindeki ifadelere x değişkenine göre düzenlenmiş reel katsayılı <strong>polinom</strong>
+    (çok terimli) denir.</p>
+<p>Burada a<sub>0</sub>, a<sub>1</sub>, a<sub>2</sub>, a<sub>3</sub> …, a<sub>n </sub>reel
+    sayılarına polinomun katsayıları, a<sub>0</sub>, a<sub>1</sub>.x, a<sub>2</sub>.x<sup>2</sup>, a<sub>3</sub>.x<sup>3</sup>,….,
+    a<sub>n</sub>.x<sup>n</sup> ifadelerine polinomun terimleri olarak adlandırılır.</p>
+<p>a<sub>n</sub>.x<sup>n</sup> terimindeki a<sub>n</sub> sayısına terimin katsayısı, x’in kuvveti
+    olan n sayısına terimin derecesi olarak adlandırılır.</p>
+<p>Derecesi en büyük olan terimin derecesine polinomun derecesi denir ve der [P(x)] ile gösterilir.
+    Derecesi en büyük olan terimin katsayısı ise polinomun baş katsayısı olarak adlandırılır.</p>
+<p>Polinomlar katsayılarına göre isimlendirilir. Katsayılarımız reel sayı ise reel katsayılı
+    polinomlar, rasyonel sayı ise rasyonel katsayılı polinomlar, tam sayı ise tam katsayılı polinom
+    denir.</p>
+<p><span style="color: #ff0000;">Örnek 1:</span> P(x) = 8x<sup>3</sup> – 3x<sup>2</sup> + 4x &#8211;
+    9</p>
+<ol>
+    <li>a) P(x) polinomunun katsayılarını yazınız:</li>
+    <li>b) P(x) polinomunun terimlerini yazınız:</li>
+    <li>c) P(x) polinomunun baş katsayısını yazınız:</li>
+    <li>d) P(x) polinomunun derecesini yazınız:</li>
+</ol>
+<p><span style="color: #ff0000;">Çözüm 1:</span></p>
+<ol>
+    <li>a) 8,-3,4,-9</li>
+    <li>b) 8x<sup>3</sup>,– 3x<sup>2</sup>, 4x,- 9</li>
+    <li>c) 8</li>
+    <li>d) der [P(x)] = 3</li>
+</ol>
+<p>Örnek 2: <img loading="lazy" class=" wp-image-27878 alignleft"
+                 src="images/matematik/polinom/pol1.jpg"
+                 alt="polinomlar" width="149" height="64" title="polinomlar">ifadesi bir polinom
+    mudur? Değil ise sebebiyle birlikte açıklayınız?</p>
+<p><span style="color: #ff0000;">Çözüm 2:<br/>
+</span>B(x) ifadesi bir polinom değildir çünkü -1/ x<sup>2</sup> = &#8211; x<sup>-2</sup> teriminin
+    kuvveti -2 N dir. Değişkeninin kuvvetleri (üsleri) doğal sayı olan fonksiyonlara polinom denir.
+</p>
+<h3><span class="ez-toc-section" id="Sabit_Polinom"></span>Sabit Polinom<span
+        class="ez-toc-section-end"></span></h3>
+<p>c ϵ R ve c≠0 ( c, 0 dan farklı bir reel sayı ) olmak üzere P(x) = c biçimindeki polinomlar sabit
+    polinom olarak adlandırılır. Sabit polinomun derecesi 0 dır.</p>
+<h3><span class="ez-toc-section" id="Sifir_Polinomu"></span>Sıfır Polinomu<span
+        class="ez-toc-section-end"></span></h3>
+<p>P(x) = 0 biçimindeki polinomu sıfır polinomu olarak adlandırılır. Sıfır polinomunun derecesi
+    tanımsızdır.</p>
+<p><span style="color: #ff0000;">Örnek 3:</span> P(x) = (2a–3).x<sup>2</sup> + b.x + 2.x + 5 ifadesi
+    sabit polinom olduğuna göre a.b çarpımının değerini bulunuz.</p>
+<p><span style="color: #ff0000;">Çözüm 3:<br/>
+</span>Verilen ifadenin sabit polinom olması için değişkenin olmaması gerekir. Bu sebeple değişkenin
+    katsayısı 0 olmalıdır.</p>
+<p>2.a – 3 = 0, x.(b + 2) = 0<br/>
+    2.a = 3, b + 2 = 0<br/>
+    a = 3/2, b = &#8211; 2<br/>
+    Buradan a.b = &#8211; 2 = &#8211; 3</p>
+<h3><span class="ez-toc-section" id="Polinomlarin_Esitligi"></span>Polinomların Eşitliği<span
+        class="ez-toc-section-end"></span></h3>
+<p>Aynı dereceli terimlerinin katsayıları eşit olan polinomlar eşittir.</p>
+<p><span style="color: #ff0000;">Örnek 4:</span><br/>
+    P(x) = ax<sup>2</sup> + (b – 3)x + 5<br/>
+    Q(x) = &#8211; 3x<sup>2</sup> + 5x + c + 7</p>
+<p>P(x) = Q(x) olduğuna göre a,b,c nin alabileceği değeri bulunuz.</p>
+<p><span style="color: #ff0000;">Çözüm 4:</span><br/>
+    P(x) = Q(x) ise ax<sup>2</sup> + (b – 3)x + 5 = &#8211; 3x<sup>2</sup> + 5x + c + 7</p>
+<ul>
+    <li>a = &#8211; 3</li>
+    <li>b – 3 = 5</li>
+    <li>b = 8</li>
+    <li>c + 7 = 5</li>
+    <li>c = &#8211; 2</li>
+</ul>
+<p><span style="color: #ff0000;">Örnek 4:</span><br/>
+    <img loading="lazy" class=" wp-image-27873 alignleft"
+         src="images/matematik/polinom/pol2.jpg"
+         alt="polinomlar soru" width="159" height="55" title="polinomlar soru"><br/>
+    olduğuna göre A ve B nin değerini bulunuz.</p>
+<p><span style="color: #ff0000;">Çözüm 4:</span></p>
+<p style="text-align: center;"><img loading="lazy" class="size-full wp-image-27874 aligncenter"
+                                    src="images/matematik/polinom/pol3.jpg"
+                                    alt="polinomlar soru çözümü" width="250" height="257"
+                                    title="polinomlar soru cozumu">X + 2 = Ax + A + Bx – B<br/>
+    X + 2 = x.(A+ B) + A – B</p>
+<ul>
+    <li>A + B = 1</li>
+    <li>A – B = 2</li>
+    <li>2A = 3</li>
+    <li>A = , B =</li>
+</ul>
+<h3><span class="ez-toc-section" id="Polinomlarda_Islemler"></span>Polinomlarda İşlemler<span
+        class="ez-toc-section-end"></span></h3>
+<p>1) <strong>Toplama İşlemi</strong></p>
+<p>İki polinom toplanırken; dereceleri aynı olan terimlerin katsayıları kendi aralarında toplanır, o
+    terimin kat sayısı olarak yazılır.</p>
+<ul>
+    <li>x<sup>n</sup> + b. x<sup>n</sup> = (a + b). x<sup>n</sup></li>
+    <li>x<sup>n</sup> + b.x<sup>n</sup> = (1+b) . x<sup>n</sup></li>
+</ul>
+<p>2) <strong>Çıkarma İşlemi</strong></p>
+<p>İki polinom çıkarılırken; dereceleri aynı olan terimlerin katsayıları kendi aralarında çıkarılır,
+    o terimin katsayısı olarak yazılır.</p>
+<p>3) <strong>Çarpma İşlemi</strong></p>
+<p>İki polinomun çarpımı; birisinin her teriminin diğerinin her bir terimi ile ayrı ayrı
+    çarpımlarından elde edilen terimlerin toplamına eşittir.</p>
+<ul>
+    <li>ax<sup>n</sup> . bx<sup>m</sup> = a.b.x<sup>m+n</sup></li>
+    <li>x<sup>n</sup> . bx<sup>n</sup> = b.x<sup>n+m</sup></li>
+</ul>
+<p>4) <strong>Bölme İşlemi</strong></p>
+<p><img loading="lazy" class="size-full wp-image-27875 alignleft"
+        src="images/matematik/polinom/pol4.jpg"
+        alt="polinomlarda bölme işlemi" width="194" height="148"
+        srcset="images/matematik/polinom/pol4.jpg 194w, images/matematik/polinom/pol4.jpg 80w"
+        sizes="(max-width: 194px) 100vw, 194px" title="polinomlarda bolme islemi">P(x) :
+    Bölünen<br/>
+    Q(x) : Bölen<br/>
+    B(x) : Bölüm<br/>
+    K(x) : Kalan</p>
+<p>Olmak üzere bölme işleminde</p>
+<ol>
+    <li>der [ P(x) ] ≥ der [ Q(x)]</li>
+    <li>der [K(x) ] &lt; der [ Q(x) ]</li>
+    <li>P(x) = Q(x) . B(x) + K(x)</li>
+    <li>der [ K(x) ] &lt; der [B (x) ] ise Q (x ) ile B(x) in yer değiştirmesi kalanı değiştirmez.
+    </li>
+    <li>K (x) = 0 ise P(x) polinomu Q(x) polinomuna tm olarak bölünür. Bu durumda P(x) in
+        çarpanlarından biri Q(x) polinomudur.
+    </li>
+</ol>
+<h3><span class="ez-toc-section" id="Polinomlarda_Bolme_Isleminin_Yapilisi"></span>Polinomlarda
+    Bölme İşleminin Yapılışı<span class="ez-toc-section-end"></span></h3>
+<p>Polinomlarda bölme işlemi sayılarda bölme işlemine benzer şekilde yapılır. Bunun için sırasıyla
+    aşağıdaki işlemler yapılır.</p>
+<ol>
+    <li>Bölünen ve bölen polinomlar x değişkeninin azalan kuvvetlerine göre sıralanır.</li>
+    <li>Bölünen polinomun soldan ilk terimi , bölen polinomun soldan ilk terimine bölünür. Çıkan
+        sonuç bölümün ilk terimi olur.
+    </li>
+    <li>Bulunan bu sonuç bölen polinomun bütün terimleri ile çarpılarak aynı dereceli terimler alt
+        alta gelecek şekilde bölünen polinomun altına yazılır.
+    </li>
+    <li>Bölünenin altına yazılan çarpım polinomu , bölünenin polinomdan çıkarılır.</li>
+    <li>Yukarıdaki işlemlere , kalan polinomun derecesi , bölen polinomun derecesinden küçük
+        oluncaya kadar devam eder.
+    </li>
+</ol>
+<p><span style="background-color: #ffffff; color: #ff0000;">Kural</span></p>
+<p>P(x)’ in Q(x) ile bölümünden elde edilen bölümün polinomu B(x) olsun.</p>
+<p>der [P(x)]=m ve der[Q(x)] = n<br/>
+    m&gt;n olmak üzere</p>
+<ul>
+    <li>der [P(x) + Q(x) ] = m</li>
+    <li>der [P(x) – Q(x) ] = m</li>
+    <li>der [ P(x) . Q(x) ] = m + n</li>
+    <li>der [ B(x) ] = m – n</li>
+    <li>der [ = k.der [P(x)] = k.m dir.</li>
+</ul>
+<p>P(x)‘ in x = k için Değeri<br/>
+    P(x) = a<sub>0</sub>+a<sub>1</sub>.x+a<sub>2</sub>.x<sup>2</sup>+a<sub>3</sub>.x<sup>3</sup>+….+a<sub>n</sub>.x<sup>n</sup>
+    polinomunun x=k için değeri<br/>
+    P(k) = a<sub>0</sub>+a<sub>1</sub>.k+a<sub>2</sub>.k<sup>2</sup>+a<sub>3</sub>.k<sup>3</sup>+….+a<sub>n</sub>.k<sup>n</sup>
+</p>
+<p><span style="color: #ff0000;">Kural</span></p>
+<p>P(x) = a<sub>0</sub>+a<sub>1</sub>.x+a<sub>2</sub>.x<sup>2</sup>+a<sub>3</sub>.x<sup>3</sup>+….+a<sub>n</sub>.x<sup>n</sup>
+    polinomunda x=1 yazılırsa</p>
+<p>P(1) = a<sub>0</sub>+a<sub>1</sub>+a<sub>2</sub>+a<sub>3</sub>+….+a<sub>n</sub> olur.</p>
+<ul>
+    <li>Bu durumda P(1) in değeri P(x) polinomunun katsayılar toplamıdır.</li>
+    <li>Bir polinomda x yerine 1 yazılırsa, o polinomun katsayılar toplamı bulunur.</li>
+</ul>
+<p><span style="color: #ff0000;">Kural</span></p>
+<p>
+    P(x)=a<sub>0</sub>+a<sub>1</sub>.x+a<sub>2</sub>.x<sup>2</sup>+a<sub>3</sub>.x<sup>3</sup>+….+a<sub>n</sub>.x<sup>n</sup>
+    polinomunda x=0 yazılırsa,<br/>
+    P(0)=a<sub>0 </sub>olur.</p>
+<ul>
+    <li>Bu durumda P(0)‘ın değeri P(x) polinomunun sabit terimidir.</li>
+    <li>Bir polinomda x yerine 0 yazılırsa, o polinomun sabit ( x’ten bağımsız ) terim bulunur.</li>
+</ul>
+<p><span style="color: #ff0000;">P(x)‘ in ax + b ile Bölünmesiyle Elde Edilen Kalan</span></p>
+<p>P(x) = (ax + b).B(x)+K<br/>
+    ax+b=0 ise x =-b/a<br/>
+    P(-b/a) = (a.(-b/a)+b).B(-b/a)+ K= K</p>
+<p>Yani P(x) polinomunun ax+b ile bölünmesiyle elde edilen kalanı bulmak için ax+b= 0 denkleminin
+    kökü olan x=-b/a için P(x) polinomunun değeri olan P(-b/a) hesaplanır.</p>
+<p>Sonuç</p>
+<ul>
+    <li>P(x) polinomunun x – a ile bölümünden kalan P(a)</li>
+    <li>P(x + b) polinomunun x – a ile bölümünden kalan P(a + b)</li>
+    <li>P(3x + b) polinomunun x – a ile bölümünden kalan P(3a + b) dir.</li>
+</ul>
+<p><span style="color: #ff0000;">P(x)&#8217;in x^n + a İle Bölümünden Kalan</span></p>
+<p>Derecesi n’den büyük olan bir polinomun x<sup>n</sup>+ a ile bölümünden kalanı bulmak için,
+    yerine –a yazılır.</p>
+<p>(x<sup>n</sup>+a=0 ise x<sup>n</sup>=-a)</p>
+<p><span style="color: #ff0000;">P(x) ‘ in (x – a) . (x – b) Çarpımı İle Bölünmesi</span></p>
+<ol>
+    <li>P(x) polinomu (x – a).(x – b) çarpımı ile tam olarak bölünebiliyorsa x–a ve x–b çarpanlarına
+        ayrı ayrı bölünebilir.
+    </li>
+    <li>x–a ve x–b aralarında asal polinomlar olmak üzere; P(x) bu polinomlara ayrı ayrı tam olarak
+        bölünebiliyorsa, (x–a).(x–b) çarpımı ile de tam olarak bölünür.
+    </li>
+</ol>
+<p><span style="color: #ff0000;">P(x)‘ in ( ax + b )<sup>2</sup> İle Bölünebilmesi</span></p>
+<p>P(x) polinomu (ax+b)<sup>2</sup> ile tam olarak bölünebiliyorsa, P(x) polinomu ve P’(x) polinomu
+    ax+b ye tam olarak bölünür. (P’(x), P(x) polinomunun türevidir.)</p>
+<p>Bu durumda P(x) polinomu (ax+b)<sup>2</sup> ile tam olarak bölünüyorsa P(-b/a)= 0 ve P’(-b/a) = 0
+    olur.</p>
+</div></div>
+<div class="td-a-rec td-a-rec-id-custom_ad_1  td-rec-hide-on-m td-rec-hide-on-tl td-rec-hide-on-tp tdi_63 td_block_template_17">
+</div>
+</html>

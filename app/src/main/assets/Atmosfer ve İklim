@@ -1,0 +1,72 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<p><strong>İKLİM </strong></p>
+<p>Geniş bir sahada, uzun yıllar boyunca (40 – 50 yıl) devam eden, atmosfer olaylarının ortalamasına
+    iklim denir.<span id="more-4057"></span></p>
+<p><strong>HAVA DURUMU</strong></p>
+<p>Dar bir sahada, kısa süre içerisinde görülen atmosfer olaylarına <strong>hava durumu </strong>denir.
+</p>
+<p><strong>KLiMATOLOJİ</strong></p>
+<p>Geniş sahalarda, uzun yıllar devam eden atmosfer olaylarının ortalamalarını tespit ederek, iklim
+    bölgelerini ve karakterlerini inceleyen bilim dalına <strong>klimatoloji</strong> denir.</p>
+<p><strong>METEOROLOJİ</strong></p>
+<p>Dar sahalarda, kısa süreli atmosfer olaylarını inceleyen bilim dalına
+    <strong>meteoroloji </strong>denir.</p>
+<p><strong>ATMOSFER ve ÖZELLİKLERi</strong></p>
+<p>Dünya’yı gazlardan meydana gelen bir geosfer (tabaka) kuşatır. Buna <strong>atmosfer</strong>
+    denir.</p>
+<p><strong>Atmosferin Katları</strong></p>
+<p>Atmosfer, yerçekimi etkisiyle iç içe kürelerden meydana gelmiştir. Bunların yoğunlukları ve
+    bileşimleri birbirinden farklıdır.</p>
+<p><strong>Troposfer: </strong>Atmosferin en alt tabakasıdır. Ekvator üzerindeki kalınlığı 16 – 17
+    km, 45° enlemlerinde 12 km, kutuplardaki kalınlığı ise 9 – 10 km dir. Bunun nedeni, Ekvator’daki
+    hava kütlelerinin ısınarak yükselmesi, kutuplarda ise soğuyan havanın ağırlaşarak alçalmasıdır.
+    iklim olayları troposferin 3 – 4 km lik kısmında meydana gelir. Çünkü, iklim olaylarında çok
+    etkili olan su buharı troposferin 3 – 4 km lik kısmında bulunur. Troposfer daha çok yerden
+    yansıyan ışınlarla ısınır.</p>
+<p>Atmosferdeki gazların % 75′i troposfer katında bulunmaktadır.</p>
+<p><strong>Stratosfer:</strong> Troposferden itibaren 17 – 30 km ler arasında bulunur. Bu tabakada
+    su buharı olmadığı için, iklim olayı görülmez. Stratosferde sıcaklık değişimi yok gibidir.
+    Sıcaklık –45°C civarındadır. Stratosferde yerçekimi çok azaldığı için cisimler gerçek
+    ağırlıklarını kaybederler. Üst kısımlarında ozon gazı bulunur.</p>
+<p><strong>Şemosfer</strong>: Stratosferden sonra 30 – 90 km ler arasında bulunur. iki kısımdan
+    oluşur.</p>
+<p><strong>a. Ozonosfer:</strong> içerisinde bulundurduğu ozon gazından dolayı bu ismi almıştır.
+    Güneş’ten gelen ve canlı yaşamı için zararlı olan ışınları (Ultraviyole ışınları gibi) tutar.
+    Bundan dolayı canlıların koruyucu katıdır. Dünya’nın aşırı ısınıp, soğumasını önler.</p>
+<p><strong>b. Kemosfer:</strong> Bu katmana kemosfer denilmesinin nedeni, içerisinde bazı kimyasal
+    olayların meydana gelmesidir. Az miktarda zararlı ışınların tutulması burada da görülür.</p>
+<p><strong>İyonosfer:</strong> Şemosferden sonra 90 – 300 km’ler arasında bulunur. Bu tabakadaki
+    gazlar ultraviyole ışınlarının etkisi ile iyonlara ayrılmıştır. iyonlaşma sırasında açığa çıkan
+    enerji ile sıcaklığı yükselmiştir.<br/>
+    (250 °C) iyonlar arasında elektron alışverişi son derece fazladır. Bundan dolayı haberleşme
+    sinyalleri, radyo dalgaları bu tabakadan yansır.</p>
+<p><strong>Eksosfer:</strong> Atmosferin en üst ve en dış sınırını oluşturur. Eksosferde bazı gaz
+    molekülleri yerçekimi etkisinden kurtularak uzaya kaçar. Bu nedenle dış sınırı kesin olarak
+    tespit edilememekte, 10.000 km ye kadar çıktığı sanılmaktadır.</p>
+<p><strong>Atmosferin Faydaları</strong></p>
+<ul>
+    <li>İklim olayları meydana gelir.</li>
+    <li>Canlı yaşamı için gerekli gazları ihtiva eder.</li>
+    <li>Güneş’ten gelen zararlı ışınları tutar.</li>
+    <li>Dünya’nın aşırı ısınmasını ve soğumasını engeller.</li>
+    <li>Dünya ile birlikte dönerek sürtünmeden doğacak yanmayı engeller.</li>
+    <li>Uzaydan gelen meteorların parçalanmasına neden olur.</li>
+    <li>Güneş ışınlarının dağılmasını sağlayarak, gölgede kalan kısımların da aydınlanmasını sağlar.
+        Bir başka ifade ile gölgelerin tam karanlık olmasını önler.
+    </li>
+    <li>Işığı, sesi, sıcaklığı geçirir ve iletilmesini sağlar.</li>
+    <li>Hava akımları sayesinde gündüz olan kesimlerin aşırı sıcak, gece olan kesimlerin de aşırı
+        soğuk olmasını engeller.
+    </li>
+</ul>
+</html>

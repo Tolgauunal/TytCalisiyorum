@@ -1,0 +1,290 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<h2 style="text-align: center"><a name="1"></a><span
+        style="color: #000080">Canlılık ve  Enerji</span></h2>
+<p>Bir sistemin iş yapabilme yeteneğine enerji denir. Bütün canlıların temel enerji kaynağı ise
+    güneştir. Canlıların enerjiyi bir biçimden diğerine dönüştürme yeteneği sayesinde yaşam devam
+    eder. Enerji, bir biçimden diğerine dönüşürken mutlaka bir bölümü ısı enerjisi hâlinde çevreye
+    yayılır.</p>
+<p><strong>Canlılar dünyasında üç ana tip enerji dönüşümü vardır.</strong></p>
+<p><span style="color: #000080"><strong>I. tip enerji dönüşümü:</strong></span> Fotosentez olayı ile
+    güneşin ışınım enerjisi organik bileşiklerin bağlarındaki kimyasal enerjiye dönüşür. Kimyasal
+    enerji fotosentezle üretilen organik moleküllerdeki kimyasal bağlarda depolanır.</p>
+<p><span style="color: #000080"><strong>II. tip enerji dönüşümü:</strong> </span>Organik
+    bileşiklerdeki kimyasal bağ enerjisinin, hücresel solunum sırasında hücre içinde kullanılabilen
+    yüksek enerjili fosfat bağlarına dönüşümü. Yani ATP sentezlenmesi (fosforilasyon) olayıdır.</p>
+<p><span style="color: #000080"><strong>III. tip enerji dönüşümü:</strong> </span>ATP nin yüksek
+    enerjili fosfat bağlarının hidroliz reaksiyonlarıyla kopartılması şeklinde başlayan dönüşümdür.
+    Açığa çıkan ATP enerjisi farklı enerji türlerine dönüştürülerek kullanılır. Örneğin bu enerji
+    hareket ederken kaslarınızda kinetik enerjiye, düşünürken sinir hücrelerinizde elektrik
+    enerjisine dönüştürülür. Bunun yanı sıra ateş böceği gibi bazı canlılar kimyasal enerjiyi ışık
+    enerjisine dönüştürebilen sistemlere sahiptir.</p>
+<p>Besinleri oluşturan organik moleküller bir dizi kimyasal tepkimeyle yıkılarak enerji açığa
+    çıkarılır. Hücrede gerçekleşen kimyasal tepkimelerin hepsine birden <strong>metabolizma</strong>
+    adı verilir. Metabolizma, yapım ve yıkım reaksiyonlarından oluşur Basit moleküllerden karmaşık
+    yapılı moleküllerin sentezlendiği reaksiyonlara yapım reaksiyonları
+    <strong>(anabolizma)</strong> denir.</p>
+<p>Amino asitlerden proteinlerin sentezlenmesi bir yapım reaksiyonudur. Karmaşık moleküllerin daha
+    basit moleküllere parçalandığı reaksiyonlar ise yıkım reaksiyonu <strong>(katabolizma)</strong>
+    olarak adlandırılır.</p>
+<p>Hücrede iş yapmak için kullanılabilen enerjiye serbest enerji denir. Hücrede gerçekleşen kimyasal
+    tepkimeler serbest enerji değişimine göre iki gruba ayrılır.</p>
+<p>Hücrede iş yapmak için kullanılabilen enerjiye serbest enerji denir. Hücrede gerçekleşen kimyasal
+    tepkimeler serbest enerji değişimine göre iki gruba ayrılır.</p>
+<p><span style="color: #000080"><strong>Ekzergonik tepkime:</strong> </span>Enerji açığa çıkaran
+    tepkimelere (enerji veren) denir.<br/>
+    <strong><span style="color: #ff0000">Örnek olarak:</span></strong> Defosforilasyon, oksijenli ve
+    oksijensiz solunum solunum…</p>
+<p><span style="color: #000080"><strong>Endergonik tepkime:</strong> </span>Gerçekleşmesi için
+    enerjiye ihtiyaç duyulan tepkimelerdir.<br/>
+    <span style="color: #ff0000"><strong>Örnek olarak:</strong></span> Fosforilasyon, fotosentez
+    sırasında organik moleküllerin sentezlendiği reaksiyonlar, bütün biyosentez reaksiyonları,
+    kasların kasılmasını, aktif taşıma, hücre bölünmesi ve sinirsel iletimi sağlayan reaksiyonlar
+    endergoniktir.</p>
+<p>Besinleri oluşturan organik moleküllerde depolanmış olan kimyasal enerjinin miktarı çok
+    yüksektir. Bu enerjinin tamamı tek seferde ortaya çıkarılsaydı hücreye zarar verirdi. Ancak
+    hücre, organik moleküllerdeki enerjiyi adım adım ortaya çıkararak daha küçük birimler hâlinde
+    <span style="color: #000080"><strong>ATP</strong></span> molekülünün yapısında depolar ve enerji
+    gerektiren tüm faaliyetlerde A<span style="color: #000080"><strong>TP</strong></span>’yi
+    kullanır.</p>
+<h3><span style="color: #0000ff">ATP Molekülün Yapısı</span></h3>
+<p>Adenin bazı, Riboz şekeri (pentoz) ve üç fosfat grubundan (fosforik asit) oluşur. Adenin bazına
+    ribozun glikozit bağı ile bağlanmasıyla adenozin nükleozit oluşur. Fosfat ile şeker arasında
+    ester bağı bulunur.</p>
+<p><strong>Özellikleri:</strong><br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Yapısında iki yüksek enerjili
+    fosfat bağları bulunur<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Canlının tüm yaşamsal olaylarında
+    kullandığı enerji kaynağıdır<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Kolayca başka enerji formlarına
+    dönüştürülebilir.(Elektrik,ısı,kimyasal bağ ,osmotik,ışık vb.)<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Bütün reaksiyonlara
+    katılabilir<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Her hücre kendi ATP sini kendi
+    sentezler<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Hücrede sitoplazma,mitokondri ve
+    kloroplastlarda sentezlenir<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Hücre yaşamsal olaylarında
+    sitoplazmada veya mitokondride üretilen ATP kullanılır<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Kloroplastlarda sentezlenen ATP
+    organik madde sentezi ve kloroplastlardaki diğer yaşamsal olaylarda kullanılır<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Yüksek enerjili son fosfat bağının
+    kopması ile ortama 7300 cal enerji verilir.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Hücrelerde ADP nin sistemden enerji
+    alarak kendine bir fosforik asit bağlayıp ATP haline gelmesine<strong> fosforilasyon</strong>
+    denir.</p>
+<p><strong>Fosforilasyon 3 farklı şekilde gerçekleşebilir. Bunlar;</strong></p>
+<p><strong><span style="color: #000080">Substrat düzeyinde fosforilasyon:</span></strong> Enzimatik
+    reaksiyonlarla ATP sentezdir. Bu şekilde ATP sentezi enzimlerin substratlarından kopardıkları
+    fosfat grubunu ADP molekülüne aktarmaları sayesinde olur. Oksijenli ve oksijensiz solunumda
+    ortak olarak gözlenir.</p>
+<p><span style="color: #000080"><strong>Oksidatif fosforilasyon:</strong></span> Yükseltgenme
+    indirgenme tepkimeleri neticesinde ATP sentezidir.</p>
+<p><span style="color: #000080"><strong>Fotofosforilasyon:</strong></span> Işık enerjisiyle ATP
+    sentezidir. Sonuç olarak, ATP&#8217;nin hücredeki rolü ekzergonik reaksiyonlarla endergonik
+    reaksiyonlar arasında kontrolü enerji transferi olarak özetlenebilir.</p>
+<h2 style="text-align: center"><a name="2"></a><span style="color: #000080">Fotosentez</span></h2>
+<h3><span style="color: #0000ff">Fotosentez Nedir?</span></h3>
+<p>Bitkilerin CO2 ve H2O gibi inorganik maddelerden güneş enerjisi ve klorofil yardımı ile organik
+    besin üretmeleridir. Bu sırada atmosfere yan ürün olarak O2 verilir. İnorganik maddelerden
+    organik maddeler (besin) üretmektir.</p>
+<p><span style="color: #000080"><strong>Fotosentez Denklemi:</strong></span> 6CO2 + 6H2O &#8212;&#8211;(Işık/Klorofil)&#8212;&#8212;&#8212;&#8211;C6H12O6
+    + 6O2</p>
+<h3><span style="color: #0000ff">Fotosentezin Canlılar İçin Önemi</span></h3>
+<p><strong><span style="color: #000000">&#8211;</span> </strong>Fotosentez ile havada canlıların
+    kullanmadığı kirli gaz olan karbondioksit (CO2) alınır ve onun yerine atmosfere temiz hava olan
+    oksijen verilir. Yani kısaca fotosentez havayı temizler.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Fotosentezin ana ürünü oksijendir.
+    Atmosferde yer alan oksijenin %30 kara bitkilerinin fotosentezi sonucu, %70 ise deniz ve
+    okyanuslarda bulunan bitkiler algler ve bazı bakteriler tarafından sağlanmaktadır.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Fotosentez ile güneş enerjisi daha
+    sonra kullanılabilecek enerji türlerine dönüştürülür.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Güneş enerjisini kullanılarak
+    havadaki karbondioksit, nişasta ve diğer yüksek enerjili karbonhidratlara dönüştürülür.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Fotosentez olayı ile güneş
+    ışıklarındaki enerji bitkilere bitkilerde farklı enerji türlerine dönüştürüldüğü için biz
+    insanlar ve diğer canlılar bu bitkileri yiyerek enerji ve besin elde etmiş oluruz.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Biz insanların kullanmış olduğu
+    odun, kömür, petrol ve doğalgaz gibi enerjiler fotosentez olayı ile elde edimiş enerji
+    türleridir.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Fotosentez olayı ile canlılar için
+    büyük öneme sahip olan karbondioksit-oksijen dengesi sağlanır.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Üreticiler olarak adlandırılan
+    canlıların fotosentez yapması ile dünyadaki ısı dengesi sağlanmaktadır.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Bitkiler yaptıkları fotosentez
+    sonucu oksijen ve glikoz (basit şeker) üretirler.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Fotosentez ile enerji dönüşümü
+    yapan bitkileri tüketerek biz insanlar enerji elde etmiş oluruz. Bu bitkileri tüketen
+    hayvanlarıda tüketerek daha farklı enerji ve besini tüketmiş oluruz.</p>
+<h3><span style="color: #0000ff">Fotosentezin Evreleri</span></h3>
+<p>Fotosentez, iki ana basamakta gerçekleşir.</p>
+<p><span style="color: #000000"><strong>&#8211; </strong></span>Birinci basamakta ışık enerjisi,
+    hücrenin doğrudan kullanabileceği kimyasal enerjiye dönüştürülür. Dönüşüm sırasında mutlaka ışık
+    enerjisi kullanıldığından bu olaya <strong><span style="color: #000080">ışığa bağımlı reaksiyonlar</span></strong>
+    denir.</p>
+<p><span style="color: #000000"><strong>&#8211; </strong></span>İkinci basamakta CO2 kullanılarak
+    birinci basamaktan gelen ATP ve NADPH molekülleri yardımıyla organik madde sentezlenir. Bir dizi
+    kimyasal tepkimelerin gerçekleştiği bu basamağa <span style="color: #000080"><strong>ışıktan bağımsız reaksiyonlar</strong> </span>denir.
+</p>
+<h4><span style="color: #0000ff">Işığa Bağlı Reaksiyonlar</span></h4>
+<p>Işığa bağımlı reaksiyonlar; ökaryot hücrelerdeki kloroplastın granalarında, prokaryotların hücre
+    zarı kıvrımlarında gerçekleşir. Bu reaksiyonlar ışık olmadan gerçekleşmez. Bu evrede; ışık
+    enerjisi, kimyasal enerjiye dönüştürülüp ATP içerisinde geçici olarak depolanır. Ayrıca klorofil
+    tarafından soğurulan ışığın bir kısmı ile su molekülleri parçalanır. Bu olaya <span
+            style="color: #000080"><strong>fotoliz</strong></span> denir.</p>
+<p>Suyun parçalanması ile açığa çıkan hidrojenler (H+), bir çeşit koenzim olan NADP+ (nikotinamid
+    adenin dinükleotit fosfat) ile tutularak NADPH molekülü üretilir. Fotoliz sonucu açığa çıkan
+    oksijenin fazlası, atmosfere bu evrede verilir.</p>
+<p>1937 yılında ortamda ışık, su ve uygun bir hidrojen yakalayıcısı bulunduğunda kloroplastların CO2
+    olmadan O2 oluşturabildiklerini görmüştür. Elektron alıcısının sudaki hidrojeni tutarak oksijeni
+    serbest bırakmasına bu nedenle <span
+            style="color: #000080"><strong>Hill reaksiyonu</strong></span> adı verilmiştir.</p>
+<p>Işığa bağımlı reaksiyonlarda ATP sentezi için klorofilin ışığı soğurması ve ışık tarafından
+    uyarılmış elektronların klorofilden ayrılması gerekir. Elektronlardaki enerjiden ATP sentezi
+    yapılabilmesi için elektronları tutabilecek bir sisteme ihtiyaç duyulur. Bu amaçla
+    kloroplastların granumlarında elektron taşıma sistemi (ETS) yer alır.</p>
+<p>Klorofilden ayrılan elektronlar, yükseltgenme ve indirgenme kurallarına göre ETS’de bulunan bir
+    molekülden diğerine aktarılır. Bu aktarım sırasında elektronlardaki enerjinin bir kısmı ile ATP
+    sentezlenirken bir kısmı da ısı enerjisi şeklinde sistemden uzaklaştırılır. Bu şekilde ışık
+    enerjisi yardımıyla ATP sentezlenmesine <strong>fotofosforilasyon</strong> denir.</p>
+<p>Işığa bağımlı reaksiyonlar sırasında üretilen NADPH ve ATP ışıktan bağımsız reaksiyonlara
+    aktarılarak organik madde sentezinde kullanılır.</p>
+<h4><span style="color: #0000ff">Işıktan Bağımsız Reaksiyonlar</span></h4>
+<p>Işıktan bağımsız reaksiyonlar kloroplastın stromasında gerçekleşir. Enzimatik yönü yüksek olan
+    tepkimeler olduğu için sıcaklık değişimlerine karşı hassastır.</p>
+<p>CO2, ATP ve NADPH kullanılarak basit şekerler sentezlenir.CO2 atmosferden alınır. NADPH
+    yükseltgenir.</p>
+<p>Işık doğrudan kullanılmadığı için bu aşamaya ”<span style="color: #000080"><strong>ışıktan bağımsız reaksiyonlar</strong></span>”
+    adı verilir. Işıktan bağımsız reaksiyonlar rubisko (ribuloz bifosfat karboksilaz) enzimi
+    sayesinde 5 karbonlu RDP (ribuloz difosfat) molekülüne CO2 eklenerek 6C’lu kararsız bir ara
+    bileşiğin oluşması ile başlar.</p>
+<p>-6C’lu kararsız ara bileşik enzimlerle parçalanır ve iki molekül 3C’lu fosfogliserik asit (PGA)
+    oluşur. PGA’dan, ATP ve NADPH harcanarak fosfogliseraldehit (PGAL) oluşur. PGAL’in bir kısmından
+    ribuloz mono fosfat (RMP) sonra da RDP sentezlenerek ışıktan bağımsız reaksiyonların sürekliliği
+    sağlanmış olur.</p>
+<p>Işıktan bağımsız tepkimelerde üretilen PGAL, deyim yerinde ise her derde deva bir moleküldür
+    diyorum. Çünkü; PGAL’in bir kısmından önce ribuloz mono fosdat (RMP) sonra da RDP sentezlenerek
+    ışıktan bağımsız reaksiyonların sürekliliği sağlanmış olur. PGAL’in bir kısmından ise glikoz
+    sentezlenir. Glikozun fazlası lökoplastlarda nişastaya dönüştürülerek bitkinin kök tohum, ve
+    meyve gibi yapılarında depo edilir.</p>
+<p>PGAL&#8217;in bir bölümü yağ asidi ve gliserol yapımında kullanılır. Bir bölümü ile de amino
+    asit, vitamin ve organik bazlar sentezlenir. Bu dönüşümler sırasında topraktan su ile alınan N,
+    S, Fe, Mg gibi mineral maddeler de kullanılabilir.</p>
+<h3><span style="color: #0000ff">Fotosentez Hızını Etkileyen Faktörleri</span></h3>
+<p>Fotosentetik bir hücrenin birim zamanda ortamdan aldığı CO2 veya ürettiği O2 miktarı fotosentez
+    hızını gösterir. Fotosentez aynı anda birden çok faktörün etkisi altındadır. Bu durumda
+    fotosentezin hızını, (bitkinin ihtiyacına göre) miktarı en az olan faktör belirler. Buna <span
+            style="color: #000080"><strong>minimum yasası</strong> </span>denir.</p>
+<p>Fotosentez hızını etkileyen faktörler çevresel ve genetik olmak üzere ikiye ayrılır.</p>
+<h3><span style="color: #0000ff">Çevresel Faktörler</span></h3>
+<p><span style="color: #0000ff"><strong>1. Karbondioksit Miktarı</strong></span></p>
+<p>Fotosentez olayının karanlık evresinde işlev gören karbondioksit (CO2), ışıktan bağımsız
+    fotosentez tepkimelerinin başlaması için olmazsa olmazdır.</p>
+<p>Karbondioksit miktarının artmasıyla orantılı olarak fotosentez hızıda artar ancak daha sonra
+    sabit kalır. Karbondioksitin artmasına rağmen fotosentez hızının sabit kalmasının nedeni ise
+    ortamda bulunan karbondioksit (CO2) yoğunluğu belirli bir sınırın altına düşerse bitki
+    fotosentez yapamaz. Bu sınır biyoloji kitapların yaklaşık olarak % 0,005 olarak geçmektedir.</p>
+<p>Kalsiyum hidroksit veya potasyum hidroksit gibi karbondioksit bağlayan bileşiklerin bulunduğu
+    ortamlarda fotosentez gerçekleşmez.</p>
+<p><span style="color: #0000ff"><strong>2. Işık Şiddeti</strong></span></p>
+<p>Bitkiler ışıksız ortamda fotosentez yapamaz. Işık, fotosentezin ışığa bağımlı tepkimelerinde ATP
+    ve NADPH+H+ sentezlenmesinde kullanılır. Işık şiddeti arttıkça fotosentez hızı belirli bir
+    seviyeye kadar artar, sonra sabit kalır.</p>
+<p><span style="color: #0000ff"><strong>3. Işığın Dalga Boyu</strong></span></p>
+<p>Daha önceki yazılarımızı okuduysanız Theodore Engelmann adlı biyoloji bilim insanın yapmış olduğu
+    Engelman deneyi ile ışığın dalga boyunun fotosentez hızına etkisi belli olmaktadır. Engelmann
+    beyaz ışığı prizmadan geçirerek kırmızı, turuncu, mor, sarı, yeşil ve mavi ışınları ayırmış,
+    yeşil alg ve oksijenli solunum yapan bakterilerin bu ışınlarındaki etkisine bakmıştır.</p>
+<p>Engelman deneyinin sonucu olarak, bakteriler en fazla mavi ve mor dalga boylarında en az ise
+    yeşil dalga boylarında fotosentez yapmıştır. Işığın dalga boyunun fotosentez hızına etki eden
+    faktörler arasında yer alması engelman deneyi kanıtlanmıştır.</p>
+<p>Fotosentez hızı en çok mavi ve mor dalga boylarında artmaktadır. fotosentez hızının en aza indiği
+    ışık dalga boyu ise yeşildir.</p>
+<p><span style="color: #0000ff"><strong>4. Su Miktarı</strong></span></p>
+<p>Fotosentezin ışığa bağımlı reaksiyonlarında su, iyonlarına ayrılarak fotositem II için elektron,
+    NADP için hidrojen ve atmosfer için oksijen kaynağı olarak kullanılmaktadır. Bitkide su miktarı
+    yüzde 15’in altına düşerse enzimler duracağı için bitkide fotosentez yapmaz. Suyun yapısında yer
+    alan hidrojen ve oksijen ile bitkiler fotosentez olayını gerçekleştirir.</p>
+<p><span style="color: #0000ff"><strong>5. Mineraller</strong></span></p>
+<p>Minerallerin fotosentez hızına etkisi nedir? diye düşünebilirsiniz. Ancak mineraller sadece
+    biyokimyasal süreçlerde yer almaz bu görevi dışında mineraller fotosentez olayını gerçekleştiren
+    elemanların yapısı içerisinde yer alır. Örneğin demir minerali, ETS elemanlarından ferrodoksinin
+    ve klorofil sentezini katalizleyen bir enzimin yapısında yer almaktadır.</p>
+<p><span style="color: #0000ff"><strong>6. Ortamın PH Değeri</strong></span></p>
+<p>Fotosentez, özellikle ışığa bağımlı olmayan reaksiyonların enzimatik yönü yüksek olduğundan,
+    enzimler de belirli pH aralıklarında çalıştıklarından dolayı ortam pH’ı fotosentez hızını
+    etkiler.</p>
+<h3><span style="color: #0000ff">Genetik Faktörler</span></h3>
+<p><span style="color: #0000ff"><strong>1. Kloroplast Sayısı</strong></span></p>
+<p>Fotosentez, kloroplastlarda gerçekleşir. Yapraktaki kloroplast ve klorofil miktarı arttıkça
+    fotosentez hızı da artar. Koyu yeşil yapraklı bitkilerde kloroplast miktarı fazladır.</p>
+<p>Yaprakta fotosentezin en yoğun gerçekleştiği bölüm kloroplast ve klorofil miktarı en fazla olan
+    palizat parankimasıdır.</p>
+<p><span style="color: #0000ff"><strong>2. Yaprak Yapısı ve Sayısı</strong></span></p>
+<p>Fotosentez bitkilerin yapraklarında gerçekleştiği için yapraklarında yüzey genişliği ve sayısı
+    arttıkça fotosentez hızı da artmaktadır. Bu bilgilere ek olarak bitkinin güneş gören üst kısmı
+    alt kısmına oranla daha fazla fotosentez yapmaktadır.</p>
+<p><span style="color: #0000ff"><strong>3. Stoma Sayısı, Konumu ve Büyüklüğü</strong></span></p>
+<p>Bitkilerde bulunan stomalar gaz alış verişini yapmakla sorumludur. Bitkilerde stoma sayısı
+    arttıkça onunla orantılı olarak karbondioksit alış verişi daha fazla olmaktadır. Karbondioksitte
+    fotosentez hızını etkilemektedir. Bu nedenle stomaların sayısı, konumu ve büyüklüğü fotosentez
+    hızını etkilemektedir.</p>
+<p><span style="color: #0000ff"><strong>4. Epidermis ve Kutikula Kalınlığı</strong></span></p>
+<p>Yaprakların yüzeyini örten, epidermis hücreleri tarafından salgılanan mumsu tabakaya <span
+        style="color: #000080"><strong>kutikula</strong> </span>denir. Epidermis ve kutikula
+    kalınlaştıkça güneş ışığını daha az geçireceğinden fotosentez hızı yavaşlar. Kurak ortam
+    bitkilerinde yaprak yüzeyi dar, stoma sayısı az ve kutikula tabakası kalındır.</p>
+<p><span style="color: #0000ff"><strong>5. Enzim Miktarı</strong></span></p>
+<p>Fotosentezde özellikle ışığa bağımlı olmayan tepkimelerinde pek çok enzim görev yapmaktadır.
+    Fotosentez enzimleri ne kadar fazla ise fotosentez de o derece hızlı gerçekleşir.</p>
+<p>&nbsp;</p>
+<h2 style="text-align: center"><a name="3"></a><span style="color: #000080">Kemosentez</span></h2>
+<p>Klorofiil bulunmayan prokaryot hücre yapısına sahip olan bazı bakteri ve arkelerin inorganik
+    maddelerin oksidasyonu ile açığa çıkan kimyasal enerjiyi kullanarak organik madde sentezlemesi
+    olayına <span style="color: #000080"><strong>kemosentez</strong></span>, bu olayı gerçekleştiren
+    canlılara da <span style="color: #000080"><strong>kemoototrof</strong></span> canlılar denir.
+</p>
+<p>Kemosentez yapan canlılar ışığın ulaşamadığı (örneğin derin okyanus tabanları) yerlerde bulunan
+    çoğu ekosistemde üretici basmaktadır.</p>
+<p>Bazı kemosentetik bakteriler (fotosentezdeki gibi) CO2 yi indirgeme yoluyla organik besin
+    üretirken diğer kemosentetik bakteriler farklı tepkimeler gerçekleştirir.</p>
+<p>Çoğu ekolojik döngünün (azot döngüsü, demir döngüsü gibi) gerçekleşmesinde görev
+    üstlenirler.<br/>
+    Bazı komesentetik canlılar ve tepkimeleri:</p>
+<p><span style="color: #0000ff"><strong>Demir Bakterileri</strong></span></p>
+<p>Bu bakteriler (örneğin, Gallionella, Ferrobacillus, Leptothrix, Clodothrix) demir bileşikleri
+    içeren sulu ortamlarda yaşamaktadır.Çözünür demir bileşikleri, demir bileşiklerini (Fe + +),
+    çözünmez demir bileşiklerine (Fe +++) dönüştürerek ürettikleri serbest enerjiyi besin sentezinde
+    kullanırlar.Demir bakterileri, FeCO3 (Demir karbonat)ı oksitleyerek enerji sağlarlar. Bu
+    enerjiyle de şeker, yağ ve protein gibi maddeler sentezlerler.</p>
+<p><strong>Genel besin sentezi kalıbı:</strong><br/>
+    4FeCO3 + 6H2O &#8212;&#8212;&#8212;&#8212;-&gt; 4Fe(OH)3 + 4CO2 + 58 kcal</p>
+<p><span style="color: #0000ff"><strong> Sülfür Bakterileri</strong></span></p>
+<p>Bu bakteriler (örneğin, Beggiatoa, Thiothrix, Thiobacillus) enerji üretmek için çevreden absorbe
+    ettikleri hidrojen sülfür (H 2 S) veya moleküler sülfür (S 2) kullanırlar. Bu metabolitleri ya
+    kükürt (S 2 ) (eğer H 2 S kullanıyorsa) veya sülfata (SO 4 ) (eğer S 2 kullanıyorsa) okside
+    ederler. Bu işlem sırasında üretilen enerji besin sentez için kullanılır.Kükürt bakterileri,
+    H2S’yi oksitler ve çıkan kimyasal enerjiyle de kendilerine glikoz sentezlerler.</p>
+<p><strong>Besin sentezinin geçerli genel modeli:</strong><br/>
+    H2S + 02 &#8212;&#8212;&#8212;&#8212;&#8211;&gt; H20 + 2S + 122 kcal<br/>
+    2S + 302 &#8212;&#8212;&#8212;&#8212;-&gt; 2H2SO4 + 286 kcal</p>
+<p><strong><span style="color: #0000ff">Nitrifikasyon Bakterileri </span></strong></p>
+<p>Bu iki tip bakteri vardır: bunlar nitrit ve nitrat bakterileridir. Nitrit bakteriler (örneğin,
+    Nitrosomonas, Nitrosococcus) amonyağı (NH 3) oksitleyerek enerji kazanır ve nitrit (N0
+    2)oluşturur. Nitrat bakteriler (örneğin, Nitrobacter, Bactoderma) nitriti oksitleyerek enerji
+    kazanır ve nitrat (N0 3) oluşturur. Bu olaylarda kanılan enerji besin sentezinde kullanılır.
+    Azot bakterileri, N bileşiklerini oksitlerler.</p>
+<p><strong>Genel kalıp aşağıdaki gibidir:</strong><br/>
+    Nitrit Bakteriler :2 NH3 + 3O2 › 2 HNO2 + 2 H2O + 158 Kcal<br/>
+    Nitrat Bakterisi : 2 HNO2 + O2 › 2 HNO3 + 43 Kcal</p>
+</html>

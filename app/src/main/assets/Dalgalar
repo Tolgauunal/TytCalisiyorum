@@ -1,0 +1,212 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2>Dalga, Titreşim</h2>
+<h3>Dalga Nedir?</h3>
+<p>Titreşim hareketinin yakın taneciklere aktarılması ile dalga hareketi oluşur. Titreşim
+    hareketinin tanecikten taneciğe aktarılması sonucunda ortam taneciklerinin düzenli olarak
+    titreşmesine <strong>dalga</strong> ya da <strong>dalga hareketi</strong> denir.</p>
+<p>Yay dalgalarının oluşması için yay, su dalgalarının oluşması için su esnek ortamdır.<br/>
+    Dalganın oluşabilmesi için kuvvet uygulayarak enerji veren bir kaynak gereklidir.</p>
+<p>Bir çubuk ile suya dokunulduğunda ya da suya taş atıldığında su dalgaları oluşur. Bu durumda
+    cisim ya da taş dalga kaynağıdır.<br/>
+    Gitar tellerinin titreştirilmesi ile oluşan ses dalgalarının kaynağı müzisyendir.<br/>
+    Dalga hareketi titreşim hareketinin bir ortamda iletilmesi olayıdır.<br/>
+    Bir cismin, titreşim hareketini başka cisimlere ya da taneciklere aktarmadan tek başına
+    titreşmesi dalga hareketi değildir.</p>
+<p><strong>Enine dalgalar: </strong>Titreşim doğrultusu yayılma doğrultusuna dik olan dalgalara
+    enine dalgalar denir.<br/>
+    <strong>Örnek:</strong> e.m.d, Yay dalgaları, Deprem dalgaları, Su dalgaları.</p>
+<p><strong>Boyuna dalgalar: </strong>Titreşim doğrultusu yayılma doğrultusuna paralel olan bu
+    dalgalara da boyuna dalgalar denir.<br/>
+    <strong>Örnek:</strong> Ses dalgaları,Yay dalgaları, Deprem dalgaları, Su dalgaları.</p>
+<p><strong>Mekanik Dalga:</strong> Yayılabilmesi için maddesel bir ortama ihtiyaç duyan dalgalara
+    denir.<br/>
+    <strong>Örnek:</strong> Ses, yay,su,deprem dalgaları</p>
+<p><strong>Elektromanyetik Dalgalar:</strong> Yayılması için maddesel ortama ihtiyaç duymayan,
+    yüklerin ivmeli hareketi ile oluşturulan, boşlukta ışık hızı ile yayılan, elektrik ve manyetik
+    alana sahip dalgalara denir.<br/>
+    <strong>Örnek:</strong> Radyo Dalgaları, Morötesi Dalgalar, Kızılötesi Dalgalar, X ışınları.</p>
+<h3>Dalga Hareketi </h3>
+<p><strong>Dalga hareketi</strong>, orta parçaların yer değişimi sıklıkla olmadan, yani çok az ya da
+    hiç kütle taşınımı olmadan, enerjiyi bir yerden başka bir yere taşır. Dalgalar sabit konumlarda
+    oluşan titreşimlerden oluşurlar ve zamanla nasıl ilerlediğini gösteren bir dalga denklemi ile
+    tanımlanırlar. Bu denklemin matematiksel tanımı dalga çeşidine göre farklılık gösterir.</p>
+<p>Dalgaları iki şekilde sınıflandırabiliriz. İlki dalgaların taşıdığı enerjiye göredir. Yayılması
+    için bir ortama ihtiyacı olan ve enerjiyi içinde bulunduğu ortamda taşıyan dalgalara <strong>mekanik
+        dalgalar</strong> denir.<em> Tel dalgası, yay dalgası, su dalgası ve ses dalgası</em>
+    mekanik dalgalardır. Hepsinin yayılabilmesi için bir maddesel ortama (tele, yaya, suya veya
+    havaya) ihtiyacı vardır. Hepsi enerjiyi içinde bulundukları ortamda bir yerden başka bir yere
+    taşır. Yayılması için ortama ihtiyaç bulunmayan, boşlukta yayılabilen dalgalara<strong>
+        elektromanyetik dalgalar</strong> denir. Işık bir elektromanyetik dalgadır, enerjiyi taşımak
+    için ortama ihtiyacı yoktur. Örneğin, Güneş’ten Dünya’ya enerjiyi taşıyan ışık boşlukta yayılır.
+</p>
+<p>&nbsp;</p>
+<h3>Dalga Temel Kavramlar </h3>
+<p><strong>Dalga Boyu Nedir?</strong></p>
+<p>Ard arda gelen iki dalga tepesi veya iki dalga çukuru arasındaki mesafeye <strong>dalga
+    boyu</strong> denir. Dalga boyu birimi metre
+    dir. Dalga boyu kaynağa ve ortama bağlıdır. ”<strong>λ</strong>” ile gösterilir.</p>
+<p><strong>Periyot Nedir?</strong></p>
+<p>Bir tam dalga oluşması için geçen süreye denir. Birimi saniyedir. <strong>Periyot</strong>
+    dalgayı oluşturan kaynağa bağlıdır. ”<strong>T</strong>” ile gösterilir.</p>
+<p>Periyot ile frekans arasında ;</p>
+<p><strong>T.f=1</strong> ilişkisi vardır.</p>
+<p><strong>Frekans Nedir?</strong></p>
+<p><strong>Frekans</strong> bir saniyede oluşan dalga sayısıdır. Frekansın simgesi
+    <strong>f</strong>, birimi 1/s (ya da s<sup>-1</sup>) ‘dir. Frekansın birimi olan 1/s ‘ye Hertz
+    (Hz) de denir. Frekansla periyot birbiriyle çok yakından ilişkilidir.</p>
+<p>Matematiksel olarak:<strong>T.f = 1</strong></p>
+<p><strong>Dalganın Hızı Nedir?</strong></p>
+<p>Dalganın birim zamanda aldığı yoldur. Dalganın hızı yalnızca ortama bağlıdır ” <strong>v</strong>”
+    ile gösterilir. Dalganın hızı aşağıdaki
+    formül ile hesaplanır.</p>
+<p><strong>λ= v.T</strong> veya <strong>λ= v/F</strong></p>
+<p><strong>Atma Nedir?</strong></p>
+<p>Bir ortamda ilerleyen sarsıntıya <strong>atma</strong> denir.
+    Atma periyodik olarak devam ederse dalga oluşur. Atmalar baş aşağı atma ve baş yukarı atma olmak
+    üzere ikiye ayrılır.</p>
+<h3>Stroboskop Nedir? </h3>
+<p>Bir stroboskop, aynı zamanda olarak da bilinen stroboskop , döngüsel hareket eden bir nesne,
+    yavaş hareket ya da sabit olarak görünmesini sağlamak için kullanılan bir alettir. Ya yuvaları
+    ya da delikleri olan dönen bir diskten ya da kısa tekrarlayan ışık parlamaları üreten bir
+    elektronik flaş lambası gibi bir lambadan oluşur . Genellikle stroboskobun hızı farklı
+    frekanslara ayarlanabilir. Stroboskopla titreşim frekansında (veya onun bir alt katında) dönen
+    veya titreyen bir nesne gözlendiğinde, sabit görünür. Bu nedenle, stroboskoplar ayrıca frekansı
+    ölçmek için kullanılır.</p>
+<p>Prensip, dönen , ileri geri hareket eden , salınan veya titreşen nesnelerin incelenmesi için
+    kullanılır . Makine parçaları ve titreşimli tel yaygın örneklerdir. Ayarlamak için kullanılan
+    bir stroboskop ateşleme zamanlamasını ve içten yanmalı motorlarda bir adlandırılır zamanlama
+    ışık .</p>
+<h3>Rezonans Nedir? </h3>
+<p>Rezonans, bir sistemin bazı frekanslarda diğerlerine nazaran daha büyük genliklerde salınması
+    eğilimidir. Bunlar, o sistemin rezonans frekansları olarak adlandırılır. Bu frekanslarda küçük
+    periyodik kuvvetler bile çok büyük genlikler üretebilir.</p>
+<p>Periyodik bir etkinin altında olan sistemde salınımlar olduğunu biliriz. Salınımlar esnasında
+    sistemin normal durumuna göre yaptığı yer değiştirme miktarına genlik denir. Bu salınımlar eğer
+    sistemin doğal frekansına eşit olursa, sistemin genliği sonsuza dek artma eğilimi gösterir; bu
+    olaya <strong>rezonans</strong> denir.</p>
+<p>&nbsp;</p>
+<h3>Ses Dalgası Özellikleri</h3>
+<p>İşittiğimiz sesler çok şiddetli , zayıf, ince ya da kalın olabilir. Seslerdeki bu farklar, ses
+    kaynaklarındaki sesin oluşma şekillerine bağlıdır.</p>
+<p>Sesleri birbirinden ayıran özellikler üç tanedir;</p>
+<p><strong>1. Sesin Şiddeti (Gürlüğü)</strong></p>
+<p>Sesin zayıf ya da kuvvetli olmasına şiddet (gürlük) denir. Sesin şiddeti, ses dalgalarının
+    enerjisine ve genliğine bağlıdır. Genlik büyükse ses şiddetli, küçükse ses zayıf duyulur.</p>
+<p>Aynı genlikteki ses dalgalarının şiddetleri eşittir. Ses kaynağından uzaklaştıkça sesin şiddeti
+    daha az, yaklaştıkça daha fazla algılanır.</p>
+<p>Sesin şiddetinin birimi desibel (dB) dir. İşitilebilen en hafif ses 0 dB dir ve buna işitme eşiği
+    denir. İnsan 0 – 120 dB aralığındaki sesleri duyabilir. 30 ile 60 dB arası sesler normal
+    şiddetteki seslerdir. 60 dB den fazla olan sesler şiddetlidir ve rahatsız eder.</p>
+<p>Şiddetli sesler;</p>
+<p>&#8211; Uyumayı ve düşünmeyi zorlaştırır.<br/>
+    &#8211; Stres ve sinir yapar.<br/>
+    &#8211; İşitme kaybına neden olabilir.</p>
+<p><strong>2. Sesin Yüksekliği</strong></p>
+<p>Sesin ince ya da kalın olmasını ayırt etmeyi sağlayan özelliktir. Sesin yüksekliği, ses
+    kaynağının titreşim hızına (frekansına) bağlıdır. Frekans bir saniyedeki titreşim sayısıdır.
+    Frekans arttıkça ses incelir, frekans azaldıkça ses kalınlaşır. Sesi oluşturan cismin titreşim
+    frekansı cismin boyuna, cinsine, kalınlığına ve gerginliğine bağlıdır.</p>
+<p>Bir gitarda aynı gerginlikteki farklı kalınlıktaki teller aynı şiddetle titreştiğinde kalın olan
+    telin frekansı az ve kalın ve alçak ses üretir. İnce olan tel ise frekansı fazla olan ince ve
+    yüksek ses çıkardığı görülür.</p>
+<p><strong>3. Sesin Tınısı</strong></p>
+<p>Sesler aynı şiddette ve frekansta bile olsalar birbirinden ayırt edilebilirler. Her ses kaynağı
+    kendine özgü ses çıkarır. Bir sesin hangi kaynaktan çıktığını tanıtan özelliğe sesin tınısı
+    denir.</p>
+<p>Ses çıkaran müzik aletinin saz mı, gitar mı yoksa piyano mu olduğunu seslerinden ayırt
+    edilebilir. Aynı şiddet ve yükseklikte çıkan seslerde bile, saz, gitar ve piyanodan çıkan sesler
+    birbirinden farklıdır. Bu farklılığı belirten özellik sesin tınısıdır. Farklı ses kaynaklarının
+    tınıları farklıdır.</p>
+<h3>Yankı, Uğultu ,Gürültü</h3>
+<p><strong>Yankı Nedir?</strong></p>
+<p>Sesin bir engele çarparak kaynağının bulunduğu yere geri dönmesi olayına <strong>yankı</strong>
+    denir.</p>
+<p><strong>Gürültü Nedir?</strong></p>
+<p>Çevre ve sağlık sorunlarına neden olabilen, istenmeyen bir çok sesin kulağa yoğun olarak
+    gelmesiyle oluşan ses kirliliğine <strong>gürültü</strong> denir. Yoğun trafik, iş makineleri,
+    beten kırıcıları gürültüye neden olabilir.</p>
+<p><strong>Uğultu Nedir?</strong></p>
+<p>Sesin gürültüsü, boğuk ve anlaşılmaz olmasına<strong> uğultu</strong> denir. Kalabalığın fazla
+    olduğu yerde insanların kendi aralarında konuşmaları uğultuya neden olabilir.</p>
+<h3>Ses Kirliliği</h3>
+<p>Gürültü kirliliği veya diğer adıyla ses kirliliği, insan veya hayvan yaşamını olumsuz etkileyen,
+    dengesini bozan her türlü insan, hayvan ya da makine kaynaklı ses oluşumudur. Gürültü
+    kirliliğinin en yaygın biçimlerinden biri, özellikle motorlu araçların neden olduğu
+    kirliliktir.</p>
+<p>Dünya çapında en yaygın gürültü türü ulaşım sistemlerinden kaynaklanır. Motorlu araçların yanı
+    sıra uçak ve Demiryolu araçlarının yarattığı gürültü de önemli bir yer tutar. Şehir
+    planlamacılığında yanlışlar yapılması sanayi ve yerleşim alanlarının birbirine bitişmesine neden
+    olabilir ve sonuç olarak sanayi alanının yarattığı gürültü kirliliği komşu yerleşim birimlerinde
+    yaşayanların sağlığı üzerinde olumsuz etkiler yaratabilir. Gürültü kirliliği yaratan diğer
+    etmenler arasında özellikle istirahat saatlerinde yayılan araba alarmları, acil durum sirenleri,
+    çeşitli beyaz eşyalar ile ev âletlerinin gürültüleri, fabrika-makine sesleri, yapım ve onarım
+    çalışmaları, ses çıkaran hayvanlar, ses sistemleri, hoparlörler, maç, eğlence, dini-sosyal
+    faaliyetler sayılabilir.</p>
+<p>Gürültünün insan sağlığı üzerindeki etkileri hem sağlıksal hem davranışsal yönde ortaya
+    çıkabilir. Genel olarak, gürültü olarak adlandırılan her türlü ses insan sağlığını fizyolojik ve
+    psikolojik olarak etkiler. İstenmeyen bu sesler sinir, saldırganlık, hipertansiyon, yüksek
+    stres, kulak çınlaması ya da kulak uğuldaması, duyma kaybı, uyku bozuklukları gibi pek çok sonuç
+    doğurabilir.</p>
+<p>Bu sonuçlar içinde, stres ve hipertansiyon ciddi sağlık sorunlarına kapı açabilirken, kulak
+    çınlamaları ve uğuldamaları unutkanlığa, ciddi ruhsal bunalımlara ve kimi zaman panik ataklara
+    neden olabilir.</p>
+
+<h3>Deprem Dalgası</h3>
+<p>Yer kabuğunun içinde ani kaya kıvrılmaları ile açığa çıkan enerjinin dalgalar halinde yayılması
+    sonucu yer sarsılmasına <strong>deprem</strong> denir.</p>
+<p>Depremler, volkanlar, yeraltındaki patlamalar veya bir madendeki tünellerin çökmesi, deprem
+    dalgaları ya da daha genel adıyla sismik dalgaların oluşmasına neden olur. Dört çeşit deprem
+    dalgası vardır. Bu dalgaların hareket hızı birbirinden farklıdır. Ama tüm deprem dalgaları
+    maddesel dalgalardır.</p>
+<p><strong>Cisim Dalgaları</strong></p>
+<p>Yer kabuğunun iç kısimlarındaki odak bölgesinden her yöne yayılan dalgalara cisim dalgaları adı
+    verilir.</p>
+<p><strong>1. P dalgaları</strong><br/>
+    <strong>2. S dalgaları </strong>olmak üzere iki çeşidi vardır.</p>
+<p>P-dalgaları ile S-dalgaları yerkabuğunun içerisinde meydana geldiği için bu dalgalara <strong>cisim
+    dalgaları</strong> denir.</p>
+<p><strong>P Dalgaları:</strong> Deprem odağından çevreye yayılan boyuna dalgalara <strong>P
+    dalgaları</strong> denir.</p>
+<p><strong>»</strong> Sismografa (depremin şiddetini ölçen cihaz) ilk ulaşan ilk deprem
+    dalgasıdır.<br/>
+    <strong>»</strong> Hızı, kabuğun yapısına göre 1,5 km/s ile 8 km/s arasında değişir.<br/>
+    <strong>»</strong> Yıkım etkileri düşüktür.<br/>
+    <strong>»</strong> Her ortamda (katı-sıvı-gaz) yayılırlar.<br/>
+    <strong>»</strong> Boyuna dalgalardır.</p>
+<p><strong>S Dalgaları:</strong> Deprem odağından çevreye yayılan enine dalgalara<strong> S
+    dalgaları</strong> denir.</p>
+<p><strong>»</strong> Kayıtlara ikinci ulaşan dalgalardır.<br/>
+    <strong>»</strong> Hızı P dalgasının hızına göre değişirn ve yaklaşık 1 km/s ile 6,4 km/s
+    arasındadır.<br/>
+    <strong>»</strong> Sadece katı kütlelerde hareket ederler.<br/>
+    <strong>»</strong> Enine dalgalardır.</p>
+<p><strong>Yüzey Dalgaları</strong></p>
+<p>Odağa en yakın yani merkez üssü olarak adlandırılan bölgeden yayılan dalgalara <strong>yüzey
+    dalgaları</strong> denir.</p>
+<p>Deprem dalgaları içerisınde en yavaş ilerleyen dalgalardır.<br/>
+    – Yüzey dalgaları dünyanın yüzeyi boyunca yayılır.<br/>
+    – P ve S dalgalarından sonra kayıtlara (sismograf) ulaşır.<br/>
+    – Yüzey dalgalarının oluşumları sırasında yer hareket ettiğinden etkisi büyük olur.</p>
+<p>Yüzey dalgalarının;</p>
+<p><strong>1. Rayleigh dalgaları</strong><br/>
+    <strong>2. Love dalgaları </strong> olmak üzere iki çeşidi vardır.</p>
+<p><strong>Rayleigh Dalgaları:</strong> Yeryüzünde okyanus üzerinde ilerleyen su dalgası gibi
+    ilerleyen dalgalara <strong>rayleigh dalgası</strong> adı verilir. Deprem anında hissedilen
+    sarsıntıların çoğu, diğer dalgalardan çok daha büyük enerji taşıyan bu Rayleigh dalgasından
+    kaynaklanır.</p>
+<p><strong>Love Dalgaları:</strong> Yeri yatay düzlemde hareket ettiren yüzey dalgalarına <strong>Love
+    dalgaları</strong> denir.</p>
+<p><strong>»</strong> Yüzey Dalgalarının en hızlısıdır.<br/>
+    <strong>»</strong> Yeri yatay düzlemde hareket ettirir.<br/>
+    <strong>»</strong> Yer yüzünde yarılmalara neden olur</p>
+</html>

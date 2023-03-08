@@ -1,0 +1,25 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';
+
+    </style>
+</head>
+<h2>Mol Kavramı</h2>
+<p>Mol kelimesi Latincede büyük yığın anlamındadır. Mol kavramı, çok büyük sayıları ifade etmekte
+    kullanılan trilyon ve katrilyona benzemekle beraber onlardan çok daha büyük bir miktar
+    birimidir. Nasıl ki tek tek sayılar yerine düzine ifadesini kullanmak, sayım işleminde kolaylık
+    sağlıyorsa kimyada da atomların sayımı için mol ifadesi birim olarak kolaylık sağlar. Mol
+    kavramı bilimsel olarak karbon <sup>12</sup>C izotopunun atomlarıyla tanımlanmış olsa da her tür
+    kimyasal için geçerli bir kavramdır.</p>
+<p>1 mol denildiği zaman 602.000.000.000.000.000.000.000 tane veya daha kısa olarak
+    6,02×10<sup>23</sup> sayısıyla ifade edilir. Bu sayıya <strong>Avogadro sayısı</strong> adı
+    verilir ve N<sub>A</sub> ile gösterilir. <strong>Mol</strong>, herhangi bir maddenin Avogadro
+    sayısı (6,02×10<sup>23</sup> ) kadar tanecik (atom, molekül, formül birim, iyon ) içeren
+    miktarına denir.</p>
+</html>

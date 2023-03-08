@@ -1,0 +1,377 @@
+<html>
+<style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+</style>
+<h1>Kalıtım(Genetik)</h1>
+<p>Canlılarda bir karakterin meydana gelişini, gelişmesini, oluşumunu bir dölden yeni bir döle
+    geçmesini inceleyen ve araştıran bilim dalına 
+            <strong>genetik</strong>denir.Genetik 
+            <strong>kalıtım</strong>olarakta adlandırılmaktadır.</p>
+<h2><a name="1"></a> Kalıtsal (Genetik) Kavramlar</h2>
+<p> <strong>Kalıtım bilimi (genetik):</strong> Canlılardaki
+    benzerlik ve farklılıkların ortaya çıkmasını sağlayan faktörleri, bu faktörlerin nesilden nesle
+    nasıl geçtiğini araştıran bilim dalına 
+            <strong>kalıtım bilimi</strong>veya 
+            <strong>genetik</strong>denir.</p>
+<p> <strong>Gen:</strong> Kromozomların kalıtsal bir karakterin
+    oğul döllere aktarılmasını sağlayan bölümüne denir. Gen, yaklaşık 1500 adet nükleotitten oluşan
+    DNA parçasıdır.</p>
+<p> <strong>Allel gen:</strong> Bir karakterin kalıtımından
+    sorumlu gen çiftidir.</p>
+<p> <strong>Genotip:</strong>Bir canlının anne ve babasından
+    aldığı genlerin tümüdür.</p>
+<p> <strong>Fenotip:</strong>Bir canlının, genotipine bağlı
+    olarak oluşan dış görünüşüne denir. Fenotipin belirlenmesinde, genotip kadar çevresinin de rolü
+    vardır.</p>
+<p> <strong>Dominant (baskın) gen:</strong> Dölde etkisini her
+    zaman gösterebilen gendir. Büyük harflerle gösterilir. A, B, C gibi.</p>
+<p> <strong>Resesif (çekinik) gen:</strong>Dominant gen
+    olmadığında etkisini gösterebilen gendir. Küçük harflerle gösterilir. a, d, gibi. Resesif
+    karakterin, oğul dölün fenotipinde kendini gösterebilmesi için, iki resesif genin yan yana
+    gelmesi şarttır. (aa, dd, bb gibi.)</p>
+<p> <strong>Bağımsız Gen:</strong>Farklı kromozomlar üzerinde
+    bulunan genlerdir.</p>
+<p> <strong>Bağlı Gen:</strong>Aynı kromozom üzerinde bulunan
+    genlerdir. Bağlı genler sadece krossing over ile ayrılabilirler.</p>
+<p> <strong>Mutasyon:</strong>Değişen ortam şartlarında canlının
+    genotipinde meydana gelen değişikliklerdir. Mutasyonlar canlının yaşamını olumsuz yönde etkiler.
+</p>
+<p> <strong>Modifikasyon:</strong> Değişen ortam şartlarında
+    canlının fenotipinde meydana gelen ve kalıtsal olmayan değişikliklerdir. Modifikasyon en iyi tek
+    yumurta ikizlerinde incelenir.</p>
+<p>Tek yumurta ikizlerinde, bir yumurta bir sperm tarafından döllenir. Zigotun mitozla bölünmesi
+    sonucu oluşan iki hücre ayrılarak, mitozla iki bireyi oluşturur. Dolayısıyla kalıtsal
+    özellikleri aynıdır.</p>
+<p>Tek yumurta ikizlerinde görülen farklılıklar tamamen modifikasyonla olur. Çünkü kalıtsal
+    özellikleri birbirinin tamamen aynısıdır.</p>
+<p>Doğuşta birbirlerine benzeyen tek yumurta ikizleri, zamanla dış çevre şartlarının etkisiyle
+    birbirlerinden farklı gelişmeler gösterebilir. Dış görünüşlerinde farklılıklar gözlenebilir.
+    Örneğin boy uzunluğu ve kilo gibi özellikleri farklı olabilir.</p>
+<p> <strong>Adaptasyon:</strong> Değişen ortam şartlarında,
+    canlının sahip olduğu genlerle bulunduğu ortama uyum sağlamasıdır. Adaptasyon, canlının yaşama
+    ve üreme şansını artırır. Örneğin kaktüslerin iğne yapraklı olması, çöllerde yaşayan develerin
+    hörgüçlerinde yağ depolaması ve kurak ortam bitkilerinde stomaların yaprağın alt yüzeyinde
+    bulunması birer adaptasyondur.</p>
+<p> <strong>Varyasyon:</strong> Canlılarda ortaya çıkan tür içi
+    değişikliklerdir. Varyasyonlar, mutasyon ve eşeyli üreme olayları sonucu oluşur.</p>
+<p>&nbsp;</p>
+<h2><a name="2"></a> Gamet Bulma</h2>
+<p>Kalıtım çaprazlamalarında gamet sayısı değil gamet çeşidi önemlidir. Gametler (dişi ve erkek
+    üreme hücreleri) mayoz bölünmeyle meydana geldiği için haploit (n) kromozomludurlar.</p>
+<p>Çaprazlamalar gametlerle yapıldığından, öncelikle genotipi belli olan bir canlının
+    oluşturabileceği gamet çeşidinin hesaplanması gerekir. Böylece oluşabilecek bireylerin genotip
+    ve fenotipleri doğru olarak tahmin edilebilir.</p>
+<h3> Bağımsız Genlerde Gamet Bulma</h3>
+<p> <strong>Homozigot durumda gamet çeşidi:</strong></p>
+<p><strong> &#8211;</strong>Bir ya da daha fazla karakter
+    bakımından Homozigot (saf) olan bir birey mayoz bölünme ile yalnız bir çeşit gamet
+    oluşturabilir.</p>
+<p><strong>Örnek:</strong> AAbb genotipinde kaç çeşit gamet oluşur?</p>
+<p><strong>Çözüm:</strong> Karakterler homozigot olduğu için sadece Ab genlerini taşıyan tek çeşit
+    gamet oluşacaktır. n = 0 ise 2n = 20 = 1</p>
+<p> <strong>Heterozigot durumda gamet çeşidi:</strong></p>
+<p><strong> &#8211;</strong>Genleri heterozigot olan
+    karakterlerin oluşturabileceği gamet çeşidi “2n” formülü ile bulunur. Burada “n” heterozigot
+    (melez) karakter sayısını ifade eder.</p>
+<h3> Bağlı Genlerde Gamet Bulma</h3>
+<p>Bağlı genlerde, aynı kromozom üzerinde bulunan genler gamet oluşumu sırasında beraber giderler.
+    Bu durum ise oluşabilecek gamet çeşitliliğini azaltır.</p>
+<p><strong> &#8211;</strong>Bağlı genlerde krossing-over varsa
+    oluşabilecek gamet çeşidi bağımsız genlerde olduğu gibi 2n formülü ile bulunur.</p>
+<p><strong> &#8211;</strong>Bağlı genlerde krossing-over yoksa
+    genleri bağlı olan karakterler, tek bir karakter gibi değerlendirilerek melez karakter sayısı
+    tespit edilir. 2n formülü uygulanır.</p>
+<p>&nbsp;</p>
+<h2><a name="3"></a> Mendel İlkeleri ve Uygulamaları</h2>
+<p>Gregor Mendel yetiştirdiği bezelyelerle deneyler yaparak temel genetik yasalarını keşfetmeyi
+    başarmıştır. Mendel&#8217;in başarılı sonuçlar alması çalışmalarında tesadüfen bezelyeleri
+    seçmiş olmasıyla ilgilidir. Çünkü bezelyeler çaprazlama için uygun özelliklere sahip
+    bitkilerdir. Bu özellikler;</p>
+<p> <strong>1.</strong>Bezelyeler kolayca yetiştirilen ve kısa
+    zamanda döl veren bitkilerdir.<br/>
+     <strong>2.</strong>Bezelye çiçekleri, aynı türün farklı
+    bireyleriyle tozlaşma özelliğine sahip değildir. Kendi kendine tozlaşabilecek bir çiçek yapısına
+    sahiptir. Çünkü çiçeklerinin taç yaprakları dişi ve erkek organları tamamen sardığı için,
+    yumurta hücresi başka bir bitkinin polenleriyle tozlaşamaz.<br/>
+     <strong>3.</strong>Dışardan gözlenebilen çok çeşit içerir.
+    Örneğin bezelyelerin bir çeşidi; buruşuk tohumluyken başka bir çeşidi yuvarlak tohumludur ve bir
+    çeşidi mor renkli çiçeklere sahipken diğer çeşidi beyaz çiçeklere sahiptir.</p>
+<p>Mendel’in bezelyeleri seçmesinin dışın da başarılı olmasının başlıca nedenleri şunlardır:</p>
+<p><strong> &#8211;</strong>Çalışmalarında bitkinin tüm
+    özelliklerini değil, bir özelliğini dikkate aldı. Örneğin yeşil tohumluları sarı tohumlularla,
+    buruşukları düz tohumlularla çaprazladı.</p>
+<p><strong> &#8211;</strong>Çok sayıda ebeveyne (anne-baba)
+    kullandı.</p>
+<p><strong> &#8211;</strong>Sayısal çalıştı ve istatistik
+    kurallarını biyolojiye uyguladı.</p>
+<h3> Mendel İlkeleri</h3>
+<p><strong>1.</strong> Karakterlerin nesillere aktarılmasını sağlayan birim faktörler (genler)
+    vardır.</p>
+<p><strong>2.</strong> Bir bireydeki karakterin belirlenmesinde birbirinin aynısı ya da birbirinden
+    farklı bir çift alel gen bulunur.</p>
+<p><strong>3.</strong> Eğer bir karakterin farklı özelliklerinin geni bir bireyde bulunursa yalnız
+    biri tam olarak etkisini gösterir. (Dominantlık yasası)</p>
+<p><strong>4.</strong> Bir özellik bakımından farklı iki arı döl çaprazlanırsa (AA x aa) F1
+    dölündeki bireylerin hepsi birbirine benzer. (Benzerlik Yasası)</p>
+<p> <strong>5.</strong> Bir çift genden her biri eşit olasılıkla
+    birbirinden ayrılarak farklı gametlere geçer. Yani oluşan gametler her alel çiftinden sadece bir
+    alel geni taşır. (Ayrılma İlkesi)</p>
+<p><strong>6.</strong> Melezlerin kendi aralarında çaprazlanması ile belirli özelliklerin önceden
+    tahmin edilen oranlarda ortaya çıkması gametlerin rastgele birleşmesi ile ilgilidir. (Bağımsız
+    Dağılım İlkesi)</p>
+<p> <b>Çaprazlama:</b> Ata canlılardan gelen gametlerin nasıl
+    birleştirildiğinin gösterilmesidir.</p>
+<p><strong> &#8211;</strong>Çaprazlamalarda ata canlılar
+    parental kelimesinin ilk harfi olan P ile, meydana gelen gametler G ile, çaprazlama sonucu
+    oluşan yavrular filial kelimesinin ilk harfi olan F ile gösterilir. F1 ilk çaprazlama sonucu
+    oluşan bireyleri; F2 ise ikinci çaprazlama sonucunda oluşan bireyleri gösterir.</p>
+<p> <b>Monohibrit Çaprazlama</b></p>
+<p>Erkek ve dişi genlerin sembollerle gösterilerek yavrunun genotip ve fenotipinin ihtimallerinin
+    hesaplanmasıdır.</p>
+<p>Bu şekilde yalnızca bir özellik dikkate alınarak yapılan çaprazlamalara &#8220;monohibrit
+    çaprazlama&#8221;, bu olayın kalıtımına da &#8220;monohibrit kalıtım&#8221; denir.</p>
+<p>Eğer bir canlıda iki gen birbirine tamamen benziyorsa, (SS ya da ss gibi) bunlara &#8220;homozigot&#8221;
+    ya da &#8220;saf kan&#8221; denir. Saf kan (homozigot) bireyler elde etmek için kendileşme
+    yapılır yani döllenme bireyin kardeşi, annesi babası ya da yavrusu ile olmalıdır.</p>
+<p> <strong>Dihibrit Çaprazlama</strong></p>
+<p>Dihibirit çaprazlama ise, bir türün, iki karakterini taşıyan gen lokusları bakımından iki gametin
+    çaprazlanmasıdır. İki karakter bakımından birbirinden farklı olan bireyler arasında yapılan
+    çaprazlamaya denir.</p>
+<h2><a name="4"></a>
+        Eş Baskınlık, Çok Allelik ve Kan Grubu Genetiği</h2>
+<h3> Eş Baskınlık Nedir?</h3>
+<p>Mendel’in çalışmalarında tam baskınlık durumunda heterozigot genotipli bireylerin fenotipinde
+    baskın özellik görülür.</p>
+<p>Eş baskınlıkta aleller birbirine baskınlık kuramadığından heterozigot bireylerin fenotipinde iki
+    alelin etkisi birlikte görülür. Eş baskınlıkta heterozigot genotipli bireylerde her iki alel de
+    fenotipi ayrı ayrı ve farklı olarak etkiler. Eş baskınlığa örnek olarak insanda M ve N
+    genlerinin kontrol ettiği MN kan grubu, A ve B genlerinin kontrol ettiği AB kan grubu
+    verilebilir.</p>
+<p>MN kan grubu sisteminde M, N ve MN olmak üzere üç farklı kan grubu vardır. Bu gruplandırmada
+    alyuvarların zarında bulunan M ve N antijenleri etkilidir. Bağışıklık tepkisine yol açarak
+    antikor oluşumuna neden olan maddelere antijen denir. Alyuvar zarında sadece M antijeni taşıyan
+    bireyler M kan grubuna, sadece N antijeni taşıyan bireyler N kan grubuna sahiptir. Alyuvar
+    zarında M ve N antijenlerini birlikte taşıyan bireyler ise MN kan grubuna sahiptir.</p>
+<h3> Çok Alellik Nedir?</h3>
+<p>Bir karakteri oluşturan alel çeşidinin ikiden fazla olması durumuna çok alellik denir. Farklı
+    canlılarda çok alelli olarak kalıtılan özelliklere rastlanır.</p>
+<p>Bir karakterin kaç çeşit aleli olursa olsun, diploit canlı bu alellerden en fazla ikisine,
+    haploit canlı ise bir tanesine sahip olur.</p>
+<p>Tavşanlarda kürk renginin, meyve sineğinde göz renginin ve insanda kan gruplarının kalıtımında
+    ikiden fazla alel gen rol oynar.</p>
+<p>Tavşanlarda kürk rengi; dört farklı alel gen tarafından belirlenir. Bu genlerin arasında eş
+    baskınlık yoktur. Bunun için dört çeşit fenotip oluşur. Bunlar himalaya, gümüşi, yabani ve
+    albino şeklindeki fenotiplerdir.</p>
+<h3> Kan Grubu Genetiği</h3>
+<p>A, B, AB ve 0 kan gruplarının kalıtımını A, B ve 0 genleri sağlar. Bu genlerden A ve B genleri
+    baskın, A ve B genleri birlikte bulunursa eş baskın, 0 geni ise çekiniktir.</p>
+<p><strong> &#8211;</strong>Alyuvar yüzeyinde A antijeni varsa A
+    grubu, B antijeni varsa B grubu, hem A hem de B antijenleri varsa AB grubu, antijen yoksa 0
+    (sıfır) grubu oluşur.</p>
+<p><strong> &#8211;</strong>Kan plazmasında ise antikorlar
+    bulunur. A kan grubunun plazmasında anti B, B kan grubunun plazmasında anti A, 0 grubunun
+    plazmasında hem anti A hem de anti B antikorları bulunur. AB kan grubunun plazmasında ise
+    antikor yoktur.</p>
+<p> <strong>Rh faktörü:</strong>Rh faktörünü belirleyen gen,
+    &#8220;R&#8221; simgesiyle gösterilir. Bir insanın kanında Rh antijeni bulunuyorsa Rh (+),
+    bulundurmuyorsa Rh (-) kan grubundandır. İnsanların %85&#8217;i Rh(+), %15&#8217;i Rh(-) kan
+    grupludur. Kan grubu Rh(+) baskın, Rh(-) çekinik özelliktedir.</p>
+<p>Birbirleriyle uyumlu olan kan gruplarının bilinmesi kan nakilleri açısından son derece önemlidir.
+    Eğer vericinin kanında alıcı için yabancı bir protein (A ya da B antijeni) varsa alıcı
+    tarafından üretilen antikorlar (anti A ya da anti B) yabancı proteine tutunur ve kan hücreleri
+    birbirine yapışarak kümelenir. Bu olaya  <strong>çökelme (aglütinasyon)</strong>
+    adı verilir.</p>
+<p> <strong>Kan nakillerinde neye dikkat edilir?</strong></p>
+<p><strong> &#8211;</strong>Vericinin antikorları dikkate
+    alınmaz. Çünkü vericinin kanıyla birlikte gelen antikorlar alıcının bağ dokusu hücreleri
+    tarafından yok edilir. Vericinin antijenleri dikkate alınır. Çünkü bu antijenler alıcı
+    tarafından yabancı olarak algılandığında onlara karşı antikor üretilir. Bu nedenle kan
+    nakillerinde vericinin antijenleri, alıcının antikorları dikkate alınır.<br/>
+    <strong> &#8211;</strong>A kan gruplu bir insanın kan
+    plazmasında Anti B antikoru bulunduğu için B kan gruplu insanların kanını kümeleştirerek
+    çökeltir.<br/>
+    <strong> &#8211;</strong>B kan gruplu bir insanın kan
+    plazmasında Anti A antikoru bulunduğu için A kan grubu insanların kanını kümeleştirerek çökeltir
+    (Bu nedenle A ve B kan gruplu insanlar birbirine kan veremez).<br/>
+    <strong> &#8211;</strong>AB kan gruplu bir insanın kan
+    plazmasında antikor bulunmadığından A, B ve 0 gruplu insanlardan kan alabilir (genel alıcı)
+    fakat A ve B antijeni olduğu için kan veremez.<br/>
+    <strong> &#8211;</strong>0 kan gruplu bir insanın kan
+    plazmasında Anti A ve Anti B bulunduğu için A ve B antijeni taşıyan alyuvarları kümeleştirir. Bu
+    nedenle diğer gruplardan kan alamaz fakat A ve B antijenleri olmadığı için kan verebilir (genel
+    verici).</p>
+<h2><a name="5"></a> Eşeye Bağlı Kalıtım</h2>
+<p>Cinsiyeti (eşeyi) belirleyen X ve Y kromozomları üzerinde yer alan genler
+        <strong> eşeye bağlı genler</strong>olarak adlandırılır.</p>
+<p>İnsanda 46 kromozom bulunur. 44 kromozom ( vücut kromozomları ) vücut organlarını oluşturur.
+    Diğer 2 kromozom ( eşey kromozomları ) cinsiyet özelliklerini belirler. Dişi ve erkek bireylerin
+    vücutlarının farklı özellikte olması eşey kromozomları sayesindedir. İnsanda cinsiyeti Y
+    kromozomunun bulunup bulunmaması belirler. Y kromozomu babadan gelir ve bireyin erkek olmasını
+    sağlar. Y kromozomu erkeklerde testis ve hormonları oluşturur. Eski toplumlarda doğan çocukların
+    cinsiyetini kadının belirlediği düşünülmüştür. Ancak cinsiyeti erkek bireyden Y kromozomunun
+    gelip gelmemesi belirler.</p>
+<p>Dişilerin ürettiği yumurtaların hepsi &#8220;22+X&#8221; kromozom yapısına sahiptir. Erkeklerin
+    ürettiği spermlerin yarısı &#8220;22+X&#8221; ve diğer yarısı &#8220;22+Y&#8221; kromozom
+    yapısına sahiptir.</p>
+<p>İnsanın üreme ve gelişme sürecinde; 22 +X genotipli yumurta ile 22 +X genotîpli sperm
+    bir­leşirse, oluşan yavru dişi olur, 22 +X genotipli yumurta ile 22+ Y genotipli sperm
+    birleşirse, oluşan yavru erkek olur</p>
+<h3> Genetik Hastalıklar</h3>
+<p> <strong>Renk Körlüğü</strong></p>
+<p>X kromozomu üzerinde taşınan çekinik bir gen tarafından meydana getirilir. Dişilerde eğer bir
+    çekinik birde baskın karakterde renk körlüğü geni var ise; bunlar hastalık yönünden taşıyıcı
+    olurlar. Hasta olabilmeleri için her iki X kromozomlarında da çekinik renk körlüğü genini
+    taşımaları gerekir. Erkeklerin X genlerinde çekinik gen var ise hasta olurlar. Çünkü bu X
+    kromozomunun homoloğu olan Y kromozomunda çekinik geni bastıracak gen bulunmaz. Böyle insanlar
+    kırmızı ve yeşil renkleri birbirine karıştırırlar.</p>
+<p> <strong>Hemofili (Kanın Pıhtılaşmaması) Hastalığı</strong>
+</p>
+<p>Bu hastalık geni de tıpkı renk körlüğü geni gibi X kromozomunda çekinik olarak taşınır.
+    Hastalığın meydana gelme mekanizması aynıdır. Bu hastalığı taşıyan insanların kanları
+    pıhtılaşmaz, dolayısıyla kanamalar bunlar için büyük problem oluşturur. Dışarıdan eksik olan
+    moleküller verilerk normal yaşamlarını sürdürmeleri sağlanabilir.</p>
+<p> <strong>Kas Erimesi</strong></p>
+<p>Yukarıdaki hastalıklar gibi X kromozomunda çekinik olarak taşınır. Bu geni bulunduran hasta
+    erkekler eşysel üreme olgunluğuna erişemeden öldükleri için kadınlar hiç bir zaman hasta olmaz,
+    en fazla taşıyıcıdırlar. Normal bir doğumla meydana gelen erkek bebekler 4-5 yaş civarında
+    hastalığın etkisini hissetmeye başlarlar. Kasların aşırı şekilde erimesi büyük kilo kaybına ve
+    nihayetinde 13-15 yaş civarında ölümlerine neden olur.</p>
+<p> <strong>Balık Pulluluk</strong></p>
+<p>Kromozomunda taşınan bir gen tarafından meydana getirilir. Bu yüzden sadece erkeklerde görülür.
+    Hasta olan babanın bütün erkek çocukları bu geni taşıyacaklarından hepsi hasta olur. Bu
+    hastalıkta erkeklerin özellikle kol ve bacakları olmak üzere vücutları tıpkı bir balık gibi
+    pullarla kaplıdır.</p>
+<h2><a name="6"></a> Soy Ağacı </h2>
+<p>Kalıtsal bir özelliğin nesiller boyu nasıl aktarıldığını gösteren şemaya 
+        <strong>soy ağacı</strong>denir. Kalıtsal bir özelliğin ya da
+    bir kalıtsal hastalığın aile içerisindeki seyrini incelemek için, kullanılmaktadır.</p>
+<p><img class="aligncenter"
+        src="https://lh3.googleusercontent.com/proxy/06NCjODhDsSg1S7z4NrrL-GX6GVgWUCK8QqNfLpB-WfPOVPMAVqbyHwA3YIRSxpu-zqi5yEFQcWOxM2A22UG7-a4jN2nw_A261NIcw_AuAYz_MfNiAUWXUpv0GJIPsqEcm3gPGl2rsjNcWnwzg-9K2n-i3n970ZDIslbltQwIMoPz0ntR3TPqim8c-FH11JfpK21nms8oepphFjQSTLw"
+        alt="Soy Ağacı ve Uygulama Örnekleri Biyoloji Konu Anlatımı Ders ..."/></p>
+<p>&nbsp;</p>
+<h3> Otozomal Soy Ağacı</h3>
+<p>Herhangi bir araştırmada kullanılacak bireylerin belirli karakterler bakımından homozigot veya
+    heterozigot olup olmadığını anlamak için soy ağaçları kullanılır. Ayrıca soya bağlı bir
+    karakterin görünme ihtimalini hesaplamak gibi pratik amaçlar içinde soy ağaçları kullanılır.</p>
+<p>Otozomal soy ağaçlarında ilgili genler, otozomlar üzerinde dominant veya resesif olarak bulunur.
+    Soyağacı incelenerek bireylerin genotipleri belirlenebilir.</p>
+<h3> Gonozomal Soy Ağacı</h3>
+<p>Gonozomal kromozomlarda bulunan karakterlerin aktarılmasını gösteren soy ağacıdır. Karakterin
+    oluşmasından etkili olan genler X ve Y kromozomlarının üzerinde bulunur. Bu genler çekinik veya
+    baskın olabilir. Sadece Y kromozomunda bulunan genler erkek bireylerde görülür (yapışık
+    parmaklılık gibi). X kromozomundaki genler hem erkek hem de dişilerde (renk körlüğü, hemofili)
+    bulunur.</p>
+<h2></h2>
+<h2><a name="7"></a> Genetik Varyasyonların Biyolojik Çeşitliliği Açıklamadaki Rolü
+</h2>
+<p>Bireyler arasında, genler ya da diğer DNA parçacıklarının yapısındaki farklılıklara genetik
+    varyasyon denir. Mayozda gerçekleşen krossing over olayı ile anafaz 1 ve anafaz 2 evrelerinde
+    kromozomların hücrelere bağımsız olarak dağılımı ve döllenme olayı kalıtsal çeşitliliğin temel
+    nedenlerindendir.</p>
+<p>Genetik varyasyonlara neden olan faktörler; mutasyon, kromozomların bağımsız dağılımı ve
+    rekombinasyon olayıdır.</p>
+<h3> Rekombinasyon</h3>
+<p>İki ayrı DNA molekülünün birleşerek yeni DNA molekülü oluşturması sonucu oluşan kalıtsal
+    çeşitliliğe  <strong>rekombinasyon</strong>denir.</p>
+<p>Eşeyli üremede yavruların anne ve babanın bire bir aynısı olmamasının nedenleri;</p>
+<p>-Mayoz sırasındaki; Krossing over olayı, kromozomların şansa dayalı olarak kutuplara gitmesi ve
+    döllenme olayıdır.<br/>
+    -Eşeyli üremedeki bu üç mekanizmanın birlikte etkisi ile her kuşakta yeni kombinasyonlar ortaya
+    çıkar. Mevcut alellerin yeniden düzenlenmesi genetik çeşitliliğin oluşmasına önemli katkı
+    sağlar.</p>
+<p> <strong>Krossing over:</strong>Mayozun profaz I evreside
+    homolog kromozomların kardeş olmayan kromatitleri arasındaki gen alışverişidir.</p>
+<p>Krossing over olayı kromozomun, gen sayısını, genin nükleotit dizilimini değiştirmez.
+    Gerçekleştiği kromozomların gen dizilimini değiştirebilir. Böylece anne ve babadan farklı yeni
+    gen kombinasyonlarının oluşumuna neden olarak çeşitliliği arttırır.</p>
+<h3> Mutasyon</h3>
+<p>Mutasyon, canlıların genlerinde meydana gelen rastgele ve kalıcı değişimler olarak
+    tanımlanabilir. Bu değişimlere çeşitli çevresel faktörler neden olmaktadır. Mutasyonlar;
+    canlının üreme hücrelerinde, üreme ana hücrelerinde veya vücut hücrelerinde gerçekleşebilir.
+    Üreme ya da üreme ana hücrelerinde meydana gelen mutasyonlar sonraki nesile aktarılabilirken
+    vücut hücrelerinde meydana gelen mutasyonlar, sadece o bireyle sınırlı kalır. Mutasyonlar,
+    canlılarda genetik varyasyonlara ve bunun sonucunda da fenotipik çeşitlenmeye neden olur.</p>
+<p>Mutasyonların birçoğu canlılarda zararlı hatta öldürücü olabilir. Genetik varyasyona neden olan
+    diğer bir etmen mayoz sırasında kromozomların bağımsız dağılımıdır. Mayozda bireyin anne ve
+    babasından aldığı homolog kromozom çiftlerinin birbirinden ayrılarak (mayoz 1-anafaz 1) hangi
+    gamete gideceği tamamen şansa bağlı bir olaydır. Mayozda kromozomların birbirinden bağımsız
+    olarak dağılımı sayesinde farklı genetik kombinasyonlara sahip gametler oluşur.</p>
+<h3> Kromozomların Bağımsız Dağılımı</h3>
+<p>Mayozun Metafaz I evresinde homolog kromozomlar rastgele birbirlerinden bağımsız dizilir ve
+    Anafaz I de ayrılırlar. Böylece mayoz I sonunda oluşan yavru hücreler her bir homolog kromozom
+    çiftindeki biri anneden diğeri babadan gelen kromozomların birine sahip olur.</p>
+<h2><a name="8"></a> Kromozomlarda Ayrılmama Olayı</h2>
+<p>Normal kromozom sayısındaki artış ya da azalışa verilen isimdir. Bir veya birkaç kromozomun
+    bölünme sırasında kayıp olması veya fazla olması sonucu oluşur. Eğer eksik ise ‘Monozomi’, fazla
+    ise ‘Trizomi’ olarak adlandırılır.</p>
+<p>Ayrılmama olayı hem gonozomlarda hem de otozomlarda görülebilir.</p>
+<h3> Otozomal Ayrılma</h3>
+<p>Annenin otozomlarında ayrılmama ile fazladan 13. kromozoma sahip olan bireylerde Patau (Patu)
+    sendromu; fazladan 18. kromozoma sahip olan bireylerde Edwards (Edvırds) sendromu ve fazladan
+    21. kromozoma sahip bireylerde Down sendromu meydana gelir.</p>
+<p>En sık rastlananı Down sendromu (mongolizm) dir;</p>
+<p>Down sendromu mayoz bölünme sırasında ayrılmama sonucu 21. kromozomun 3 tane olması durumudur.
+    Araştırmalarda kesin bir etmen bulunamamış ve bilinen tek sebebi annenin yaşı olarak
+    gösterilmiştir. 35 yaş üzeri annelerde risk fazladır ancak doğumların çoğunun gençlik
+    dönemlerinde olması sebebiyle down sendromlu bireylerin yaklaşık 80%’i genç anneler tarafından
+    doğurulan çocuklardır. Ortalama 1/800 oranında görülür ancak anne yaşı 40 civarında iken 1/100,
+    45 yaş civarında 1/50 oranında görülmektedir. Hayatta kalma yaşları normal toplumun yaklaşık
+    yarısı olsa da erişkin yaşlara kadar yaşayan birçok birey vardır.</p>
+<p>Bu hastalık ilk defa 1866 yılında İngiliz hekim John Langdon Down tarafından tanımlanmış, 1959’da
+    ilk defa sebebinin 21. kromozomun 3 tane olması olduğunu Jerome Lejeune göstermiştir.</p>
+<p>Down sendromlu bireyler benzer yüz şekline, çekik gözlere, kısa parmaklar ve kalın enseye
+    sahiptir. Genel kanının aksine zihinleri gelişebilir, sadece normal insanlara göre geriden
+    gelmektedir. Onun haricinde içlerinden sanatçılar, ressamlar, müzisyenler gibi birçok yetenekli
+    birey gözlenmiştir.</p>
+<h3> Gonozomal Ayrılmama</h3>
+<p>Gonozomlar cinsiyet kromozomlarıdır. Gonozomlarda ayrılmama olayı gerçekleşirse oluşan birey ya
+    eksik cinsiyet kromozomuna ya da fazla cinsiyet kromozomuna sahip olur.</p>
+<p>Dişi bireylerde gonozomların ayrılmaması sonucu oluşan yumurtaların normal bir spermle döllenmesi
+    sonucu 47 veya 45 kromozoma sahip bireyler oluşur. 45 kromozomlu erkek birey oluşması düşüğe
+    sebep olur.</p>
+<p> <strong>Klinefelter Sendromu</strong></p>
+<p>Klinefelter sendromuna sahip bireylerde X kromozomu sayısı normalden 1 fazladır. Bu sendroma
+    sahip erkek bireyler neredeyse normal bireylerle aynıdır ve hatta bu anormallik erişkin yaşa
+    kadar fark edilememektedir. Bu bireylerde testislerin küçük olması sebebiyle cinsiyet hormonu
+    olan testosteron hormonu miktarı azdır. Bazı bireylerde az sperm üretilirken bazı bireylerde hiç
+    üretilmez. Bazı çocuklarda konuşma ve öğrenme problemleri görülür. Boyları ortalama bireylerden
+    biraz daha uzundur. Bebeklik çağlarında motor nöronlarında zayıflıklar görülür (oturma, yürüme
+    olaylarında gecikmeler ve zorlanmalar görülür.). Görülme sıklığı 1/700’dür. Gelişen teknoloji ve
+    bazı yöntemler sayesinde bu bireyler de çocuk sahibi olabilmektedirler.</p>
+<p> <strong>Turner Sendromu</strong></p>
+<p>Cinsiyet kromozomu taşımayan bir yumurtanın X kromozomu taşıyan spermle döllenmesi sonucu oluşur.
+    Cinsiyet kromozomlarının yapısı XO şeklindedir. Bu bireylerin vücut kromozomları tamdır,
+    cinsiyet kromozomları bir eksiktir. Kromozom yapıları 44 + X şeklinde olup 45 kromozoma
+    sahiptirler.</p>
+<p>Turner dişilerde üreme organları bulunur ancak gelişmemiştir. Yumurta üretimi yapamazlar. Kısa
+    boylu, kalın boyunlu, küt parmaklara sahiptirler. Memeleri gelişmez, zeka düzeyleri genellikle
+    normaldir.</p>
+<p>Bu bireylere hormonal tedavi yapılırsa hem fiziksel hem de zeka olarak normal bireyler gibi
+    yaşamlarını sürdürebilirler.</p>
+<p> <strong>44 + XYY Kromozom Yapısı</strong></p>
+<p>Erkek bireylerde gamet oluşumu sırasında cinsiyet kromozomlarının ayrılmaması ile ortaya çıkar.
+    22 + YY şeklindeki kromozom normal bir yumurta ile birleşirse oluşan zigot 44 + XYY şeklinde
+    olur. Bu kromozom yapısına sahip erkekler saldırgan yapılıdırlar.</p>
+<p><strong> Trizomi</strong></p>
+<p>Trizomi, diploit sağlıklı canlılarda normalde iki olması gereken kromozom sayısının üç tane
+    olmasıyla bilinen anöploidi şekillerinden biridir. En çok bilinen şekli 21. kromozomun trizomisi
+    olan Down sendromudur.</p>
+<p> <strong>Tam trizomi</strong><br/>
+    Tam trizomi dişi üreme hücreleri yumurtaların ya da erkek üreme hücreleri spermlerinin
+    gametogenezindeki hücre bölünmesi sırasında (mayoz I veya II) ayrılmama durumundan kaynaklanan
+    trizomi şeklidir. Bu, sperm ya da yumurtada normalde 23 olması gereken kromozom sayısının 22
+    veya 24 olması şeklinde sonuçlanır. fertilizasyon sonrası gelişen fetüs, normalde sahip olması
+    gereken 46 kromozom yerine 47 kromozoma sahip olarak dünyaya gelir.</p>
+<p> <strong>Yarı/Mozaik trizomi</strong><br/>
+    Yarı trizomilerde fazla kromozom diğer kromozomlardan birine tutunmuş durumdadır ya da aynı
+    kromozomdan iki kopya bulunur.<br/>
+    Mozaik trizomi, fazla kromozom canlının sadece bazı hücrelerinde görülür, diğer hücreler 46 tane
+    kromozoma sahiplerdir.</p>
+</html>

@@ -1,0 +1,93 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+    </style>
+</head>
+<h2>Endüstride ve Canlılarda Enerji </h2>
+<h3><a name="1"></a>Fosil Yakıtlar</h3>
+<p>Fosil yakıtlar, canlı kalıntılarının milyonlarca yıldır toprak altında ayrışması sonucunda
+    meydana gelen enerji kaynağıdır. Petrol, kömür ve doğal gaz fosil yakıtlara örnektir.</p>
+<h3>Kömür</h3>
+<p>Bitki ve hayvan fosillerinden oluşur. Bitki, havasız ortamda bakteriler tarafından parçalanır ve
+    çürür. Böylece oksijen ve hidrojen ortamdan uzaklaşır ve maddenin karbon içeriği zamanla artar.
+    Dönüşüm süresi ne kadar uzun olursa fosil bileşimi saf karbona o oranda yakın olur.</p>
+<p><strong>Turba:</strong> Henüz karbonlaşma sürecini tamamlamamış en genç kömürdür. Yüksek miktarda
+    su ve safsızlık içerir.</p>
+<p><strong>Antrasit:</strong> Yüksek kalorili kömür türüdür. Oluşumu en uzun süren kömürdür. Doğada
+    az bulunur ve pahalıdır. Koku ve duman çıkarmaz, zor tutuşur, sert ve yoğundur, parmakta leke
+    bırakmaz, kısa ve mavi renkli bir alevle yanar. Antrasit, kimyasal reaksiyonlarda indirgeyici ve
+    lokomotiflerde yakıt olarak kullanılır. Elektrik üretimi ve endüstride yaygın kullanılır.</p>
+<p><strong>Linyit:</strong> Oluşumunu henüz tamamlamamıştır. Yaklaşık 60 milyon yıl önce oluşmaya
+    başlamıştır. Antrasit, kimyasal reaksiyonlarda indirgeyici ve lokomotierde yakıt olarak
+    kullanılır. Elektrik üretimi ve endüstride yaygın kullanılır. Su ve bir çok yabancı madde
+    içerir. CO2 ve CH4 salınımı ile taş kömürüne dönüşebilir.</p>
+<p>Kahverengi kömür de denir. Isıl değeri düşük, nem ve kül miktarı fazladır. Türkiye’de en çok
+    bulunan kömürdür.</p>
+<p><strong>Taş Kömürü:</strong> Yüksek kalorili bir kömürdür. Kömürleşme derecesi bakımından
+    antrasit ve linyit arasında yer alır. Maden kömürü olarak bilinir ve uçucu maddeler açısından
+    zengindir. Kauçuk, madeni yağ, akaryakıt yağı, yapay reçine, naylon gibi maddelerin üretiminde
+    hammadde olarak kullanılır. Zonguldak yöresinde çıkarılır.</p>
+<p>Kömürün yanması sonucu atmosfere zararlı maddeler (toz, kükürt oksitler, azot oksitler, CO2,
+    hidrokarbonlar ve aldehitler) salınır.</p>
+<h3>Petrol</h3>
+<p>Petrol sözcüğü Latince petra (taş) ve oleum (yağ) sözcüklerinden türetilmiştir. Çok koyu yeşil
+    (siyaha yakın yeşil) renginde bir sıvıdır. Petrolün yoğunluğu 0,8–0,95 g/cm3 arasında değişir.
+    Petrolü doğal mineral yağ olarak da kabul edebiliriz.</p>
+<p>Petrolde hidrokarbon bileşiklerinin sonsuz sayıda karışımının yanı sıra çok daha düşük oranlarda
+    ancak petrolün kimyasal yapısını etkileyecek düzeylerde azot, kükürt ve oksijen elementleride
+    bulunur. Ham petrol çıkarıldığı coğrafyaya göre değişen bileşimlere sahiptir.</p>
+<p><strong>Petrolün Rafinasyonu: </strong>Tipik bir petrol bir karbonlu C1 moleküllerden (CH4), kırk
+    karbonlu C40 moleküllere (C40 H82 ) kadar değişen yüzlerce farklı hidrokarbondan oluşur.</p>
+<p><img loading="lazy" class=""
+        src="images/kimya/kimya3/kimya2.png"
+        width="664" height="274"/></p>
+<p><strong>Ham Petrolden Elde Edilen Ürünler</strong></p>
+<p><strong>*</strong> Benzin<br/>
+    <strong>* </strong>Motorin<br/>
+    <strong>* </strong>Gaz yağı (aydınlatma ve jet yakıtı)<br/>
+    <strong>* </strong>Petrol gazı (LPG)<br/>
+    <strong>* </strong>Fuel oil (gemi, santral, ısıtma)<br/>
+    <strong>* </strong>Makine yağları<br/>
+    <strong>* </strong>Asfalt<br/>
+    <strong>* </strong>Çeşitli kimyasallar<br/>
+    <strong>* </strong>Mum ve cilalar</p>
+<p><strong>Petrolün Bileşenleri: </strong>Petrol, fiziksel ve kimyasal özellikleri çok değişik
+    olmakla birlikte hemen hemen bütün sıvı petrollerin kütlece % 82-87 arasında karbon, yüzde 12-15
+    arasında hidrojen ve %5&#8217;i geçmeyecek bir oranda diğer bileşenlerden içerir.</p>
+<p>Ana bileşeni karbon ve hidrojen de olsa yapısında az miktarda kükürt, azot, oksijen elementleri
+    de içerir. Ağırlıkça % bolluk olarak, karbon ve hidrojenden sonra kükürt (S) % 0,05-5 oranında
+    bulunur. Hemen hemen her petrolün yapısında sodyum klorür (NaCl)<br/>
+    de bulunur.</p>
+<p>Petrolde en bol bulunan metal elementler vanadyum ve nikel olup, eser miktarda anorganik tuzlar,
+    H2S ve su bulunur. Ham petrol bir karışım olduğundan belirli bir erime ve kaynama noktası
+    yoktur.</p>
+<h2><a name="2"></a>Temiz Enerji Kaynakları</h2>
+<h3>Mısırdan Glikoz Üretimi</h3>
+<p>Genel formülleri Cn(H2O)m şeklinde gösterilen karbon, hidrojen ve oksijen içeren organik
+    bileşiklere <strong>karbonhidrat</strong> denir.
+    Karbonhidratlar; <strong>monosakkarit, disakkarit </strong>ve <strong>polisakkarit</strong> olarak üçe
+    ayrılır. Karbonhidratların en küçük birimi olan monosakkaritlere <strong>basit şeker</strong> adı verilir.
+</p>
+<h3>Meyve Şekerinin Etanol ve Sirkeye Dönüşümü</h3>
+<p>Biyogaz, artık organik maddelerin, anaerobik fermantasyonu sonucu açığa çıkan renksiz, kokusuz,
+    havadan hafif, havaya göre yoğunluk oranı 0,83 ve oktan sayısı 110 olan , parlak mavi bir alevle
+    yanan gaz karışımıdır. <strong>Biyogaz üretiminin üç aşaması vardır:</strong></p>
+<p><b> </b>Fermantasyon ve hidroliz.<br/>
+    <b> </b>Asedik asidin oluşumu.<br/>
+    <b> </b>Metan gazının oluşumu.</p>
+<p><strong>Biyogaz üretiminde üç temel sistem vardır:</strong></p>
+<p><b> </b>Kesikli fermantasyon.<br/>
+    <b> </b>Beslemeli-kesikli fermantasyon.<br/>
+    <b> </b> Sürekli fermantasyon.</p>
+<p><strong>Diğer Enerji Kaynakları:</strong> Güneş, rüzgâr, dalga, jeotermal ve hidro elektrikenerji
+    gibi temiz ve yenilenebilir enerji kaynaklarıdır.</p>
+</html>

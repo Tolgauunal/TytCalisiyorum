@@ -1,0 +1,175 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+
+
+    </style>
+</head>
+<section class=probootstrap-heading>
+    <div class="container text-center"><h1 class=mb-0>Yaşayan Dünya Dinleri </h1>
+        <div class="div-dot div-transparent divider"></div>
+    </div>
+</section>
+<div class=card-body><p>Yaşayan dünya dinleri dersi, adından da anlaşılacağı
+    gibi günümüzde insanların inandıkları dinleri konu alır. Bu dinlerle ilgili
+    bilgiler, dersin temel konusunu oluşturur. Söz konusu dersten başarılı
+    olabilmek için yaşayan dünya dinleri çıkmış sorular ve ders notları büyük
+    önem taşır. Ancak çıkmış sorular ve ders notlarından önce din konusuna göz
+    atılması yararlı olacaktır.
+    <p>&nbsp;
+    <h2><strong>Din Nedir? Neden Evrenseldir?</strong></h2>
+    <p>Din; bir yaşam felsefedir. Bir yaratıcıdan geldiğine inanılan kuralları
+        dikkate alarak oluşturulan yaşam biçimidir. Bunun haricinde, din ile
+        ilgili çok daha detaylı tanımlamalar yapılması mümkündür. Ancak en kısa
+        ve anlaşılır tanım bu şekildedir.
+    <p>Din, insanlar için büyük bir öneme sahiptir. Günümüz dünyası nüfusunun
+        çok büyük bir kısmı bir dine inanır. Bu yüzden din, evrensel bir kavram
+        olarak kabul edilir. Dünya üzerinde halen inanılan çok sayıda din
+        vardır. Ancak bunlardan bazıları, hem etkili olduğu bölge hem de inanan
+        insan sayısı bakımından çok daha öne çıkmış durumdadır. İslamiyet,
+        Hristiyanlık, Budizm ve Hinduizm bunlara örnek olarak gösterilebilir.
+    <p>&nbsp;
+    <h2><strong>Dinler Kaça Ayrılır?</strong></h2>
+    <p>Dinler, kendi içinde ikiye ayrılır; ilahi ve ilahi olmayan dinler. İlahi
+        dinler, Allah tarafından gönderilen bir peygamberin verdiği mesajlara ve
+        getirdiği kitaba dayanan dinledir. Daha farklı bir ifade ile ilahi
+        dinlerde Allah’ın gönderdiği bir peygamber ve Allah’tan mesajlar (vahiy)
+        vardır.
+    <p>İlahi olmayan dinlerde ise böyle bir durum yoktur. İlahi olmayan dinler,
+        genellikle insanların kendi çıkarımlarına dayanır. Tapılmaya değer
+        gördüklerine inanma durumu vardır.</p>
+    <p>&nbsp;
+    <h3><strong>İlahi Dinler</strong></h3>
+    <p>İlahi dinler; Allah’ın gönderdiği peygamber tarafından getirilen kitaba
+        ve emirlere dayalı olan dinlerdir. İslamiyet, Hristiyanlık ve Musevilik
+        bu sınıfta yer alır.<h4><strong>o&nbsp;&nbsp;&nbsp;
+        Hıristiyanlık</strong></h4>
+    <p>Hristiyanlık; Hz. İsa aracılığı getirilen emir ve kitaba dayanan dindir.
+        Baba, oğul ve kutsal ruh inancı vardır. Bu durum aynı zamanda teslis
+        inancı olarak da isimlendirilir. Buradaki baba Allah’ı, oğul Hz. İsa’yı
+        ve kutsal ruh da meleği (Cebrail) temsil eder.
+    <p>Hristiyanlıkta kadere, meleklere ve ahirete iman vardır. Ayrıca burada
+        her doğan bebeğin dünyaya günahkâr olarak geldiği kabul edilir.
+        Bebeklerin günahlarından arındırılması için vaftiz edilmesi gerektiğine
+        inanılır.
+    <p>Bebeklerin günahkâr doğma nedeni ise insanların Hz. İsa’yı çarmıha
+        gererek öldürmesidir. Böylesine büyük bir günahın bütün insanların suçu
+        olduğuna inanılır.
+    <p>Hristiyanlığın peygamberi Hz. İsa, kutsal kitabı İncil ve ibadet yerleri
+        ise kilise ve katedraldir. Ayrıca kutsal günleri Pazar’dır. Dünya
+        üzerinde toplamda 2,4 milyar Hristiyan bulunur. Bu yönü ile dünya
+        genelinde en fazla inananı olan din şeklinde nitelenebilir.<h4><strong>o&nbsp;&nbsp;&nbsp;
+        Yahudilik (Musevilik)</strong></h4>
+    <p>Musevilik, bir diğer ilahi dindir. Burada tek tanrı inancı vardır. <i>Tanrı
+        Yahova Tektir</i> şeklinde bir inanış söz konusudur. Musevilik,
+        dünyadaki en az inanana sahip ilahi din olarak dikkat çeker. Dünya
+        genelinde sadece 15 milyon Musevi vardır.
+    <p>Museviliğin kutsal kitabı Tevrat, peygamberi Hz. Musa ve kutsal günleri
+        Cumartesi’dir. Sinagog ve havrada ibadet eden Museviler, dinlerine
+        oldukça bağlıdır. Bazı Musevi tarikatları, Cumartesi günleri elektrik
+        dahi kullanmazlar.
+    <p>Musevilerin sayısı her ne kadar az olsa da, dünyada oldukça etkilidirler.
+        Ticaretteki başarıları bilinen bir durumdur. Dünyanın en zengin
+        insanlarının önemli kısmı Musevi’dir. Ayrıca Nobel ödülü alan Musevi
+        sayısı da son derece fazladır.<h4><strong>o&nbsp;&nbsp;&nbsp; İslamiyet
+        (Müslümanlık)</strong></h4>
+    <p>İslamiyet; Allah’ın varlığını ve birliğini kabul eden son ilahi dindir.
+        Peygamberi Hz. Muhammed (S.A.V.), kutsal kitabı ise Kuran-ı Kerim’dir.
+        İbadet yeri her ne kadar camii olsa da, temiz olan her yer ibadet yeri
+        olarak kullanılabilir. Dünya genelinde yaklaşık 1,7 milyar Müslüman
+        vardır. Bunların önemli kısmı Ortadoğu, Türkiye ve Kuzey Afrika’da
+        bulunur.</p>
+    <figure class=table>
+        <table>
+            <thead>
+            <tr>
+                <th>&nbsp;
+                <th><p style=text-align:start;><strong>YAHUDİLİK</strong>
+
+
+
+                <th><p style=text-align:center;><strong>HIRİSTİYANLIK</strong>
+                <th><p style=text-align:center;><strong>MÜSLÜMANLIK</strong>
+            </thead>
+            <tbody>
+            <tr>
+                <td><strong>Peygamber:</strong>
+                <td>Hz. Musa
+                <td>Hz. İsa
+                <td>Hz. Muhammed (S.A.V)
+            <tr>
+                <td><strong>Kitap:</strong>
+                <td>Tevrat
+                <td>İncil
+                <td>Kuran-ı Kerim
+            <tr>
+                <td><strong>İbadet Yeri:</strong>
+                <td>Sinagog &amp; Havralar
+                <td>Kilise
+                <td>Cami
+            <tr>
+                <td><strong>Kutsal Gün:</strong>
+                <td>Cumartesi
+                <td>Pazar
+                <td>Cuma
+            <tr>
+                <td><strong>İnanan Kişi Sayısı:</strong>
+                <td>15 Milyon Kişi
+                <td>2.4 Milyar Kişi
+                <td>1.7 Milyar Kişi
+            </tbody>
+        </table>
+    </figure>
+    <p>&nbsp;
+    <h3><strong>İlahi Olmayan Dinler</strong></h3>
+    <p>İlahi olmayan dinler; vahiy yoluyla gelmeyen dinler olarak ifade
+        edilebilir. Burada dinin kaynağı tam olarak bilinmiyor. Hinduizm ve
+        Budizm bu dinlerden öne çıkanlardır.<h4>o&nbsp;&nbsp;&nbsp; <strong>Hinduizm
+        (Brahmanizm)</strong></h4>
+    <p>Hinduizm, milattan önce 1500’lü yıllarda Hint yarımadasında ortaya çıkan
+        bir dindir. Bilinen bir kurucusu yoktur. Günümüzde Hint yarımadasında
+        yaygındır. Bu dinde, tek bir tanrı yoktur. <strong>Çok tanrılı bir din
+            olan Hinduizm, aynı zamanda Brahmanizm ismiyle de bilinir.</strong>
+    <p>Hinduizm’de Brama, yani mutlak varlık inanış vardır. Bu yönü ile ilahi
+        dinlerle benzerlik gösterir. Bazı uzmanlar, Hinduizm’in ilahi bir
+        kaynağa dayandığını, ancak yıllar içerisinde bozulduğunu dahi iddia
+        eder. Birçok özelliğinin ilahi dinlerle benzerlik göstermesine
+        dayanılarak bu tür yorumlar yapılır.
+    <p>Hinduizm’de reenkarnasyon, yani ruh göçü inancı vardır. Dünyada iken iyi
+        bir yaşam sürenlerin ruhlarının, öldükten sonra rahip olarak dünyaya
+        geleceklerine inanılır. Kötü bir yaşam sürenlerin ise bir hayvanın veya
+        böceğin içinde tekrardan dünyaya geleceğine inanılmaktadır. Ayrıca
+        burada Kast sistemi, yani insanlar arasında sınıf farklılıkları da
+        vardır.
+    <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Brahma (Yaratıcı),
+    <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Şiva (Yok edici) ve
+    <p>·&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Vişnu (Koruyucu) başlıca
+        tanrılarıdır.
+    <p>Tapınaklarına Mandir denir. Ayrıca Ganj nehri kutsal kabul edilir ve
+        burada yıkanmak, en önemli ibadetlerden biridir.<h4>o&nbsp;&nbsp;&nbsp;
+        <strong>Budizm</strong></h4>
+    <p>Budizm; milattan önce 6. yüzyılda Buda tarafından kurulan bir dindir.
+        Buda (aydınlanmış) tarafından bu din kurulurken, Hinduizm’den
+        etkilendiği ifade edilir.
+    <p>Budizm dininin temel inancı; <i>Buda’ya sığınırım, Shanga’ya sığınırım ve
+        Dhamma’ya sığınırım</i> ifadelerinden oluşur. Hinduizm’de olduğu gibi
+        burada da reenkarnasyon inancı vardır. Ayrıca bu din, insanların maddi
+        varlıklarla mutlu olamayacaklarını ve mutluluk için manevi anlamda
+        Nirvana’ya ulaşmaları gerektiğini söyler. Budizm’in kutsal metinlerine,
+        <i>üç sepet </i>anlamındaki <i>Tripataka</i> denilir.
+    <p>Budizm’de tanrının varlığı ile yokluğu noktasında net bir durum yoktur.
+        Bazıları, Buda’nın tanrı olduğuna inanırken, bazılarında bu şekilde bir
+        inanış yoktur. Pagoda isimli tapınaklarda ibadet eden Budistler için
+        Ganj nehrinde yıkanmak önemli bir ibadet olarak kabul edilir.</p>
+</div>
+
+</html>

@@ -1,0 +1,226 @@
+<html>
+<style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+</style>
+<h2>Hücrenin Yapısı ve İşlevi</h2>
+<h3>Hücre Nedir?</h3>
+<p>Canlıların yaşam için gerekli olan özelliklerini taşıyan ve uygun koşullarda yaşamını tek başına
+    sürdürme yeteneğine sahip temel yapı ve işlem birimidir. Hücre, çok hücreli canlılardaki en
+    küçük yaşam birimidir.</p>
+<p>Hücre zarı, sitoplazma ve çekirdektir. Tek hücrelilerde bütün olaylar hücre içerisinde
+    gerçekleşir. İş bölümü ve doku oluşumu yoktur. Çok hücrelilerde bütün olaylar hücre grupları
+    arasındaki iş bölümü ile olur. En basit çok hücreli yada en karmaşık tek hücreli <strong>Volvox</strong>‘ tur. Volvox’ ta iş bölümü vardır
+    ama doku oluşumu yoktur. Tek hücrelilerin oluşturduğu topluluğa <strong>koloni</strong> denir.</p>
+<p>Hücreler ikiye ayrılır:<br/>
+    <strong>Prokaryot (çekirdeksiz) Hücreler:</strong> Bu
+    hücrelerin çekirdeği yoktur. Örneğin bakteri, mavi- yeşil alg prokaryot hücrelidir.</p>
+<p><strong>Ökaryot (çekirdekli) Hücreler:</strong> Bu tip
+    hücrelerin çekirdeği, zarla çevrili organelleri vardır. Örneğin protistler, mantarlar,
+    hayvanlar, bitkiler ökaryot hücrelidir.</p>
+<h3>Hücrenin Elemanları</h3>
+<p><strong>Sitoplazma</strong></p>
+<p><strong>&#8211;</strong> Hücre içinin çekirdek dışında kalan
+    kısmına sitoplazma denir. Tüm hücrelerde bulunur.</p>
+<p><strong>&#8211;</strong> Sitoplazma, organeller ve bunların
+    içinde yer aldığı koyu kıvamlı yarı akışkan (kolloidal) sıvı kısım (sitozol) dan oluşur.</p>
+<p><strong>&#8211;</strong> Bu sıvı kısmın içeriğini enzimler,
+    RNA, organik bileşiklerin yapı taşları (amino asitler, nükleotitler gibi) yıkım tepkimeleri
+    sonucu oluşan atık ürünler, koenzimler, iyonlar ve büyük oranda su (%70-90) oluşturur.
+    Sitoplazma solunum, fotosentez, beslenme, sindirim, boşaltım gibi bütün yaşamsal olayların
+    geçtiği yerdir.</p>
+<p><strong>Hücre Zarı</strong></p>
+<p><strong>&#8211;</strong> Sitoplazmayı hücrenin dışından
+    ayıran kısımdır.</p>
+<p><strong>&#8211;</strong> Esnek bir yapıdadır ve canlıdır.</p>
+<p><strong>&#8211;</strong> Seçici geçirgendir.</p>
+<p><strong>&#8211;</strong> Üzerinde bulunan porlar sayesinde
+    madde geçişini sağlayabilir.</p>
+<p><strong>&#8211;</strong> Yoğun miktarda yağ barındırdığı için
+    yağda çözünen maddeler zardan çözünerek hücrenin içine girebilir.</p>
+<p><strong>&#8211;</strong> Canlı olduğu için madde geçişi
+    sırasında enerji gerektiren olayları gerçekleştirebilir.</p>
+<p><strong>&#8211;</strong> Zarının yapısında büyük oranda
+    protein ve yağ az miktarda karbonhidrat bulunur.</p>
+<p><strong>&#8211;</strong> Zarın yapısındaki fosfat ve yağlar
+    birleşerek fosfolipitleri oluşturur.(Fosfolipler akıcılığı saplar.)</p>
+<p><strong>&#8211;</strong> Protein molekküleri fosfolipitlerin
+    arasına gömülüdür.</p>
+<p><strong>&#8211;</strong> Zarın dışa bakan yüzünde proteinler
+    karbonhidratlarla birleşerek glikoproteinleri, yağlar karbonhidratlarla birleşerek glikolipit
+    oluşturur.</p>
+<p><strong>&#8211;</strong> Zarın yapısında bulunan
+    kolesteroller (Yağ monomeri) hücrenin fazla ısınmamasında rol alırlar.</p>
+<h2><a name="2"></a>Hücrenin Organelleri Nelerdir?</h2>
+<p>Zar tipine göre organeller üç grupta inceleyebiliriz.</p>
+<p><strong>Zarsız organeller;</strong></p>
+<p><strong>*</strong> Setrozom<br/>
+    <strong>*</strong> Ribozom</p>
+<p><strong>Tek katlı zarlı organeller;</strong></p>
+<p><strong>*</strong> Endoplazmik retikulum (ER)<br/>
+    <strong>*</strong> Lizozom<br/>
+    <strong>*</strong> Golgi<br/>
+    <strong>*</strong> Koful<br/>
+    <strong>*</strong> Peroksizom</p>
+<p><strong>Çift katlı zarlı organeller;</strong></p>
+<p><strong>*</strong> Mitokondri<br/>
+    <strong>*</strong> Plastitler<br/>
+    <strong>*</strong> Çekirdek</p>
+<h3><a name="13"></a>Ribozom</h3>
+<p><strong>&#8211;</strong> Evrensel organeldir (Bütün canlı
+    hücrelerde bulunur).</p>
+<p><strong>&#8211;</strong> Temel görevi amino asitleri
+    birbirine bağlayarak protein sentezlemektir.</p>
+<p><strong>&#8211;</strong> Zarsız bir organeldir.</p>
+<h3><a name="4"></a>Sentrozom</h3>
+<p>Sentrozom, birbirine dik iki silindirik cisme sahiptir. Her sentriyol, birbirine paralel üç küçük
+    tüpten oluşmuş, dokuz iplik içerir. Bu iplikler protein yapısında olup arası matriks ile
+    doludur. Sentrozom organeli zarsız bir organeldir. Mikrotübüller silindirik biçimde
+    dizilirler.</p>
+<p>İğ iplikleri oluşturulması, bölünme sırasında kromozomların ayrılması ve kutuplara taşınmasında
+    görevlidir. Hayvan hücresinde bulunur. Sentriol adı verilen çubuklardan meydana gelmiştir. Yani
+    görevi kısaca hücre bölünmesi sırasında zıt kutuplara ayrılarak aralarında iğ iplikleri
+    oluşturmaktır.</p>
+<h3><a name="5"></a>Endoplazmik Retikulum (ER)</h3>
+<p>Endoplazmik Retikulum, sabit bir büyüklüğü ve şekli olmayan, dolayısıyla hücre içindeki miktarı
+    sayı ile belirtilemeyen bir organeldir.</p>
+<p>Olgun alyuvar hücreleri dışında genellikle bütün ökaryot yapılı hücrelerde bulunur. Çekirdek
+    zarından başlayarak sitoplazmaya, hatta hücre zarına kadar uzanır ve hücre içinde birbiriyle
+    bağlantılı olan geniş bir kanal sistemi oluşturur.</p>
+<p>Üzerinde ribozom taşıyan çeşidine granüllü endoplazmik retikulum, üzerinde ribozom bulundurmayan
+    türüne de granülsüz ya da düz endoplazmik retikulum denir. Bir hücrede her iki tip endoplazmik
+    retikulum aynı anda bulunabilir.</p>
+<h3><a name="6"></a>Lizozom</h3>
+<p>Lizozom, ökaryotik hücrelerin sitoplazmasında bulunan, zarla çevrili, genellikle küçük, yuvarlak
+    ve çapları 0,2-0,8 mikron arasında değişen yapılardır. İçerikleri asidiktir ve çeşitli sindirici
+    enzimler içerirler.</p>
+<p><strong>Lizozomun görevleri;</strong></p>
+<p><strong>*</strong> Lizozomların en önemli görevi, hücre
+    içindeki maddeleri sindirmektir.<br/>
+    <strong>*</strong> Hücrenin savunmasına karşı bir görev
+    üstlenir.<br/>
+    <strong>*</strong> Enzimleri yaşlanmış olan molekül ve
+    organelleri parçalar.<br/>
+    <strong>*</strong> Lizozom spermin baş kısmında bulunup
+    yumurtanın delinmesini sağlar</p>
+<h3><a name="7"></a>Golgi</h3>
+<p><strong>&#8211;</strong> Tek zarla çevrili üst üste dizilmiş
+    yassı keseciklerden oluşur.</p>
+<p><strong>&#8211;</strong> Granülsüz ER’den meydana gelmiştir.
+</p>
+<p><strong>&#8211;</strong> Hücrede salgılama ve zar fabrikası
+    gibi görev yapar.</p>
+<p><strong>&#8211;</strong> ER’den gelen protein, lipit,
+    karbonhidrat gibi temel bileşenleri işleyip farklılaştırarak; hücre zarının bileşenleri olan
+    glikolipit, glikoprotein, lipoprotein sentezler. Ayrıca enzim, hormon gibi düzenleyicileri de
+    sentezler.</p>
+<h3><a name="8"></a>Koful</h3>
+<p><strong>&#8211;</strong> Koful, çeşitli çözeltiler ile dolu
+    tek katmanlı bir zar ile çevrilmiş organel.</p>
+<p><strong>&#8211;</strong> Hem ökaryot hem de prokaryot
+    hücrelerde bulunur.</p>
+<p><strong>&#8211;</strong> Bitki hücrelerinde daha büyüktürler.
+    Çünkü bitki hücreleri, hayvan hücreleri kadar gelişmiş değillerdir. Bu nedenle bitki
+    hücrelerinde bulunan koful, daha fazla işleve sahiptir.</p>
+<p><strong>Kofulların görevleri;</strong></p>
+<p><strong>*</strong> Kofullar hücrede madde alışverişinde,
+    beslenme, sindirimde ve boşaltımda görevlidir.<br/>
+    <strong>*</strong> Şeker ve aminoasitlerin geçici depo
+    yeridir.<br/>
+    <strong>*</strong> İçindeki antosiyan gibi pigmentler
+    çiçeklere renk vererek tozlaşmaya yardımcı olur.<br/>
+    <strong>*</strong> Meyvelere renk vererek tohumun
+    yayılmasında etkili olur.<br/>
+    <strong>*</strong> Bazı zehirli atıkları tuzlarla
+    birleştirerek kristal şeklinde depolayıp zararsız hale getirir.<br/>
+    <strong>*</strong> Besin kofulu, Sindirim kofulu, Boşaltım
+    kofulu, Salgı kofulu ve Kontraktil koful gibi çeşitleri vardır.</p>
+<h3><a name="9"></a>Peroksizom</h3>
+<p><strong>&#8211;</strong> Tek kat zar ile çevrili olan
+    peroksizomlar metabolik aktivitesi fazla olan, karaciğer, böbrek, ve kalp<br/>
+    kası gibi hücrelerde fazla bulunurlar.</p>
+<p><strong>&#8211;</strong> Bunlar katalaz, ürik asit, oksidaz
+    ve daminoasit içerir.</p>
+<p><strong>&#8211;</strong> Hücrede zehir etkisi yapan hidrojen
+    peroksiti (H2O2); H2O ve ½ O2’ye dönüşen katalaz enzimini taşıyan organeldir.</p>
+<p><strong>&#8211;</strong> Perksizomlar yağ asitlerini
+    oksitleyerek metabolik enerjinin en büyük kaynağını oluştururlar ve bu özellikleriyle hücre için
+    hayati bir rol oynarlar.</p>
+<h3><a name="10"></a>Mitokondri</h3>
+<p><strong>Mitokondri :</strong>Hücrede enerji (ATP) üretimini sağlayan merkezdir.</p>
+<p><strong>&#8211;</strong> Sayısı hücrenin enerji ihtiyacına
+    göre değişir.</p>
+<p><strong>&#8211;</strong> Çizgili kas, sinir, kalp ve
+    karaciğer hücrelerinde mitokondri fazladır.</p>
+<p><strong>&#8211;</strong> Dış zarı düzgün, iç zarı ise
+    kıvrımlıdır.</p>
+<p><strong>&#8211;</strong> Yani, iç zarı matrix içine doğru
+    uzamıştır, böylece yüzey arttırılmıştır.</p>
+<p><strong>&#8211;</strong> Bu uzantılara krista denir.</p>
+<p><strong>&#8211;</strong> Mitokondri içindeki sıvıya matrix
+    denir.</p>
+<p><strong>&#8211;</strong> Kendine ait DNA, RNA ve ribozomu
+    vardır.</p>
+<p><strong>&#8211;</strong> Gerektiğinde çoğalabilir.</p>
+<p><strong>&#8211;</strong> Gerektiği zaman bölünebilir,
+    büyüyebilir ve kendisi için gerekli bazı proteinleri sentezleyebilir.</p>
+<p><strong>&#8211;</strong>  O2’li solunum, hücre
+    sitoplâzmasında başlayıp mitokondride devam etmekte ve açığa çıkan enerji ATP şeklinde
+    depolanmaktadır.</p>
+<h3><a name="11"></a>Plastitler</h3>
+<p>Bitki hücrelerinde, alglerde ve öglena gibi protistlerde bulunan çift katlı bir organeldir.</p>
+<p>-İçerdikleri renk maddeleri ve yaptıkları göreve göre kloroplast, kromoplast ve lökoplast olmak
+    üzere üç çeşit plastit vardır. Üçü de çift katlı zar ile kuşatılmıştır.</p>
+<p><strong>Kloroplast</strong></p>
+<p>Alglerde, bitkilerin fotosentez yapan hücrelerinde, öglenada bulunur. Yapısında çok miktarda
+    bulunan klorofil pigmenti nedeniyle yeşil renklidir. Klorofil pigmenti ile emdiği ışık
+    enerjisini organik besinin yapısındaki kimyasal enerjiye dönüştürür.</p>
+<p>Kendine ait DNA, RNA ve ribozomu vardır. Çekirdek kontrolünde DNA’sını eşleyerek sayısını
+    artırabilir. Kendi proteinlerini üretebilir.</p>
+<p>Dış zar ve iç zar sisteminden başka ışığın emildiği tilakoid zarlar bulunur. Bu zarlardan oluşan
+    yapıya grana denir. Organelin sıvı kısmına ise stroma adı verilir. DNA, RNA ve ribozomIarı sıvı
+    kısmı olan stromada bulunur. DNA’sı prokaryotlarınki gibi halkasaldır.</p>
+<p>Yapısında bulunan klorofil pigmenti ile güneş ışığını emerek besin üretimi yapar. Yani aşağıdaki
+    reaksiyonda görüldüğü üzere inorganik maddelerden organik maddeler üretir.</p>
+<p><strong>Kromoplast</strong></p>
+<p>Bitkilerin çiçeğine renk verir. Çiçeklerdeki kırmızı, sarı, turuncu, hatta leylak gibi renklerin
+    oluşmasını sağlar. Havuca turuncu renk veren karoten, domatese kırmızı renk veren likopen,
+    limona sarı renk veren ksantofil, bitkiye yeşil rengi veren ise klorofildir. Kısaca kromoplast
+    bitkiye sarı, kırmızı, turuncu gibi renkleri verir. Bitkilerin bazı renkleri ise koful öz
+    suyunun asidik ya da bazik oluşuna göre renk değiştiren &#8220;antokyan&#8221; tarafından
+    oluşturulur.</p>
+<p><strong>Proplastit</strong></p>
+<p>Proplastit, hücrede sitoplazma içerisinde bulunan tanımlanamamış plastit. Plastitlerin diğer
+    plastit türlerine dönüşmeden önceki tanımlanamamış halidir.</p>
+<p><strong>Lökoplast</strong></p>
+<p>Renksizdir.Bitkinin kök,toprak altı gövdesi (rizom) ve tohumları gibi depo organlarında bulunur.
+    Besin depolar. Patates gibi kökte, yumruda ya da bitkinin renksiz kısımlarında lökoplast
+    renksizdir, ama gün ışığına çıkınca bitkinin bulunduğu yerdeki rengini değiştirir.</p>
+<h3><a name="12"></a>Çekirdek</h3>
+<p>Hücre çekirdeği ya da nükleus, ökaryot hücrelerin çoğunda bulunan zarla kaplı bir organeldir.
+    Hücrenin genetik bilgilerinin çoğu, hücre çekirdeğinin içinde katlı uzun doğrusal DNA
+    molekülleri ile histon gibi birçok proteinin bir araya gelerek oluşturduğu kromozomlarda
+    bulunur. Bu kromozomların içindeki genler hücrenin çekirdek genomunu oluşturur. Hücre
+    çekirdeğinin işlevi bu genlerin bütünlüğünü devam ettirmek ve gen ekspresyonunu düzenleyerek
+    hücre işlevlerini kontrol altında tutmaktır. Çekirdeği çıkarılan her hücre bir süre sonra
+    ölür.</p>
+<p>Çekirdek, çift katlı zar ile çevrilidir. Zar üzerinde tıpkı hücre zarının yapısında bulunan ve
+    madde alışverişinin yapıldığı porlar bulunur. Yalnız çekirdek zarı üzerindeki porlar, hücre
+    zarında bulunan porlardan daha büyüktür.</p>
+<p><strong>Çekirdek zarı</strong> endoplazmik retikulum
+    organelinin zarının devamıdır. Hücrede çekirdek bölünmesinin ilk aşamasında eriyip son
+    aşamasında tekrar oluşur. Çekirdek içinde bulunan sıvı kısma çekirdek plazması denir. Bu sıvı
+    kısımda DNA, RNA, ATP, mineraller, enzimler, nükleotitler, proteinler, su ve daha birçok madde
+    bulunur.</p>
+<p>Çekirdek içinde rRNA ve proteinlerin yoğunlaştığı bölgeye <strong>çekirdekçik</strong>
+    denir. Bu bölgeyi çekirdek plazmasından ayıran bir zar yoktur. Sitoplazmadaki ribozomlarda
+    üretilen protein ve çekirdekçik içinde üretilen rRNA molekülü burada birbirine bağlanarak
+    ribozom organelini oluşturur. Hücrenin ribozom organeline ihtiyacı ile doğru orantılı olarak
+    çekirdekçik sayısı ve büyüklüğü artabilir.</p>
+<p>&nbsp;</p>
+</html>

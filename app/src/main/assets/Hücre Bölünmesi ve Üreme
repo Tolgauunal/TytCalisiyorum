@@ -1,0 +1,152 @@
+<html>
+<style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+</style>
+<h2> Hücre Bölünmeleri</h2>
+<h3>Mayoz Bölünme Nedir?</h3>
+<p>Mayoz bölünme eşeyli üreyen canlıların eşey ana (üreme) hücrelerinde görülür. Mayoz bölünme
+    sonucu genetik olarak birbirinden farklı 4 tane n kromozomlu üreme hücreleri oluşur. Üreme
+    hücrelerine<strong>gamet</strong> denir. Gametler; sperm
+    (erkek üreme hücresi) ve yumurta (dişi üreme hücresi) olmak üzere ikiye ayrılır.</p>
+<p>Mayoz bölünme interfaz aşamasının
+    ardından iki bölünmenin meydana gelmesiyle oluşur.<br/>
+    Mayozun birinci bölünmesine “mayoz
+    1”, ikinci bölünmesine ise “mayoz 2” adı verilir.<br/>
+    Mayoz sonucunda dört tane haploit
+    (n kromozomlu) hücre oluşur.<br/>
+    Oluşan n kromozomlu hücreler
+    farklılaşarak (örneğin spermlerde kuyruk gelişimi gözlemlenir) gamet hücrelerini oluşturur.<br/>
+    Farklı eşeylerin gamet hücreleri
+    birleşerek (döllenerek) mitoz bölünme özelliğine sahip yeni bir birey oluşturur.<br/>
+    Mayoz bölünme her türde farklı
+    zaman aralığında gözlemlenir.<br/>
+    Mayoz bölünme sayesinde kalıtsal
+    çeşitlilik sağlanır.<br/>
+    Eşey organlarına gonad denir. Genel
+    olarak erkek eşey organına erbezi (testis), dişi eşey organına ise yumurtalık
+    (ovaryum) denir.</p>
+<h3>Mayoz Bölünmenin Evreleri</h3>
+<h4>MAYOZ I</h4>
+<p>Oluşacak hücrelerin ge dizilişi ve kromozom sayısı bakımdan değişikliğe uğraması bu bölünmede
+    olur. Bölünme başlamadan önceki interfaz evresi mitozdaki gibi gerçekleşir.</p>
+<p>Profaz I</p>
+<p>DNA ipliklerinin kısalıp kalınlaşmaya başlaması ile başlar. Bu evre sınırları kesin olmayan 5
+    evreye ayrılıp incelenir. Bu evreler;</p>
+<p><strong>Leptoten:</strong> Kromozomların mikroskopla
+    seçilebildikleri andan itibaren başlar. İki eş kromatit birbirine sarılı halde bulunur. Ayrıca
+    kromatinler üzerinde kromomer denilen ve koyu boyanan bölgeler fark edilir.</p>
+<p><strong>Zigoten:</strong> Biri anneden diğeri babadan gelen
+    ve birbirlerine benzeyen homolog kromozomlar yan yana gelerek eşleşmeye başlarlar.Bu eşleşme bir
+    uçtan diğer uca doğru devam eder. Bu evrede her biri iki kromatit taşıyan iki kromozomun yan
+    yana durmasıyla sanki canlı n sayıda kromozom taşıyormuş gibi görülür. Görülen bu yapıya tetrat
+    denir.</p>
+<p><strong>Pakiten:</strong> Homolog kromozomların eşleşmesi
+    tamamlanır ancak kromozomlar kısalmaya devam eder. Ayrıca bu evrede mitozdan farklı olarak
+    tetratlar arasında genetik madde alışverişi olur. Buna><strong> krossing-over</strong> denir.
+    Bu olay homolog kromozomların birbiri üzerine çakışan (kiyazma &#8220;chiasma&#8221;) kısmında
+    gerçekleşir.</p>
+<p><strong>Diploten:</strong> Kromozomların sentromerleri
+    ayrılmamıştır. Dört kromatit için iki sentromer vardır. Tetrat&#8217;taki homolog kromozomlar
+    birbirinden ayrılmaya başlar. Ancak kiyazma bölgelerinde ayrılma olmaz ve kiyazmalar uca doğru
+    kaymaya başlar.</p>
+<p><strong>Diakinez:</strong> Kromozomlar son halini alır.
+    Çekirdekçik kaybolur. Çekirdek zarı parçalanır.</p>
+<p>Metafaz I</p>
+<p>Bu safha mitozdaki metazfazdan biraz farklıdır. Mitozda eşlenmiş kromozomlar bir sıra halinde,
+    ekvator bölgesinde dizilirlerdi. Burada ise iki sıra halinde dizilirler. Homolog kromozomlar
+    sıralanırken karşı karşıya gelirler.</p>
+<p>Anafaz I</p>
+<p>Bu safhada mitozda bölünmede olduğu gibi kromatid ayrılması olmaz. Mitozun anafazında kardeş
+    kromotidler ayrılırdı. Burada ise homolog kromozomlar (eşlenmiş haliyle) biri bir hücreye,
+    diğeri öbür hücreye gidecek şekilde ayrılır Yani homolog kromozom ayrılması gerçekleşir.</p>
+<p>Mayoz bölünme sonucunda kalıtsal yapısı farklı hücrelerin oluşmasını sağlayan esas olay budur.
+    Bir mayozda krossing-over olmasa da kalıtsal çeşitlilik sağlanır.</p>
+<p>Telofaz I</p>
+<p>Mitozdakinden farklı değildir. Çekirdek zarları ve çekirdekçik oluşarak, sitoplazma bölünür.
+    Burada oluşan kik hücre haploid (n)dir. Çünkü başlangıçtaki hücrenin homolog kromozomlarından
+    birer tanesinin bulundurur. Ancak kromozomlar eşlenmiş olduğu için iki kromadidli haldedir. Yani
+    DNA miktarı olarak 2n denilebilir. Kısa süren Telofaz I den olarak Mayoz II başlar.</p>
+<h4>MAYOZ II</h4>
+<h4>Profaz II</h4>
+<p>Birinci bölünmenin telofazı ile ikinci bölünme arasında bir dinlenme devresi olmadan çekirdek
+    zarı parçalanır. Birinci iğ iplikçiklerinin doğrultusuna dik yeni iğ iplikçikleri oluşur.</p>
+<p>Metafaz II</p>
+<p>Her yavru hücrenin haploid (n) kromozomu ekvatoral düzlem üzerinde dizilir, cross over olmaz.</p>
+<p>Anafaz II</p>
+<p>Mayoz bölünmenin 2. bölümü olan Mayoz 2&#8217;nin 3. evresidir. Ara evre olarak da adlandırılır.
+    Bu evre mitozdaki anafaz evresine benzer. Ancak, mitozdaki anafazda kardeş kromatitler düzenli
+    bulunurken bu evrede düzensiz bulunurlar. Bu da Mayoz bölünmede genetik çeşitliliği sağlar.</p>
+<p>Telofaz II</p>
+<p>Kromozomların helezonları açılır, dolayısıyla görünmez olurlar. Çekirdek zarları oluşur
+    sitoplazma bölünür. Böylece bir hücreden 4 tane haploid hücre meydana gelir.</p>
+<p>&#8216;Sitoplazma bölünmesi&#8217;</p>
+<p><strong>Hayvansal hücrelerde:</strong> Çekirdek bölünmesi
+    tamamlandıktan sonra sitoplazma ortadan boğumlanarak ikiye bölünür ve iki ayrı hücre oluşmuş
+    olur.</p>
+<p><strong>Bitkisel hücrelerde:</strong> Oluşmuş olan iki
+    çekirdekli hücrenin ortasında bir orta lamel (ara lamel) oluşur ve hücre duvarına kadar ulaşır.
+    Dolayısıyla birbirine bitişik iki hücre oluşur.</p>
+<p>Mayoz bölünme sonucunda n kromozomlu 4 hücre (gamet)oluşur.</p>
+<h3><a name="2"></a>Mitoz Bölünme</h3>
+<h3>>Mitoz Bölünme Nedir?</h3>
+<p>Mitoz ya da mitoz bölünme, ana hücrenin bölünerek iki yeni hücre oluşturmasına denir. Mitoz
+    yalnızca ökaryotik hücrelerde görülür ve çok hücreli canlılarda büyüme gelişme ve yaraların
+    onarılmasını sağlar.</p>
+<h3>>Hücre Döngüsü ve Mitoz Evreleri</h3>
+<p>Hücrelerin belirli bir yaşam süreleri vardır. Bölünme sonucu oluşmuş bir hücrenin, bölünme
+    geçireceği döneme kadar ki hayatına hücre döngüsü denir.</p>
+<p>Hücre döngüsü sitoplazmada mevcut bazı kimyasal sinyaller tarafından yürütülür ve çeşitli kontrol
+    noktaları vardır. Hücreyi bölünmeye zorlayan faktör, hacim / yüzey oranının giderek artmasıdır.
+    Bu durum madde alış verişini ve çekirdeğin kontrolünü zorlaştırır. Hücre bölünerek yüzey / hacim
+    oranını artırır.</p>
+<p>Hücrenin bölünebilmesi için hücre çekirdeğinden ‘’ bölünme emri ‘’ verilmesi gerekir, bu emir
+    verildikten sonra hücre bölünür.</p>
+<p>Hücre bölünmesi hücre döngüsünün bir parçasıdır. Hücre döngüsü uzun bir interfaz evresi ile kısa
+    bir mitotik evreden oluşur.</p>
+<p>İnterfaz</p>
+<p>Mitoz evresi hücre döngüsünün görece çok kısa bir parçasıdır. Döngünün büyük kısmını oluşturan
+    evre, hücrenin kendisini bölünmeye hazırladığı interfaz evresidir.</p>
+<p>İnterfaz G1, S ve G2 olmak üzere üç evreye ayrılır. G1 evresinde ATP sentezi, organel sayısı ve
+    protein sentezi artar. S evresinde DNA eşlenmesi tamamlanır. G2 evresinde hücre, bölünme
+    hazırlığını tamamlar. Hızlı çoğalan bir insan hücresinde hücre döngüsü 24 saatte tamamlanırken
+    embriyo hücresinde 30 dakikadan az, maya hücresinde 90 dakika, bakteri hücresinde 20 dakika gibi
+    kısa sürede tamamlanabilir.</p>
+<p>Karyokinez</p>
+<p>Profaz<br/>
+    İnterfazda eşlenmiş durumdaki kromatinler kısalıp kalınlaşarak kromozoma dönüşürler. Çekirdek
+    zarı, çekirdekçik ve organeller eriyerek tamamen kaybolur. Kromozomlar ekvatoral bölgeye hareket
+    etmeye başlarlar.</p>
+<p>Metafaz<br/>
+    Kardeş kromotitler ekvatoral düzlemde bir çember gibi, bazen de karışık olarak ekvatoral düzlem
+    üzerinde dizilirler ve sentrozomlar interfazda oluşturmuş olduğu iğ ipliklerini kromozomlara
+    doğru göndermeye başlar. Hücrenin ortasında hafif boğumlanma olur. İğ iplikleri kardeş
+    kromatitlere tutunur. Kromozomların en net görüldüğü safhadır.</p>
+<p>Anafaz<br/>
+    Kromozomlardaki sentromerlerin aynı anda ikiye bölünmesiyle kardeş kromatitler tam olarak
+    birbirinden ayrılır. Kardeş kromatitler sentromerleriyle iğ ipliklerine tutunarak zıt kutuplara
+    doğru çekilir. Anafaz evresi kardeş kromatitlerin zıt kutuplara ulaşmasıyla tamamlanır.</p>
+<p>Telofaz<br/>
+    Profaz evresinde eriyen çekirdek zarı, çekirdekçik ve organeller yeniden oluşmaya
+    başlar.Kutuplara çekilen kromatitler çekirdek zarının içine girerler.Kısaca bu evrede Profazda
+    olan her şeyin tam tersi olur.Bu evreden sonra sitoplazma bölünmesi gerçekleşir.</p>
+<p>Sitokinez (Sitoplazma bölünmesi)</p>
+<p>Hücrede sitoplazma bölünmesi anafaz evresiyle başlar. Çekirdek ve sitoplazma bölünmesi eş zamanlı
+    gerçekleşir. Protein yapılır mikrofilamentler hayvan hücrelerinin bölünmesinde sitoplazmanın
+    boğumlanmasında görev alır.</p>
+<p>Mitoz bölünmede oluşan hücre sayısı 2n formülü ile bulunur. (n) bölünme sayısıdır.</p>
+<p>Bazı durumlarda çekirdek bölündükten sonra sitoplazma bölünmesi olmaz. Böylece çok çekirdekli
+    hücreler oluşur. Buna <strong>endomitoz</strong> denir.</p>
+<p><strong>Hayvan ve bitki hücrelerinde mitoz bölünme farklılıkları</strong></p>
+<p>&#8211;Hayvan hücrelerinde sitoplazma
+    boğumlanarak bölündüğü halde bitki hücresinde orta lamel (ara lamel) oluşumuyla
+    gerçekleşir.<br/>
+    &#8211;Bitki hücresinde iğ ipliklerini
+    sitoplazma hazırlarken hayvan hücrelerinde bunu sentrozomlar yapar.</p>
+<p>&nbsp;</p>
+</html>

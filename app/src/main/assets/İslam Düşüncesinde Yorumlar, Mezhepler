@@ -1,0 +1,66 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    
+    </style>
+</head>
+<h2>İslam Düşüncesinde İtikadi ve Siyasi Yorumlar</h2>
+<p>İslam’ın farklı şekillerde yorumlanması siyasi-itikadi olduğu gibi ameli-fıkhi alanda da
+    olmuştur. Ameli-fıkhi yorumlar genellikle dinin ibadetler ve insanlar arası ilişkilerini
+    düzenleyen kurallarda yoğunlaşmıştır. Yorumların ve farklılıkların hiçbirisi özünde ve temel
+    ilkelerinde olmamıştır.</p>
+<p>İslam bilginlerinin görüş ve düşüncelerini temel alan <strong>Caferilik, Hanefilik, Malikilik,
+    Şafiilik ve Hanbelilik</strong> gibi mezhepler oluşmuştur.</p>
+<h3>Hanefilik</h3>
+<p>Hicri ilk iki yüzyılda Kûfe merkezli olarak çıkan ve ismini kurucusu sayılan büyük fakih İmam-ı
+    Âzam Ebû Hanife’den alan Ehl-i sünnet fıkıh mezheplerindendir.<br/>
+    Bu mezhebe mensup olan fakihlere ve bu mezhep görüşüyle amel eden kişilere de Hanefi
+    denilmiştir.</p>
+<p><strong>Ebû Hanife’nin Tam adı:</strong> Ebû Hanîfe Nu’mân b. Sâbit (d. 80/699 Kûfe/ö. 157/767
+    Bağdat).<br/>
+    <strong>Künyesi:</strong> Ebû Hanife.<br/>
+    <strong>Lakabı:</strong> İmâm-ı Âzam (En büyük imam).</p>
+<p>Kendisi Irak Re’y ekolünün lideri ve önderidir.<br/>
+    Akaide dair yazdığı beş küçük eseri çok meşhurdur. Bunlar; el-Fıkh’l-Ekber, el-Fıkhü’l-Ebsat,
+    er-Risâle, el-âlim ve’l-Müteallim ve el-Vasiyye isimli risalelerdir. Ebû Hanife’nin görüşünü
+    yazan, yayan ve yaşatan öğrencileri olmuştur. Bunlardan İmam Ebû Yûsuf, İmam Muhammed, Züfer,
+    Hasan b. Ziyâd en meşhurlarıdır.</p>
+<h3>Caferilik</h3>
+<p>Peygamberimizin soyundan gelen İmam Cafer Sadık’ın görüşlerini temel alan mezheptir.Bu mezhebin
+    görüşlerinin büyük çoğunluğu Hanefilik, Şafiilik, Malikilik gibi mezheplerin görüşlerine
+    uygundur.</p>
+<h3>Malikilik</h3>
+<p>H 2./M 8. yüzyılda “Medine” merkezli olarak çıkan ve ismini kurucusu sayılan büyük hadis ve fıkıh
+    âlimi Malik b. Enes’ten alan Ehl-i sünnet fıkıh mezheplerindendir. Bu mezhebe mensup olan
+    fakihlere ve bu mezhep görüşüyle amel eden kişilere de Maliki denilmiştir.</p>
+<p><strong>İmam Malik’in Tam adı:</strong> Malik b. Enes el-Esbahî (d. 93/712 Medine/ö. 179/795
+    Medine). Hadis ilminde de en güvenilir (sika) imamlardandır. Müctehit ve muhaddistir. Kendisine
+    “Hadisçilerin ve Hicaz fıkıhçılarının önderi” denilir.</p>
+<p><strong>Eseri:</strong> el-Muvatta’dır. İmam Malik’ten Abdurrahman b. Kasım, Abdurrahman
+    el-Kurtubî ve Asbağ b. Ferec<br/>
+    gibi bazı âlimler ders almıştır.</p>
+<h3>Şafiilik</h3>
+<p>Asıl adı Muhammed olan İmam-ı Şafiî’nin görüşlerini temel alan mezheptir. İmam-ı Şafiî, dinî
+    hükümleri tespit etmede izlediği yöntemi şu şekilde açıklamıştır: “Öncelikle Kur’an’ı ve
+    Resulüllah’ın sünnetini esas alırız. Sonra, sahabilerin görüşlerini ve Müslüman bilginlerin
+    tamamına yakınının görüş birliği ile verdikleri hükümleri kabul ederiz. Bir konunun hükmünü bu
+    kaynaklarda bulamazsak o konuda kendi görüşümüzü belirtiriz.”</p>
+<h3>Hanbelîlik</h3>
+<p>H 3./M 9. yüzyılda “Bağdat” merkezli olarak çıkan ve ismini kurucusu sayılan büyük hadis bilgini
+    Ahmed b. Hanbel’den alan Ehl-i sünnet fıkıh mezheplerindendir. Bu mezhebe mensup olan fakihlere
+    ve bu mezhep görüşüyle amel eden kişilere de Hanbeli denilmiştir.</p>
+<p><strong>İmam Ahmed b. Hanbel’in Tam adı:</strong> Ebû Abdullah Ahmed b. Muhammed b. Hanbel<br/>
+    eş-Şeybânî (d. 164/780 Bağdat/ö. 241/855 Bağdat).</p>
+<p>Sünni fıkhının büyük hadis imamı sayılan fıkıh ve hadis bilgini. Hadis (Hicaz) ekolünün
+    önderlerindendir. Ahmed b. Hanbelin en önemli eseri el-Müsned adlı hadis kitabıdır. Akait
+    konularına dair “er-Red Ale’z-zenadıka ve’l-Cehmiyye (Zındık ve Cebriyye Yanlılarına Cevap) adlı
+    bir eseri vardır.</p>
+<p>&nbsp;</p>
+</html>

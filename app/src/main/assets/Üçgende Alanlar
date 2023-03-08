@@ -1,0 +1,89 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<h1><span style="color: #ff0000">Üçgenin Alanı</span></h1>
+<h3><span style="color: #000080"><a name="1"></a>Genel Alan Bağıntısı</span></h3>
+<p>Bir üçgenin alanı, bir kenarı ile o kenara ait yüksekliğin çarpımının yarısıdır.</p>
+<p><img class="alignnone wp-image-122970"
+        src="images/geometri/alan/alan1.jpg" alt=""
+        width="264" height="280"/></p>
+<p>Hangi kenarı kullanırsak kullanalım üçgenin alanı sabittir.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122971"
+        src="images/geometri/alan/alan2.jpg" alt=""
+        width="203" height="224"/></p>
+<p>Bir ABC üçgeninde yükseklik her zaman üçgenin içinde olmayabilir.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122972"
+        src="images/geometri/alan/alan3.jpg" alt=""
+        width="236" height="207"/></p>
+<h3><span style="color: #000080"><a name="2"></a>Dik Üçgende Alan</span></h3>
+<p>Dik üçgensel bölgenin alanı, dik kenar uzunluklarının çarpımının yarısının alınması ile bulunur.
+    Eğer hipotenüse ait yükseklik biliniyorsa taban ile yükseklik çarpımının yarısı da
+    alınabilir.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122973"
+        src="images/geometri/alan/alan4.jpg" alt=""
+        width="194" height="165"/></p>
+<h3><span style="color: #000080"><a name="3"></a>Geniş Açılı Üçgende Alan</span></h3>
+<p>Geniş açılı üçgenlerde [AB] ve[BC] kenarlarına ait yükseklikler üçgenin dış bölgesindedir.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122974"
+        src="images/geometri/alan/alan5.jpg" alt=""
+        width="284" height="261"/></p>
+<p><strong><span style="color: #000080"><a name="4"></a>Bir açısı ve bu açının kenarları bilinen üçgenin alanı</span></strong>
+</p>
+<p>ABC üçgeninde m(ABC) = a |AB| = c|BC| = a</p>
+<p><img loading="lazy" class="alignnone wp-image-122975"
+        src="images/geometri/alan/alan6.jpg" alt=""
+        width="323" height="157"
+        sizes="(max-width: 323px) 100vw, 323px"/></p>
+<p>Birbirini 180° ye tamamlayan açıların sinüsleri eşit olduğundan;</p>
+<p><img loading="lazy" class="alignnone wp-image-122976"
+        src="images/geometri/alan/alan7.jpg" alt=""
+        width="335" height="162"
+        sizes="(max-width: 335px) 100vw, 335px"/></p>
+<p>|BC| = a |AB| = c uzunlukları sabit olan ABC üçgeninin alanının maksimum olabilmesi için a = 90°
+    olmalıdır.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122977"
+        src="images/geometri/alan/alan8.jpg" alt=""
+        width="169" height="173"/></p>
+<p>Hipotenüs uzunluğu sabit olan ABC dik üçgeninin alanının en büyük değerini alabilmesi için |AB| =
+    |AC| olmalıdır.ABC üçgeni ikizkenar dik üçgen olmalıdır.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122978"
+        src="images/geometri/alan/alan9.jpg" alt=""
+        width="169" height="173"/></p>
+<p><span style="color: #000080"><strong><a name="5"></a>Üç kenarının uzunluğu verilen üçgenin alanı</strong></span>
+</p>
+<p>Üç kenarının uzunluğu verilen üçgenin alanı;ABC üçgeninin çevresi Çevre(ABC) = a + b + c Çevrenin
+    yarısına <strong>u </strong>dersek;</p>
+<p><img loading="lazy" class="alignnone wp-image-122979"
+        src="images/geometri/alan/alan10.jpg" alt=""
+        width="313" height="186"
+        sizes="(max-width: 313px) 100vw, 313px"/></p>
+<p><strong><span style="color: #000080"><a name="6"></a>Çevresi ve iç teğet çemberinin yarıçapı verilen üçgenin alanı</span></strong>
+</p>
+<p><img loading="lazy" class="alignnone wp-image-122980"
+        src="images/geometri/alan/alan11.jpg" alt=""
+        width="367" height="314"
+        sizes="(max-width: 367px) 100vw, 367px"/></p>
+<p>Bu üç alanı toplayarak ABC üçgeninin alanını bulabiliriz.</p>
+<p><img loading="lazy" class="alignnone wp-image-122981"
+        src="images/geometri/alan/alan12.jpg" alt=""
+        width="304" height="283"
+        sizes="(max-width: 304px) 100vw, 304px"/></p>
+<p><span style="font-size: 14pt">A(ABC)=u.r</span></p>
+<p>Bir ABC üçgeninde iç teğet çemberin yarıçapı r ve yükseklikler;</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122982"
+        src="images/geometri/alan/alan14.gif" alt=""
+        width="267" height="48"/></p>
+<p>ABC dik üçgeninde A(ABC) = |BD|.|DC|</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122983"
+        src="images/geometri/alan/alan15.jpg" alt=""
+        width="220" height="143"/></p>
+</html>

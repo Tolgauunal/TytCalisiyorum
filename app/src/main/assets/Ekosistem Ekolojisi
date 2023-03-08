@@ -1,0 +1,176 @@
+<html>
+<style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+</style>
+<h2>Ekosistem Ekolojisi</h2>
+<p>Belli bir bölgede yaşayan ve birbirleriyle devamlı etkileşim halinde olan canlılar ile bunların
+    cansız çevrelerinin oluşturduğu bütüne<strong> ekosistem</strong> denir. Ekosistem aynı zamanda
+    bir besin ağı ile şekillenmektedir. Ekosistem, küresel ölçekte bir düzeni ifade etmekle beraber
+    yerel ve korunaklı bir sistemin varlığına da atıfta bulunabilir.</p>
+<p>Canlıların birbirleriyle ve çevreleriyle olan ilişkisini inceleyen bilim dalına ekoloji denir.
+    Küresel ısınma, çevre kirliliği ve diğer çevresel sorunların ekoloji ile iş birliği içinde çözülmesi
+    mümkündür. Bu yüzden ekoloji gittikçe önem kazanan bir bilim dalı olarak görülmektedir.</p>
+<h3><a name="1"></a>Ekosistemin Yapısı ve Ekosistem İle İlgili Kavramlar
+</h3>
+<p><strong>Habitat:</strong> Bir organizmanın veya popülasyonun doğal olarak yaşayıp üreyebildiği
+    yere habitat adı verilir. Habitat kısaca organizmanın adresidir. Canlılar özellikle hayvanlar
+    habitatlarını değiştirebilme özelliğine sahiptir. Göçmen kuşlar yazın ve kışın farklı
+    habitatlarda yaşarlar.</p>
+<p><strong>Ekolojik Niş:</strong> Bir organizmanın yaşadığı ortamda yaptığı işe, göreve ekolojik
+    nişadı verilir. Bir organizmanın ekolojik nişi; bu organizmanın hangi canlılarla beslendiği,
+    hangi canlılar tarafından yenildiği ile çevresinin biyolojik, fiziksel ve kimyasal yapısını
+    nasıl etkilediği gibi özellikleridir.</p>
+<p>Ekolojik nişleri çalışkan iki veya daha fazla organizmadan her birinin yaşamak için gerekli
+    kaynağı ele geçirme mücadelesine rekabet denir.</p>
+<p><strong>Tür:</strong> Ortak bir atadan gelen, çiftleştiğinde verimli bireyler oluşturan canlı
+    topluluğuna tür adı verilir.</p>
+<p><strong>Popülasyon:</strong> Belirli bir bölgede yaşayan aynı türe ait bireylerin oluşturduğu
+    topluluğa popülasyon denir. Her bir komünite çok sayıda popülasyondan oluşur. Bir ormandaki meşe
+    ağaçları, bir şehirdeki insanlar birer popülasyon örneğidir. Popülasyonu oluşturan bireyler
+    benzer çevre koşullarından etkilenir, bulundukları ortamın besin kaynaklarını ortak kullanırlar.
+</p>
+<p><strong>Komünite:</strong> Ekosistemlerin canlı kısmına komünite adı verilir. Her ekosisteme özgü
+    bir komünite bulunur. Örneğin, ormandaki canlıların tümü orman komünitesini oluşturur. Bir
+    komünitede bitki, hayvan ve mikroorganizma türlerinden oluşan binlerce popülasyon bulunabilir.
+    Komüniteler bitki ve hayvan komüniteleri şeklinde olabileceği gibi karma da olabilir.</p>
+<p><strong>Biyotop:</strong> Komüniteler çok sayıda türden oluşabilirler. Bu canlıların yaşamlarını
+    sürdürebilmek için ihtiyaç duydukları coğrafik alana biyotop adı verilir.</p>
+<p><strong>Ekoton:</strong> İki komünite arasındaki geçiş bölgelerine ekoton denir. Bu alanlar komşu
+    iki komünitenin de özelliklerine biraz sahip olduklarından tür sayısı, birey sayısı ve sahip
+    olunan özellikler açısından farklılıklar gösterir.</p>
+<p><strong>Ekosistem:</strong> Canlı ve cansız çevrenin birlikte oluşturduğu bölgeler ekosistem
+    olarak adlandırılır. Ekosistem ekosferin alt birimidir.</p>
+<p><strong>Biyosfer (Ekosfer):</strong> Belirli fiziksel, kimyasal ve biyolojik özellikleri olan
+    bölgelerden (dağ, çöl, orman, deniz, akarsu gibi) oluşmuştur. Kısaca dünya üzerinde canlıların
+    yaşadığı alanların tümü biyosfer (ekosfer) olarak adlandırılır. Bu alan okyanusların en derin
+    yerinden atmosferin 16 km’lik alanına kadar uzanır.</p>
+<h3><a name="2"></a>Besin Zinciri ve Besin Ağı</h3>
+<p>Bir komünite içinde, enerjinin taşınabileceği organizmalar dizisine besin zinciri, karmaşık
+    olarak birbirine girmiş çok sayıda besin zincirinin tümüne besin ağı denir.</p>
+<p>Besin zinciri hangi hayvanın hangi hayvanı yediğini ve sonuçta nasıl insana gelene kadar
+    büyüdüğünü gösterir. Besin zincirinde canlılar üreticiler tüketiciler ve çürükçüller olarak
+    sınıflandırılır.</p>
+<p>Üreticiler bitkiler, tüketiciler hayvanlar ve insanlar, çürükçüller ise besin artıklarını ve
+    üreticilerin kalıntılarını yiyerek temizleyen ve toprağa karışmasını sağlayan bakterilerdir.</p>
+<p>Besin zinciri aynı zamanda hayvanların sınıflanmasında ve hangi hayvanın hangisiyle
+    besleneceğinin tespit edilmesinde etkilidir. Bu sayede hangi hayvanın neslinin tükendiği
+    durumlarda besin zincirinin etkileneceği veya hangi hayvanın hangisini yiyeceği bilineceği için
+    hayvansal planlamanın yapılması kolaylaşacaktır.</p>
+<h4>Canlıların Beslenme Şekilleri</h4>
+<p>Canlılar besinlerini elde etme şekline göre ototrof, heterotrof ve hem ototrof hem heterotrof
+    olmak üzere üç gruba ayrılır.</p>
+<p><strong>Ototrof Canlılar</strong></p>
+<p>İnorganik maddelerden organik madde sentezleyebilen canlılardır. Ototrof canlılar kullandıkları
+    enerji kaynağına göre ikiye ayrılırlar.</p>
+<p><strong>Fotosentetik Ototroflar:</strong> Güneşten gelen enerjiyi kullanarak organik madde
+    sentezi yaparlar. Klorofil taşıyan bu organizmalar güneş enerjisini kimyasal enerjiye
+    dönüştürerek organik besin sentezini gerçekleştirirler. Yeşil bitkiler, öglena, algler ve bazı
+    bakteriler örnek olarak verilebilir.</p>
+<p><strong>Kemosentetik Ototroflar:</strong> Organik besin sentezi için kimyasal enerjiye ihtiyaç
+    duyarlar. Bu kimyasal enerjiyi amonyak, nitrit, demir gibi inorganik maddelerin oksidasyonundan
+    elde ederler. Demir, nitrit, nitrat, kükürt bakterileri örnek olarak verilebilir.</p>
+<p><strong>Heterotrof Canlılar </strong></p>
+<p>Besinlerini dış ortamdan hazır olarak alırlar. Besinlerini alma biçimlerine göre üç grupta
+    incelenirler.</p>
+<p><strong>Holozoik Beslenenler:</strong> Besinlerini katı parçacıklar halinde alıp sindirim
+    organlarında sindirebilen canlılardır. Sindirim sistemleri, duyu organları, kas ve sinir
+    sistemleri gelişmiştir. Aldıkları besin türüne göre otçul (geviş getiren memeliler. kemirgen
+    memeliler gibi), etçil (aslan, kaplan gibi). hem otçul hem etçil (ayı, domuz gibi) olarak
+    gruplandırılırlar.</p>
+<p><strong>Çürükçül Beslenenler (Saprofitlik):</strong> Sindirim enzimlerini hücre dışına salgılayıp
+    ölü organizmaları yapıtaşlarına kadar parçalayıp, monomer halinde hücreye alırlar. Örnek: Maya
+    mantarları ve bazı bakteriler.</p>
+<p><strong>Birlikte Yaşama (Simbiyozluk):</strong>Farklı türe ait iki canlının birlikte yaşaması ve
+    beslenmesidir. Yararlı birlikler ve zararlı birlikler olmak üzere iki grupta incelenir.</p>
+<h3><a name="3"></a>Madde Döngüleri</h3>
+<p>Hayatın devamı için gerekli olan maddelerin ekosistem içinde canlılar ve cansız çevreleri
+    arasındaki dolaşımına ekolojik madde döngüleri denir. Bu döngülerin biyolojik, kimyasal ve
+    jeolojik etmenleri olduğundan biyojeokimyasal döngüler de denir.</p>
+<p><strong>Su Döngüsü</strong></p>
+<p>Suyun litosfer (taş küre), hidrosfer (deniz ve tatlı sular) ile atmosfer arasındaki hareketine su
+    döngüsü denir.</p>
+<p>Okyanus, deniz, göl veya kara yüzeyinde bulunan su kütleleri iklimin etkisi ile su buharına
+    dönüşmektedir. Atmosferdeki hareketlerin etkisi ile yer değiştiren su buharı başka alanlarda
+    yoğunlaşarak yağışa dönüşmekte ve tekrar yüzeye inmektedir.</p>
+<p>Su döngüsünde en önemli aşama suyun gaz hale geçmesi olayı yani buharlaşmadır. Atmosferdeki nemim
+    %90’ı okyanus deniz ve göllerden buharlaşma ile sağlanmaktadır.Bitkilerin yüzeyinden su
+    moleküllerinin atmosfere karışması terleme olarak adlandırılmaktadır.</p>
+<p>Su buharının gaz halden sıvı hale geçmesi olayı yoğuşma olarak adlandırılır. Önce yoğuşan su
+    buharı, sıcaklığın düşmesiyle yağışa dönüşmektedir. Yeryüzüne inen su kütlesinin yüzeydeki
+    hareketine yüzey akışı, yer altındaki hareketi ise yer altı akışı olarak adlandırılır.</p>
+<p><strong>Karbon Döngüsü</strong></p>
+<p>Karbon doğada hem mineral biçiminde (kömür, elmas, gaz olarak veya suda çözünmüş durumda karbon
+    dioksit olarak) hem de organik (canlıların yapısındaki karbonhidratlarda, proteinlerde vs.)
+    biçimde bulunur.</p>
+<p>İnsanlar, hayvanlar ve bitkiler oksijenli solunum yaptıklarında atmosfere CO2 gazı verirler.
+    Kömür, petrol ürünleri gibi fosil yakıtların yakılması ve orman yangınları da atmosfere CO2
+    salınmasını sağlar. Bu CO2 fotosentez yapan yeşil bitkiler tarafından alınır ve besin üretiminde
+    kullanılır. Böylece CO2 deki karbon yeniden canlılara geçer bu canlıların ölmesiyle toprağa
+    karışan karbon fosil yakıtların oluşmasına neden olur. Yine deniz ve okyanuslarda çözünen CO2
+    kireç taşı oluşumuna neden olmaktadır; fotosentez ve solunum olayları deniz ve okyanuslarda da
+    gerçekleşir.</p>
+<p><strong>Azot Döngüsü</strong></p>
+<p>Atmosferdeki azotun canlılar tarafından kullanımı ve tekrar atmosfere dönmesi olayına azot
+    döngüsü denir.</p>
+<p>Azot, canlılar için en önemli yapı maddesi olan proteinlerin yapısında bulunduğu gibi ATP,
+    nükleik asit ve vitamin gibi organik maddelerin yapısına da katılır. Azot bağlayıcı bakteriler,
+    havadaki azot gazını bitkilerin kullanabileceği azot<br/>
+    tuzlarına dönüştürür.</p>
+<p>Bitkiler topraktan aldıkları nitrat (NO3 —) gibi azot tuzlarını fotosentez tepkimelerinde
+    kullanarak organik besinleri (amino asit gibi) üretirler. Hayvanlar ise azot ihtiyaçlarını
+    beslenme yoluyla bitki ve diğer hayvanlardan karşılarlar.</p>
+<p>Ölü bitki ve hayvanlardaki ya da organizmaların atıklarındaki azotlu organik bileşiklerin
+    ayrıştırıcılar tarafından parçalanması ile amonyak (NH3) ya da amonyum (NH4 +) iyonları
+    oluşur.</p>
+<p>Amonyak ve amonyum iyonlarının kemosentetik bakterilerin faaliyeti sonucunda nitrata (NO3 —)
+    dönüştürülmesine nitrifikasyon denir. Toprakta bulunan nitrit ya da nitratın bakteriler
+    tarafından atmosferdeki azot<br/>
+    gazına dönüştürülmesine denitrifikasyon denir.</p>
+<p><strong>Oksijen Döngüsü</strong></p>
+<p>Oksijen canlıların besin üretimi için kilit önem taşımaktadır. Oksijen atmosferde üç şekilde
+    bulunmaktadır. Bunlar atomik oksijen (O), moleküler oksijen (O²) ve ozon (O³)’dur.</p>
+<p>Moleküler oksijen solunum için gereklidir. Ayrıca oksijen hidrojen, sülfür, karbon ve fosfor gibi
+    maddelerle bileşim halinde gelebilmektedir. Ozon, Güneş’ten gelen ultraviyole ışınlarını
+    tutmaktadır.Oksijenin en önemli kaynağı fotosentez yapan bitkilerin oluşturduğu oksijendir.
+    Ayrıca atmosferdeki su molekülleri fotoliz yoluyla ayrışarak oksijen üretimine katkıda
+    bulunmaktadır.<br/>
+    Oksijen canlı solunumu, yanma ve organik maddelerin çürümesi esnasında tüketilmektedir. Oksijen
+    oranının ölçülebilir miktarda değişim olmadığı için oksijen döngüsünün denk kapandığı
+    söylenebilir.</p>
+<h3><a name="4"></a>Ekosistemi Etkileyen Faktörler</h3>
+<p>Ekologlar, canlılar üzerinde etkili olan faktörleri abiyotik ve biyotik faktörler olarak ikiye
+    ayırır.</p>
+<p><strong>Abiyotik Faktörler (Cansız Varlıklar)</strong></p>
+<p>Abiyotik faktörler, canlıların yaşamlarını devam ettirebilecekleri çevresel koşulları ifade
+    eder.</p>
+<p>&#8211; Işık, iklim, sıcaklık, su, ortam pH’sı, toprak ve mineraller canlıları etkileyen abiyotik
+    faktörlere örnek olarak verilebilir.<br/>
+    &#8211; Her canlı türü için abiyotik faktörlerin alt ve üst sınırları vardır. Bu iki sınıra
+    tolerans sınırları denir. Tolerans sınırları arasında kalan aralığa ise tolerans (hoşgörü)
+    aralığı adı verilir.</p>
+<p><strong>Biyotik Faktörler (Canlı Varlıklar)</strong></p>
+<p>Bir ekosistemde bulunan canlı varlıkların hepsine biyotik faktör denir. Biyotik faktörler
+    ekolojik nişlerine göre üreticiler, tüketiciler ve ayrıştırıcılar olmak üzere üçe ayrılır.
+    Ekosistemde ki canlılığın devamı biyotik faktörler arasındaki ilişkinin devamlılığına
+    bağlıdır.</p>
+<p><strong>Üreticiler:</strong> İnorganik maddeleri organik maddelere dönüştürerek kendi besinini
+    üreten canlılara üretici (ototrof) canlılar denir.<br/>
+    Güneş enerjisini kullanarak kendi besinini üreten canlılara fotoototrof denir. Bitkiler, algler,
+    öglena, bazı bakteriler ve arkeler bu canlılara örnek olarak verilebilir. İnorganik maddelerin
+    oksidasyonu sırasında açığa çıkan kimyasal enerji yardımıyla kendi besinini üreten canlılara
+    kemoototrof denir.</p>
+<p><strong>Tüketiciler:</strong> Kendi besinini üretemeyen, bulundukları ortamdan hazır alan
+    canlılara tüketici (heterotrof) canlılar denir. Hayvanlar ve mantarların tamamı bu gruba girer.
+    Ayrıca bakteri ve protistlerin çoğu da tüketici olarak beslenir.</p>
+<p><strong>Ayrıştırıcılar: </strong>Organik atıkları inorganik maddelere çevirerek, yeniden
+    ototrofların kullanımına sunarlar. Bu yüzden madde döngülerinde önemli bir göreve sahiptirler.
+    Saprofit olarak da adlandırılan ayrıştırıcıların en önemli örneklerini mantarlar, bazı<br/>
+    bakteriler, toprak solucanı vb. canlılar oluşturur</p>
+</html>

@@ -1,0 +1,261 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2><strong><span style="text-decoration: underline;">RASYONEL SAYILAR</span></strong><strong><br/>
+</strong></h2>
+<p><strong><span style="text-decoration: underline;">A. TANIM:</span></strong></p>
+<p>a ve b tam sayı, b <span style="font-family: Symbol;">¹</span> 0 olmak üzere, <img
+        src="images/matematik/rasyonelsayilar/rasyonelsayilar1.gif"
+        alt="Rasyonel Sayılar"/>şeklinde ifade edilen sayılara <strong><em>rasyonel sayı veya
+    kesir</em></strong> denir.</p>
+<p><img class="aligncenter"
+        src="images/matematik/rasyonelsayilar/rasyonelsayilar2.gif"
+        alt="Rasyonel Sayılar"/></p>
+<p style="text-align: center;"><img class="aligncenter"
+                                    src="images/matematik/rasyonelsayilar/rasyonelsayilar3.gif"
+                                    alt="Rasyonel Sayılar"/></p>
+<p style="text-align: center;"><img
+        src="images/matematik/rasyonelsayilar/rasyonelsayilar4.gif"
+        alt="Rasyonel Sayılar"/></p>
+<h3 style="text-align: left;"><strong><span
+        style="text-decoration: underline;">KESİR</span></strong></h3>
+<p>Bir birimin bölündüğü eşit parçalardan birini veya bir kaçını göstermeye yarayan sayılara<em>
+    <strong>kesir</strong></em> denir.</p>
+<p><strong><span style="text-decoration: underline;">KESİR ÇEŞİTLERİ</span></strong></p>
+<p><strong><em><span style="text-decoration: underline;">1. Basit Kesir:</span></em></strong>
+    İşaretine bakılmaksızın payı paydasından küçük olan kesirlere <strong><em>basit
+        kesir</em></strong> denir.</p>
+<p><img class="aligncenter"
+        src="images/matematik/rasyonelsayilar/rasyonelsayilar5.gif"
+        alt="Rasyonel Sayılar"/></p>
+<p>Aşağıdaki doğruda koyu yere denk gelen sayılara basit kesir denir.</p>
+<p><img class="aligncenter"
+        src="images/matematik/rasyonelsayilar/rasyonelsayilar6.gif"
+        alt="Rasyonel Sayılar"/></p>
+<table border="1" width="89%" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="73%"><strong><em><span
+                style="text-decoration: underline;">Not:</span></em></strong> <img
+                src="images/matematik/rasyonelsayilar/rasyonelsayilar1.gif"
+                alt="Rasyonel Sayılar"/>pozitif basit kesir ise,<img class="aligncenter"
+                                                                     src="images/matematik/rasyonelsayilar/rasyonelsayilar9.gif"
+                                                                     alt="Rasyonel Sayılar"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><strong><em><span style="text-decoration: underline;">2. Bileşik Kesir:</span></em></strong>
+    İşaretine bakılmaksızın payı paydasından küçük olmayan (büyük veya eşit olan) kesirlere <strong>bileşik
+        kesir</strong> denir<a
+            href="https://derscalisiyorum.com.tr/matematik-konu-anlatimi/rasyonel-sayilar.html">.</a>
+    Bileşik kesirler <strong><em><span
+            style="text-decoration: underline;">tam sayılı kesir</span></em></strong> diye de
+    adlandırılabilir. Tam sayılır kesir, önde tam sayı olan kesirdir.</p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar10.gif"
+        alt="Rasyonel Sayılar"/></p>
+<p>Aşağıdaki doğruda koyu gösterilen yere denk gelen sayılara bileşik kesir denir.</p>
+<p><img class="aligncenter"
+        src="images/matematik/rasyonelsayilar/rasyonelsayilar12.gif"
+        alt="Rasyonel Sayılar"/></p>
+<p><strong><em><span style="text-decoration: underline;">3. Tam Sayılı Kesir:</span></em></strong>Herhangi
+    bir sayma sayısı ile birlikte yazılabilen kesirlere tam sayılı kesir denir.</p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar13.gif"
+        alt="Rasyonel Sayılar"/>birer tam sayılı kesre örnektir.</p>
+<h3>Her bileşik kesir bir tam sayılı kesir biçiminde yazılabilir.<br/>
+    <img class="aligncenter"
+         src="images/matematik/rasyonelsayilar/rasyonelsayilar14.gif"
+         alt="Rasyonel Sayılar"/><br/>
+    <img class="aligncenter"
+         src="images/matematik/rasyonelsayilar/rasyonelsayilar15.gif"
+         alt="Rasyonel Sayılar"/><strong><span style="text-decoration: underline;"><br>
+        RASYONEL SAYILARDA İŞLEMLER:</span></strong><strong> </strong>
+</h3>
+<p>Kesrinin pay ve paydası sıfırdan farklı bir k tam sayısıyla, çarpıldığında veya bölündüğünde
+    kesrin değeri değişmez. <strong>Bu işleme kesrin genişletilmesi veya sadeleştirilmesi
+        denir.</strong></p>
+<p>1. Genişletme ve Sadeleştirme</p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar1.gif"
+        alt="Rasyonel Sayılar"/> kesrinin;</p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar17.gif"
+        alt="Rasyonel Sayılar"/></p>
+<p><strong>2. Denk Kesirler</strong></p>
+<p>Kesrinin genişletilmesi veya sadeleştirilmesiyle <img
+        src="images/matematik/rasyonelsayilar/rasyonelsayilar1.gif"
+        alt="Rasyonel Sayılar"/> <strong> </strong>ye eşit pek çok kesir elde edilebilir. Bu
+    kesirler <img
+            src="images/matematik/rasyonelsayilar/rasyonelsayilar1.gif"
+            alt="Rasyonel Sayılar"/><strong> </strong>ye <strong>denktir</strong> denir. <img
+            src="images/matematik/rasyonelsayilar/rasyonelsayilar1.gif"
+            alt="Rasyonel Sayılar"/><strong> </strong>kesri, <img
+            src="images/matematik/rasyonelsayilar/rasyonelsayilar22.gif"
+            alt="Rasyonel Sayılar"/>kesrine denk ise, <img
+            src="images/matematik/rasyonelsayilar/rasyonelsayilar23.gif"
+            alt="Rasyonel Sayılar"/>biçiminde yazılır, “a bölü b kesri c bölü d kesrine denktir”
+    diye okunur.</p>
+<table border="1" width="89%" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="73%">Her denk kesir aynı zamanda eşittir. Buna göre,<img
+                src="images/matematik/rasyonelsayilar/rasyonelsayilar24.gif"
+                alt="Rasyonel Sayılar"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><strong>3. Toplama &#8211; Çıkarma İşlemi<br/>
+</strong>Toplama ve çıkarma işleminde payda eşitlenecek biçimde kesirler genişletilir ya da
+    sadeleştirilir. Oluşan kesirlerin payları toplanır (ya da çıkarılır) ortak payda alınır.</p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar27.gif"
+        alt="Rasyonel Sayılar"/></p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar28.gif"
+        alt="Rasyonel Sayılar"/></p>
+<p><strong>4. Çarpma &#8211; Bölme İşlemi</strong></p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar29.gif"
+        alt="Rasyonel Sayılar"/></p>
+<p><strong>NOT: <img
+        src="images/matematik/rasyonelsayilar/rasyonelsayilar30.gif"
+        alt="Rasyonel Sayılar"/> <img
+        src="images/matematik/rasyonelsayilar/eksik.gif"
+        alt="Rasyonel Sayılar"/></strong></p>
+<p><strong><span style="text-decoration: underline;">5. İşlem Önceliği:</span></strong></p>
+<p>Toplama, çıkarma, çarpma, bölme ve üs alma işlemlerinden bir kaçının birlikte bulunduğu rasyonel
+    sayılarda işlemler, aşağıdaki sıraya göre yapılır.</p>
+<p><strong>1)</strong> Parantezler ve kesir çizgisi işleme yön verir.</p>
+<p><strong>2)</strong> Üslü işlemler varsa sonuçlandırılır.</p>
+<p><strong>3)</strong> Çarpma &#8211; bölme yapılır.</p>
+<p><strong>4)</strong> Toplama &#8211; çıkarma yapılır.</p>
+<table border="1" width="89%" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="73%"><strong><em><span
+                style="text-decoration: underline;">NOT:</span></em></strong> Toplama ile çıkarma
+            işlemi kendi arasında öncelik taşımaz. Aynı şekilde çarpma ile bölme işlemi de kendi
+            arasında öncelik taşımaz. Özelikle çarpma ile bölme de öncelik söz konusu ise bu
+            parantezle belirlenmiştir.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p><strong><em><span style="text-decoration: underline;">E. ONDALIK KESİR:</span></em></strong></p>
+<p>Bir rasyonel sayının payını paydasına böldüğümüzde bu rasyonel sayının ondalık açılımını buluruz.
+    Bu ondalık açılıma <strong>ondalık kesir</strong> denir.</p>
+<p>1. Ondalık Kesir</p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar31.gif"
+        alt="Rasyonel Sayılar"/></p>
+<p>Burada a ya <strong>tam kısım,</strong> bcd ye de <strong>ondalıklı kısım </strong>denir.</p>
+<p><strong><span
+        style="text-decoration: underline;">2. Devirli (Periyodik) Ondalık Kesir:</span></strong>
+</p>
+<p>Bir ondalık kesirde ondalıklı kısım belli bir kurala göre tekrarlanıyorsa bu sayıya <strong><em>devirli
+    ondalık kesir</em></strong> denir.</p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar32.gif"
+        alt="Rasyonel Sayılar"/><br/>
+    <img src="images/matematik/rasyonelsayilar/eksik1.gif"
+         alt="Rasyonel Sayılar"/><br/>
+    <img src="images/matematik/rasyonelsayilar/eksik2.gif"
+         alt="Rasyonel Sayılar"/></p>
+<p><span
+        style="text-decoration: underline;"> <strong>3. Ondalık Kesirlerde İşlemler:</strong></span>.
+</p>
+<p><strong><em><span
+        style="text-decoration: underline;">a. Toplama &#8211; Çıkarma:</span></em></strong> Ondalık
+    kesirler toplanırken, virgüller alt alta gelecek şekilde yazılır ve doğal sayılarda toplama
+    &#8211; çıkarma işleminde olduğu gibi toplama &#8211; çıkarma işlemi yapılır. Sonuç, virgüllerin
+    hizasından virgülle ayrılır</p>
+<p><strong><em><span style="text-decoration: underline;">b. Çarpma:</span></em></strong> Ondalık
+    kesirlerin çarpımı yapılırken, virgül yokmuş gibi çarpma işlemi yapılır. Sonuç, çarpılan
+    sayıların virgülden sonraki basamak sayılarının toplamı kadar, sağdan sola doğru virgülle
+    ayrılır.</p>
+<p><strong><em><span style="text-decoration: underline;">c. Bölme:</span></em></strong> Ondalık
+    kesirlerin bölme işlemi yapılırken, bölen virgülden kurtulacak biçimde 10 un kuvveti ile
+    çarpılır. Bölünen de aynı 10 un kuvveti ile çarpılarak bölme işlemi yapılır.</p>
+<p><strong><span style="text-decoration: underline;">4. Devirli Ondalık Kesirlerin Rasyonel Sayıya Dönüştürülmesi</span></strong>
+</p>
+<p><em>Bir devirli ondalık açılımı <img
+        src="images/matematik/rasyonelsayilar/rasyonelsayilar1.gif"
+        alt="Rasyonel Sayılar"/> şeklinde yazarken;</em></p>
+<p>Virgül ve devreden dikkate alınmadan; okunan sayıdan, devretmeyen sayıyı çıkararak paya
+    yazılır.</p>
+<p>Paydaya ise virgülden sonraki devreden basamak sayısı kadar 9 ve sağına devretmeyen basamak
+    sayısı kadar sıfır yazılır.</p>
+<p>a, b, c, d, e birer rakam olmak üzere,</p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar34.gif"
+        alt="Rasyonel Sayılar"/></p>
+<table border="1" width="89%" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="73%"><img
+                src="images/matematik/rasyonelsayilar/rasyonelsayilar35.gif"
+                alt="Rasyonel Sayılar"/></td>
+    </tr>
+    </tbody>
+</table>
+<p><strong><em><span style="text-decoration: underline;">Not: </span></em></strong>Devreden 9 ise
+    bir önceki rakam 1 artırılır.</p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar36.gif"
+        alt="Rasyonel Sayılar"/><br/>
+    <img src="images/matematik/rasyonelsayilar/rasyonelsayilar37.gif"
+         alt="Rasyonel Sayılar"/><br/>
+    <img src="images/matematik/rasyonelsayilar/rasyonelsayilar38.gif"
+         alt="Rasyonel Sayılar"/><br/>
+    <img src="images/matematik/rasyonelsayilar/rasyonelsayilar39.gif"
+         alt="Rasyonel Sayılar"/><br/>
+    <img src="images/matematik/rasyonelsayilar/rasyonelsayilar40.gif"
+         alt="Rasyonel Sayılar"/></p>
+<h3><strong>RASYONEL SAYILARDA SIRALAMA<br/>
+</strong></h3>
+<p>Pozitif kesirlerde sıralama yapılırken aşağıdaki yollardan biri kullanılır.</p>
+<p><strong>1. Yol<br/>
+</strong>Paydaları eşit olan (eşitlenen) kesirlerden payı en büyük olan diğerlerinden daha büyüktür.
+</p>
+<p><strong>2. Yol<br/>
+</strong>Payları eşit olan (eşitlenen) kesirlerden paydası en küçük olan diğerlerinden daha
+    büyüktür.</p>
+<p><strong>3. Yol<br/>
+</strong>Payı ile paydası arasındaki farkı eşit olan, pozitif <strong>basit kesirlerde, </strong>payı
+    en büyük olan diğerlerinden daha büyüktür.</p>
+<p>Payı ile paydası arasındaki farkı eşit olan, <strong>bileşik kesirlerde,</strong> payı en büyük
+    olan diğerlerinden daha küçüktür.</p>
+<p><strong><em>Yukarıda verilen yöntemler pozitif kesirlerde geçerlidir. Negatif kesirlerde ise
+    durum tersinedir.</em></strong></p>
+<table border="1" width="89%" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="73%">a ve n doğal sayı olsun.n sabit iken a büyüdükçe <img
+                src="images/matematik/rasyonelsayilar/rasyonelsayilar41.gif"
+                alt="Rasyonel Sayılar"/>bileşik kesrinin değeri azalır.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<h3><strong><span
+        style="text-decoration: underline;">İKİ RASYONEL SAYI ARASINDAKİ SAYILAR</span></strong><strong><br/>
+</strong></h3>
+<p>Arasında sayılamayacak çoklukta rasyonel sayı vardır. Bunlardan bazılarını bulmak için b ile d
+    nin e.k.o.k. u bulunur. Verilen kesirlerin paydaları bulunan e.k.o.k. da eşitlenir. İstenen
+    koşuldaki sayıyı bulmak için kesirler genişletilebilir.</p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar42.gif"
+        alt="Rasyonel Sayılar"/></p>
+<p>x sayısı <img
+        src="images/matematik/rasyonelsayilar/rasyonelsayilar42.gif"
+        alt="Rasyonel Sayılar"/> kesirlerinin ortasındaki bir sayı ise,</p>
+<p><img src="images/matematik/rasyonelsayilar/rasyonelsayilar43.gif"
+        alt="Rasyonel Sayılar"/></p>
+<table border="1" width="89%" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="73%"><strong><em>NOT:</em></strong><strong> a ve n doğal sayı olsun.</strong>n
+            sabit iken a büyüdükçe basit kesrinin değeri artar.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<table border="0" width="100%" cellspacing="0" cellpadding="0"></table>
+</html>

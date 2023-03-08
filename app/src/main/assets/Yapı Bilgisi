@@ -1,0 +1,172 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2><strong>YAPI BİLGİSİ </strong></h2>
+<p>Sözcüklerin kök veya gövdelerine gelerek onların cümledeki görevlerini belirleyen, onlara değişik
+    anlamlar katan ya da onlardan yeni sözcükler türeten ses veya ses bileşimlerine
+    <strong>ek</strong> denir.<span id="more-4205"></span></p>
+<p>Bunlardan çekim eklerini daha önce gördüğümüz için yapım ekleri üzerinde duracağız.</p>
+<p><strong>Yapım Ekleri</strong></p>
+<p>İsim ve fiillerin kök veya gövdelerine gelerek onlardan başka isim ya da fiil türeten
+    eklerdir.</p>
+<p>Burada kök sözünü de açıklamakta fayda var.</p>
+<p><strong>Kök</strong></p>
+<p>Bir sözcüğün anlamı ve yapısı bozulmadan parçalanamayan en küçük parçasıdır. Köklerde yapım eki
+    bulunmaz, ancak çekim eki bulunabilir.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Evimiz” sözünde “ev”; sözcüğün, anlamlı ve parçalanamayan en küçük parçasıdır. “-(i)-miz” eki
+    iyelik ekidir; yani isim çekim ekidir. Öyleyse bu sözcük yapım eki almamıştır, kök
+    halindedir.<br/>
+    Kökler iki türde bulunur; <strong>İsim kökleri</strong> ve <strong>Fiil kökleri. </strong>“Geldi”
+    sözcüğündeki kök “gel-” fiil kökü; “sözlük” sözcüğünün kökü olan “söz” isim köküdür. Ancak bazen
+    ses taklidi yoluyla oluşan yansıma kökler de vardır.<br/>
+    <strong>Örneğin;</strong></p>
+<p>“ağaçlık” sözcüğünün kökünü bulurken en anlamlı olarak gördüğümüz “ağ” sözünü kök olarak
+    düşünebiliriz. Ancak “ağaçlık” sözüyle balık tutmakta kullanılan “ağ” sözünün herhangi bir anlam
+    ilişkisi yoktur. Öyleyse bu sözcüğün kökü “ağ” olamaz. Ondan sonra “ağa” sözcüğünü görüyoruz.
+    Yine “ağaçlık” sözüyle “ağa” sözcüğü arasında bir anlam ilgisi yoktur. Öyleyse bunu da kök
+    olarak alamayız. Alabileceğimiz kök elbette “ağaç” köküdür. Buradan şu sonucu çıkarabiliriz;
+    sözcüğün köküyle, ek aldıktan sonraki şekli arasında mutlaka bir anlam ilgisi olmalıdır.</p>
+<p>Sözcüğün yapım eki aldıktan sonraki durumuna <strong>gövde</strong> denir.</p>
+<p>Bir sözcük birden çok yapım eki alabilir. İlk yapım eki köke diğerleri gövdeye eklenir.</p>
+<p><strong>Çekim Ekiyle Yapım Ekinin Farkları:</strong></p>
+<p>Çekim ekleri eklendiği sözcüğün anlamında bir değişiklik yapmaz; yapım ekleri ise anlamı, köke
+    bağlı olmak şartıyla, değiştirir.</p>
+<p><strong>Örneğin;</strong></p>
+<p><strong>“Yolda bekliyor.</strong>” cümlesindeki “yol” sözü “geçilen yer” anlamındadır. “-de” hal
+    ekini alarak “yolda” şekline geldiğinde de geçilen yer olma anlamı değişmemektedir.</p>
+<p><strong>“Yolcu bekliyor.”</strong> cümlesinde ise “geçilen yer” olan “yol” sözü “-cu” yapım ekini
+    alarak bu anlamını yitirmiş “yoldan gelen” ya da “yola giden” kişi anlamına gelmiştir. Yani
+    yolla bir anlam ilgisi vardır; ama yer ismi, kişinin niteliği anlamını ifade edecek hale
+    gelmiştir.</p>
+<p><strong>Çekim ekleri bir sözcüğe yapım ekinden sonra eklenir. Yani önce yapım ekleri, sonra çekim
+    ekleri gelir. İstisnaları olsa da bu genel bir kuraldır.</strong></p>
+<p>Ek ve kök hakkındaki bu genel bilgilerden sonra şimdi eklerin önemlileri üzerinde
+    durabiliriz.</p>
+<p><strong>a. İsimden İsim Yapan Ekler</strong></p>
+<p>İsim kök veya gövdelerine gelerek onlardan yeni isimler türeten eklerdir. Ancak bu sözcükler
+    sıfat, zarf gibi görevlerde de kullanılabilir.</p>
+<p>Bu eklerden bazıları şunlardır:</p>
+<p><strong>“-lık – lik” eki</strong></p>
+<p>“Buraya bir <strong>odunluk</strong> yapmıştık.”</p>
+<p>cümlesinde ek, “odunların koyulacağı yer” anlamında bir sözcük türetmiş.</p>
+<p>“Pencereye <strong>güneşlik</strong> almamız gerekiyor.”</p>
+<p>cümlesinde güneşten korunmak için kullanılan alet ismi yapmış.</p>
+<p>“Sendeki bu <strong>gençlik</strong> bir gün gidecek.”</p>
+<p>cümlesinde soyut bir isim yapmış.</p>
+<p><strong>“Kiralık</strong> ev arıyoruz.” cümlesinde “kiraya verilecek” anlamında sıfat yapmış.</p>
+<p><strong>“Benlik</strong> özenle korunmalıdır.”</p>
+<p>cümlesinde zamire gelerek ondan soyut bir isim türetmiştir.</p>
+<p>Yukarıdaki örnekte olduğu gibi bir ek eklendiği sözcüğe değişik anlamlar katabilir. Bundan
+    sonraki ekleri cümle içinde gösterip geçeceğiz. Ne anlama geldiğini cümle içindeki
+    kullanımlardan çıkarabilirsiniz.</p>
+<p>“Artık biz de <strong>şehirli </strong>olduk.”</p>
+<p>“Kimse <strong>evsiz </strong>yaşayamaz.”</p>
+<p>“Her noktaya bir <strong>gözcü </strong>koyalım.”</p>
+<p>“Bu yaz<strong> İngilizce </strong>kursuna gideceğim.”</p>
+<p>“Gençleri <strong>çağdaş</strong> bir insan olarak yetiştirelim.”</p>
+<p>“Yarışmada <strong>üçüncü</strong> olduğumu söylediler.”</p>
+<p>“Her sınıftan <strong>üçer</strong> kişi gelsin.”</p>
+<p>“O <strong>çocuksu</strong> gülüşüne bayılıyorum.”</p>
+<p>“Bu yemeğin<strong> acımsı </strong>bir tadı var.”</p>
+<p>“Onun kendine <strong>özgü</strong> bir anlatımı var.”</p>
+<p>“Sen çok <strong>bencil </strong>birisin.”</p>
+<p>“Şu gelen <strong>sarışın</strong> çocuğu tanıyor musun?”</p>
+<p>“Seninle <strong>yaşıt</strong> olduğumu bilmiyordum.”</p>
+<p>Bunların dışında, az da olsa, kullanılan isimden isim yapma ekleri de vardır. Önemli olan kök
+    halindeki sözcüğü bulup eklerini inceleyebilmektir.</p>
+<p>Küçültme eki olarak kullanılan <strong>“-cık, -cağız, -cak”</strong> eklerini kimi kaynaklar
+    çekim eki olarak değerlendirir. Ancak sorulardan anladığımız kadarıyla bu ek yapım ekidir.</p>
+<p>“Kış gününde bu <strong>incecik</strong> gömlekle gezilir mi?”</p>
+<p>“Bu<strong> hayvancağız</strong> bu kadar yükü nasıl taşısın?”</p>
+<p>cümlelerinde gördüğümüz bu ekin, acıma, pekiştirme, sevgi gibi birçok anlamlar taşıdığı
+    görülür.</p>
+<p>Küçültme eki eklendiği sözcükte bazen ses düşmesine, bazen ses türemesine sebep olabilir.</p>
+<p><strong>“Küçücük</strong> elleriyle öyle güzel resim yapıyordu ki!”</p>
+<p>cümlesinde “küçük” sözü “-cik” ekini aldığında, sondaki “k” sesi düşüyor.</p>
+<p>“minik ® minicik”</p>
+<p>“ufak ® ufacık”</p>
+<p>“yumuşak ® yumuşacık” sözcüklerinde de aynı özelliği görebiliriz.</p>
+<p>Bazen de ses türemesi olabilir.</p>
+<p>“Azıcık aşım, kaygısız başım.” atasözünde “az” sözcüğüne “-cık” ekini getirdiğimizde “azcık”
+    olması gerekirken “azıcık” olmuş; yani arada bir “ı” sesi türemiş.</p>
+<p>“Bu <strong>gencecik</strong> yaşında ne sıkıntılar çekti zavallı.”</p>
+<p>cümlesinde ise ekten önce “e” sesinin türediğini görüyoruz.</p>
+<p>Kimi sözcüklerde bu ek, fiilden sözcük türetmiş gibi görülebilir.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Bebek, etrafındakilere <strong>gülücükler</strong> yolluyordu.”</p>
+<p>cümlesinde “gülücük” sözü sanki gülmek fiiline “-cik” eki getirilerek yapılmış; oysa sözcük
+    aslında “gülüş-cük” şeklindeymiş, daha sonra “ş” düşerek “gülücük” olmuş.</p>
+<p>Bazı durumlarda “-cık” eki küçültmeyle ilgisi olmayan, bir nesne, bir kavram adı da
+    yapabilir.</p>
+<p>“Onun bu yıl <strong>kulakçık </strong>ameliyatı olması gerekiyor.”</p>
+<p>“Yaşlılıktan<strong> elmacık</strong> kemikleri dışarı çıkmış adamın.”</p>
+<p>cümlelerinde bu ekin küçültme anlamından sıyrıldığını ve nesne ismi yaptığını görüyoruz.</p>
+<p>Bazı isimden isim yapma ekleri de yansıma sözcüklere gelerek onlardan isim türetebilir.</p>
+<p>“Bu<strong> gürültü </strong>nereden geliyor?”</p>
+<p>cümlesinde “gürül” yansıma sözcüğü “-tü” eki alarak isim olmuştur.</p>
+<p>“Dün geceki <strong>horultu</strong> kimden geliyordu öyle?”</p>
+<p>“Bu mahallede <strong>fısıltı</strong> gazetesi iyi çalışıyor galiba.”</p>
+<p>cümlelerinde altı çizili sözcükler yansımadan isim olan sözcüklerdir.</p>
+<p><strong>b. İsimden Fiil Yapan Ekler</strong></p>
+<p>İsim kök veya gövdelerine gelerek onlardan fiil türeten eklerdir.</p>
+<p>“Bahçedeki çiçekleri <strong>suladı.”</strong></p>
+<p>cümlesindeki altı çizili sözü incelediğimizde “<strong>su” </strong>ismine getirilen <strong>“-la-”</strong>
+    eki, ismi “sulamak” şeklinde bir fiile dönüştürmüştür.</p>
+<p>İsimden fiil yapan önemli ekleri cümlelerde gösterelim.</p>
+<p>“Yol, buradan sonra gittikçe<strong> daralıyor</strong>.”</p>
+<p>“Yaşlı adam yerinden <strong>doğruldu.</strong>”</p>
+<p>“Parmağu uzun süre <strong>kanadı.”</strong></p>
+<p>“Yaptığı fedakarlığı duyunca gözleri<strong> yaşardı.”</strong></p>
+<p>“Derste kulağıma bir şeyler <strong>fısıldadı,</strong> gitti.”</p>
+<p>“Neden bu kadar <strong>geciktin</strong>?”</p>
+<p>“Sıkıntılara dayanamayıp <strong>delirdi</strong> zavallı.”</p>
+<p>“Bu sözlerimi neden bu kadar<strong> garipsediniz</strong>?”</p>
+<p>“Konuşmacının düşüncelerini pek <strong>benimsemedim</strong>.”</p>
+<p>Ekler bazı sözcüklerde ses düşmesine sebep olabilir.</p>
+<p>“Haberi duyunca rengi <strong>sarardı</strong>.”</p>
+<p>cümlesinde altı çizili sözcük “sarı” ismine “-ar” eki getirilerek yapılmıştır. Bu sırada “sarı”
+    sözcüğünün sonundaki “ı” sesi düşmüştür.</p>
+<p><strong>c. Fiilden İsim Yapan Ekler</strong></p>
+<p>Fiil kök veya gövdelerine gelerek onlardan isim türeten eklerdir. Bunlar da cümlede sıfat, zarf
+    görevlerinde kullanılabilir.</p>
+<p>“Burada eskiden bir <strong>durak</strong> vardı.”</p>
+<p>cümlesinde altı çizili sözcük, “dur-” fiiline “-ak” eki getirilerek yapılmıştır.</p>
+<p>En çok kullanılan fiilden isim yapma eklerini cümle içinde gösterelim.</p>
+<p>“Bu<strong> istek </strong>bende eskiden beri var.”</p>
+<p>“Gereksiz bir <strong>yığın</strong> eşya var bu evde.”</p>
+<p>“Herkese <strong>sevgi</strong> duymam gerekmiyor.”</p>
+<p>“Büyük bir <strong>dalga, </strong>kuma yazdıklarımı sildi, götürdü.”</p>
+<p>“O, babasına çok <strong>düşkün </strong>bir çocuk.”</p>
+<p>“Bu kadar <strong>alıngan </strong>olmana gerek yoktu.”</p>
+<p>“Her <strong>dalgıç </strong>bu kadar derine dalamaz.”</p>
+<p>“Yeni aldığım <strong>süzgeç </strong>ortalıkta görünmüyor.”</p>
+<p>“Doğa <strong>durağan </strong>değil değişkendir.”</p>
+<p>“Bu eserin<strong> okuyucu </strong>bulması çok zor.”</p>
+<p>“Artık aynı şeyleri yapmaktan <strong>usanç</strong> duydum.”</p>
+<p>“Bu<strong> yazı</strong> geçen gün dergide yayınlandı.”</p>
+<p>“Bir ay da <strong>kesinti</strong> olmasa maaşlarda.”</p>
+<p>“Geldiklerine dair bir <strong>belirti</strong> var mı?”</p>
+<p>“Dağlar bize artık <strong>geçit</strong> vermiyor.”</p>
+<p>“<strong>Işıl</strong> ışıl bir güne daha merhaba dedik.”</p>
+<p>Türkçe’de sayı bakımından en çok yapım eki fiilden isim yapma ekleridir. Biz burada ancak çok
+    önemlilerini verdik.</p>
+<p><strong>d. Fiilden Fiil Yapma Ekleri</strong></p>
+<p>Fiil kök veya gövdelerine gelerek onlardan yeni fiiller türeten eklerdir.</p>
+<p>“Buradan iki yıl önce <strong>taşındı</strong>.”</p>
+<p>“Müzeyi gezmeden buradan <strong>gidilmez</strong>.”</p>
+<p>“Ortalık iyice <strong>karıştı</strong>.”</p>
+<p>“O sudan sana da mı <strong>içirdiler</strong>?”</p>
+<p>“Bu sözümüz onu mutlaka <strong>darıltmıştır</strong>.”</p>
+<p>“Yeni takılan sokak lambalarını <strong>söktürmüşler</strong>.”</p>
+<p>“Çiçekleri dalından <strong>koparmayın</strong>.”</p>
+<p>“Bu suçlama karşısında biraz <strong>şaşaladım</strong>.”</p>
+</html>

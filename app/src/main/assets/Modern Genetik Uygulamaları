@@ -1,0 +1,135 @@
+<html>
+<style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+</style>
+<h2>Modern Geneteik Uygulamaları</h2>
+<p>
+    Biyoteknoloji bilimi, çeşitli mühendislik alanlarını kullanarak bitki, hayvan ve mikroorganizma
+    yapılarını kültür ortamında değiştirip geliştirerek onları dan yeni ürünler elde etmeyi
+    amaçlayan bilim dalıdır. Genetik mühendisliği ise genlerin yalıtılması, çoğaltılması, farklı
+    canlıların genlerinin birleştirilmesi ya da genlerin bir canlıdan başka bir canlıya aktarılması
+    gibi çalışmalar yapar. Başka bir ifadeyle genetik mühendisliği, biyoteknolojinin uygulanmasını
+    içeren çalışmaları kapsar.
+</p>
+
+
+<h3>Islah Yöntemleri</h3>
+<p>
+    Günümüzde istenilen özellikte bitki ve hayvan üretebilmek için gen mühendisleri, insanlığa yarar
+    sağlayacak şekilde organizmaların genetik yapılarını değiştirmiştir. Kendi türü dışında başka
+    bir türden gen aktarılarak belli bir özelliği değiştirilmiş canlılara genetiği değiştirilmiş
+    organizma (GDO) veya transgenik organizma denir. Geleneksel ıslah yöntemleriyle istenilen
+    özelliklere sahip canlılar seçilip bunlar bir birleriyle eşleştirilmiştir. Böylece her iki ata
+    bireyin istenilen özellikleri yeni bireyde toplanmış olur. Geleneksel ıslah yöntemlerinin
+    yetersizliği bilim adamlarını modern ıslah yöntemlerine geliştirmeye yöneltmiştir. Modern ıslah
+    yöntemleri olarak tür içi ve türler arası melezleme, yapay döllenme, poliploidi, gen aktarımı ve
+    klonlama kullanılmaktadır.
+
+</p>
+
+<h3>Melezleme</h3>
+
+<p>Uzun süre sadece kendi arasında gen alış verişi yapan ırklar genetik olarak zayıf ırk olarak
+    kabul edilir. Çünkü bu durum zararlı çekinik genlerin yan yana gelmesine (homozigot),
+    dolayısıyla fenotipte etkisini göstermesine sebep olur. Farklı karakterler bakımından homozigot
+    ırklar arasında çaprazlama yaparak üstün özelliklere sahip melez bireyler elde edilebilir.
+    Örneğin küçük ve tatlı erikle büyük ve tatsız eriklerin çaprazlanması sonucunda büyük ve tatlı
+    erikler elde edilmiştir.</p>
+
+<h3>Yapay döllenme</h3>
+
+<p>Üstün özellikli hayvanlardan alınan spermler, sperm bankalarında saklanarak uygun zamanda üstün
+    özellikli yumurtaları döllemek için kullanılır. Bu yöntemde spermin yumurtayı dölleme şansı daha
+    yüksektir.</p>
+
+<h3>Poliploidi</h3>
+
+<p>Ekonomik değeri yüksek olan sebzeler ve meyveler poliploidi yöntemiyle elde edilebilir.
+    Hücrelerdeki kromozom sayısının normal türe göre daha fazla olmasına poliploidi denir.
+    Poliploidi aslında bir tür mutasyonla meydana gelir. Bu yüzden bilim adamları poliploit bireyler
+    elde ederken hücreleri mutasyona uğratmaya çalışır. Poliploid bireyler genelde kendi atalarından
+    daha verimli olurlar. Örneğin buğday ve çavdardan elde edilen poliploid bireyler buğdaydan
+    verimliliği, çavdardan dayanıklılığı alır. Çekirdeksiz karpuz poliploidiye örnektir. Poliploidi
+    bitkilerde hayvanlara göre daha sık görülür.</p>
+
+<h3>Gen klonlama</h3>
+
+<p>Bilim adamları bir genle ilgili çalışabilmek için o genin üzerinde bulunduğu DNA parçasını
+    kopyalar. Buna gen klonlama denir. Bakteriler, hızlı çoğaldıkları için ve basit yapılı oldukları
+    için klonlama çalışmalarında bakterilerden yararlanılır. Genlerin klonlanabilmesi için
+    plazmitler veya virüsler vektör (taşıyıcı) olarak kullanılır. Plazmitler, bakterilerde normal
+    DNA dışında bulunan, kendi kendine eşlenebilen küçük halkasal DNA’lardır.</p>
+
+<h3>Gen klonlamanın sıralaması:</h3>
+
+<p>1. İstenilen geni taşıyan DNA ile plazmit DNA (taşıyıcı) elde edilir (izole edilir).
+    2. Klonlanacak geni taşıyan DNA ile plazmit DNA, aynı restriksiyon endonükleaz enzimiyle
+    kesilir.
+    3. Klonlanacak gen, DNA ligaz enzimi yardımıyla plazmite bağlanır. Böylece rekombinant plazmit
+    elde edilir. (İki canlıya ait genleri taşıyan DNA’ya rekombinant DNA denir).
+    4. Rekombinant plazmit, bakteriye aktarılır.
+    5. Ürün kontrolü yapılır (bakterinin ürettiği insülin ile insanın ürettiği insülin
+    karşılaştırılır).</p>
+
+<p>Günümüzde Yapılmış Biyoteknolojik Çalışma Örnekleri
+<p/>
+<h3>Kök Hücre</h3>
+
+<p>Bölünme yeteneği fazla olan, başka doku ve organlara dönüşebilen farklılaşmamış hücrelere kök
+    hücre denir. Kök hücre, farklılaşmamış ama farklılaşma yeteneği yüksek olan hücredir. Yani başka
+    hücrelere dönüşebilme yeteneği fazladır. Örneğin, sinir hücreleri başka hücrelere dönüşmez zaten
+    farklılaşmış hücrelerdir. Bu yüzden sinir hücresi kök hücre olamaz. Yetişkin kök hücreleri
+    (kemik iliği), kordon kanından elde edilen kök hücreler ve embriyonik kök hücreler günümüzde
+    bilinen üç temel kök hücre kaynağıdır. Örneğin kemik iliğindeki kök hücreler kan hücrelerinin
+    tüm çeşitlerine dönüşebilir. Yetişkin kök hücreleri, vücutta birçok doku ve organda bulunur.
+    Bulundukları bölgedeki hücrelerin hasar görmesi durumunda çoğalarak hasarlı kısmın onarılmasını
+    sağlar.</p>
+
+<h3>DNA Parmak İzi</h3>
+
+<p>Her bireyin DNA dizilimi (Tek yumurta ikizleri hariç) kendine özgüdür. Buna DNA parmak izi
+    denir. DNA parmak izi suçluların tespitinde kullanılan yaygın bir yöntemdir. Bu yöntemde olay
+    yerinde bulunan kan, tükürük, kıl, tırnak, sindirim artığı ve deri döküntüsü gibi canlı
+    kalıntıları kriminal çalışmalarla incelenerek suçluların bulunması sağlanır. DNA parmak izi
+    dışında bir de normal parmak izi vardır. Normal parmak izi parmak uçlarındaki izlerden elde
+    edilebilir.</p>
+
+
+<h3>Koyun Kopyalanması</h3>
+<p>Bir hayvanın bütün vücut hücreleri zigotun mitoz bölünmeleriyle oluşur. Yani her bir vücut
+    hücresinde bütün genetik şifreler mevcuttur. Bu da bir hücrenin bir canlıyı oluşturabilme
+    potansiyeline sahip olduğunu düşündürmüştür.
+
+    Bir koyunun meme bezlerinden alınan çekirdek başka bir koyuna ait olan ve çekirdeği çıkarılmış
+    olan yumurtaya aktarılmıştır. Böylece elde edilen yapay zigot, taşıyıcı bir koyuna aktarılarak
+    normal gebelik sonucunda DOLLY adlı bir koyun elde edilmiştir. Bu yöntemle bir çok hayvan
+    kopyalanmıştır. İnsan kopyalanması ise yasaktır. Çünkü kopyalanma sırasında oluşan her hangi bir
+    sorun yeni oluşturulan kopya da çeşitli sorunlar oluşturabilir.
+
+    Bir hücredeki DNA’nın elde edilip, üzerindeki genin klonlanması sürecinde, sırasıyla aşağıdaki
+    enzimler görev alır;
+
+    1. Lizozim Enzimi: Hücre zarı ve çekirdek zarını parçalar böylece ilgili geni taşıyan DNA elde
+    edilir.
+
+    2. Restriksiyon endonükleaz: DNA üzerindeki kopyalanacak olan geni keser
+
+    3. DNA ligaz: Kopyalanacak geni taşıyıcıya (plazmit) bağlar.
+
+    4. DNA polimeraz: Yeni hücrede genin çoğalmasında görev alır yani geni eşler.
+</p>
+
+<h3>Amniyon sentez Yöntemi</h3>
+
+<p>Bu yöntemde bir iğne yardımıyla uterusa girilir ve fetüsün etrafını çevreleyen amniyotik sıvıdan
+yaklaşık 10 ml kadar alınır.Bu sıvı içerdiği kimyasal maddeler bakımından incelenir.Ayrıca
+sıvıya karışan fetal hücrelerden kültür hazırlanarak, hücrenin kromozomları mikroskopta
+incelenir (Karyotip analizi). Kromozomların sayısı, yapısı, bantlaşma bölgeleri ve sentromer
+konumları incelenerek kalıtsal hastalıkların teşhisi yapılır.</p>
+</html>

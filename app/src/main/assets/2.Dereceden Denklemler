@@ -1,0 +1,127 @@
+<html>
+<h1>İkinci Dereceden Denklemler</h1>
+<p>a, b, c ∈ R ve a ≠ 0 olmak üzere,</p>
+<p>ax<sup>2</sup> + bx + c = 0 şeklindeki eşitliklere<strong> ikinci dereceden bir bilinmeyenli
+    denklem</strong> denir.</p>
+<p><strong>*</strong> Denklemi sağlayan x gerçek (reel) sayılarına <strong>denklemin
+    kökleri</strong> denir.<br/>
+    <strong>*</strong>Köklerin oluşturduğu kümeye <strong>çözüm kümesi (doğruluk kümesi)</strong>
+    denir.<br/>
+    <strong>*</strong>Kökler denklemi sağlar.</p>
+<h3><span style="color: #000080"><a name="1"></a>Çarpanlara Ayırma Yöntemi İle Kök Bulma</span></h3>
+<p><span style="color: #000080"><strong>Çarpanlara Ayırma Yöntemi</strong></span></p>
+<p>ax² + bx + c = 0 denklemi f(x) . g(x) = 0 şeklinde yazılabiliyorsa f(x) = 0 veya g(x) = 0
+    dır.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123400"
+        src="images/matematik/2.Derece/der1.png" alt=""
+        width="300" height="251"
+        srcset="images/matematik/2.Derece/der1.png 300w, images/matematik/2.Derece/der1.png 432w"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<h3><span style="color: #000080"><a name="2"></a>Δ (Delta) ile Kök Bulma</span></h3>
+<p><img loading="lazy" class="alignnone size-full wp-image-123406"
+        src="images/matematik/2.Derece/der3.png" alt=""
+        width="148" height="33"/> denkleminin diskriminantı (delta) <img loading="lazy"
+                                                                         class="alignnone wp-image-123407 size-full"
+                                                                         src="images/matematik/2.Derece/der4.png"
+                                                                         alt="" width="113"
+                                                                         height="28"/> &#8216;dir.
+</p>
+<p>Δ&gt; 0 ise denklemin farklı iki gerçek (reel) kökü vardır.</p>
+<p>Bu kökler<span style="font-size: 14pt">  x<sub>1</sub>= <img loading="lazy"
+                                                                class="alignnone wp-image-123413 size-full"
+                                                                src="images/matematik/2.Derece/der5.png"
+                                                                alt="" width="44" height="39"/> x2= <img
+        loading="lazy" class="alignnone wp-image-123414 size-full"
+        src="images/matematik/2.Derece/der6.png"
+        alt="" width="46" height="42"/> <span style="font-size: 12pt">dır.</span></span></p>
+<p>Δ= 0 ise denklemin birbirine eşit (çakışık , çift katlı) iki gerçek (reel) kökü vardır.</p>
+<p>Bu kökler <img loading="lazy" class="alignnone size-full wp-image-123415"
+                  src="images/matematik/2.Derece/der7.png" alt=""
+                  width="116" height="49"/> dır.</p>
+<p>Δ&lt; 0 ise denklemin gerçek(reel) kökü yoktur.</p>
+<h3><span style="color: #000080"><a name="3"></a>Karmaşık Sayılar</span></h3>
+<p><span style="color: #000080"><strong>Karmaşık Sayı Tanımı</strong></span></p>
+<p>a, b birer gerçel(reel) sayı olmak üzere z= a+bi biçimindeki bir sayıya<strong> karmaşık
+    sayı</strong> denir.</p>
+<p>z = a + bi karmaşık sayısında a’ya <strong>z karmaşık sayısının reel kısmı </strong> denir ve
+    <strong>Re(z)</strong> ile gösterilir, b’ye de z <strong>karmaşık sayısının sanal (imajiner)
+        kısmı</strong> denir ve <strong>Im(z)</strong> ile gösterilir.</p>
+<p>a, b, c, d birer reel sayı olmak üzere; z1 = a + bi ve z2 = c + di iken z1 = z2 ise a = c ve b =
+    d’dir.</p>
+<p>a ve b reel sayılar olmak üzere, a + bi şeklindeki bir <strong>karmaşık sayının eşleniği</strong>
+    a – bi’dir.</p>
+<p><span style="color: #000080"><b>Kökleri Karmaşık Olan Denklemler</b></span></p>
+<p>Δ≠ 0 ise denklemin farklı iki gerçek (reel) kökü vardır.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-123406"
+        src="images/matematik/2.Derece/der8.png" alt=""
+        width="148" height="33"/> denkleminin diskriminantı sıfırdan küçük olduğunda (Δ&lt; 0)
+    karmaşık (sanal) kökleri vardır.</p>
+<p>Bu kökler<span style="font-size: 14pt">  x<sub>1</sub>= <img loading="lazy"
+                                                                class="alignnone wp-image-123413 size-full"
+                                                                src="images/matematik/2.Derece/der9.png"
+                                                                alt="" width="44" height="39"/> x2= <img
+        loading="lazy" class="alignnone wp-image-123414 size-full"
+        src="images/matematik/2.Derece/der10.png"
+        alt="" width="46" height="42"/> <span style="font-size: 12pt">dır.</span></span></p>
+<p><span style="color: #000080"><strong>Karmaşık Sayılarda i&#8217;nin Kuvvetleri</strong></span>
+</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123417"
+        src="images/matematik/2.Derece/der11.png" alt=""
+        width="300" height="227"
+        srcset="images/matematik/2.Derece/der11.png 300w, images/matematik/2.Derece/der11.png 438w"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p><strong>i<sup>4n</sup>=(i<sup>4</sup>)<sup>n</sup>=1<sup>n</sup>=1
+    i<sup>4n+1</sup>=i<sup>4n</sup>.i<sup>1</sup>=1 .i=i</strong></p>
+<p><strong>i<sup>4n+2</sup>=i<sup>4n</sup>.i<sup>2</sup>=1.-1=-1
+    i<sup>4n+3</sup>=i<sup>4n</sup>.i<sup>3</sup>=(-1).(-1)=1</strong></p>
+<p><span style="color: #000080"><strong>Karmaşık Sayılarda Dört İşlem</strong></span></p>
+<p><span
+        style="text-decoration: underline;color: #000080"><strong>Toplama ve Çıkarma İşlemi</strong></span>
+</p>
+<p>Toplama ve çıkarmada bir zorluk yok, reel kısımları ayrı, sanal kısımları ayrı topluyoruz ya da
+    çıkarıyoruz.</p>
+<p><img loading="lazy" class="alignnone wp-image-123419"
+        src="images/matematik/2.Derece/der12.png" alt=""
+        width="396" height="132"
+        srcset="images/matematik/2.Derece/der12.png 300w, images/matematik/2.Derece/der12.png 543w"
+        sizes="(max-width: 396px) 100vw, 396px"/></p>
+<p><span style="text-decoration: underline"><strong><span
+        style="color: #000080;text-decoration: underline">Karmaşık Sayılarda Çarpma İşlemi</span></strong></span>
+</p>
+<p>Karmaşık sayılarda çarpma yapılırken dağılma özelliği kullanılır.</p>
+<p><span style="color: #ff0000"><strong>Örnek 1:</strong></span></p>
+<p><img loading="lazy" class="alignnone wp-image-123671"
+        src="images/matematik/2.Derece/der13.png" alt=""
+        width="75" height="34"/> karmaşık sayısının sonucunu bulalım.</p>
+<p><span style="color: #ff0000"><strong>Çözüm: </strong></span></p>
+<p><img loading="lazy" class="alignnone wp-image-123672"
+        src="images/matematik/2.Derece/der14.png" alt=""
+        width="263" height="77"
+        srcset="images/matematik/2.Derece/der14.png 300w, images/matematik/2.Derece/der14.png 353w"
+        sizes="(max-width: 263px) 100vw, 263px"/></p>
+<p><span style="color: #ff0000"><strong>Örnek 2:</strong></span></p>
+<p><img loading="lazy" class="alignnone size-full wp-image-123703"
+        src="images/matematik/2.Derece/der15.png" alt=""
+        width="128" height="48"/> sayılarının çarpımı nedir?</p>
+<p><span style="color: #ff0000"><strong>Çözüm:</strong></span></p>
+<p><img loading="lazy" class="alignnone wp-image-123704"
+        src="images/matematik/2.Derece/der16.png" alt=""
+        width="314" height="111"
+        srcset="images/matematik/2.Derece/der16.png 300w, images/matematik/2.Derece/der16.png 533w"
+        sizes="(max-width: 314px) 100vw, 314px"/></p>
+<p><span style="text-decoration: underline"><span style="color: #000080"><strong>Karmaşık Sayılarda Bölme İşlemi</strong></span></span>
+</p>
+<p>Karmaşık sayılarla bölme işlemi yapılırken, iki karmaşık sayının birbirine bölümü elde edilmeye
+    çalışılmaktadır. Bölme işlemi yapılırken ters elemandan yardım alınmaktadır. İki karmaşık
+    sayının bölümü, bölenin tersi ile bölünenin çarpımına eşit olduğu bilinmektedir.</p>
+<p><span style="color: #ff0000"><strong>Örnek 1:</strong></span></p>
+<p><img loading="lazy" class="alignnone  wp-image-123715"
+        src="images/matematik/2.Derece/der17.png" alt=""
+        width="172" height="104"/></p>
+<p><span style="color: #ff0000"><strong>Örnek 2:</strong></span></p>
+<p><img loading="lazy" class="alignnone  wp-image-123718"
+        src="images/matematik/2.Derece/der18.png" alt=""
+        width="330" height="165"
+        srcset="images/matematik/2.Derece/der18.png 300w, images/matematik/2.Derece/der18.png 487w"
+        sizes="(max-width: 330px) 100vw, 330px"/></p>
+</html>

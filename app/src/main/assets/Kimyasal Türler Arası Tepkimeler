@@ -1,0 +1,208 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    
+    
+
+    </style>
+</head>
+<h2>Kimyasal Türler Arası Etkileşimler</h2>
+<p>Kimyasal türler arası etkileşimi anlatmadan kimyasal türler nelerdir onlara bir değinelim,
+    özellikleri nedir bir anlatalım arkadaşlar.</p>
+<h2><a name="1"></a>Kimyasal Tür Nedir?</h2>
+<p>Bir maddenin bütün özelliklerini taşıyan yapı taşlarına <strong>kimyasal tür</strong>
+    denir. Dört çeşit kimyasal tür vardır: atom, molekül, iyon, radikal.</p>
+<h3>Atom</h3>
+<p>Bir elementin fiziksel ve kimyasal özelliklerini gösteren en küçük birimine <span
+        style="color: #000080"><strong>atom</strong> denir.</span></p>
+<p><strong>&#8211; </strong>Atomlar fiziksel ve kimyasal
+    yöntemlerle daha basit birimlerine ayrıştırılamaz.<br/>
+    <strong>&#8211; </strong>Nükleer yöntemlerle
+    ayrıştırılabilirler.<br/>
+    <strong>&#8211; </strong>Proton, nötron gibi tanecikler
+    çekirdekte; elektronlar ise elektron bulutunda yer alır.<br/>
+    <strong>&#8211; </strong>Atomlar boyutlarının çok küçük
+    olması nedeniyle optik mikroskoplarla görüntülenemez ancak elektron mikroskobu gibi araçlarla
+    görüntülenebilir.</p>
+<h3>Molekül</h3>
+<p>Aynı cins veya farklı cins bir kaç atomun bir araya gelmesiyle oluşan yapılara
+    <strong>molekül</strong> denir.</p>
+<p><strong>&#8211; </strong>En küçük molekülü iki
+    atomludur.<br/>
+    <strong>&#8211; </strong>Aynı tür atomların bir araya
+    gelmesi sonucu element molekülü, farklı tür atomların bir araya gelmesiyle bileşik molekülü
+    oluşur.<br/>
+    <strong>&#8211; </strong>Bileşikler kimyasal yöntemlerle
+    kendini oluşturan bileşenlere ayrışabilir.<br/>
+    <strong>&#8211; </strong>Moleküller iki atomlu (diatomik),
+    üç atomlu (triatomik) veya çok atomlu (poliatomik) olabilir.</p>
+<h3>İyon</h3>
+<p>Elektron sayısı proton sayısına eşit olmayan yapılara <span
+        style="color: #000080"><strong>iyon</strong> denir.</span></p>
+<p><strong>&#8211; </strong>Bir atom, elektron verdiğinde
+    verdiği elektron sayısı kadar pozitif (+), Pozitif yüklü iyonlara <strong>katyon</strong>
+    denir.<br/>
+    <strong>&#8211; </strong>Elektron aldığında aldığı elektron
+    sayısı kadar negatif (-) yükle yüklenir. Negatif yüklü iyonlara <strong>anyon</strong>
+    denir.<br/>
+    <strong>&#8211; </strong>Birden fazla atomun tek bir atom
+    gibi davrandığı yüklü atom gruplarına<strong> kök</strong>
+    adı verilir.<br/>
+    <strong>&#8211; </strong>Bir atom elektron verip katyonuna
+    dönüştüğünde çapı küçülür.<br/>
+    <strong>&#8211; </strong>Elektron alıp anyonuna dönüştüğünde
+    ise çapı büyür.</p>
+<h3>Radikal</h3>
+<p>Oktedini tamamlamamış bir ya da birden fazla ortaklaşmamış elektron çifti içeren yüksek enerjili
+    ve kararsız yapılardır.</p>
+<p><strong>&#8211; </strong>Radikaller zincirleme reaksiyonların
+    gerçeklemesinde başlatıcı olarak görev yaparlar.<br/>
+    <strong>&#8211; </strong>İnsan vücudunda radikaller
+    kendiliğinden oluşabilir ve vücuda zarar verebilirler.</p>
+<h2><a name="2"></a> Kimyasal Türler Arası Etkileşimin Sınıflandırılması
+</h2>
+<p>Kimyasal türler arasında meydana gelen etkileşimler güçlü etkileşimler ve zayıf etkileşimler
+    şeklinde ikiye ayrılır.</p>
+<h3><a name="3"></a>Güçlü Etkileşimler</h3>
+<p>Kimyasal türler arasındaki itme ve çekme kuvvetleri aynı anda gerçekleşir. Çekme kuvvetleri itme
+    kuvvetlerinden çok fazla olduğunda türler arasında bir kimyasal bağ oluşur. Kimyasal türler
+    arasında kimyasal bağ oluşmasına neden olan bu tür etkileşimler güçlü etkileşimler olarak da
+    adlandırılır.</p>
+<p><strong>Güçlü etkileşimler,</strong></p>
+<p><strong>&#8211; </strong>İyonik bağ<br/>
+    <strong>&#8211; </strong>Kovalent bağ<br/>
+    <strong>&#8211; </strong>Metalik bağ olarak sınıflandırılır.
+</p>
+<p><strong>İyonik Bağ</strong></p>
+<p>Elektron alışverişi gerçekleştirerek oluşan bağlara iyonik bağ denir. İyonik bağın oluşmasını,
+    atomların elektron çekme isteğinin (elektronegativite) farklı olması sağlar. Elektron çekme
+    isteği daha fazla olan atomun elektron sayısı proton sayısını geçer ve böylece bileşiğin anyon
+    kısmını, elektron veren kısım ise bileşiğin katyon kısmını oluşturur. Örneğin günlük hayatta
+    sıklıkla kullandığımız sofra tuzu (NaCl) bileşiği iyonik bir bileşiktir ve bileşikte sodyum (Na)
+    katyon (Na+), klor (Cl) anyondur (Cl–).</p>
+<p><strong>&#8211; </strong>İyonik bağlarda zıt yükler birbirini
+    çektiği için diğer güçlü bağlardan genellikle daha sağlamdır. Bundan dolayı erime – kaynama
+    sıcaklıkları yüksektir.<br/>
+    <strong>&#8211; </strong>İyonik bağda bulunan metaller
+    katyonları, ametaller anyonları oluşturur.<br/>
+    <strong>&#8211; </strong>İyonik bileşiklerin katı halleri
+    sert ve kırılgandır. İyonik katı üzerine çekiçle vurulduğunda iyonik kristalin düzenli yapısı
+    bozulur ve kırılma olayı gerçekleşir. Fiziksel özellik bakımından seramiklere benzerler.<br/>
+    <strong>&#8211; </strong>İyonik bağlı katılarda iyonlar
+    hareket etmediği için elektrik akımını iletmezler.<br/>
+    <strong>&#8211; </strong>İyonik katılar suda çözündüğünde
+    elektrik akımını iletir. Örneğin tuzlu su.</p>
+<p><strong>Kovalent bağ</strong></p>
+<p>ovalent bağ, iki atom arasında, bir veya daha fazla elektronun paylaşılmasıyla karakterize edilen
+    kimyasal bağın bir tanımıdır. Genellikle bağ, ortaya çıkan molekülü bir arada tutan ortak çekim
+    gücü olarak tanımlanabilir. Paylaşılan elektron ya da elektronlar, her iki çekirdek etrafında
+    dolanacaklar, iki çekirdek arasındaki bölgede daha uzun süre bulundukları için bu bölgede (-)
+    yüklü bir alan oluşturacaklardır. Bu alan, her iki çekirdeğe bir çekme kuvveti uygulayarak bir
+    bağ oluşturur. Kovalent bağ, <strong>Polar Kovalent Bağ
+    </strong>ve <strong>Apolar Kovalent Bağ</strong> olmak üzere
+    ikiye ayrılır.</p>
+<p><strong>Apolar Kovalent Bağ (Kutupsuz Kovalent Bağ):</strong> Bağı yapan atomların
+    elektronegatiflikleri eşitse meydana gelen bağ çeşididir. Yani iki atomda elektronu aynı
+    şiddetle çeker ve elektron üzerinde kutupsuz bir çekim meydana gelir. Aynı cins iki ametal
+    atomunun birleşmesiyle meydana gelir. Apolar kovalent bağ örnekleri; iki oksijen atomunun
+    elektronlarını ortaklaşa kullanarak meydana getirdikleri bağıdır.</p>
+<p><strong>Polar Kovalent Bağ (Kutuplu Kovalent Bağ):</strong> İki farklı cins atomun bir araya
+    gelmesiyle oluşur. Farklı atomlar oldukları için oluşan elektronegativite farkı, atomlardan
+    elektronegativitesi yüksek olanın kısmi negatif, diğerinin ise kısmi pozitif yüklenmesini
+    sağlar. Örneğin suyu meydana getiren hidrojen ve oksijen moleküllerinin son orbitallerindeki
+    elektronların ortak kullanılmasıyla polar kovalent bağ meydana gelir.</p>
+<p><strong>Metalik Bağ</strong></p>
+<p>Metalik bağ, esas olarak metaller arasındaki, bir ya da daha çok atomu bir arada tutan bir
+    kimyasal bağ türüdür. Metal atomlarının latisindeki serbest elektronların yer değiştirmiş olarak
+    paylaşılması esasına dayanır. Metalik bağ, kovalent bağ ve iyonik bağ ile birlikte üç güçlü
+    etkileşimden(bağ) biridir. Kimyasal bir etkileşimdir.</p>
+<p><strong>&#8211; </strong>Aynı periyotta sağa doğru gidildikçe
+    metal atomları arasında, metalik bağ kuvveti artar, erime noktası yükselir.<br/>
+    <strong>&#8211; </strong>Aynı grupta yukarı doğru gidildikçe
+    metal atomları arasında, metalik bağ kuvveti artar, erime noktası yükselir.<br/>
+    <strong>&#8211; </strong>Elektron denizinde serbest dolaşan
+    değerlik elektron sayısı arttıkça metalik bağ kuvveti artar.<br/>
+    <strong>&#8211; </strong>Metalik bağ metallerin elektrik
+    akımını iletmesini, tel ve levha haline gelmesini ve işlenebilir olmasını sağlar.<br/>
+    <strong>&#8211; </strong>Metaller gelen ışığı yansıttığı
+    için parlaktır.<br/>
+    <strong>&#8211; </strong>Oda şartlarında cıva hariç katı
+    hâlindedirler. Cıva oda koşullarında sıvı hâldedir.</p>
+<h3><a name="4"></a>Zayıf Etkileşimler</h3>
+<p>Zayıf etkileşimler fiziksel bağlardır ve maddelerin molekülleri arasında etkilidir. Zayıf
+    etkileşimler <strong>Van der Waals kuvvetleri </strong>ve
+    <strong>hidrojen bağları</strong> olmak üzere ikiye ayrılır.
+</p>
+<p><strong>Van der Waals Kuvvetleri</strong></p>
+<p>Van der Waals kuvvetleri, hidrojen bağları dışında kalan diğer zayıf etkileşimlere verilen addır.
+    Bu kuvvetler adını Hollandalı fizikçi Johannes Diderik van der Waals&#8217;tan (1837 -1923)
+    almaktadır.</p>
+<p><strong>Üç tür Van der Waals kuvveti vardır:</strong><br/>
+    <strong>&#8211; </strong>Polar moleküller arasında meydana
+    gelen dipol-dipol etkileşimleri<br/>
+    <strong>&#8211; </strong>Polar moleküller ve iyonlar
+    arasında meydana gelen iyon-dipol etkileşimleri<br/>
+    <strong>&#8211; </strong>Apolar moleküller arasında meydana
+    gelen London kuvvetleri</p>
+<p><strong>Dipol-Dipol Etkileşimleri: </strong>Kalıcı dipole sahip polar kimyasal türler
+    birbirlerine yaklaştığında birinin kısmi pozitif (δ+) ve diğerinin kısmi negatif (δ–) kutbu
+    arasında elektrostatik çekim kuvveti oluşur. Bu çekim kuvvetine <strong>dipol – dipol bağı
+        (kuvveti) </strong>adı verilir.</p>
+<p>H<sub>2</sub>S, CO, HCl, NF<sub>3</sub> gibi polar karakterli moleküller arasında polar etkileşim
+    vardır ve molekülleri arasında dipol – dipol bağları oluşur.</p>
+<p><strong>&#8211; </strong>Atomlar arasındaki;
+    elektronegatiflik farkı arttıkçadipol-dipol bağlarının kuvveti artar.<br/>
+    <strong>&#8211; </strong>Dipol-dipol kuvveti arttıkça
+    atomlar arasındaki bağı kırmak zorlaşır ve böylece maddenin erime ve kaynama sıcaklığı daha
+    yüksek olur.<br/>
+    <strong>&#8211; </strong>Polar (dipol) yapıya sahip
+    moleküller birbiri içinde çözünebilir.</p>
+<p><strong>İyon – Dipol Bağları: </strong>İyon ve polar bir molekül bir araya geldiğinde iyon ile
+    polar molekülün kısmi yüklenmiş kutupları arasında etkileşim olur. Buna <strong>iyon-dipol
+        etkileşimi</strong> denir.</p>
+<p>Yemek tuzu (NaCl) iyon yapılı bir bileşiktir. NaCl tuzu kristali suya atıldığında H2O
+    moleküllerinin kısmi pozitif “δ+” yüklü uçları ile Cl– iyonları arasında ve kısmi negatif “δ+”
+    yüklü uçları ile Na+ iyonları arasında iyon – dipol bağı oluşur. Bu şekilde H2O molekülleri
+    iyonları çevreler ve dağıtır. Böylece çözünme gerçekleşir.</p>
+<p><strong>London Kuvvetleri:</strong> Birbirine yaklaşan apolar moleküller ya da soy gaz atomları
+    arasında geçici dipoller oluşur. Bu geçici dipoller arasında indüklenmiş dipol – İndüklenmiş
+    dipol çekim kuvvetleri meydana gelir. İndüklenmiş dipol – İndüklenmiş dipol çekim kuvvetlerine
+    “L<strong>ondon Kuvvetleri</strong>” adı da verilir.</p>
+<p><strong>&#8211; </strong>Anlık sürelerde gerçekleştiği için
+    London kuvvetleri moleküller arası etkileşimlerin en zayıfı olarak kabul edilir.<br/>
+    <strong>&#8211; </strong>Soy gazlarda ve halojenlerde
+    atomlar veya moleküller arasındaki tek etkileşim london bağlarıdır.<br/>
+    <strong>&#8211; </strong>London kuvvetleri elektron
+    hareketliliğine bağlı olduğu için elektron sayısı arttıkça etkileşimler de artar.<br/>
+    <strong>&#8211; </strong>Dipol-dipol bağlarının oluştuğu
+    ortamlarda da london bağlarına rastlanır. Ancak london bağı yok sayılabilecek kadar etkisiz
+    olduğu için hesaplamaya katılmaz (bazı kovalent maddelerde london bağları ihmal edilemeyecek
+    kadar yüksek olur.</p>
+<p><strong>Hidrojen Bağları</strong></p>
+<p>Hidrojen bağı, bir molekül oksijen, azot veya flor gibi elektronegatif bir atoma bağlı hidrojenin
+    kısmi artı yükle yüklenmesi sonucu, başka veya aynı moleküldeki elektronegatif atom ile yaptığı
+    kuvvetli bağdır.</p>
+<p><strong>&#8211; </strong>Hidrojen bağı olabilmesi için
+    molekülde kesinlikle H-O, H-N veya H-F bağları olmak zorundadır.<br/>
+    <strong>&#8211; </strong>Hidrojen bağı dipol-dipol ve london
+    bağları ile kıyaslandığında, hidrojen bağları yaklaşık olarak 10 kat daha güçlüdür.<br/>
+    <strong>&#8211; </strong>Hidrojen bağı oluşturan maddeler
+    birbiri içinde daha iyi çözünür. Bu yüzden etil alkol (C2H5OH) suda çok iyi çözünür.<br/>
+    <strong>&#8211; </strong>Bazı hidrojen bağları atomlar
+    arasındaki kovalent bağdan daha güçlüdür. Örneğin glikoz bir kapta ısıtıldığında erimeye
+    başlamadan önce molekül yapısı bozulur. Bu nedenle ısıtılan şeker önce karamelleşir ısıtılmaya
+    devam edildiğinde ise kömürleşir.<br/>
+    <strong>&#8211; </strong>Hidrojen atomunun 1 elektronun ve 1
+    protonun olması, hidrojen bağının dipol-dipol bağına ek olarak elektrostatik bir kuvvetle de
+    desteklenmesini sağlamaktadır.<br/>
+    <strong>&#8211; </strong>HF, H2O, NH3 bileşiklerinin kaynama
+    noktaları, hidrojen bağları nedeni ile çok yüksektir.<br/>
+    <strong>&#8211; </strong>Buzun yoğunluğunun suyun
+    yoğunluğundan az olmasının nedeni de hidrojen bağları ile açıklanmaktadır.</p>
+</html>

@@ -1,0 +1,71 @@
+<html>
+<style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+
+
+
+</style>
+<h2>Biyoloji Bilimi</h2>
+<p>Biyoloji; canlıların mevcut yapılarını, yaşamsal olan faaliyetlerini, davranış biçimlerini,
+    gelişim düzeylerini, yeryüzündeki dağılış şekillerini, birbirleri ile ve çevreleri ile bulunan
+    ilişkilerini inceleyen bir bilim dalıdır.
+<p>
+
+<h3>Yaşam Bilimi Nedir?</h3>
+
+<p> Biyoloji veya yaşam bilimi, canlıları inceleyen bir bilim dalıdır. Biyoloji ile ilgilenmekte
+    olan bilim insanına ise biyolog veya yaşam bilimci adı verilir. Biyologlar, bütün canlıları;
+    bütün gezegeni kaplayan global boyuttan, hücre ya da molekülleri kapsamına alan mikroskobik
+    boyuta kadar bunları etkileyen önemli nitelikteki dinamik olaylar ile beraber incelemekte olan
+    biyoloji bilimi ile uğraşan kişilerdir. Pek çok süreci bünyesinde bulunduran yaşamsal
+    süreçlerden birkaç tanesi; enerjinin ve maddenin işlenmesi, vücudu meydana getiren maddelerin
+    sentezlenebilmesi, yaraların iyileşebilmesi ve bütün organizmanın çoğalmasıdır.</p>
+
+<h3>Canlı Nedir?</h3>
+
+<p> Canlı veya organizma, biyoloji ya da ekolojide işlevlerini yaşama olabildiğince ayak uydurarak
+    sürdürebilen basit bir yapıya sahip moleküllerinin ya da karmaşık yapılı organ mekanizmalarının
+    bir araya gelmesi ile ortaya çıkan varlıklar için kullanılmakta olan bir kavramdır. Canlıların
+    çevreye uyum sağlayabilme, kalıtım ve üreme gibi ortak özellikleri, doğal varlıklar kapsamının
+    ve yaşamın temel ögelerini ortaya çıkarır.</p>
+
+<h3>Canlıların Ortak Özellikleri Nelerdir?</h3>
+
+<p> Canlıların çok sayıda ortak özelliği bulunur. Bu özellikleri şu şekilde sıralamak mümkündür:
+
+<p> Hücresel yapı
+
+<p> Beslenme
+
+<p> Solonum ve enerjinin üretilmesi
+
+<p> Metabolizma
+
+<p> Organizasyon
+
+<p> Hareket
+
+<p> Çevresel uyarılara karşı tepki verme
+
+<p> Üreme
+
+<p> Boşaltım
+
+<p> Adaptasyon
+
+<p> Büyüme
+
+<p> Homeostasi ya da iç denge
+
+<p> Protein sentezi
+
+<p> Şeklinde canlıların ortak özelliklerini sıralamak mümkündür.</p>
+</html>

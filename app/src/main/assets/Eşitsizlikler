@@ -1,0 +1,76 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2><span >Eşitsizlikler</span></h2>
+
+<h3><span style="color: #000080;"><a name="1"></a>Tanım</span></h3>
+<p>a &lt; b , a &gt; b , a ≤ b , a ≥ b şeklindeki ifadeler <strong>eşitsizlik</strong>
+    olarak adlandırılır.</p>
+<p>Gerçel (reel) sayı ekseninde (sayı doğrusu) herhangi bir sayının
+    sağında bulunan sayılar daima o sayıdan büyük, solunda bulunan
+    sayılar da o sayıdan küçüktür.</p>
+<h3><span style="color: #000080;"><a name="2"></a>Basit Eşitsizliklerin Özellikleri</span>
+</h3>
+<p><span style="font-size: 14pt;"><strong>1.</strong></span>Bir
+    eşitsizliğin her iki tarafına aynı sayı eklenip çıkartılabilir.
+    Bu eşitsizliğin yönünü değiştirmez.</p>
+<p><b> </b> iken her iki tarafa aynı sayıyı eklersek <strong>a + c
+    &lt; b + c</strong></p>
+<p>5 &lt; 7 iken 5 + 4 &lt; 7 + 4 yani 9&lt;11 olur.</p>
+<p><span style="font-size: 14pt;"><strong>2.</strong></span>Eşitsizliğin
+    her iki tarafı da pozitif bir sayı ile çarpılırsa veya
+    bölünürse, bu eşitsizlik yön değiştirmez.</p>
+<p>a &gt; b ve c &gt;0 iken <strong>a.c &gt; b.c</strong>’dir.</p>
+<p><span style="font-size: 14pt;"><strong>3.</strong></span> Bir
+    eşitsizliğin her iki tarafı negatif bir sayıyla çarpılır veya
+    bölünürse, eşitsizlik yön değiştirir.</p>
+<p>a&lt;b ve c&lt;0 iken<strong> a.c &gt; b.c</strong>’dir.</p>
+<p><span style="font-size: 14pt;"><strong>4.</strong></span> Yönü
+    aynı olan eşitsizlikler taraf tarafa toplanabilir.</p>
+<p>a&lt;b ve c&lt;d iken</p>
+<p><strong>a + c &lt; b + d</strong> olabilir.</p>
+<p><span style="font-size: 14pt;"><strong>5. </strong></span>0 &lt;
+    a &lt; b iken a&lt;b , <img loading="lazy"
+                                class="alignnone wp-image-129753"
+                                src="images/matematik/esitsizlikler/basit1.jpg"
+                                alt="" width="43" height="38"/></p>
+<p><span style="font-size: 14pt;"><strong>6. </strong></span>Zıt
+    işaretli sayılardan oluşan eşitsizliklerin çarpma işlemine göre
+    tersi alındığında eşitsizlik yön değiştirmez.</p>
+<p>a &lt; 0 &lt; b iken a&lt;b ,<img loading="lazy"
+                                     class="alignnone wp-image-129754"
+                                     src="images/matematik/esitsizlikler/basit2.jpg"
+                                     alt="" width="48" height="41"/>
+</p>
+<p><span style="font-size: 14pt;"><strong>7.</strong></span> a ve b
+    birer pozitif reel sayı ve x pozitif tam sayı olmak üzere ;</p>
+<p>0 &lt; a &lt;b iken <img loading="lazy"
+                            class="alignnone wp-image-129781"
+                            src="images/matematik/esitsizlikler/basit3.jpg"
+                            alt="" width="58" height="18"/></p>
+<p><span style="font-size: 14pt;"><strong>8.</strong> </span>a ve b
+    negatif birer sayı ve x pozitif bir tam sayı olduğunda;</p>
+<p>a &lt; b &lt; 0, x tek ise, <img loading="lazy"
+                                    class="alignnone wp-image-129781"
+                                    src="images/matematik/esitsizlikler/basit4.jpg"
+                                    alt="" width="58" height="18"/>
+</p>
+<p>x çift ise, <img loading="lazy" class="alignnone wp-image-150830"
+                    src="images/matematik/esitsizlikler/basit5.jpg"
+                    alt="" width="58" height="20"/> olur.</p>
+<p><span style="font-size: 14pt;"><strong>9.</strong> </span>0 ve 1
+    arasındaki pozitif ve basit olan kesirlerin kuvveti arttıkça
+    sayının değeri de azalır.</p>
+<p><img loading="lazy" class="alignnone wp-image-129782"
+        src="images/matematik/esitsizlikler/basit6.jpg"
+        alt="" width="55" height="23" /> ise 0 &lt; a &lt; 1 olur.
+</p>
+</html>

@@ -1,0 +1,77 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<h1><span style="color: #ff0000">Üçgende Açı Kenar Bağıntıları</span></h1>
+<p><span style="font-size: 14pt"><strong><a name="1"></a>1.</strong> </span>Bir üçgende ölçüsü büyük
+    olan açının karşısındaki kenar uzunluğu, ölçüsü küçük olan açının karşısındaki kenar
+    uzunluğundan daha büyüktür. Yani büyük açı karşısında büyük kenar, küçük açı karşısında küçük
+    kenar bulunur.</p>
+<p><img class="alignnone size-medium wp-image-122831"
+        src="images/geometri/kenar/kenar1.jpg"
+        alt="" width="300" height="254"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>Tersi de geçerlidir. Uzun kenarı gören açı kısa kenarı gören açıdan daha büyüktür. İkizkenar
+    üçgenden de bildiğimiz gibi eşit açıların karşılarındaki kenarlar eşittir.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-122834"
+        src="images/geometri/kenar/kenar2.jpg" alt=""
+        width="242" height="294"/></p>
+<p><span style="font-size: 14pt"><a name="2"></a><strong>2. </strong></span>Bir üçgende herhangi bir
+    kenarın uzunluğu diğer iki kenarın uzunlukları toplamından küçük farkının mutlak değerinden
+    büyüktür. ABC üçgeninde,</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122836"
+        src="images/geometri/kenar/kenar3.jpg"
+        alt="" width="300" height="276" sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p><span style="font-size: 14pt"><strong><a name="3"></a>3.</strong></span> Dik, dar ve geniş açılı
+    üçgenlerde kenarlar arasındaki ilişkiler.</p>
+<p>Bir dik üçgende kenarlar arasında Pisagor Teoremi <strong>a<sup>2</sup> = b<sup>2</sup> +
+    c<sup>2</sup></strong> bağıntısı vardır.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122843"
+        src="images/geometri/kenar/kenar4.jpg" alt=""
+        width="300" height="204" sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p><strong> </strong>Dar açılı üçgende b ve c sabit tutulup A açısı küçültülürse a da küçülür.</p>
+<p><strong> </strong><strong>m(A) &lt; 90<sup>° </sup></strong> <strong>a<sup>2</sup> &lt;
+    b<sup>2</sup> + c<sup>2</sup></strong></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122840"
+        src="images/geometri/kenar/kenar5.jpg"
+        alt="" width="300" height="201"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>Geniş açılı üçgende b ve c sabit tutulup A açısı büyütülürse a da büyür.</p>
+<p style="text-align: center"><strong>m(A) &lt; 90° a<sup>2</sup> &gt; b<sup>2</sup> + c<sup>2</sup></strong>
+</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122841"
+        src="images/geometri/kenar/kenar6.jpg"
+        alt="" width="300" height="176" sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p><span style="font-size: 14pt"><strong><a name="4"></a>4.</strong> </span>Çeşitkenar bir üçgende
+    aynı köşeden çizilen yükseklik, açıortay ve kenarortay uzunluklarının sıralanması,</p>
+<p style="font-weight: 400">|AB| = h<sub>a</sub> ; yükseklik</p>
+<p style="font-weight: 400">|AD| = n<sub>A</sub> ; açıortay</p>
+<p style="font-weight: 400">|AK| = V<sub>a </sub>; kenarortay</p>
+<p style="font-weight: 400">Olmak üzere;<b><strong> h<sub>a</sub>&lt; n<sub>A</sub>
+    &lt;V<sub>a </sub></strong></b> şeklinde sıralama vardır.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122842"
+        src="images/geometri/kenar/kenar7.jpg" alt=""
+        width="300" height="237"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p><span style="font-size: 14pt"><strong><a name="5"></a>5.</strong></span> Çeşitkenar bir üçgende,
+    açı, açıortay, kenarortay ve yükseklik arasındaki sıralama; ABC üçgeninde a, b, c kenar
+    uzunluklarıdır.</p>
+<p>m(A) &gt; m(B) &gt; m(C) olduğunu varsayalım. Bu durumda üçgende;</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-122843"
+        src="images/geometri/kenar/kenar8.jpg" alt=""
+        width="300" height="204"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p><strong>Kenarlar :</strong>a &gt; b &gt; c</p>
+<p><strong>Yükseklikler : </strong>h<sub>a</sub> &lt; h<sub>b</sub> &lt; h<sub>c</sub></p>
+<p><strong>Açıortaylar :</strong> n<sub>A</sub> &lt; n<sub>B</sub> &lt; n<sub>C</sub></p>
+<p><strong>Kenarortaylar : </strong>V<sub>a</sub> &lt; V<sub>b</sub> &lt; V<sub>c </sub>şeklinde
+    sıralanırlar.</p>
+</html>

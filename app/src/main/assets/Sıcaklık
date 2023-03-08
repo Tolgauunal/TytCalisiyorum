@@ -1,0 +1,146 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<p><strong>SICAKLIK</strong></p>
+<p>Yeryüzündeki sıcaklığın kaynağı Güneş’tir. Yeryüzünün Güneş’ten aldığı ısı miktarına <strong>sıcaklık</strong>
+    denir. Termometre ile ölçülür. Sıcaklığın birimi santigrat derece (°C) dir.</p>
+<p>Atmosfere gelen enerji % 100 kabul edilirse;</p>
+<ul>
+    <li>Enerjinin % 25′i bulutların ve atmosferin etkisi ile uzaya doğru yansır.</li>
+    <li>% 25′i atmosferde dağılarak gölge yerlerin aydınlatılmasını ve gök yüzünün mavi görünmesini
+        sağlar.
+    </li>
+    <li>% 15′i atmosfer tarafından emilerek atmosferin ısınmasını sağlar.</li>
+    <li>% 35′i yeryüzüne ulaşır. Bu enerjinin % 27′si yeri ısıtır. % 8′i ise yeryüzüne çarptıktan
+        sonra tekrar uzaya yansır.
+    </li>
+</ul>
+<p><img src="images/cografya/iklim/i1.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><strong>SICAKLIK DAĞILIŞINI ETKiLEYEN</strong> <strong>FAKTÖRLER<br/>
+</strong>(SICAKLIK ETMENLERi)</p>
+<p><strong>1. Güneş ışınlarının yeryüzüne düşme açısı</strong></p>
+<p>Yeryüzünde sıcaklık dağılışını etkileyen en önemli faktördür. Güneş ışınları bir yere ne kadar
+    dik düşerse, orası o kadar fazla ısınır. Düşme açısı küçüldükçe ısınma azalır. Düşme açısını
+    belirleyen etkenler şunlardır:</p>
+<p><strong>a. Dünya’nın şekli ve enlem:</strong> Dünya’nın şekline bağlı olarak, Ekvator’dan
+    kutuplara doğru gidildikçe güneş ışınlarının yere düşme açıları küçülür. Bunun sonucunda da
+    Ekvator’dan kutuplara gidildikçe sıcaklık azalır.<br/>
+    <img src="images/cografya/iklim/i2.gif"
+         alt="derscalisiyorum.com.tr"/></p>
+<p><strong>b. Yaşanan Mevsim:</strong> Dünya’nın eksen eğikliği ve yıllık hareketine bağlı olarak
+    güneş ışınlarının düşme açısı yıl boyunca değişir.</p>
+<p>Buna göre, Kuzey Yarım Küre, yaz mevsiminde güneş ışınlarını daha dik, kışın daha eğik alır.</p>
+<p><strong>c. Günün Saati:</strong> Dünya’nın günlük hareketine bağlı olarak, güneş ışınlarının bir
+    noktaya geliş açısı gün boyunca değişme gösterir. Güneş ışınları sabah ve akşam eğik açıyla,
+    öğle vakti ise gelebileceği en dik açı ile gelir.</p>
+<p><strong>d. Bakı ve eğim</strong>: Güneş ışınlarının düşme açısı, yerşekillerinin Güneş’e bakma
+    durumuna göre (Bakıya göre) ve yerşekillerinin eğimine göre değişir.</p>
+<p><img src="images/cografya/iklim/i3.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><strong>2. Güneş ışınlarının atmosferde katettiği yol</strong></p>
+<p>Güneş ışınlarının atmosferde aldığı yol uzadıkça enerji kaybı o oranda artar. Dik açı ile gelen
+    ışınlar daha kısa bir yoldan yeryüzüne ulaşır ve daha az kayba uğrar. (Ekvator çevresi gibi)</p>
+<p>Dar açı ile gelen ışınlar ise, daha uzun bir yoldan yeryüzüne ulaşır ve daha fazla kayba uğrar.
+    (Kutup çevreleri gibi)</p>
+<p><strong>3. Güneşlenme Süresi</strong></p>
+<p>Güneşlenme süresi arttıkça sıcaklık artar. Yaz aylarında güneşlenme süresi fazla olduğundan
+    sıcaklık değerleri yüksektir. Yine gün içinde en yüksek sıcaklıkların tam öğle vakti değil,
+    öğleden birkaç saat sonra olması güneşlenme süresi ile ilgilidir. Geceleri ise, Güneş’ten enerji
+    alınmadığı için soğuma görülür. Bu nedenle günün en soğuk anı, sabah Güneş doğmadan önceki
+    andır.</p>
+<p><strong>4. Yükselti</strong></p>
+<p>Troposfer katında, yerden yükseldikçe sıcaklık değerleri her 100 m. de 0,5 °C azalırken,
+    alçaldıkça her 100 m. de 0,5 °C artar.</p>
+<p><strong>5. Kara ve Denizlerin Dağılışı</strong></p>
+<p>Aynı miktarda güneş enerjisi alan karalar ve denizler aynı derecede ısınmazlar. Karalar denizlere
+    oranla daha fazla ve çabuk ısınırken, denizler daha az ve geç ısınırlar. Yine karalar denizlere
+    oranla daha fazla ve çabuk soğurken, denizler daha az ve geç soğurlar.</p>
+<p><strong>6. Nem Miktarı</strong></p>
+<p>Nem, bir yerin fazla ısınması ve soğumasını önler. Sıcaklık farkını azaltır. Güneş ışınlarının
+    dik ve dike yakın geldiği Ekvator çevresi Dünya’nın en sıcak yerleri olması gerekirken, nemin
+    fazlalığından dolayı olmamıştır. Dünya’nın en sıcak yerleri ise Dönenceler civarı (Tropikal
+    çöller) olmuştur.</p>
+<p>Kış mevsiminde, havanın bulutlu olduğu günlerde, ısı kaybı azaldığından sıcaklık değerleri
+    yüksektir. Havanın bulutsuz olduğu günlerde ise, ısı kaybı daha fazla olduğundan sıcaklık
+    değerleri düşüktür. Kuru ve ayaz bir hava yaşanır.</p>
+<p><strong>7. Okyanus Akıntıları</strong></p>
+<p>Okyanus akıntıları, hem denizler hem de karalar üzerinde havanın sıcaklığını etkilerler. Bu
+    akıntılar sıcaklığın Ekvator’dan kutuplara doğru düzenli olarak azalmasını engeller.</p>
+<p>Ekvator yönünden gelen Gulf – Stream, Brezilya, Kuroşivo ve Alaska gibi akıntılar sıcaklığı
+    yükseltir. Buna karşılık, kutup yönünden gelen Labrador, Kanarya, Oyaşivo, Benguela ve
+    Kaliforniya gibi akıntılar sıcaklığı düşürür.</p>
+<p><strong>8. Rüzgârlar</strong></p>
+<p>Kuzey Yarım Küre’de güneyden, Güney Yarım Küre’de de kuzeyden esen rüzgârlar, Ekvator yönünden
+    geldikleri için sıcaklığı artırır. Kutup yönünden gelen rüzgârlar ise, sıcaklığı düşürürler. Bu
+    durum enlem – sıcaklık ilişkisine örnektir.</p>
+<p>Denizden karaya doğru esen rüzgârlar kışın ılıtıcı, yazın ise serinletici etki yapar.</p>
+<p>Karadan denize doğru esen rüzgârlar ise, kışın sıcaklığı düşürücü, yazın ise sıcaklığı yükseltici
+    etki yapar.</p>
+<p><strong>9. Bitki Örtüsü</strong></p>
+<p>Bitki örtüsü, güneş ışınlarının bir kısmını emerek gündüz yerin fazla ısınmasını önler. Gece ise,
+    yerden ışıyan sıcaklığın bir bölümünü tutarak fazla soğumayı engeller. Bunun sonucunda, bitki
+    örtüsünün gür olduğu alanlar ile seyrek olduğu alanlar arasında, sıcaklığın dağılışı açısından
+    önemli farklar ortaya çıkar.</p>
+<p><strong>SICAKLIĞIN YERYÜZÜNDEKİ DAĞILIŞI</strong></p>
+<p>Sıcaklığın yeryüzüne dağılışı <strong>izoterm </strong>adı verilen eş sıcaklık eğrileri ile
+    gösterilir. Sıcaklık haritalarına ise <strong>izoterm haritaları </strong>denir. izoterm
+    haritaları günlük, aylık ve yıllık olabilir. Bu haritaların bir kısmı gerçek sıcaklıkları
+    gösterir. Bunlara <strong>gerçek izoterm haritaları </strong>denir. Bu haritalarda yükseltinin
+    etkisi hesaba katılır. Bir de, yükselti değerleri her yerde sıfır metre kabul edilerek, sıcaklık
+    değerlerinin buna göre düzenlenip çizildiği haritalar vardır. Bu haritalara da <strong>indirgenmiş
+        izoterm haritaları </strong>denir. Her yerin gerçek sıcaklığına, yükseltiden dolayı
+    kaybettiği sıcaklığın eklenmesiyle indirgenmiş sıcaklık bulunur.</p>
+<p>Örneğin, 1000 m. yükseklikteki bir yerin gerçek sıcaklığı 16°C ise, buranın indirgenmiş
+    sıcaklığı;</p>
+<p><img src="images/cografya/iklim/i4.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><strong>Dünya Yıllık Ortalama Sıcaklık Dağılışı</strong></p>
+<p><img src="images/cografya/iklim/i5.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<ul>
+    <li>Yeryüzünde üç farklı sıcaklık kuşağı oluşmuştur.</li>
+</ul>
+<p><img src="images/cografya/iklim/i6.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<ul>
+    <li>Genel olarak (Dünya’nın şekli sonucu) Ekvator’dan kutuplara gidildikçe sıcaklık azalır.
+        Ancak en yüksek sıcaklıklara dönenceler çevresinde rastlanmaktadır.
+    </li>
+    <li>Kuzey Yarım Küre, Güney Yarım Küre’den daha sıcaktır. Çünkü, Kuzey Yarım Küre’de karalar,
+        Güney Yarım Küre’de denizler daha fazla yer kaplar.
+    </li>
+    <li>Kuzey Yarım Küre’de, yüksek enlemlerdeki karaların batı kıyıları, doğu kıyılarına göre daha
+        sıcaktır. Sebebi, sıcak okyanus akıntılarıdır. (Gulf – Stream, Alaska, vb.)
+    </li>
+    <li>Kuzey Yarım Küre’deki sıcaklık farkları Güney Yarım Küre’den daha fazladır. Sebebi, kara –
+        deniz dağılışıdır.
+    </li>
+</ul>
+<p><strong>Dünya Ocak Ayı Ortalama Sıcaklık Dağılışı</strong></p>
+<p><img src="images/cografya/iklim/i7.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<ul>
+    <li>Ocak ayında, Kuzey Yarım Küre’de kış mevsimi yaşanır.</li>
+    <li>Bu ayda Dünya’nın en soğuk yerleri Sibirya, Kanada ve Grönland’ın kuzey bölgeleridir.</li>
+    <li>Bu ayda Dünya’nın en sıcak yerleri, Oğlak Dönencesi üzerindeki kara içleridir.</li>
+</ul>
+<p><strong>Dünya Temmuz Ayı Ortalama Sıcaklık Dağılışı</strong></p>
+<p><img src="images/cografya/iklim/i8.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<ul>
+    <li>Temmuz ayında, Kuzey Yarım Küre’de yaz mevsimi yaşanır.</li>
+    <li>Bu ayda, Dünya’nın en sıcak yerleri Büyük Sahra, Arabistan Yarımadası’nın iç kısımları,
+        iran, Orta Asya, Meksika, Amerika’nın orta kesimleri ve Arizona çevresidir.
+    </li>
+    <li>Bu ayda Dünya’nın en soğuk yerleri Antarktika Kıtası’ndadır.</li>
+</ul>
+</html>

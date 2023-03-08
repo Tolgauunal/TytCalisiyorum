@@ -1,0 +1,124 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+    </style>
+</head>
+<h1><span style="color: #ff0000">Basit Makineler</span></h1>
+<p>İş yapma kolaylığı sağlayan araçlara <span
+        style="color: #000080"><strong>basit makineler</strong></span> denir.</p>
+<p>Basit makineler; kuvvetin yönünü değiştirmek veya kuvvetten ya da yoldan kazanç sağlamakta
+    kullanılabilir. Kuvvetten kazanç sağlayan bir basit makinede yoldan kayıp, yoldan kazanç
+    sağlayan bir basit makinede kuvvetten kayıp vardır. Basit makinelerde<br/>
+    işten kazanç olmaz.</p>
+<p><strong>Basit makine çeşitleri:</strong></p>
+<ul>
+    <li><a href="#1"><strong>Kaldıraçlar</strong></a></li>
+    <li><a href="#2"><strong>Makaralar</strong></a></li>
+    <li><a href="#3"><strong>Palangalar</strong></a></li>
+    <li><a href="#4"><strong>Eğik Düzlem</strong></a></li>
+    <li><a href="#5"><strong>Çıkrık</strong></a></li>
+    <li><a href="#6"><strong>Vida</strong></a></li>
+    <li><a href="#7"><strong>Dişliler</strong></a></li>
+</ul>
+<h2><a name="1"></a><span style="color: #000080">Kaldıraçlar</span></h2>
+<p>Destek noktası da denen sabit bir nokta etrafında dönebilen cisimlere <strong>kaldıraç</strong>
+    denir.</p>
+<p><span style="font-size: 14pt"><strong>Kuvvet x Kuvvet Kolu = Yük x Yük Yolu</strong></span></p>
+<p>Kuvvet kolunun uzunluğu, yük kolunun uzunluğundan ne kadar fazla ise kaldıracın kuvvet kazancıda
+    o kadar büyüktür. El arabası, ceviz kırma makinesi ve kapak açacağı, bu kaldıraç çeşidine örnek
+    olarak verilebilir.</p>
+<h2><a name="2"></a><span style="color: #000080">Makaralar</span></h2>
+<p>Çevresine ip geçirilmiş, ekseni çevresinde dönerek ipin hareket etmesi sonucu çalışan araçlara
+    “<span style="color: #000080"><strong>makara</strong></span>” denir.</p>
+<h3><span style="color: #0000ff">Sabit Makaralar</span></h3>
+<p>Ekseninden tavana veya duvara sabitlenerek sadece dönme hareketi yapan makaralardır. O noktasına
+    göre tork hesaplandığında,</p>
+<p><span style="font-size: 14pt"><strong>P.d=F.d</strong> </span>olur.</p>
+<p>Buradan P = F ifadesi elde edilir.</p>
+<p>P yükünü dengelemek için uygulanan kuvvetin büyüklüğü F, P ye eşittir. Sabit makaralarda
+    kuvvetten kazanç sağlanmaz, yalnızca kuvvetin yönünü değiştirmek için kullanılır.</p>
+<h3><span style="color: #0000ff">Hareketli Makara</span></h3>
+<p>Hem kendi çevresinde dönebilen hem de yüke bağlı olduğu için yükle beraber hareket edebilen
+    makaradır. O noktasına göre moment alınırsa,</p>
+<p><span style="font-size: 14pt"><strong><span style="vertical-align: inherit"><span
+        style="vertical-align: inherit">S. </span><span
+        style="vertical-align: inherit">d = F. </span><span
+        style="vertical-align: inherit">2d</span></span></strong> </span><span
+        style="vertical-align: inherit"><span style="vertical-align: inherit"> olur.</span></span>
+</p>
+<p>Buradan <strong>F= P/2</strong> bulunur.</p>
+<p>Bu durumda, kuvvetten yarı yarıya kazanç vardır.</p>
+<h2><a name="3"></a><span style="color: #000080"><span style="vertical-align: inherit"><span
+        style="vertical-align: inherit">Palangalar</span></span></span></h2>
+<p>Sabit ve hareketli makaraların birlikte kullanılmasıyla oluşturulmuş sisteme<span
+        style="color: #000080"><strong> palanga</strong></span> denir. Palangada kuvvetten büyük
+    oranda kazanç vardır. Fakat aynı oranda yoldan kayıp vardır.</p>
+<h2><a name="4"></a><span style="color: #000080">Eğik Düzlem</span></h2>
+<p>Ağır yükleri belli yüksekliğe kaldırmak zor olduğu zaman eğik düzlem yardımıyla yükten daha az
+    bir kuvvet ile cisimler istenilen yüksekliğe çıkarılabilir. Sürtünmeler önemsiz ise, eğik
+    düzlemde iş prensibi geçerlidir.</p>
+<p><strong>Kuvvet . Kuvvet yolu = Yük . Yük yolu</strong></p>
+<p><span style="font-size: 14pt"><strong><span style="vertical-align: inherit"><span
+        style="vertical-align: inherit">F. </span><span
+        style="vertical-align: inherit">S = S. </span><span style="vertical-align: inherit">h</span></span></strong></span>
+</p>
+<p>Kuvvet yolu, kuvvete paralel olan <span style="color: #000080"><strong>S</strong></span> yolu,
+    yük yolu ise, yüke paralel olan <span style="color: #000080"><strong>h</strong></span> yoludur.
+    Kuvvetten kazanç sağlanır. Fakat aynı oranda yoldan kayıp olur.</p>
+<h2><a name="5"></a><span style="color: #000080">Çıkrık</span></h2>
+<p>Aynı eksen etrafında dönen bir silindir ve bir kolun birleştirilmesiyle oluşan sisteme çıkrık
+    denir. Kuyu düzeneklerinde, kıyma makinelerinde ve kapı anahtarı gibi düzeneklerde
+    kullanılır.Çıkrıkta kuvvetin uyguladığı kolun uzunluğu arttıkça bir yükü kaldırma için
+    uygulanması gereken kuvvet azalır yani kuvvet kazancı artar.Çıkrıkta kuvvet ve yük arasındaki
+    ilişki</p>
+<p><span style="font-size: 14pt"><strong><span style="vertical-align: inherit"><span
+        style="vertical-align: inherit">P xr = F x R</span></span></strong>  </span><span
+        style="vertical-align: inherit"><span style="vertical-align: inherit"> yani</span></span>
+</p>
+<p><span style="font-size: 14pt"><strong>Yük x yük kolu = Kuvvet x Kuvvet kolu</strong></span></p>
+<p>formülü ile hesaplanabilir.</p>
+<h2><a name="6"></a><span style="color: #000080"><span style="vertical-align: inherit"><span
+        style="vertical-align: inherit">Vida</span></span></span></h2>
+<p>Vida, iki yüzeyi birbirine birleştirirken, en çok kullanılan, basit makinelerden birisidir.
+    Vidada iki diş arasındaki uzaklığa vida adımı denir. Vidayı tahtaya vidalamak için tornavida ile
+    kuvvet uygulayarak döndürmek gerekir. Vida başı bir tam dönüş yaptığında vida, vida adımı (a)
+    kadar yol alır. N kez döndüğünde ise N . a kadar yol alır.</p>
+<p>Vidayı döndürmek için uygulanan F kuvvetinin yaptığı iş, vida tahtaya girerken R direngen
+    kuvvetinin yaptığı işe eşittir.</p>
+<p>İş prensibinden</p>
+<p><span style="font-size: 14pt"><strong>Kuvvet . Kuvvet yolu = Yük . Yük yolu</strong></span></p>
+<p><span style="font-size: 14pt"><strong>F . 2pr = R . a</strong></span> dır.</p>
+<p>Vidanın baş kısmı daire olduğu için bir turda kuvvet yolu dairenin 2pr çevre uzunluğu kadar
+    olur.</p>
+<h2><a name="7"></a><span style="color: #000080">Dişliler</span></h2>
+<p>Bir eksen etrafında dönebilen silindir şeklindeki çarklardır.</p>
+<p><strong><span style="color: #000000">&#8211;</span> </strong>Dişler, bir çark üzerine uygulanan
+    kuvveti diğer çarklara aktarır.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Dişli çarklar hareketin yönünü ve
+    süratini değiştirmeye yarar.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Büyük dişli küçük dişliden yavaş,
+    fakat daha büyük kuvvetle döner.</p>
+<p><strong>Aynı merkezli dişlilerde;</strong></p>
+<p><strong><span style="color: #000000">&#8211;</span> </strong>Dönme yönleri aynıdır.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Dönme sayıları da aynıdır.</p>
+<p><strong>Farklı merkezli dişlilerde;</strong></p>
+<p><strong><span style="color: #000000">&#8211;</span> </strong>Dönme yönleri zıttır.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Diş sayısı fazla olan az, diş
+    sayısı çok olan fazla döner.</p>
+<p><strong>Aynı yönlü bağlı dişlilerde;</strong></p>
+<p><strong><span style="color: #000000">&#8211;</span> </strong>Dönüş yönleri aynıdır.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Büyük dişli bir tur döndüğünde
+    küçük dişli 1 turdan fazla döner.</p>
+<p><strong>Çapraz bağlı dişlilerde;</strong></p>
+<p><strong><span style="color: #000000">&#8211;</span> </strong>Dönüş yönleri zıttır.<br/>
+    <strong><span style="color: #000000">&#8211;</span> </strong>Büyük dişli 1 tur attığında küçük
+    dişli 1 turdan fazla döner.</p>
+</html>

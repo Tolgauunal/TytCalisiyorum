@@ -1,0 +1,246 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+
+    </style>
+</head>
+h1><strong>Dörtgenler:</strong></h1>
+<p>Bu ders notumuzda önemli konularımızdan biri olan dörtgenler, dörtgenlerin genel özellikleri,
+    dörtgenler ile ilgili alan ve uzunluk hesaplamaları ile ilgili bilgileri bulabilirsiniz.</p>
+<h3><strong><em>DÖRTGENLERİN GENEL ÖZELLİKLERİ</em></strong></h3>
+<table id="table28" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="72%"><strong>1.</strong>Bir dörtgende komşu iki iç açının açıortaylarının
+            oluşturduğu açının ölçüsü, diğer iki açının ölçüleri toplamının yarısına eşittir.</p>
+            <table id="table29" border="9">
+                <tbody>
+                <tr>
+                    <td width="100%"><img
+                            src="images/geometri/dortgen/dort2.gif"
+                            alt="derscalisiyorum.com.tr"/></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="28%"><img
+                src="images/geometri/dortgen/dort1.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table id="table30" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="71%"><strong>2.</strong>Bir dörtgende karşı iki açının açıortayları arasındaki
+            dar açının ölçüsü diğer iki açının ölçüleri farkının mutlak değerinin yarısına
+            eşittir.</p>
+            <table id="table31" border="9">
+                <tbody>
+                <tr>
+                    <td width="100%"><strong>a=l m(D)-m(C) l /2</strong></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="29%"><img
+                src="images/geometri/dortgen/dort3.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table id="table32" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="72%">
+            <h3>Dörtgenlerde Alan</h3>
+            <p><strong>3.</strong>Köşegenleri ve köşegenlerinin arasındaki açısının ölçüsü bilinen
+                dörtgenin alanı; ABCD dörtgeninde [AC] ve [BD] köşegen uzunlukları ile biliniyor</p>
+            <table id="table33" border="9">
+                <tbody>
+                <tr>
+                    <td width="100%"><img
+                            src="images/geometri/dortgen/dort4.gif"
+                            alt="derscalisiyorum.com.tr"/></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="30%"><img
+                src="images/geometri/dortgen/dort5.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table id="table34" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="69%">
+            <ul>
+                <li>Köşegenleri birbirine dik olan dörtgenlerde</li>
+                <li>(sin 90° = 1 olduğundan)</li>
+            </ul>
+            <table id="table35" border="9">
+                <tbody>
+                <tr>
+                    <td width="100%"><img
+                            src="images/geometri/dortgen/dort6.gif"
+                            alt="derscalisiyorum.com.tr"/></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="38%"><img
+                src="images/geometri/dortgen/dort7.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table id="table36" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="70%">
+            <ul>
+                <li>Köşegen doğruları birbirine dik ise</li>
+            </ul>
+            <table id="table37" border="9">
+                <tbody>
+                <tr>
+                    <td width="100%"><img
+                            src="images/geometri/dortgen/dort8.gif"
+                            alt="derscalisiyorum.com.tr"/></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="30%"><img
+                src="images/geometri/dortgen/dort9.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table id="table38" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="70%"><strong>4. </strong>Köşegenleri ve köşegenlerinin arasındaki açısının ölçüsü
+            bilinen içbükey dörtgenin alanı;[AC] ve [BD] köşegenleri ile köşegen doğruları
+            arasındaki a biliniyor ise ABCD içbükey dörtgeninin alanı;</p>
+            <table id="table39" border="9">
+                <tbody>
+                <tr>
+                    <td width="100%"><img
+                            src="images/geometri/dortgen/dort10.gif"
+                            alt="derscalisiyorum.com.tr"/></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="30%"><img
+                src="images/geometri/dortgen/dort11.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table id="table40" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="70%"><strong>5.</strong> Köşegenleri dik kesişen dörtgenlerin kenarları
+            arasındaki bağıntı; ABCD dörtgeninde<br/>
+            [AC] ^ [BD]
+        </td>
+        <td width="33%"><img
+                src="images/geometri/dortgen/dort12.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<p>Köşegenleri dik olan dörtgenlerin karşılıklı kenarlarının kareleri toplamı eşittir.</p>
+<table id="table41" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="69%">
+            <ul>
+                <li>Köşegenleri dik içbükey dörtgenlerde de karşılıklı kenarların kareleri toplamı
+                    eşittir.
+                </li>
+            </ul>
+            <p>ABCD dörtgeninde</p>
+            <table id="table42" border="9">
+                <tbody>
+                <tr>
+                    <td width="100%"><img loading="lazy"
+                                          src="images/geometri/dortgen/dort13.gif"
+                                          alt="" width="110" height="21" border="0"/></td>
+                </tr>
+                </tbody>
+            </table>
+        </td>
+        <td width="31%"><img
+                src="images/geometri/dortgen/dort14.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table id="table43" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="69%"><strong>6. </strong>Dörtgenlerde köşegenlerin ayırdığı alanlar; ABE ve ADE
+            üçgenlerinin yükseklikleri eşit olduğundan alanlarının oranı tabanlarının oranına
+            eşittir.
+        </td>
+        <td width="31%"><img
+                src="images/geometri/dortgen/dort15.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table id="table44" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="72%"><strong>7.</strong> Dörtgenlerde kenarların orta noktalarının
+            birleştirilmesiyle oluşan paralelkenar; ABCD dörtgeninde kenarların orta noktaları
+            birleştirilerek oluşan KLMN dörtgeni paralelkenardır. Paralelkenarın alanı dörtgenin
+            alanının yarısına eşittir.[KL] // [BD] // [MN] ve |KL| = |MN| = <img
+                    src="images/geometri/dortgen/dort16.gif"
+                    alt="derscalisiyorum.com.tr"/> [LM] // [AC] // [KN] ve |LM| = |KN| =<img
+                    src="images/geometri/dortgen/dort17.gif"
+                    alt="derscalisiyorum.com.tr"/></td>
+        <td width="34%"><img
+                src="images/geometri/dortgen/dort18.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<ul>
+    <li>Köşegenleri dik kesişen dörtgenlerde, kenarların orta noktaları birleştirilerek elde edilen
+        dörtgen, dikdörtgendir.
+    </li>
+</ul>
+<table id="table45" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="100%"><img
+                src="images/geometri/dortgen/dort19.gif"
+                alt="derscalisiyorum.com.tr"/></td>
+    </tr>
+    </tbody>
+</table>
+<table id="" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="100%">[AC] ^ [BD] ve K, L, M, N kenarların orta noktaları ise KLMN
+            dikdörtgendir.
+        </td>
+    </tr>
+    </tbody>
+</table>
+</html>

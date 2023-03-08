@@ -1,0 +1,467 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<p><strong>SES BiLGiSi</strong></p>
+<p>Her dilde olduğu gibi, dilimizde de sesler ünlü ve ünsüz olmak üzere iki grupta incelenir. Bir
+    sözcükte ünlüler arasında olduğu gibi ünsüzler arasında da bazı özellikler, hatta ünlülerle
+    ünsüzler arasında bazı özellikler vardır. Bunları belli başlıklar altında inceleyelim.<span
+            id="more-4224"></span></p>
+<p><strong>BÜYÜK ÜNLÜ UYUMU</strong></p>
+<p>Türkçe’de sekiz ünlü vardır. Bunlardan <strong>a, ı, o, u</strong> kalın, <strong>e, i, ö,
+    ü </strong>incedir. Bir sözcükte kalın ünlülerden sonra kalın, ince ünlülerden sonra ince
+    ünlülerin gelmesi kuralına büyük ünlü uyumu denir.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“öğretmen” sözcüğü, bütün ünlüleri ince olduğu için kurala uyar, “asker” sözcüğü “a” kalın “e”
+    ince ünlü olduğundan kurala uymaz.</p>
+<p>Üniversite sınavlarında bununla ilgili bir soru bugüne dek sorulmamıştır.</p>
+<p><strong>KÜÇÜK ÜNLÜ UYUMU</strong></p>
+<p>Bir sözcükte düz ünlüden sonra düz, yuvarlak ünlüden sonra düz – geniş veya dar – yuvarlak
+    ünlülerin gelmesi kuralıdır. Özetle bu kurala göre;</p>
+<table id="table31" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="45">a, ıe, i</td>
+        <td width="30">ŞŞ</td>
+        <td width="48">a, ıe, i</td>
+    </tr>
+    </tbody>
+</table>
+<p>a, ı, e, i ünlüleri birbirinden sonra gelebilir.</p>
+<p>o, ö, u, ü ünlülerinden sonra ise u, ü, a, e gelebilir.</p>
+<p>Bundan da soru çıkmadığından üzerinde fazla durmuyoruz.</p>
+<p><strong>ÜNSÜZ BENZEŞMESİ </strong></p>
+<p>Dilimizde ünsüzler sert ve yumuşak olmak üzere iki gruba ayrılır.</p>
+<p>Sert ünlüler <strong>“ç, f, t, h, s, k, p, ş”</strong> ünsüzleridir. Bunun dışında kalanlar ise
+    yumuşak ünsüzlerdir.</p>
+<p><strong>Bir sözcük sert bir ünsüzle bitiyor ve o sözcüğe ünsüzle başlayan bir ek geliyorsa, ekin
+    başındaki ünsüz sertleşir. Buna ünsüz benzeşmesi denir.</strong> Elbette bu benzeşme sert ve
+    yumuşak şekli olan seslerde söz konusudur. Bu özelliği dört seste görüyoruz;</p>
+<table id="table32" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td align="left" valign="top" width="27">p,¯</p>
+            <p>b</td>
+        <td align="left" valign="top" width="25">ç,¯</p>
+            <p>c</td>
+        <td align="left" valign="top" width="24">t,¯</p>
+            <p>d</td>
+        <td align="left" valign="top" width="40">k¯</p>
+            <p>ğ(g)</td>
+        <td valign="top" width="59">¾®¾®</td>
+        <td valign="top" width="162">Sert ünsüzlerYumuşak ünsüzler</td>
+    </tr>
+    </tbody>
+</table>
+<p><strong>Şimdi bu kuralı örneklendirelim:</strong></p>
+<p><strong>“Kitap”</strong> sözcüğünün sonundaki “p” sesi serttir. Bu sözcüğe biz “-de” hal ekini
+    getirirsek <strong>“kitapda”</strong> sözü oluşur. Bu durumda ekin başındaki “d” sesi yumuşak
+    olduğundan sözcükte ünsüz benzeşmesine aykırı bir durum görülür. Kurala uyulması için, “d” sesi
+    sertleşmelidir. Bunun serti ise, yukarıda göstermiştik, “t” dir. Dolayısıyla sözcük, <strong>“kitapta”</strong>
+    olacaktır.</p>
+<table id="table33" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="93">okul-danav-cı</p>
+            <p>bil-gin</p>
+            <p>al-dı</td>
+        <td width="38">®®</p>
+            <p>®</p>
+            <p>®</td>
+        <td width="165">okuldanavcı</p>
+            <p>bilgin</p>
+            <p>aldı</td>
+        <td width="95">ağaç-danocak-cı</p>
+            <p>seç-gin</p>
+            <p>kaç-dı</td>
+        <td width="36">®®</p>
+            <p>®</p>
+            <p>®</td>
+        <td width="223">ağaçtanocakçı</p>
+            <p>seçkin</p>
+            <p>kaçtı</td>
+    </tr>
+    </tbody>
+</table>
+<p>Yukarıdaki sözcüklerde eklerin sözcüğe nasıl uyduğu görülüyor. Birinci gruptaki sözcüklerde ek,
+    yumuşak ünsüzle biten sözcüklere geldiğinde değişmemiş, ancak ikinci gruptaki sert ünsüzlere
+    geldiği zaman sertleşmiştir.</p>
+<p>Bu durum sadece çekim eklerinde değil yapım eklerinde de geçerlidir.</p>
+<p>Ekler sayılara geldiğinde de aynı durum geçerlidir. Sayının sesleri nasılsa ek de öyle
+    olmalıdır.</p>
+<table id="table34" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="90">11′de8′den</td>
+        <td valign="top" width="137">5′te3′ten</td>
+    </tr>
+    </tbody>
+</table>
+<p>Özel isimlerde de aynı kural geçerlidir.</p>
+<table id="table35" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="56%">Samsun’danEmin’de</td>
+        <td width="44%">Sinop’tanYunus’ta</td>
+    </tr>
+    </tbody>
+</table>
+<p><strong>ÜNSÜZ YUMUŞAMASI</strong></p>
+<p>İki ünlü arasında kalan sert ünsüzler yumuşar. Buna “ünsüz değişimi” denir. Elbette bu özellik,
+    ancak yukarıda da söylediğimiz sert ve yumuşak şekli bulunan seslerde geçerlidir. Bunlar p, ç,
+    t, k sert sessizleridir. Örneğin; “ağaç” sözcüğüne -i hal ekini getirsek, sözcüğün sonundaki “ç”
+    sert sessizi yumuşayarak “c” olur; yani “ağacı” şeklinde yazılır.</p>
+<table id="table36" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="67">dolapçekiç</p>
+            <p>kanat</p>
+            <p>yemek</td>
+        <td valign="top" width="24">––</p>
+            <p>–</p>
+            <p>–</td>
+        <td valign="top" width="31">ae</p>
+            <p>ı</p>
+            <p>e</td>
+        <td valign="top" width="42">®®</p>
+            <p>®</p>
+            <p>®</td>
+        <td valign="top" width="84">dolabaçekice</p>
+            <p>kanadı</p>
+            <p>yemeğe</td>
+        <td valign="top" width="173">(dolaba baktı)(çekice uzandı)</p>
+            <p>(kanadı kırıldı)</p>
+            <p>(yemeğe gitti)</td>
+    </tr>
+    </tbody>
+</table>
+<p>Yukarıdaki örneklerde sert sessizlerin yumuşadığı görülüyor.</p>
+<p>Ancak bu kural her sözcükte geçerli değil.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Davranışları, doğruluğunun kanıtıdır.”</p>
+<p>cümlesinde altı çizili sözdeki “t” sert ünsüzü iki ünlü arasında kaldığı halde
+    yumuşamamıştır.</p>
+<p>Hangi sözcükte bu yumuşamanın olacağı hangisinde olmayacağı, belli bir kurala bağlanamaz. Hatta
+    tek heceli sözcüklerin çoğunda olmazken, bazılarında olabilir. Bunu sözcüğün günlük
+    kullanımlarını dikkate alarak anlayabilirsiniz.</p>
+<table id="table37" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="47">tekçok</td>
+        <td valign="top" width="27">––</td>
+        <td valign="top" width="30">iu</td>
+        <td valign="top" width="34">®®</td>
+        <td valign="top" width="56">tekiçoğu</td>
+        <td valign="top" width="260">(onların teki bile gelmedi)(çocukların çoğu buradaydı)</td>
+    </tr>
+    </tbody>
+</table>
+<p>görüldüğü gibi birincide değişim olmadığı halde ikincide olmuştur.</p>
+<p>Dilimize Arapçadan geçen ve son hecesindeki ünlünün uzun okunduğu kelimelerde ünsüz değişimi
+    yapılmaz.</p>
+<p>“Sınavda hukuku seçecekmiş.”</p>
+<p>cümlesindeki altı çizili söz buna örnektir.</p>
+<p>Bazı sözcüklerde ise ses iki ünlü arasında kalmamasına rağmen yumuşar.</p>
+<table id="table38" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="59">kalpart</p>
+            <p>renk</p>
+            <p>harç</td>
+        <td valign="top" width="31">––</p>
+            <p>–</p>
+            <p>–</td>
+        <td valign="top" width="31">iı</p>
+            <p>i</p>
+            <p>ı</td>
+        <td valign="top" width="42">®®</p>
+            <p>®</p>
+            <p>®</td>
+        <td valign="top" width="84">kalbiardı</p>
+            <p>rengi</p>
+            <p>harcı</td>
+        <td valign="top" width="173">(kalbi ağrıyor)(ardına bakma)</p>
+            <p>(rengi solmuş)</p>
+            <p>(harcı getirin)</td>
+    </tr>
+    </tbody>
+</table>
+<p>Görüldüğü gibi iki ünlü arasında kalmadığı halde “p, ç, t, k” sert ünsüzleri yumuşamıştır. Bazı
+    sözcüklerde ise bu seslerin yumuşamadığı görülür.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Sonunda işler sarpa sardı.”</p>
+<p>cümlesinde altı çizili sözcükte yumuşama olmamıştır.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Zonguldak’a yerleştiklerini duydum.”</p>
+<p>cümlesinde altı çizili sözdeki “k” sert sessizi yumuşamamış ancak biz onu okurken “Zonguldağa”
+    diye okumalıyız.</p>
+<p><strong>SES DÜŞMESİ</strong></p>
+<p>Sözcüğün aslında bulunduğu halde, ek geldiğinde bazı sesler düşebilir. Bu düşme hem ünlülerde hem
+    ünsüzlerde görülür.</p>
+<p><strong>Ünlü Düşmesi</strong></p>
+<p>Sözcüğün aslında bulunan bir ünlünün düşmesidir.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Yapraklar daha şimdiden sarardı.”</p>
+<p>cümlesinde sözcüğün aslı “sarı”dır; “-ar-” eki geldiğinde sözcüğün sonundaki “ı” düşmüştür.</p>
+<p>* * *</p>
+<p>Ünlü düşmesinin en yaygın kullanımı ise “Hece düşmesi” adıyla anılan kuraldır. Buna göre,
+    sözcüğün son hecesinde bulunan dar ünlüler, ünlüyle başlayan bir ek sözcüğe eklendiğinde düşer.
+    Bu özellik bazı organ isimlerinde, Arapçadan dilimize geçen bazı sözcüklerde, bazı Türkçe
+    fiillerde görülür.</p>
+<table id="table39" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="88">sab<strong>ı</strong>rak<strong>ı</strong>l</p>
+            <p>bur<strong>u</strong>n</p>
+            <p>gön<strong>ü</strong>l</p>
+            <p>sav<strong>u</strong>rmak</p>
+            <p>dev<strong>i</strong>rmek</p>
+            <p>kah<strong>ı</strong>r</td>
+        <td valign="top" width="31">––</p>
+            <p>–</p>
+            <p>–</p>
+            <p>®</p>
+            <p>®</p>
+            <p>–</td>
+        <td valign="top" width="91">ıı</p>
+            <p>u</p>
+            <p>üm</p>
+            <p>savrulmak</p>
+            <p>devrilmek</p>
+            <p>olmak</td>
+        <td valign="top" width="42">®®</p>
+            <p>®</p>
+            <p>®</p>
+            <p>®</td>
+        <td valign="top" width="282">sabrı (sabrım tükendi)aklı (aklımı seveyim)</p>
+            <p>burnu (burnu kanıyor)</p>
+            <p>gönlüm (gönlümü çaldı)</p>
+            <p>savrulmak (savruldu çiçekler)</p>
+            <p>devrilmek (devrildi ağaçlar)</p>
+            <p>kahrolmak (kahrolsun)</td>
+    </tr>
+    </tbody>
+</table>
+<p><strong>Örneğin;</strong></p>
+<p>“Kahvaltıya hazırlanın.”</p>
+<p>cümlesinde altı çizili söz “kahve altı” sözlerinin birleşmesinden oluşmuş, bu sırada “kahve”
+    sözündeki “e” düşmüştür.</p>
+<p><strong>Ünsüz Düşmesi</strong></p>
+<p>Sözcüğün aslında bulunan ünsüzün, ek geldiğinde düşmesidir.</p>
+<table id="table40" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="63" height="60">küçük¯</p>
+            <p>büyük</p>
+            <p>¯</td>
+        <td valign="top" width="23" height="60">––</td>
+        <td valign="top" width="50" height="60">cükcek</td>
+        <td valign="top" width="40" height="60">®®</td>
+        <td valign="top" width="125" height="60">küçücükbüyücek</td>
+    </tr>
+    </tbody>
+</table>
+<p>örneklerinde sözcüklerin sonlarında bulunan “k” ünsüzlerinin düştüğü görülüyor.</p>
+<p><strong>SES TÜREMESİ</strong></p>
+<p>Sözcüğün aslında olmadığı halde, ek geldiğinde ortaya çıkan seslerdir.</p>
+<table id="table41" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="62">genç¯</p>
+            <p>bir</p>
+            <p>¯</p>
+            <p>az</p>
+            <p>¯</td>
+        <td valign="top" width="23">––</p>
+            <p>–</td>
+        <td valign="top" width="50">cikcik</p>
+            <p>cık</td>
+        <td valign="top" width="40">®®</p>
+            <p>®</td>
+        <td valign="top" width="125">gencecikbiricik</p>
+            <p>azıcık</td>
+    </tr>
+    </tbody>
+</table>
+<p>örneklerinde ünlü türemesi görülmektedir. Buna benzer bazı sözcükler de vardır. Bunlar “öpücük,
+    gülücük” gibi fiilden türeyen sözcüklerdir. Ancak “-cik”” eki isim soylu sözcüklerden yeni
+    sözcükler türetebilir. Fiilden türeyen bu sözcüklerin “öpüşcük, gülüş – cük” gibi sözcüklerden
+    “ş” sesinin düşmesiyle oluştuğunu söylemek daha mantıklı olacaktır. Dolayısıyla bir ünlü
+    türemesinin olduğunu söylemek bu sözcükler için pek doğru olmaz.</p>
+<p>Bazen sözcüklerde ünsüz de türeyebilir. Arapçadan dilimize geçen his, af, zan gibi sözcükler ek
+    ya da yardımcı fiil aldıklarında, sonlarındaki sessizler çiftleşir.</p>
+<table id="table42" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="65">hisaf</p>
+            <p>zan</td>
+        <td valign="top" width="37">––</p>
+            <p>–</td>
+        <td valign="top" width="90">etmeketmek</p>
+            <p>etmek</td>
+        <td valign="top" width="50">®®</p>
+            <p>®</td>
+        <td valign="top" width="135">hissetmekaffetmek</p>
+            <p>zannetmek</td>
+    </tr>
+    </tbody>
+</table>
+<p>örneklerinde bu görülüyor. Burada aslında bir ses türemesinden çok sözcüğün Arapçadaki aslında
+    bulunan şeklinin ortaya çıktığını söyleyebiliriz. Ancak sözcükler Türkçe kurallara göre
+    incelendiğinden, bu, türeme olarak alınagelmiştir.</p>
+<p><strong>ÜNLÜ DARALMASI</strong></p>
+<p>Sözcüklerin sonlarında bulunan geniş ünlüler (a, e) özellikle “-yor” ekinin darlaştırıcı
+    özelliğinden dolayı daralarak, ı, i, u, ü dar ünlülerine dönüşür. Buna ünlü daralması denir.</p>
+<table id="table43" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="106">bekl = e-kalm = a-</p>
+            <p>özl = e-</p>
+            <p>soll = a-</td>
+        <td valign="top" width="30">––</p>
+            <p>–</p>
+            <p>–</td>
+        <td valign="top" width="64">yoryor</p>
+            <p>yor</p>
+            <p>yor</td>
+        <td valign="top" width="47">®®</p>
+            <p>®</p>
+            <p>®</td>
+        <td valign="top" width="128">bekli=yorkal=mıyor</p>
+            <p>özlü=yor</p>
+            <p>sollu=yor</td>
+    </tr>
+    </tbody>
+</table>
+<p>örneklerinde bu daralma görülmektedir. “-yor” ekin den başka bir ekin ya da sesin darlaştırma
+    özelliği yoktur. Ancak tek heceli olan “de- , ye-” fiilleri, kendinden sonra gelen “y” sesinden
+    dolayı darlaşabilir.</p>
+<table id="table44" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td width="6%">dede</p>
+            <p>de</td>
+        <td width="4%">––</p>
+            <p>–</td>
+        <td width="9%">yorerek</p>
+            <p>en</td>
+        <td width="7%">®®</p>
+            <p>®</td>
+        <td width="21%">diyordiyerek</p>
+            <p>diyen</td>
+        <td width="6%">yeye</p>
+            <p>ye</td>
+        <td width="5%">––</p>
+            <p>–</td>
+        <td width="5%">®®</p>
+            <p>®</td>
+        <td width="37%">yiyoryiyerek</p>
+            <p>yiyen</td>
+    </tr>
+    </tbody>
+</table>
+<p>Ancak bazen darlaşma olmayabilir.</p>
+<table id="table45" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="43" height="16">de</td>
+        <td valign="top" width="29" height="16">–</td>
+        <td valign="top" width="65" height="16">ince</td>
+        <td valign="top" width="53" height="16">®</td>
+        <td valign="top" width="117" height="16">deyince</td>
+    </tr>
+    </tbody>
+</table>
+<p><strong>KAYNAŞTIRMA HARFLERİ (KORUYUCU ÜNSÜZLER)</strong></p>
+<p>Türkçe kurallara göre bir sözcükte iki ünlü yan yana gelmez. Araya kaynaştırma harfi girer.
+    Türkçe’de dört tane kaynaştırma harfi vardır: ş, s, n, y.</p>
+<p>Bunların her birinin özel kullanım yerleri vardır.</p>
+<p><strong>ş kaynaştırma harfi:</strong></p>
+<ul>
+    <li>Üleştirme sayı sıfatlarında kullanılır.</li>
+</ul>
+<blockquote><p>İki-ş-er, altı-ş-ar, yedi-ş-er</p></blockquote>
+<p><strong>s kaynaştırma harfi</strong></p>
+<ul>
+    <li>Üçüncü tekil şahıs iyelik ekinden önce kullanılır.</li>
+</ul>
+<blockquote><p>Daha çok isim tamlamalarında tamlanan görevindeki sözcükte görülür.</p>
+    <p>Çocuğun oda-s-ı</p>
+    <p>Balığın koku-s-u</p>
+    <p>Ancak “su” ve “ne” kelimeleri bu kurala uymaz:</p>
+    <p>Yemeğin su-y-u yok.</p>
+    <p>Çocuğun ne-y-i kaybolmuş.</p>
+    <p>örneklerinde olduğu gibi</p></blockquote>
+<p><strong>n kaynaştırma harfi:</strong></p>
+<ul>
+    <li>Zamirlerden sonra ek geldiğinde kullanılır.</li>
+</ul>
+<blockquote><p>O-n-a haber verin</p>
+    <p>Bu-n-u biliyoruz.</p></blockquote>
+<ul>
+    <li>İyelik eklerinden sonra hal eki gelirse kullanılır.</li>
+</ul>
+<blockquote><p>Çocuğun kitabı-n-ı almışlar.</p>
+    <p>Fakirin evi-n-i yıkmışlar.</p></blockquote>
+<ul>
+    <li>İlgi eklerinden önce kullanılır.</li>
+</ul>
+<blockquote><p>Soba-n-ın kapağı düşmüş.</p>
+    <p>Sene-n-in sonu geldi.</p>
+    <p>Kasaba-n-ın sıcağı çok bunaltıcı.</p></blockquote>
+<p><strong>y kaynaştırma harfi:</strong></p>
+<blockquote><p>Yukarıdaki kuralların dışında olan her yerde “y” kaynaştırma harfi kullanılır.</p>
+    <p>Oda-y-a girdim.</p>
+    <p>Üşü-y-erek uyandım.</p>
+    <p>Ağla-y-anı tanıyorum.</p></blockquote>
+<p>Kaynaştırma harfleri aslında iki ünlü arasında kullanılır. Ancak bazen iki ünlü arasına gelmediği
+    halde de kullanıldığı olur.</p>
+<p>Özellikle “ile, idi, imiş, ise” gibi sözcükler ünlüyle biten bir sözcüğe eklendiğinde baştaki “i”
+    ünlüsü düşer ve yerine “y” kaynaştırma harfi gelir.</p>
+<table id="table46" border="0" cellspacing="0" cellpadding="0">
+    <tbody>
+    <tr>
+        <td valign="top" width="72">silgisoba</p>
+            <p>hasta</p>
+            <p>kısa</p>
+            <p>bitti</td>
+        <td valign="top" width="30">––</p>
+            <p>–</p>
+            <p>–</p>
+            <p>–</td>
+        <td valign="top" width="62">ileile</p>
+            <p>idi</p>
+            <p>imiş</p>
+            <p>ise</td>
+        <td valign="top" width="43">®®</p>
+            <p>®</p>
+            <p>®</p>
+            <p>®</td>
+        <td valign="top" width="158">silgiylesobayla</p>
+            <p>hastaydı</p>
+            <p>kısaymış</p>
+            <p>bittiyse</td>
+    </tr>
+    </tbody>
+</table>
+<p>Örneklerinde görüldüğü gibi “y” kaynaştırma harfi iki ünlü arasında değildir.</p>
+<p>Bu durum “n” kaynaştırma harfinde de görülebilir. Zamirlerden sonra hal eki geldiğinde gerekmese
+    de bu harf bulunur.</p>
+<p><strong>Örneğin;</strong></p>
+<p>“Ondan bunu hiç beklemezdim.”</p>
+<p>cümlesinde altı çizili sözcükte “n” kaynaştırma harfi iki ünlü arasında değildir.</p>
+<p><strong>ULAMA</strong></p>
+<p>Sessizle biten sözcükten sonra sesliyle başlayan bir sözcük gelirse, iki sözcük birbirine
+    bağlanarak okunur. Buna <strong>ulama</strong> denir.</p>
+<p>Bakkaldan ekmek aldım.</p>
+<p>cümlesinde iki yerde ulama yapılmıştır. Sözcükler arasında herhangi bir noktalama işareti varsa
+    ulama yapılmaz.</p>
+
+</html>

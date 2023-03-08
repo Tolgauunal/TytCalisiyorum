@@ -1,0 +1,70 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h2>Toprak Çeşitleri</h2>
+<p>Oluşum şekilleri ve oluşum yerlerine göre topraklar üç gruba ayrılır.</p>
+<h3>A. Zonal Topraklar</h3>
+<p>Herhangi bir bölgede etkili olan iklim ve bitki örtüsü şartlarına göre oluşmuş
+    ve normal profil (A, B, C horizonları) özelliğine sahip topraklardır.</p>
+<p><strong>Laterit Topraklar :</strong> Dönenceler arasındaki sıcak – nemli iklim bölgesinin
+    toprağıdır. Rengi kiremit kırmızısıdır. Bitki örtüsü gür olmasına rağmen aşırı yıkanma ve
+    humusun büyük bir kısmının tüketilmesinden dolayı bu topraklar humus
+    bakımından fakirdir.</p>
+<p><strong>Kırmızı Topraklar (Terra–rossa) :</strong> Akdeniz iklim bölgesinde kalkerler üzerinde
+    oluşan topraklardır. Bünyesinde demir oksit oranı fazla olduğundan renkleri kırmızıdır.</p>
+<p><strong>Kahverengi Orman Toprakları:</strong> Ilıman okyanus iklim kuşağının humusça zengin
+    toprağıdır.</p>
+<p><strong>Podzol Topraklar :</strong> Soğuk nemli bölgelerin iğne yapraklı orman sahasında oluşan
+    topraklardır. Yıkanma fazla olduğundan mineral bakımından fakirdir.</p>
+<p><strong>Tundra Toprakları :</strong> Tundra iklim bölgesinin topraklarıdır. Kışın donmuş olan
+    toprak, yazın çözülerek bataklık halini alır. Tarıma elverişli değildir.</p>
+<p><strong>Çöl Toprakları :</strong> Çöllerde oluşan topraklardır. Yağış azlığı ve şiddetli
+    buharlaşma nedeniyle kireç, toprak yüzeyinde birikerek sert bir tabaka meydana getirir.</p>
+<p><strong>Kahverengi ve Kestane Renkli Bozkır Toprakları :</strong> Orta kuşağın yarı kurak
+    alanlarında bozkırların görüldüğü yerlerde oluşan topraklardır. Yağış azlığı nedeniyle kireç
+    daha derine taşınamayıp A horizonunun alt kısmında birikmiştir.</p>
+<p><strong>Çernezyom Topraklar (Kara topraklar) :</strong> Karasal iklimin yarı nemli sahalarında,
+    çayır bitki örtüsü altında oluşan topraklardır. Zonal topraklar için de en verimli olanıdır.</p>
+<h3>B. İntrazonal Topraklar</h3>
+<p>Bu toprakların oluşumunda yerşekilleri ve ana kayanın cinsi etkilidir. Bu nedenle topraktaki
+    bütün horizonlar gelişmemiş olup toprak genellikle A, C horizonludur.<br/>
+    <br/>
+    <strong>Halomorfik Topraklar :</strong> Bu topraklar kurak ve yarı kurak bölgelerde, suyla
+    eriyik haldeki çeşitli tuz ve karbonatların suyun buharlaşmasıyla toprağın yüzeyinde veya
+    çeşitli derinlikler de birikmesiyle oluşmaktadır. Bunlar &#8220;tuzlu topraklar&#8221; ve
+    &#8220;tuzlu–sodik (alkali) topraklar&#8221; olarak iki gruba ayrılır.
+</p>
+<p><strong>Hidromorfik Topraklar :</strong> Bataklık alanlarında veya taban suyu seviyesinin yüksek
+    olduğu sahalarda oluşan topraklardır</p>
+<p><strong>Kalsimorfik Topraklar :</strong> Yumuşak kireç taşı ve killi kireç taşı (marn) depoları
+    üzerinde oluşan topraklardır. Kireç yönünden zengindir. Bu topraklar ikiye ayrılır.</p>
+<p><strong>1. Vertisoller :</strong> Eski göl tabanlarındaki killi ve kireçli depolar üzerinde
+    oluşan topraklardır.</p>
+<p><strong>2. Rendzinalar :</strong> Yumuşak kireç taşları üzerinde oluşan bu topraklar, genellikle
+    koyu renkli olup alt kısmında kireç birikimi mevcuttur.</p>
+<h3>C. Azonal Topraklar</h3>
+<p>Dış kuvvetler tarafından taşınan malzemelerden oluşan topraklardır.
+    Bu toprakların horizonları yoktur.</p>
+<p><strong>Alüvyal Topraklar :</strong> Akarsuların taşıyıp biriktirdikleri malzemelerden oluşan
+    topraklardır. Verimli olan bu topraklar her türlü ürün için oldukça elverişlidir.</p>
+<p><strong>Kolüvyal Topraklar :</strong> Dağlık sahalarda eğimli yamaçlar boyunca ufalanan
+    malzemenin dağların eteklerinde birikmesi ile oluşan topraklardır. Özellikle bitki örtüsünden
+    yoksun yamaçlarda çözülen malzeme, yağmur ve sel suları tarafından taşınarak etekte
+    biriktirilir.</p>
+<p>Yamaçlarda aşınma devamlı olursa ince malzemeler sürekli taşındığından geriye sadece iri malzeme
+    kalır ve bu iri malzemenin hakim olduğu taşlı (litosol) topraklar meydana gelir.</p>
+<p><strong>Regosoller :</strong> Volkanlardan çıkan kum boyutundaki malzeme ve akarsuların
+    biriktirdiği depolar veya yamaç eteklerindeki kumlu kolüvyal depolar üzerinde oluşan
+    topraklardır.</p>
+<p><strong>Lösler :</strong> Rüzgarların taşıyıp biriktirdiği malzemelerden oluşan topraklardır.</p>
+<p><strong>Morenler :</strong> Buzulların taşıyıp biriktirdiği malzemelerden oluşan topraklardır.
+</p>
+</html>

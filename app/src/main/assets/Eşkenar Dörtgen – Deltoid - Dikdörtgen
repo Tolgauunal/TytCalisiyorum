@@ -1,0 +1,116 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+<h3><a name="6"></a><span style="color: #000080">Eşkenar Dörtgen ve Özellikleri &#8211; Eşkenar Dörtgenin Alanı</span>
+</h3>
+<p>Kenar uzunlukları birbirine eşit olan paralelkenara <strong>eşkenar dörtgen</strong> denir.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-123931"
+        src="images/geometri/es/es1.png" alt=""
+        width="267" height="233"/></p>
+<p><img loading="lazy" class="alignnone wp-image-123908"
+        src="images/geometri/es/es22.png" alt=""
+        width="144" height="155"/></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123940"
+        src="images/geometri/es/es2.png" alt=""
+        width="300" height="251"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>ABCD bir eşkenar dörtgen</p>
+<p>Köşegenleri açıortaydır, köşegenleri birbirini ortalar, köşegenleri dik kesişir. Paralelkenarın
+    bütün özelliklerini taşır.</p>
+<p><span style="color: #000080"><strong>Eşkenar Dörtgenin Alanı</strong></span></p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123944"
+        src="images/geometri/es/es3.png" alt=""
+        width="300" height="265"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>ABCD eşkenar dörtgen</p>
+<p>|AD| = |DC|=a br</p>
+<p>|DE| = |DF|=h br</p>
+<p>Alan(ABCD)= a.h</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123945"
+        src="images/geometri/es/es4.png" alt=""
+        width="300" height="261"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>ABCD bir eşkenar dörtgen</p>
+<p>[AC] ve[DB] köşegen</p>
+<p>[AC] ⊥ [DB]</p>
+<p>|BD|=e</p>
+<p>|AC|=f</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-123947"
+        src="images/geometri/es/es5.png" alt=""
+        width="173" height="51"/></p>
+<h4><span style="color: #000080"><a name="7"></a>Dikdörtgen ve Özellikleri &#8211; Dikdörtgenin Alanı</span><a
+        name="7"></a></h4>
+<p>Karşılıklı kenarları birbirine eşit ve açıları 90º olan dörtgenlere<strong> dikdörtgen</strong>
+    denir.</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123952"
+        src="images/geometri/es/es6.png" alt=""
+        width="300" height="181"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>ABCD dikdörtgen</p>
+<p>|AB|=|DC|=b br</p>
+<p>|AD|=|BC|= a br</p>
+<p>Ç(ABCD)= 2(a+b)</p>
+<p>A(ABCD)=a.b</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123953"
+        src="images/geometri/es/es7.png" alt=""
+        width="300" height="180"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>ABCD dikdörtgen [AC] ve[BD] köşegen</p>
+<p>Köşegenler birbirini ortalar.<br/>
+    Köşegen uzunlukları eşittir.</p>
+<p>|AC|=|BD|</p>
+<h3><a name="8"></a><span style="color: #000080">Kare ve Özellikleri &#8211; Karenin Alanı</span>
+</h3>
+<p>Dört kenarı ve iç açılarının her biri 90º olan dörtgene <strong>kare</strong> denir.</p>
+<p>ABCD kare</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-123966"
+        src="images/geometri/es/es8.png" alt=""
+        width="230" height="217"/></p>
+<p>|AB|=|BC|=|AD|=|DC|=a birim</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123970"
+        src="images/geometri/es/es9.png" alt=""
+        width="300" height="34"
+        sizes="(max-width: 300px) 100vw, 300px"/></p>
+<p>Ç(ABCD)=4a</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-123967"
+        src="images/geometri/es/es10.png" alt=""
+        width="209" height="191"/></p>
+<p>ABCD kare</p>
+<p>[AC] ve [BD] köşegen</p>
+<p>Köşegenler birbirini dik ortalar.<br/>
+    Köşegenler birbirine eşittir.<br/>
+    Köşegenler açıortaydır.</p>
+<h3><a name="9"></a><span style="color: #000080">Deltoid ve Özellikleri</span></h3>
+<p>İki kizkenar üçgenin tabanlarının birleşmesiyle oluşan dörtgene <strong>deltoid</strong> denir.
+</p>
+<p>ABCD deltoid</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123977"
+        src="images/geometri/es/es11.png" alt=""
+        width="220" height="300"
+        sizes="(max-width: 220px) 100vw, 220px"/></p>
+<p>ADC ve ABC ikizkenar üçgen<br/>
+    |AD|=|DC|=a<br/>
+    |AB|=|DC|=b</p>
+<p>Ç(ABCD)=2(a+b)</p>
+<p><img loading="lazy" class="alignnone size-medium wp-image-123976"
+        src="images/geometri/es/es12.png" alt=""
+        width="262" height="300"
+        sizes="(max-width: 262px) 100vw, 262px"/></p>
+<p>ABCD deltoid</p>
+<p>[AC] ve [BD] köşegen</p>
+<p>[AC] ⊥ [BD]</p>
+<p>|AE|=|CE|</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-123980"
+        src="images/geometri/es/es13.png" alt=""
+        width="142" height="45"/></p>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</html>

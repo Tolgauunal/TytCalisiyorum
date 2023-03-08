@@ -1,0 +1,106 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    </style>
+</head>
+<h1><strong>KÖKLÜ İFADELER</strong></h1>
+<p><strong><span style="font-size: medium;"> A. TANIM</span></strong></p>
+<p>n, 1 den büyük bir sayma sayısı olmak üzere,</p>
+<p>x<sup>n</sup> = a denklemini sağlayan x sayısına a nın n yinci dereceden<strong> kökü</strong>
+    denir.</p>
+<p><img src="images/matematik/koklusayilar/koklu1.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<h3><strong><span style="font-size: medium;">B. KÖKLÜ İFADELERİN ÖZELİKLERİ</span></strong></h3>
+<p>1) n.tek ise, <img
+        src="images/matematik/koklusayilar/koklu2.gif"
+        alt="derscalisiyorum.com.tr"/> daima reeldir</p>
+<p><strong> 2)</strong> n çift ve a &lt; 0 ise, <img
+        src="images/matematik/koklusayilar/koklu2.gif"
+        alt="derscalisiyorum.com.tr"/> reel sayı belirtmez.</p>
+<p><strong> 3)</strong> a <span style="font-family: Symbol;">³</span> 0 ise, <img
+        src="images/matematik/koklusayilar/koklu2.gif"
+        alt="derscalisiyorum.com.tr"/> daima reeldir.</p>
+<p><strong> 4)</strong> a <span style="font-family: Symbol;">³</span> 0 ise, <img
+        src="images/matematik/koklusayilar/koklu3.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><strong> 5)</strong> n tek ise, <img
+        src="images/matematik/koklusayilar/koklu4.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><strong> 6)</strong> n çift ise, <img
+        src="images/matematik/koklusayilar/koklu6.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><strong>7)</strong></p>
+<p><img src="images/matematik/koklusayilar/koklu8.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><strong>8 )</strong> n çift ve b ile c aynı işaretli olmak üzere,<br/>
+    <img src="images/matematik/koklusayilar/koklu9.gif"
+         alt="derscalisiyorum.com.tr"/></p>
+<p><strong> 9)</strong> n tek ise,</p>
+<p><img src="images/matematik/koklusayilar/koklu9.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p>&nbsp;</p>
+<table id="table1" border="5" width="89%">
+    <tbody>
+    <tr>
+        <td width="73%">Yukarıdaki son iki özelikte a, ardışık iki pozitif tam sayının çarpımı ise;
+            <strong>5.</strong> nin cevabı bu sayıların büyüğü, <strong>6.</strong> nın cevabı bu
+            sayıların küçüğüdür.
+        </td>
+    </tr>
+    </tbody>
+</table>
+<p>a, pozitif reel (gerçel) sayı olmak üzere,<br/>
+    <img src="images/matematik/koklusayilar/koklu10.gif"
+         alt="derscalisiyorum.com.tr"/></p>
+<h3><strong><span style="font-size: medium;">KÖKLÜ İFADELERDE SIRALAMA<br/>
+</span></strong></h3>
+<p>Kök dereceleri eşit olan (ya da eşitlenen) pozitif sayılarda, kök içindeki sayıların büyüklüğüne
+    göre sıralama yapılır.</p>
+<p><img src="images/matematik/koklusayilar/koklu11.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p>10)<img src="images/matematik/koklusayilar/koklu12.gif"
+           alt="derscalisiyorum.com.tr"/></p>
+<p><strong>11)</strong> k pozitif tam sayı ve a pozitif gerçel sayı olmak üzere;<br/>
+    <img src="images/matematik/koklusayilar/koklu13.gif"
+         alt="derscalisiyorum.com.tr"/></p>
+<p><strong>12) </strong>(a <span style="font-family: Symbol;">¹</span> 0 ve b <span
+        style="font-family: Symbol;">¹</span> 0) ise <img
+        src="images/matematik/koklusayilar/koklu20.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<h3><strong><span style="font-size: medium;">KÖKLÜ İFADELERDE YAPILAN İŞLEMLER<br/>
+</span></strong></h3>
+<p>Kök dereceleri birbirine eşit ve kök içindeki sayılar da birbirine eşit olan ifadelerin kat
+    sayıları toplanır ya da çıkarılır. Bulunan sonuç köklü ifadenin kat sayısı olur.</p>
+<p><strong>1. Toplama &#8211; Çıkarma İşlemi</strong></p>
+<p><img src="images/matematik/koklusayilar/koklu14.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><strong>2. Çarpma İşlemi<br/>
+</strong>n ve m, 1 den büyük tek sayı ya da a ve b negatif <span
+        style="text-decoration: underline;">olmamak</span> üzere,</p>
+<p><img src="images/matematik/koklusayilar/koklu16.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><strong>3. Bölme İşlemi<br/>
+</strong>Uygun koşullarda,</p>
+<p><img src="images/matematik/koklusayilar/koklu17.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><strong>4. Paydayı Kökten Kurtarma<br/>
+</strong>Uygun koşullarda,</p>
+<p><img src="images/matematik/koklusayilar/koklu18.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<p><a href="images/matematik/koklusayilar/eksik21.gif"><img
+        loading="lazy" title="256[1]"
+        src="images/matematik/koklusayilar/eksik21.gif" alt=""
+        width="392" height="208"/></a></p>
+<h3><strong><span style="font-size: medium;">İÇ İÇE KÖKLER</span></strong></h3>
+<p><img src="images/matematik/koklusayilar/koklu21.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+<h3><span style="font-size: medium;">SONSUZ KÖKLER</span></h3>
+<p><img src="images/matematik/koklusayilar/koklu21gy.gif"
+        alt="derscalisiyorum.com.tr"/></p>
+</html>

@@ -1,0 +1,240 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    </style>
+</head>
+
+<p>
+<h1 style="margin: 20px 0px 10px 5px; font-size: 25px; font-family: Helvetica, Arial, sans-serif; color: rgb(53, 152, 220);">
+    Yamuk</h1>
+<div id="adMapper31pix"
+     style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; width: 0px; height: 0px; border-radius: 0px !important;"></div>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Alt ve üst kenarları birbirine paralel olan dörtgenlere yamuk denir. Yamuk özel dörtgenlerden
+    biridir. Şekline baktığınız zaman sıradan bir dörtgen gibi görünür. Yamuk ile sıradan bir
+    dörtgenin farkı yamuğun iki kenarının paralel olmasıdır.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/yamuk/yamuk1.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Şekilde ABCD yamuğu verilmiştir. [AB] // [DC] kenarlarının paralellik durumu dörtgeni yamuk
+    yapmaktadır. Paralelliğin sonucu olarak x + y = 180° eşitliği vardır.</p>
+<h2 style="font-family: Helvetica, Arial, sans-serif; color: rgb(40, 183, 121); margin-top: 20px; margin-bottom: 10px; font-size: 21px; margin-left: 5px;">
+    Yamuk Özellikleri</h2>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yamuk özellikleri bilinirse yamuk özelliği taşıyan geometrik şekillere daha doğru bir yaklaşım
+    sergilenebilir. Yamuğun en önemli özelliği iki kenarın paralel olmasıdır.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Soru: Her paralelkenar bir yamuk mudur?</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Cevap: Paralelkenarın kenarları paralel olduğuna göre elbette yamuktur. Diğer iki kenarın da
+    paralel olması bu durumu değiştirmez. Paralelkenar, eşkenar dörtgen, dikdörtgen, kare gibi
+    çokgenlerin hepsi yamuk olma özelliğini de taşırlar aynı zamanda.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <ins class="adsbygoogle" data-ad-layout="in-article" data-ad-format="fluid"
+         data-ad-client="ca-pub-2929596510412371" data-ad-slot="2654477956"
+         data-adsbygoogle-status="done" style="display: block; text-align: center; height: 0px;">
+        <ins id="aswift_2_expand"
+             style="display: inline-table; border: none; height: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; width: 1200px; background-color: transparent;">
+            <ins id="aswift_2_anchor"
+                 style="display: block; border: none; height: 0px; margin: 0px; padding: 0px; position: relative; visibility: visible; width: 1200px; background-color: transparent; overflow: hidden; opacity: 0;">
+                <iframe width="1200" height="200" frameborder="0" marginwidth="0" marginheight="0"
+                        vspace="0" hspace="0" allowtransparency="true" scrolling="no"
+                        allowfullscreen="true" id="aswift_2" name="aswift_2"
+                        style="max-width: 100%; left: 0px; position: absolute; top: 0px; border-width: 0px; border-style: initial; width: 1200px; height: 200px;"></iframe>
+            </ins>
+        </ins>
+    </ins>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;"></p>
+<h3 style="font-family: Helvetica, Arial, sans-serif; color: rgb(204, 153, 51); margin-top: 20px; margin-bottom: 10px; font-size: 19px; margin-left: 5px;">
+    Yamukta Açılar</h3>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yamukla ilgili en önemli durum paralelliktir. Paralelliğin sonucu olarak da paralel açılar
+    bütünlerdir. Bu konuda açı ile ilgili karşımıza çıkan durumların geneli bunla ilgidir. Şimdi
+    yamukta açılar ile ilgili bir örnek yapalım ve paralelliği nasıl kullanacağımızı görelim.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/yamuk/yamuk2.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <u>Soru</u>: Yukarıdaki şekilde yamuk içerisinde bir üçgen verilmiştir. Aynı zamanda C açısı A
+    açısının 2 katıdır. Buna göre x açısın kaç derece olduğunu bulunuz.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <u>Çözüm</u>: Yamukta paralellikten dolayı iç ters açı durumları oluşmuştur. Bu nedenle x
+    açısını aynı şekilde aşağı yazabiliriz.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/yamuk/yamuk3.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yine paralellikten dolayı D ve A açıları bütünler açılar olacaktır. D açısı 130 derece olduğuna
+    göre A açısı 50 derece olacaktır. C açısı ise A açısının 2 katı olduğundan 100 derece
+    olacaktır.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Sonuçta ortaya çıkan üçgende 100 + 2x = 180 eşitliği kurulur. Buradan da x = 40° bulunur.</p>
+<h3 style="font-family: Helvetica, Arial, sans-serif; color: rgb(204, 153, 51); margin-top: 20px; margin-bottom: 10px; font-size: 19px; margin-left: 5px;">
+    Yamukta Orta Taban</h3>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yamukta paralel olan iki kenar çoğunlukla eşit uzunluk olmaz. İki kenarın da aritmetik
+    ortalamasına sahip&nbsp;<span style="font-weight: 700;">orta taban</span>&nbsp;dediğimiz hayali
+    bir çizgiye ihtiyaç duyarız. Orta taban uzunluğu aritmetik uzunluk olduğu için konumu da iki
+    kenarın ortasında olur.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/yamuk/yamuk4.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <span style="display: inline !important;">Yukarıdaki yamukta E ve F noktaları bulundukları kenarların orta noktalarıdır. Bu durumda [EF] doğru parçası orta taban olur. |EF| uzunluğu ise iki paralel kenarın aritmetik ortalamasına eşittir. Orta taban da haliyle bu kenarlara paralel olacaktır.</span><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    |AB| = a, |DC| = c ⇒ |EF| = (a + c) / 2 olur.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yamukta orta tabanı anlamak için çok basit bir örnek yapalım.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <span style="display: inline !important;">Örnek: Aşağıdaki yamukta kenarların orta noktaları birleştirilerek bir doğru parçası elde edilmiştir. Bu doğru parçasının uzunluğu nedir?</span><span
+        style="display: inline !important;"></span></p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <span style="display: inline !important;"><img
+            src="images/geometri/yamuk/yamuk5.jpg"><br></span>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Çözüm: Orta noktalar birleştirildiğine göre ortaya çıkan doğru parçası orta taban olacaktır. Bu
+    durumda uzunluk 11 ve 7 nin orta noktası olan 9 olacaktır.</p>
+<h1 style="margin: 20px 0px 10px 5px; font-family: Helvetica, Arial, sans-serif; color: rgb(53, 152, 220); font-size: 25px;">
+    Yamukta Köşegen ve Orta Taban İlişkisi</h1>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yamuk için en önemli özelliğin paralellik olduğunu söyledik. Orta taban ve köşegen çizilirse
+    paralellikten dolayı ortaya çıkan üçgenlerde benzerlik teori uygulayabiliriz. Orta taban iki
+    kenarı da iki eşit parçaya ayırdığı için benzerlik oranı da 1 e 2 olacaktır.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/yamuk/yamuk6.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yukarıdaki yamukta orta taban ve köşegenlerden biri çizilmiştir. Burada orta tabanda bölüne
+    parçaların yamuk tabanlarının oranının 1/2 olduğu görülmektedir.</p>
+<h3 style="margin-top: 20px; margin-bottom: 10px; font-family: Helvetica, Arial, sans-serif; color: rgb(204, 153, 51); font-size: 19px; margin-left: 5px;">
+    Yamukta Alan</h3>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yamuk ile ilgili diğer bir husus&nbsp;<span style="font-weight: 700;">yamukta alan</span>&nbsp;hesabıdır.
+    Yamukta alan ile orta taban arasında sıkı bir ilişki vardır. Elbette bütün dörtgenlerde olduğu
+    gibi burada da bir yüksekliğe ihtiyaç duyarız. Yükseklik olduktan sonra yamuğu iki üçgene ayırıp
+    alanı hesaplanabilir. Ancak iki kenarın ortalaması değerinde olan orta tabanı yükseklikle
+    çarptığımızda alanı doğrudan elde ederiz.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yamuğun alanı = Orta taban x yükseklik</p>
+<div id="adMapper35pix"
+     style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; width: 0px; height: 0px; border-radius: 0px !important;"></div>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yamuğun alanı ile ilgili edindiğimiz temel bilgiyi basit bir örnekte uygulayalım.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Örnek: Aşağıdaki yamukta paralel kenar uzunlukları 4 ve 6 birim olarak verilmiştir. Yüsekliği de
+    8 birim olarak verilen bu yamuğun alanı kaç birim<span
+        style="position: relative; font-size: 12.75px; line-height: 0; vertical-align: baseline; top: -0.5em;">2</span>&nbsp;olur?
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/yamuk/yamuk7.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Çözüm: Yamuğun alanı için elimizde yükseklik olduğuna göre orta tabana ihtiyacımız vardır. Orta
+    taban uzunluğu paralel iki kenarın aritmetik ortalamasıydı. Öyleyse orta taban = (4 + 6) / 2 = 5
+    olur.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yükseklik = 8 birim olduğundan, alan = 8.5 = 40 birim<span
+        style="position: relative; font-size: 12.75px; line-height: 0; vertical-align: baseline; top: -0.5em;">2</span>&nbsp;bulunur.
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Eğer orta tabanı hesaplamasaydık o zaman iki üçgene ayırıp alanı hesabı yapmamız gerekirdir. İki
+    üçgenin alanını da aynı yükseklik değeriyle hesaplayacaktık. Herhangi bir köşeden çizdiğimizde
+    taban uzunlukları 4 ve 6 birim olan, yüksekliği ise 8 birim olan iki üçgen elde edecektik.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Bu durumda alan = 4.8/2 + 6.8/2 = 40 bulunacaktı. Gördüğünüz gibi alan hesabını verilen duruma
+    göre orta taban ile ya da üçgenlere ayırarak yapabilmekteyiz.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Orta tabanla ilgili bilmemiz gereken bir özellikte yüksekliği de iki eş parçaya ayırmasıdır.
+    Bunu bir kural olarak değil mantık olarak bilmemiz gerekir.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/yamuk/yamuk8.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yukarıdaki şekilde orta taban uzunluğu 18 cm olarak verilen bir yamuğun orta taban ile kenar
+    arasındaki dikmenin uzunluğu da 5 cm olarak verilmiştir. Bu durumda yamuğun alanı kaç cm<span
+        style="position: relative; font-size: 12.75px; line-height: 0; vertical-align: baseline; top: -0.5em;">2</span>&nbsp;olur?
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yamuğun alanı sorulduğuna göre orta taban ve yüksekliğe ihtiyacımız vardır. Orta taban elimizde
+    veri olarak bulunuyor. Yükseklik de orta tabandan çizilmiş bir şekilde verilmiştir. Öyleyse
+    yamuğun yüksekliği orta tabandan indirilen dikmenin iki katı olacaktır. Yani yamuk yüksekliği 10
+    cm olacaktır.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Bu durumda yamuğun alanı = Yükseklik x orta taban = 10x18 = 180 cm<span
+        style="position: relative; font-size: 12.75px; line-height: 0; vertical-align: baseline; top: -0.5em;">2</span>&nbsp;bulunur.
+</p>
+<div></div>
+<h1 style="margin: 20px 0px 10px 5px; font-family: Helvetica, Arial, sans-serif; color: rgb(53, 152, 220); font-size: 25px;">
+    Yamukta Alan Oranları<br></h1>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yamukta köşegenleri çizersek ortaya çıkan şekillerde benzerlik oranıyla uyuşacak şekilde alan
+    oranları elde edilir.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yamukta köşegenler sonucunda ortaya çıkan dört üçgenden ikisinin alanı eşit olur. Diğer iki
+    üçgenin alanları ise benzerlik oranının karesiyle orantılıdır. Alan çarpım sonucu olarak ortaya
+    çıkan iki boyutlu bir özellik olduğundan değeri de benzerlik oranının karesiyle orantılı olmak
+    durumundadır.</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    <img src="images/geometri/yamuk/yamuk9.jpg"><br>
+</p>
+<p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+    Yukarıdaki şekilde yamukta alan oranları ile ilgili temel bilgiler verilmiştir. Aşağıdaki
+    şekilde ise alan oranları rakamlarla örneklendirilmiştir.</p>
+<div><img
+        src="images/geometri/yamuk/yamuk10.jpg"><br>
+</div>
+<div><h3
+        style="margin-top: 20px; margin-bottom: 10px; font-family: Helvetica, Arial, sans-serif; color: rgb(204, 153, 51); font-size: 19px; margin-left: 5px;">
+    İkizkenar Yamuk</h3>
+    <p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+        Yamuklar içerisinde&nbsp;<span style="font-weight: 700;">özel yamuk</span>&nbsp;diyebileceğimiz
+        örnekler vardır. Bunlardan ilki&nbsp;<span style="font-weight: 700;">ikizkenar yamuk</span>&nbsp;şeklidir.
+        İkizkenar yamuk paralel olmayan kenarların eşit uzunlukla olmasıyla ortaya çıkar. İkizkenar
+        yamukta eşit kenar eşit açı manasına da gelmektedir.</p>
+    <p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+        İkizkenar yamukta eşit kenarların tabanlarla yaptığı açılar eşit olur. Bu nedenle köşegenler
+        ile ortaya çıkan üçgenlerde de çeşitli eşitlikler ortaya çıkar.</p>
+    <p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+        <img src="images/geometri/yamuk/yamuk11.jpg"><br>
+    </p>
+    <p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+        Yukarıda bir ikizkenar yamuk üzerinde eşitlikler gösterilmiştir. Eşitlikten dolayı oluşan
+        simetri de dik çizilen d doğrusu ile gösterilmiştir. Bu doğru köşegenlerin kesim noktasından
+        geçer ve&nbsp;<span style="font-weight: 700;">yamuğun simetri eksenidir</span>.</p></div>
+<div></div>
+<h1 style="margin: 20px 0px 10px 5px; font-family: Helvetica, Arial, sans-serif; color: rgb(53, 152, 220); font-size: 25px;">
+    Dik Yamuk<br></h1>
+<div>
+    <p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+        Özel yamuklar içerisinde diğer bir geometrik şekil&nbsp;<span style="font-weight: 700;">dik yamuk</span>&nbsp;dediğimiz
+        şekildir. Burada kenarların birisi paralel kenarlara diktir. Kısmen yamuğa göre daha düzenli
+        bir şekil elde edilmiştir.</p>
+    <p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+        Dik yamuk sorularında uzunluk ve açı hesabı yaparken verilen dikmenin karşısında paralel bir
+        dikme çizmek çok önemlidir.</p>
+    <p style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; margin: -5px 2px 20px !important; border-radius: 0px !important; line-height: 25px !important; padding: 5px !important;">
+        Dik yamukta dik kenar aynı zamanda yamuğun yüksekliği manasına gelir. Doğal olarak alan
+        hesabı bu kenar ile yapılır.</p></div>
+<div><img
+        src="images/geometri/yamuk/yamuk12.jpg"><br>
+</div>
+<div><span
+        style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; display: inline !important;">Yukarıdaki şekilde en klasik haliyle bir dik yamuk örneği verilmiştir. Yamuğun kısa kenar c uzun kenarı da a birimdir. Yüksekliğin h birim olduğuna göre alan = h.(a + c)/2 formülü ile bulunacaktır.</span><br>
+</div>
+<div><span
+        style="color: rgb(51, 51, 51); font-family: Helvetica, Arial; font-size: 17px; display: inline !important;"><br></span>
+</div>
+</p>
+
+</html>

@@ -1,0 +1,93 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+    
+
+    </style>
+</head>
+<h2>İş – Güç – Enerji</h2>
+<h3><a name="1"></a>İş, Enerji ve Güç</h3>
+<h3>İş Nedir?</h3>
+<p>Günlük yaşantıda kullandığımız iş kavramıyla fiziksel anlamda iş kavramı farklıdır. Fiziksel
+    anlamda iş, bir cisme etki eden kuvvetin cismi kendi etki doğrultusunda yer değiştirmesini
+    sağlamasıdır. Kuvvet ile hareket doğrultusu birbirine dik ise fiziksel anlamda iş yapılmamış
+    olur. Yapılan işi matematiksel olarak hesaplamak istersek;</p>
+<p>İş= Kuvvet.Kuvvet doğrultusundaki yer değiştirme</p>
+<p><span style="font-size: 14pt"><strong> W=F.∆X</strong></span></p>
+<p><strong>&#8211;</strong>
+    İş skaler bir büyüklüktür,<br/>
+    <strong>&#8211;</strong> SI birim sisteminde İş birimi
+    joule’dür ve j ile gösterilir.<br/>
+    <strong>&#8211;</strong> 1joule= 1N.1m<br/>
+    <strong>&#8211;</strong>
+    Joule= N.m dir.</p>
+<h3>Güç Nedir?</h3>
+<p>Birim zamanda yapılan işe, güç denir (P=iş/zaman). İş formülünü, güç formülünün içinde açarsak
+    “kuvvet×yol/zaman” denklemini elde ederiz. Yani gücü “kuvvet×hız” olarak da söyleyebiliriz.
+    Birimi “newton×metre/saniye=Joule/s” olarak ifade edilir. SI (MKS) sisteminde “joule/s” kabul
+    görür.</p>
+<h3>Enerji Nedir?</h3>
+<p>Bir sistemin iş yapabilme yeteneğine enerji denir. Bir sistem enerjiye sahipse başka bir sisteme
+    etkiyip ona iş yaptırabilir. Doğada mekanik, ısı, ışık, kimyasal, nükleer, elektrik enerjisi
+    gibi çeşitli enerji biçimleri vardır.</p>
+<h2><a name="2"></a>Mekanik Enerji</h2>
+<p>Bir cismin hareketinden kaynaklanan kinetik enerjisi ile konumundan kaynaklanan potansiyel
+    enerjisinin toplamına <strong>mekanik enerji</strong> denir.
+</p>
+<p><strong>Mekanik Enerji= Kinetik enerji + Potansiyel enerji</strong><br/>
+    <strong>ME=KE+PE</strong></p>
+<h3>Kinetik Enerji</h3>
+<p>Hareket halindeki cisimlerin sahip oldukları enerji kinetik enerjidir. Hareket halindeki
+    arabaların, insanların, futbol topunun kinetik enerjileri vardır. Kinetik enerji cisimlerin
+    kütlesine ve hızına bağlıdır.</p>
+<p><span style="font-size: 14pt"><strong>½×m×v² </strong><span style="font-size: 12pt">formülü ile hesaplanır.</span></span>
+</p>
+<h3>Yer Çekimi Potansiyel Enerjisi</h3>
+<p>e yerçekimi potansiyel enerjiye denir. Bir cismin konumundan dolayı sahip olduğu yer çekimi
+    potansiyel enerjisi ağırlığına ve yerden yüksekliği ile doğru orantılıdır.</p>
+<p><strong>Yer Çekimi Potansiyel Enerjisi= Ağırlık×yerden yükseklik</strong></p>
+<p><strong><span style="font-size: 14pt">PE= G.h= m.g.h</span></strong></p>
+<h3>Esneklik Potansiyel Enerjisi </h3>
+<p>Esneklik potansiyel enerjisi, esnek cisimlerde şekil değişikliği oluşturulması sırasında
+    depolanan enerjidir. Denge halindeki bir yay x kadar sıkıştırılırsa; yayda enerji depolanır.
+    Depolanan enerji;</p>
+<p><span style="font-size: 14pt"><strong>E<sub>depolanan</sub>=½×k×x² </strong><span
+        style="font-size: 12pt">formülü ile hesaplanır.</span><span style="font-size: 12pt"><br/>
+</span></span></p>
+<h2><a name="3"></a>Enerjinin Korunumu ve Enerji Dönüşümleri
+</h2>
+<h3>Enerjinin Korunumu</h3>
+<p>Dünya üzerinde sürtünmenin olmadığı ortam yoktur. Sürtünme nedeniyle kinetik enerjinin bir kısmı
+    ısı enerjisi, ses enerjisi, ışık enerjisine dönüşür. Araçların fren yapması sırasında çıkan ses,
+    ışık ve ısıyı buna örnek verebiliriz. Enerjinin korunumu yasasına göre; enerji yoktan var,
+    vardan da yok olamaz ancak bir türden diğerine dönüşebilir. Dönüşüm sırasında toplam enerji
+    değişmez.</p>
+<h3>Besinlerden Kazandığımız Enerji ve Günlük Enerji İhtiyacımız
+</h3>
+<p>Canlılar fiziksel anlamda iş yapmasalar da enerji harcarlar. Büyümek, gelişmek, canlılıklarını
+    sürdürebilmek ve günlük aktivitelerini gerçekleştirebilmek için enerjiye ihtiyaçları vardır. Bu
+    enerjiyi besinlerden sağlanır, bir yetişkin insanın günde ortalama ihtiyacı olan enerji miktarı
+    için yaklaşık kadınlar için 1400cal-1600cal erkekler için 1800cal-2000cal olarak belirtilebilir.
+    Vücut dinlenme<br/>
+    halindeyken yaşamsal fonksiyonlarının devamı için gerekli enerjiye <strong>bazal metabolizma
+        enerjisi</strong>
+    denir.</p>
+<p>Günlük kalori ihtiyacımızdan fazlasını veya daha azını alırsak dengesiz beslenmiş oluruz.</p>
+<h2><a name="4"></a>Enerji Kaynakları</h2>
+<h3>Yenilenebilir Enerji Kaynakları</h3>
+<p>İnsan ömrü ile kıyaslandığında kısa sürede yerine konulabilen enerji kaynaklarına yenilenebilir
+    enerji kaynakları denir. Güneş enerjisi, hidroelektrik enerji, jeotermal enerji, rüzgar
+    enerjisi, biokütle enerjisi (biyoenerji), gel git enerjisi, dalga enerjisi, hidrojen
+    enerjisi.</p>
+<h3>Yenilenemez Enerji Kaynakları</h3>
+<p>Kullandıkça tükenen insan ömrü göz önüne alındığında kendini yenileyemeyen enerji kaynaklarına
+    yenilenemez enerji kaynakları denir. Yenilenemeyen enerji kaynakları fosil yakıtlar ve nükleer
+    enerji kaynaklarıdır.</p>
+</html>

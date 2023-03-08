@@ -1,0 +1,51 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+
+
+
+    </style>
+</head>
+<h2>Tarih Bilimi</h2>
+<p>Tarih bilimi nedir sorusuna verilebilecek en iyi cevaplardan biri; geçmişte meydana gelen
+    olaylarda insanların tutum ve davranışlarının incelendiği ve yorumlandığı bilim dalıdır.
+    İnsanlar tarih bilimi ne olduğuna bir çok farklı cevap verebilirler. Çünkü geçmişten beri tarih
+    biliminin çok farklı tanımları yapılmıştır.
+
+    March Bloch, tarih bilimi nedir sorusuna; tarihi her şeyden önce değişmenin bilimi olarak
+    görüyorum der. E.H. Carr’a ise; tarih bilimi nedir sorusuna; tarih bilimi nedenlerin incelenmesi
+    demektir diye cevap veriyor. Ayrıca, tarih bilimini; geçmişteki insan davranışlarını inceleyen
+    ve onların yorumunu yapan bir bilim dalı olarak da tanımlayabiliriz.</p>
+
+<h3>Tarih Biliminin Gelişimi</h3>
+<p>Tarih anlatımının mitolojiden koparak bir bilim kimliği kazanması, eski Yunan’da Heredotos’la
+    (M.Ö. 485 – M.Ö. 395) başlar. Heredotos’un, daha önceleri yapılan anlatımlardan farklı olarak
+    tanrıların savaşlarından değil de Med savaşlarından, yani yakın zamanın araştırılıp
+    doğrulanabilir olaylarından söz etmeye girişmesi bu başlangıcın ilk adımıdır.
+
+    Heredotos, tanıklardan aktarılan bilgileri, bilimsel bir yorum getirerek sorguluyordu. Tarih
+    yazarlığı aynı dönemde, kendi eserleriyle olmasa bile başka yazarların kitaplarından yaptıkları
+    alıntılarla tanıdığımız Midilli Hellanikos’la birlikte yeni bir aşamaya geçildi. günümüze ulaşan
+    ilk kronoloji tablosunu Hellanikos hazırlamış, ayrıca bir Atina tarihi olan Attkis’le bilimsel
+    çalışmanın yolunu açmıştı.
+
+    Heredotos’un eserlerinde hala izleri görülen mitolojik yaklaşımın son kalıntılarını silen ise
+    Thukydides (M.Ö. 460 – M.Ö. 395) oldu. Tukidides’in anlatımında Peloponnesoslular ile
+    Atinalıların savaşı, kişilere mal edilen hayali konuşmalara rağmen, bir bilimsel inceleme ve
+    yöntem mode3li olarak değerini korumuştur. böylelikle tarih biliminin temeli kesin olarak
+    atılmıştı.
+
+    Bunu bir gerileme dönemi izlemiş, ama Rönesans’ta araştırmacılık yeniden önem kazanarak git gide
+    yetkinleşmiş ve nihayet XVIII. yüzyılda, bugün anladığımız biçimiyle tarih bilimi doğmuştur.
+
+    Tarih bilimi nedir sorusuna cevap bulabilmek için, Tarih bilimlerinin gelişmesine damgasını
+    vuran bilginlerin; özellikle Çin’de Sima Qian (M.Ö. 145 – M.Ö. 86) ile Du Yu’nun (732 – 812),
+    Arap-İslam dünyasında da Taberî (839 – 923), Cüveynî (1226 – 1283) ve İbni Haldun’un (1332 –
+    1406) adlarını anmak gerekir.</p>
+</html>

@@ -1,0 +1,154 @@
+<html>
+<head>
+    <style type="text/css">
+@font-face { font-family: 'Persian'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf'); }
+@font-face { font-family: 'Persian2'; src: url('file:///android_asset/fonts/nunito-sans.regularttf'); }
+@font-face { font-family: 'PersianTitle'; src: url('file:///android_asset/fonts/nunito-sans.regular.ttf');}
+body {font-family: 'Persian';}
+h1 {font-family: 'PersianTitle';}
+h2 {font-family: 'Persian2';}
+    
+
+    </style>
+</head>
+<h2>Elektrostatik</h2>
+<p>Elektrostatik, fizik biliminin durgun elektrik yüklerini ve bu yükler arasındaki etkileşmeyi
+    inceleyen bölümüdür.</p>
+<h3><a name="1"></a>Elektrik Yükü</h3>
+<p><strong>&#8211; </strong>Maddeler atomlardan oluşur. Atom da
+    proton, nötron ve elektronlardan oluşur. Proton ve nötronlar atom çekirdeğinde bulunur.<br/>
+    <strong>&#8211; </strong>Elektronlar ise, çekirdeğin
+    çevresindeki yörüngelerde dolanır.<br/>
+    <strong>&#8211; </strong>Protonun sahip olduğu elektrik yükü
+    pozitif yük (+) olarak adlandırılır.<br/>
+    <strong>&#8211; </strong>Elektronun sahip olduğu elektrik
+    yükü negatif yük (-) olarak adlandırılır.<br/>
+    <strong>&#8211; </strong>Bir proton ile bir elektronun yük
+    miktarları birbirine eşittir.<br/>
+    <strong>&#8211; </strong>Nötron yüksüzdür.<br/>
+    <strong>&#8211; </strong>Elektrik yükü q ile
+    gösterilir.<br/>
+    <strong>&#8211; </strong>SI birim sisteminde elektrik
+    yükünün birimi coulombdur ve C ile gösterilir.<br/>
+    <strong>&#8211; </strong>Bir elektronun yükünün, en küçük
+    yük olduğu kabul edilir ve elemanter yük ya da birim yük denir. Birim yük e ile gösterilir.<br/>
+    <strong>&#8211; </strong>Bütün yüklü cisimlerin yük miktarı
+    birim yük cinsinden -3e, -e, e, 2e şeklinde ifade edilir.</p>
+<p>Bilim insanlarının yaptıkları ölçümler doğadaki en küçük elektrik yükünün elektronun yükü
+    olduğunu göstermiştir. Bu nedenle bir elektronun yüküne temel yük ya da <strong>elementer
+        yük</strong> (ey) denir.</p>
+<p>Bir cismin elektron alması veya vermesi sonucu yük dengesinin bozulması olayına <strong>elektrikle
+    yüklenme</strong> veya <strong>elektriklenme</strong> denir. Elektriklenme olayında
+    toplam yük sayısında bir değişiklik olmaz toplam yük korunur.</p>
+<h2><a name="2"></a>Elektrikle Yüklenme Çeşitleri</h2>
+<p>Elektron kazanan maddelerde negatif yük miktarı, pozitif yük miktarından fazla (negatif yük
+    fazlalığı) olduğundan böyle maddeler negatif yükle yüklenmiş olur. Elektron kaybeden maddelerde
+    negatif yük miktarı, pozitif yük miktarından az (negatif yük eksikliği) olduğundan böyle
+    maddeler pozitif yükle yüklenmiş olur.</p>
+<p>Elektriklenme, sürtünmeyle elektriklenme, dokunma ile elektriklenme, etki ile elektriklenme olmak
+    üzere üç şekilde gerçekleşir.</p>
+<h3>Sürtünme ile Elektriklenme</h3>
+<p>İki maddenin birbirlerine sürtünmesi ile yüklenmelerine <strong>sürtünme ile
+    elektriklenme</strong>
+    denir. Sürtünme ile elektriklenen iki nötr madde eşit miktarda ve zıt cins elektrikle yüklenir.
+</p>
+<p>Bir ebonit (plastik) çubuk yün kumaşa sürtüldüğünde, yünden ebonit çubuğa elektron geçer.
+    Elektron kazanan ebonit çubukta elektron fazlalığı oluşurken, elektron kaybeden yün kumaşta ise
+    elektron eksikliği oluşur. Böylece ebonit çubuk “-” yükle, yün kumaş ise “+” yükle yüklenmiş
+    olur.</p>
+<h3>Dokunma ile Elektriklenme</h3>
+<p>İki iletken maddenin birbirlerine dokunması ile yüklenmelerine dokunma ile elektriklenme
+    denir.</p>
+<p>Dokunma ile elektriklenen iki madde aynı cins elektrik yükü ile yüklenir. Elektrik yüklü iletken
+    bir madde, nötr, iletken bir maddeye dokundurulduktan sonra her iki madde de aynı cins elektrik
+    yükü ile yüklü olur.</p>
+<p>Dokunma ile elektriklenen iki maddenin, birbirlerine dokunmadan önceki yüklerinin toplamı,
+    birbirlerine dokunduktan sonraki yüklerinin toplamına eşittir.</p>
+<h3>Etki ile Elektriklenme</h3>
+<p>Nötr bir iletkenin, yakınındaki yüklü bir cismin etkisi ile elektriklenmesine <strong>etki ile
+    elektriklenme</strong> denir.<br/>
+    Nötr bir iletkenin bir bölgesinde tek cins yüklerin, diğer bölgesinde ise zıt cins yüklerin
+    toplanmasına <strong>elektriksel kutuplanma</strong> denir.
+</p>
+<h3><a name="3"></a>Elektroskop</h3>
+<p>Bir cismin yüklü olup olmadığını, yüklü ise hangi cins yükle yüklü olduğunu anlamaya yarayan
+    alete <strong>elektroskop</strong> denir.</p>
+<p><strong>&#8211; </strong>Elektroskop yüklü iken yaprakları
+    açık nötr iken yaprakları kapalıdır.<br/>
+    <strong>&#8211; </strong>Yüklü bir elektroskobun topuzuna
+    yüklü başka bir cisim dokundurulduğunda yapraklar daha da açılıyorsa elektroskopla cisim
+    aynı<br/>
+    cins elektrik yüküyle yüklüdür.<br/>
+    <strong>&#8211; </strong>Cisim topuza dokundurulduğunda eğer
+    elektroskobun yaprakları bir miktar kapanıyorsa cisim ve elektroskop zıt elektrik yüküyle
+    yüklüdür.<br/>
+    <strong>&#8211; </strong>Yapraklar tamamen kapanıyorsa cisim
+    ve elektroskobun yük miktarlarının eşit fakat zıt elektrik yüküyle yüklüdür.</p>
+<p>Günümüzde elektrikle yüklenme olayından yararlanıldığı alanlara örnek olarak arabaların
+    boyanması, baca filtreleri, hava filtreleri, fotokopi makineleri, lazer yazıcılar, mürekkep
+    baskısı verilebilir.</p>
+<h3><a name="4"></a>İletken ve Yalıtkanlarda Yük Dağılımı</h3>
+<p>Maddelerin iletkenlikleri atomun yapısıyla ilgili bir özelliktir. Bazı maddelerin atomlarında
+    özellikle de dış yörüngedeki atomlar atoma zayıf bağ ile bağlıdır. Böyle atomlara sahip
+    maddeler, dışarıdan uygulanan elektriksel bir etki ile karşılaştığında dış yörüngedeki zayıf
+    bağlı elektronlar kolayca sökülür ve maddenin içinde hareket edebilir bu sayede madde elektriği
+    iletmiş olur. Böyle maddelere <strong>iletken</strong><br/>
+    <strong>maddeler</strong> denir.</p>
+<p>Yalıtkan maddelerde atomların sahip olduğu elektronlar atoma sıkı bağlarla bağlıdır, dışarıdan
+    gelen elektriksel bir etki elektronları kolayca hareket ettiremez böyle maddelere elektriği
+    iletmeyen yani <strong>yalıtkan madde</strong> denir.</p>
+<p><strong>&#8211; </strong>İletken atomlarında yük hareketi,
+    iletken içinde kolaylıkla hareket edebilen ve serbest elektron adı verilen elektronlarla
+    sağlanır.<br/>
+    <strong>&#8211; </strong>Yalıtkanlarda serbest elektronlar
+    yok denecek kadar azdır.<br/>
+    <strong>&#8211; </strong>YükIü cisimlerin birbirlerine
+    uyguladığı kuvvete Coulomb kuvveti denir.<br/>
+    <strong>&#8211; </strong>Bir iletken elektrik yükü
+    kazandığında bu yük, serbest elektronlar tarafından iletkenin tüm dış yüzeyine dağılır.<br/>
+    <strong>&#8211; </strong>Bir yalıtkan elektriklendiğinde,
+    serbest elektronu olmadığından, bu yük yalıtkanın başka bölgesine yayılamaz.<br/>
+    <strong>&#8211; </strong>İçi boş, yüklü bir iletkenin
+    yükleri dış yüzeyine dağılır, iç yüzeyi ise nötr olur.<br/>
+    <strong>– </strong>Yüklü bir iletkenin elektrik
+    yükleri, aynı cins olduğundan birbirini iterek, mümkün olan en uzağa giderler. Bu nedenle sivri
+    uçlarda yük birikmesi daha fazla olur.<br/>
+    <strong>– </strong>Negatif yüklü bir kürecik nötr,
+    iletken, içi boş bir kürenin içinde tutulduğunda, dıştaki küre, şekildeki gibi kutuplanır. Yüklü
+    kürecik büyük kürenin iç yüzeyine dokundurulduğunda ise, tüm yükünü kaybederek kendisi nötr hale
+    geçer. Kürecik gibi büyük kürenin de iç yüzeyi nötr olur, kazandığı yükler dış yüzeyine dağılır.
+</p>
+<p>İletken bir cismin üzerine gelen elektrik yükleri birbirlerini iterek iletkenin geometrik şekline
+    göre dağılır ve sonrasında yüklerin hareketi durur. Elektrik yüklerinin hareketsiz olarak
+    durmasına “<strong>elektrostatik denge</strong>” denir.
+    Elektrostatik dengeye ulaşmış bir iletken cismin içinde elektrik alan sıfır olur. Kapalı bir
+    yüzeye sahip olan bir iletken cisim, elektrik alan içerisine yerleştirildiğinde elektronlar
+    iletkenin içindeki elektrik alan sıfırlanıncaya kadar hareket eder. İletkenin içindeki elektrik
+    alan sıfırlanınca elektronları hareket ettiren neden ortadan kalkmış olacağı için hareketleri
+    sona erer. İçinde elektrik alanın sıfır olduğu bu kapalı iletken yüzeye “<span
+            style="color: #000080"><strong>Faraday Kafesi</strong>” adı verilir. Faraday
+    kafesi yanıcı ve parlayıcı maddelerin depolandığı binalarda, radyo frekens yayan cihazlarda,
+    telsizle haberleşme yapılan binalarda, elektronik kartlarda bulunan radyo frekans modüllerde
+        kullanılır.</span></p>
+<h3><a name="5"></a>Elektrik Alan</h3>
+<p>Elektrik yükleri çevresinde bir etki alanı meydana getirir. Yük bu etki alanı içine giren yükleri
+    iter veya çeker. Elektrik yükünün etkisini gösterdiği bu alana <strong>elektrik
+        alanı </span></strong>denir. Elektrik alan vektörü
+    uzayın herhangi bir noktasındaki elektriksel alan vektörü , o noktaya konulan +1 C’luk deneme
+    yüküne etkiyen elektriksel kuvvet vektörüdür. Bir elektrik yükünün kendisinden d kadar uzakta
+    oluşturduğu elektriksel alanın büyüklüğü;</p>
+<p>Matematiksel olarak <span style="font-size: 14pt"><strong>E=k. q/d<sup>2</sup></strong>
+    bağıntısı ile hesaplanır.</span></p>
+<p>E elektrik alanın birimi N/C’dur. Elektriksel kuvvet ile elektrik alan arasında F=E<sub>q</sub>
+    bağıntısı vardır. Elektrik alan çizgilerinin özellikleri;</p>
+<p><strong>– </strong>Elektrik alan çizgileri, pozitif
+    yüklerden başlayıp negatif yüklerde son bulacak şekildedir.<br/>
+    <strong>– </strong> Eğer bir yük tek başına ise
+    elektrik alan çizgisinin bir ucu sonsuz olur.<br/>
+    <strong>– </strong>Herhangi bir noktadaki elektrik
+    alan vektörü, o noktadan geçen elektriksel alan çizgisine teğettir.<br/>
+    <strong>– </strong>Elektrik alan çizgileri elektriksel
+    alanın şiddetli olduğu yerlerde sık, zayıf olduğu yerlerde seyrektir.<br/>
+    <strong>– </strong>Elektrik alan çizgileri birbirini
+    asla kesmez.</p>
+</html>
